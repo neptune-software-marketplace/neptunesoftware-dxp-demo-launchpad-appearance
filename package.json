@@ -1,7 +1,7 @@
 {
-  "name": "neptunesoftware-dxp-demo-launchpad",
-  "version": "1.0.0",
-  "description": "Neptune Demo Launchpad",
+  "name": "neptunesoftware-dxp-demo-launchpad-appearance",
+  "version": "1.0.1",
+  "description": "Neptune Software DXP Demo Launchpad Appearance",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
