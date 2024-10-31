@@ -1,0 +1,2 @@
+pageCustomStyleVariables.toggleStyleClass("nepDxpDemoConnected")
+pageCustomStyleVariables.toggleStyleClass("nepDxpDemoDisconnected");;

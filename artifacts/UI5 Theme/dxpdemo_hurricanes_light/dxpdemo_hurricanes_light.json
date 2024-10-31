@@ -1,0 +1,11 @@
+{
+	"id": "fa9a57af-3adf-445c-9f83-6c9427c93c57",
+	"createdAt": "2024-10-13T08:29:26.315Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"theme": "dxpdemo_hurricanes_light",
+	"ver": "24.10.13.0830",
+	"ui5ver": "1.120.21",
+	"extends": "sap_horizon",
+	"description": "DXP Demo Hurricanes Light 1.120",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+}

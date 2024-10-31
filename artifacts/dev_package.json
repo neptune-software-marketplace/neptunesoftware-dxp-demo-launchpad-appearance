@@ -1,0 +1,528 @@
+{
+	"id": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"createdAt": "2024-09-21T13:03:10.111Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-demo-launchpad-appearance.git"
+	},
+	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
+	"description": "Neptune Software DXP Demo Launchpad Appearance",
+	"ver": "24.10.31.2231",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": true,
+	"roles": [
+		{
+			"id": "06e05891-5161-443a-b047-2d2d6ad74327",
+			"createdAt": "2024-10-31T11:02:12.768Z",
+			"updatedAt": "2024-10-31T11:04:00.460Z",
+			"createdBy": "svein.gunnar.larsen@neptune-software.com",
+			"changedBy": "svein.gunnar.larsen@neptune-software.com",
+			"name": "dxp-launchpad-edit",
+			"description": null,
+			"ver": "24.10.31.1104",
+			"isGlobalAdmin": false,
+			"package": null,
+			"verb": "EDIT"
+		},
+		{
+			"id": "c8f1a95d-f050-4d84-b9eb-5f94d8b0349e",
+			"createdAt": "2023-01-31T11:20:33.424Z",
+			"updatedAt": "2024-08-30T14:41:23.902Z",
+			"createdBy": "tsb",
+			"changedBy": "system",
+			"name": "Developers",
+			"description": null,
+			"ver": "24.07.30.2245",
+			"isGlobalAdmin": false,
+			"package": null,
+			"verb": "READ"
+		}
+	],
+	"accessLevel": "EDIT",
+	"apps": [
+		{
+			"id": "6efffd5d-b437-4959-a424-a6701dcd997d",
+			"application": "dxp_demo_custom_style_variables",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "691f8ae0-221e-449e-a3af-d711e1548c1b",
+			"application": "dxp_demo_nhl_skater_stats",
+			"title": "NHL Goals",
+			"description": "NHL Skater Stats Leaders"
+		},
+		{
+			"id": "4551a61d-6b3f-4d65-9aa7-0b726cb31359",
+			"application": "dxp_demo_iconexplorer",
+			"title": "Neptune Icon Explorer",
+			"description": "Neptune Icon Explorer"
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "b7e03218-bec2-40c8-a58a-52098978235d",
+			"name": "dxp-demo-global-style",
+			"description": "Neptune DXP Demo Global Style"
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "f37e689f-46ec-4298-9a7d-b841348f8868",
+			"description": null,
+			"name": "dxp-demo-icon-placement-below-left"
+		},
+		{
+			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
+			"description": null,
+			"name": "dxp-demo-image-spacewalk"
+		},
+		{
+			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
+			"description": null,
+			"name": "dxp-demo-team-edmonton-oilers"
+		},
+		{
+			"id": "ee78cb9e-9a54-4929-b73e-555e6a4b1c55",
+			"description": null,
+			"name": "dxp-demo-image-filter-invert"
+		},
+		{
+			"id": "e6339091-2f9f-4af5-a250-ea9b25b0f008",
+			"description": null,
+			"name": "dxp-demo-icon-placement-below-right"
+		},
+		{
+			"id": "e4cdaefc-c4d6-44ab-983d-f0e526113acf",
+			"description": null,
+			"name": "dxp-demo-image-filter-huerotate"
+		},
+		{
+			"id": "de1ec056-62ce-4985-9e08-3bec46f2ba8c",
+			"description": null,
+			"name": "dxp-demo-image-filter-opacity-top"
+		},
+		{
+			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
+			"description": null,
+			"name": "dxp-demo-image-filter-mask-right"
+		},
+		{
+			"id": "d24c4bf3-98c4-47f7-8b35-890751c18e03",
+			"description": null,
+			"name": "dxp-demo-icon-placement-above-right"
+		},
+		{
+			"id": "c71cd197-fd36-42a8-857d-ce18adcc5341",
+			"description": null,
+			"name": "dxp-demo-icon-placement-inline-right"
+		},
+		{
+			"id": "c4ad18f3-fd79-4c7d-b6fd-baafa481ecc0",
+			"description": null,
+			"name": "dxp-demo-icon-placement-above-left"
+		},
+		{
+			"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
+			"description": null,
+			"name": "dxp-demo-news-utah-fans-fired-up"
+		},
+		{
+			"id": "b4e171e4-e8e4-4b72-92fe-18906b4eb8bd",
+			"description": null,
+			"name": "dxp-demo-image-filter-grayscale"
+		},
+		{
+			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
+			"description": null,
+			"name": "dxp-demo-team-pittsburgh-penguins"
+		},
+		{
+			"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
+			"description": null,
+			"name": "dxp-demo-team-tampa-bay-lightning"
+		},
+		{
+			"id": "9b570512-0afd-4eb0-989e-865d6be75c23",
+			"description": null,
+			"name": "dxp-demo-app-style-variables"
+		},
+		{
+			"id": "98f8f903-732b-42d9-ada9-f2d855fa3840",
+			"description": null,
+			"name": "dxp-demo-image-filter-brightness-background"
+		},
+		{
+			"id": "8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
+			"description": null,
+			"name": "dxp-demo-team-vegas-golden-knights"
+		},
+		{
+			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
+			"description": null,
+			"name": "dxp-demo-news-montoya-stars"
+		},
+		{
+			"id": "84cbd15f-e771-48e4-838c-be029385e05f",
+			"description": null,
+			"name": "dxp-demo-news-st-louis-blues"
+		},
+		{
+			"id": "786dc091-9cf0-47f5-a119-ec8a4d8b8b78",
+			"description": null,
+			"name": "dxp-demo-icon-placement-below-center"
+		},
+		{
+			"id": "76aaed69-7299-46ca-837e-8c5772964fa2",
+			"description": null,
+			"name": "dxp-demo-image-filter-blur"
+		},
+		{
+			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
+			"description": null,
+			"name": "dxp-demo-team-boston-bruins"
+		},
+		{
+			"id": "61d2c2ec-0b82-4e89-8ea6-7d4259f382d0",
+			"description": null,
+			"name": "dxp-demo-icon-placement-above-center"
+		},
+		{
+			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
+			"description": null,
+			"name": "dxp-demo-image-filter-mask-left"
+		},
+		{
+			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
+			"description": null,
+			"name": "dxp-demo-news-nashville"
+		},
+		{
+			"id": "57acc247-1be2-4ec4-a668-c20138e63427",
+			"description": null,
+			"name": "dxp-demo-news-preseason-roundup"
+		},
+		{
+			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
+			"description": null,
+			"name": "dxp-demo-image-crew"
+		},
+		{
+			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
+			"description": null,
+			"name": "dxp-demo-team-vancouver-canucks"
+		},
+		{
+			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
+			"description": null,
+			"name": "dxp-demo-team-philadelphia-flyers"
+		},
+		{
+			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
+			"description": null,
+			"name": "dxp-demo-news-faceoff"
+		},
+		{
+			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
+			"description": null,
+			"name": "dxp-demo-image-filter-brightness-top"
+		},
+		{
+			"id": "407e067c-b989-41ae-838a-7b54d576a289",
+			"description": null,
+			"name": "dxp-demo-style-class"
+		},
+		{
+			"id": "3dd5a12a-1f06-447f-9ff9-b936c1dbbf58",
+			"description": null,
+			"name": "dxp-demo-icon-placement-inline-left"
+		},
+		{
+			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
+			"description": null,
+			"name": "dxp-demo-image-suit"
+		},
+		{
+			"id": "3af17eb9-bb8b-42b9-97b3-a38c5fa1703e",
+			"description": null,
+			"name": "dxp-demo-news-camp-buzz"
+		},
+		{
+			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
+			"description": null,
+			"name": "dxp-demo-image-filter-mask-bottom"
+		},
+		{
+			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
+			"description": null,
+			"name": "dxp-demo-news-story-break-out-for-canadiens"
+		},
+		{
+			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
+			"description": null,
+			"name": "dxp-demo-team-toronto-maple-leafs"
+		},
+		{
+			"id": "2ecc027b-8814-4141-ad35-9cfe597aed4a",
+			"description": null,
+			"name": "dxp-demo-news-story-hall-ready-to-contribute"
+		},
+		{
+			"id": "22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
+			"description": null,
+			"name": "dxp-demo-news-story-goalie-split-for-wild"
+		},
+		{
+			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
+			"description": null,
+			"name": "dxp-demo-image-filter-mask-top"
+		},
+		{
+			"id": "212611b5-141f-460a-9637-a99651e5582a",
+			"description": null,
+			"name": "dxp-demo-image-filter-opacity-background"
+		},
+		{
+			"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
+			"description": null,
+			"name": "dxp-demo-image-interior"
+		},
+		{
+			"id": "0bf25985-5375-4df4-96e1-1c555d9ed2ac",
+			"description": null,
+			"name": "dxp-demo-news-story-eyeing-deep-run"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3",
+			"NAME": "dxp-demo-white-text"
+		},
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"NAME": "dxp-demo-hurricanes-light"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"NAME": "dxp-demo-huricanes-dark"
+		}
+	],
+	"category": [
+		{
+			"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
+			"description": null,
+			"name": "dxp-demo-menu-header-image"
+		},
+		{
+			"id": "f741af6d-b28b-4ae4-80b3-5af697283c2d",
+			"description": "neptunesoftware-dxp-launchpad-demo",
+			"name": "dxp-demo-tile-Image-inline-no-header"
+		},
+		{
+			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
+			"description": null,
+			"name": "dxp-demo-menu-tile-font-icon-title"
+		},
+		{
+			"id": "ddb17570-dafd-4dea-8933-d0c34f1b9e37",
+			"description": null,
+			"name": "dxp-demo-nhl-news-stories-inline-images"
+		},
+		{
+			"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
+			"description": null,
+			"name": "dxp-demo-image-filter"
+		},
+		{
+			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
+			"description": null,
+			"name": "dxp-demo-teams-skinny-tiny"
+		},
+		{
+			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
+			"description": null,
+			"name": "dxp-demo-menu-news"
+		},
+		{
+			"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
+			"description": null,
+			"name": "dxp-demo-news-fantacy-teams"
+		},
+		{
+			"id": "bd911597-4abb-49df-891c-555cb451a70a",
+			"description": null,
+			"name": "dxp-demo-tile-image-background-mask"
+		},
+		{
+			"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
+			"description": null,
+			"name": "dxp-demo-tile-image-background-brightness"
+		},
+		{
+			"id": "afaf312d-be73-4bd6-9a3b-f5b026dd4e44",
+			"description": null,
+			"name": "dxp-demo-tile-image-background"
+		},
+		{
+			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
+			"description": null,
+			"name": "dxp-demo-menu-tile-image-icon"
+		},
+		{
+			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
+			"description": null,
+			"name": "dxp-demo-teams-narrow-short"
+		},
+		{
+			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
+			"description": null,
+			"name": "dxp-demo-menu-tile-image"
+		},
+		{
+			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
+			"description": null,
+			"name": "dxp-demo-teams-small-small"
+		},
+		{
+			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",
+			"description": null,
+			"name": "dxp-demo-menu-favorites"
+		},
+		{
+			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
+			"description": null,
+			"name": "dxp-demo-news-stories"
+		},
+		{
+			"id": "525c070f-8e6c-436b-85ac-0a1e88ce95a7",
+			"description": null,
+			"name": "dxp-demo-header-image-logo"
+		},
+		{
+			"id": "4f7d6c42-acee-40a0-94a3-0316bd88f125",
+			"description": null,
+			"name": "dxp-demo-tile-layout"
+		},
+		{
+			"id": "43d6e570-3b5b-49cd-9c6c-137a82e14117",
+			"description": null,
+			"name": "dxp-demo-tile-image-inline"
+		},
+		{
+			"id": "41b472ad-657a-4ea5-95ae-3f693f555f23",
+			"description": null,
+			"name": "dxp-demo-menu-image-filter"
+		},
+		{
+			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
+			"description": null,
+			"name": "dxp-demo-header-image-purple-orange"
+		},
+		{
+			"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
+			"description": null,
+			"name": "dxp-demo-tile-title"
+		},
+		{
+			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
+			"description": null,
+			"name": "dxp-demo-header-image-hurricanes-grid"
+		},
+		{
+			"id": "10006a73-e631-4910-846b-110bef082032",
+			"description": null,
+			"name": "dxp-demo-header-image-red-wave"
+		},
+		{
+			"id": "084633a5-96d1-4e28-bc9f-f85c15021930",
+			"description": null,
+			"name": "dxp-demo-icon-placement"
+		},
+		{
+			"id": "060018d3-7efe-4682-8ce4-30f4da0e7093",
+			"description": null,
+			"name": "dxp-demo-tile-image-top"
+		},
+		{
+			"id": "031bbf06-fe74-44f9-a89c-92caac0614a5",
+			"description": null,
+			"name": "dxp-demo-tile-buttons"
+		}
+	],
+	"tilegroup_layout": [
+		{
+			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
+			"NAME": "dxp-demo-hurricanes-light"
+		},
+		{
+			"id": "731eba12-cf37-41f8-943e-ee198b213b66",
+			"NAME": "dxp-demo-hurricanes-dark"
+		},
+		{
+			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
+			"NAME": "dxp-demo-tile-group-image"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "71fa3d4e-280c-4752-9186-b18e13720e25",
+			"name": "dxp-demo-appearance",
+			"description": "Neptune DXP Appearance Demo"
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "6b3256f9-0ed7-4c45-aa34-32f31d0fe844",
+			"NAME": "dxp-demo-hurricanes-light",
+			"DESCR": null
+		},
+		{
+			"id": "2a8b35fb-7d2a-430c-8215-0977a45ac92a",
+			"NAME": "dxp-demo-hurricanes-dark",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [
+		{
+			"id": "d057f8c0-a855-42eb-8396-5e8110712a72",
+			"application": "dxp_demo_nhl_skater_stats"
+		}
+	],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [
+		{
+			"id": "fa9a57af-3adf-445c-9f83-6c9427c93c57",
+			"theme": "dxpdemo_hurricanes_light",
+			"description": "DXP Demo Hurricanes Light 1.120"
+		},
+		{
+			"id": "03e5197a-39b5-4ea6-bafb-98173acb8800",
+			"theme": "dxpdemo_hurricanes_dark",
+			"description": "DXP Demo Hurricanes Dark 1.120"
+		}
+	]
+}

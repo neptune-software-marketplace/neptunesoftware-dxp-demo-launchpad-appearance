@@ -1,0 +1,137 @@
+{
+	"id": "71fa3d4e-280c-4752-9186-b18e13720e25",
+	"createdAt": "2024-09-14T22:43:33.170Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [
+		"c1aebb86-6128-4427-b8e7-e53c7cc57458",
+		"add31352-fcc1-43e1-b9d6-2409344c7496",
+		"82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
+		"fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
+		"41b472ad-657a-4ea5-95ae-3f693f555f23",
+		"e538ea34-7f6a-450c-98a1-1f9318df2d12",
+		"6ee4ebe8-a57c-48c0-b805-da0037aa3307"
+	],
+	"layout": [],
+	"config": {
+		"showAccessibilityFocusIndicator": true,
+		"enhancement": "",
+		"disableCustomizations": false,
+		"enableTopMenu": true,
+		"verticalMenu": false,
+		"activeAppsSide": false,
+		"activeAppsTop": true,
+		"showAppTitle": true,
+		"pincode": true,
+		"pincodeTries": 5,
+		"pincodeLength": 4,
+		"pincodeKeyIterations": 40000
+	},
+	"enhancement": [
+		{
+			"title": "Set User Info",
+			"name": "setUserInfo",
+			"description": "Triggers when we set username in the launchpad",
+			"param": "",
+			"sort": 32,
+			"group": "Common",
+			"content": "",
+			"active": false,
+			"disabled": false
+		}
+	],
+	"name": "dxp-demo-appearance",
+	"title": "DXPAppearance",
+	"description": "Neptune DXP Appearance Demo",
+	"startApp": null,
+	"startWebApp": null,
+	"customLogo": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/nhl/teams/nhl.png",
+	"launchpadApp": "",
+	"hideSidemenu": false,
+	"ui5Version": "1.120",
+	"ui5Url": null,
+	"ui5Theme": "sap_fiori_3",
+	"header": "",
+	"customTheme": "b7e03218-bec2-40c8-a58a-52098978235d",
+	"isExternal": false,
+	"emailPattern": null,
+	"loginApp": "",
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "24.10.31.2127",
+	"pwa_enable": false,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_desktopScreenshotWide": null,
+	"pwa_desktopScreenshotNarrow": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": "rgb(255,255,255)",
+	"layout_light": "6b3256f9-0ed7-4c45-aa34-32f31d0fe844",
+	"layout_dark": "2a8b35fb-7d2a-430c-8215-0977a45ac92a",
+	"layout_preference": 0,
+	"pwa_backgroundColor": "rgb(255,255,255)",
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"cat": [
+		{
+			"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
+			"name": "dxp-demo-menu-header-image",
+			"title": "",
+			"ver": "24.10.14.2341"
+		},
+		{
+			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
+			"name": "dxp-demo-menu-tile-font-icon-title",
+			"title": "",
+			"ver": "24.10.13.2204"
+		},
+		{
+			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
+			"name": "dxp-demo-menu-news",
+			"title": "",
+			"ver": "24.10.14.0723"
+		},
+		{
+			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
+			"name": "dxp-demo-menu-tile-image-icon",
+			"title": "",
+			"ver": "24.10.13.2203"
+		},
+		{
+			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
+			"name": "dxp-demo-menu-tile-image",
+			"title": "",
+			"ver": "24.10.14.2216"
+		},
+		{
+			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",
+			"name": "dxp-demo-menu-favorites",
+			"title": "",
+			"ver": "24.10.31.1019"
+		},
+		{
+			"id": "41b472ad-657a-4ea5-95ae-3f693f555f23",
+			"name": "dxp-demo-menu-image-filter",
+			"title": "",
+			"ver": "24.10.13.2200"
+		}
+	]
+}

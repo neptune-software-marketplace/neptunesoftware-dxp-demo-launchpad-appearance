@@ -1,0 +1,5 @@
+if (typeof teamAbbrev === "undefined" || teamAbbrev === null || teamAbbrev === "") { return; }  
+if (typeof sweaterNumber === "undefined" || sweaterNumber === null || sweaterNumber === "") { return; }  
+if (typeof position === "undefined" || position === null || position === "") { return; }  
+var formattedText = teamAbbrev + " · #" + sweaterNumber + " · " + position; 
+return formattedText;

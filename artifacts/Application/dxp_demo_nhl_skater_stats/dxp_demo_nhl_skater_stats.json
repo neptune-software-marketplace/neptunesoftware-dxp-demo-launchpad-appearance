@@ -1,0 +1,700 @@
+{
+	"id": "691f8ae0-221e-449e-a3af-d711e1548c1b",
+	"createdAt": "2024-10-12T23:27:26.260Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "4a3ec3ad-f156-4fd6-ccec-e5c78bed7f42",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "82f9c544-1b59-42dc-aa14-0646404ba433",
+					"fieldName": "Page",
+					"fieldParent": "4a3ec3ad-f156-4fd6-ccec-e5c78bed7f42",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "NHL Skater Stats Leaders",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "titleAlignment",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "9dae6406-7a68-4cca-fafc-61fe1598b45d",
+							"fieldName": "containerPage",
+							"fieldParent": "82f9c544-1b59-42dc-aa14-0646404ba433",
+							"fieldType": "sap.m.FlexBox",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "height",
+									"grouping": "Properties",
+									"value": "calc(100% - 2rem)",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "width",
+									"grouping": "Properties",
+									"value": "calc(100% - 2rem)",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "styleClassMargin",
+									"grouping": "Properties",
+									"value": "sapUiSmallMargin",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "f1ba161f-2928-41cc-c1fe-52d8a58a815c",
+									"fieldName": "GoalGrid",
+									"fieldParent": "9dae6406-7a68-4cca-fafc-61fe1598b45d",
+									"fieldType": "sap.ui.layout.cssgrid.CSSGrid",
+									"script": "",
+									"customComponent": false,
+									"bindingValue": "Generic Array",
+									"bindingType": "h",
+									"bindingSource": "P9",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "gridGap",
+											"grouping": "Properties",
+											"value": "1rem",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "gridAutoFlow",
+											"grouping": "Properties",
+											"value": "Column",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "dfaf8faa-5af4-4583-8a6e-6cdce9e83c76",
+											"fieldName": "gridCard",
+											"fieldParent": "f1ba161f-2928-41cc-c1fe-52d8a58a815c",
+											"fieldType": "sap.f.Card",
+											"script": "",
+											"customComponent": false,
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "height",
+													"grouping": "Properties",
+													"value": "100%",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "styleClassPadding",
+													"grouping": "Properties",
+													"value": "sapUiContentPadding",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": [
+												{
+													"fieldNo": "45ecce35-0a9f-4f96-c90f-511ab58cf6ae",
+													"fieldName": "gridCardLayoutData",
+													"fieldParent": "dfaf8faa-5af4-4583-8a6e-6cdce9e83c76",
+													"fieldType": "sap.ui.layout.cssgrid.ResponsiveColumnItemLayoutData",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "columns",
+															"grouping": "Properties",
+															"value": "4",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												},
+												{
+													"fieldNo": "d6db2666-4ec5-4b57-d2df-e284a8c85b17",
+													"fieldName": "gridBox",
+													"fieldParent": "dfaf8faa-5af4-4583-8a6e-6cdce9e83c76",
+													"fieldType": "sap.m.VBox",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "width",
+															"grouping": "Properties",
+															"value": "calc(100% - 2rem)",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "renderType",
+															"grouping": "Properties",
+															"value": "Bare",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "justifyContent",
+															"grouping": "Properties",
+															"value": "SpaceBetween",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "styleClassMargin",
+															"grouping": "Properties",
+															"value": "sapUiSmallMargin",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": [
+														{
+															"fieldNo": "2832af11-6817-439a-9534-8999d8b6b403",
+															"fieldName": "containerPlayer",
+															"fieldParent": "d6db2666-4ec5-4b57-d2df-e284a8c85b17",
+															"fieldType": "sap.m.HBox",
+															"script": "",
+															"customComponent": false,
+															"request": [],
+															"response": [],
+															"attributes": [
+																{
+																	"attribute": "width",
+																	"grouping": "Properties",
+																	"value": "100%",
+																	"script": "",
+																	"translation": []
+																},
+																{
+																	"attribute": "renderType",
+																	"grouping": "Properties",
+																	"value": "Bare",
+																	"script": "",
+																	"translation": []
+																}
+															],
+															"data": [
+																{
+																	"fieldNo": "8d0a3fed-4f16-46d5-c95c-e8840efddbfa",
+																	"fieldName": "layoutProfile",
+																	"fieldParent": "2832af11-6817-439a-9534-8999d8b6b403",
+																	"fieldType": "sap.m.VBox",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [
+																		{
+																			"attribute": "width",
+																			"grouping": "Properties",
+																			"value": "calc(50% - .5rem)",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "renderType",
+																			"grouping": "Properties",
+																			"value": "Bare",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "alignItems",
+																			"grouping": "Properties",
+																			"value": "Center",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "styleClassMargin",
+																			"grouping": "Properties",
+																			"value": "sapUiTinyMarginEnd",
+																			"script": "",
+																			"translation": []
+																		}
+																	],
+																	"data": [
+																		{
+																			"fieldNo": "8fda9a55-9b4d-4797-c340-a9466c881f48",
+																			"fieldName": "avatarCard",
+																			"fieldParent": "8d0a3fed-4f16-46d5-c95c-e8840efddbfa",
+																			"fieldType": "sap.f.Avatar",
+																			"script": "",
+																			"customComponent": false,
+																			"request": [],
+																			"response": [],
+																			"attributes": [
+																				{
+																					"attribute": "src",
+																					"grouping": "Properties",
+																					"value": "{headshot}",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "displaySize",
+																					"grouping": "Properties",
+																					"value": "XL",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "showBorder",
+																					"grouping": "Properties",
+																					"value": "true",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "styleClassMargin",
+																					"grouping": "Properties",
+																					"value": "sapUiSmallMarginTop",
+																					"script": "",
+																					"translation": []
+																				}
+																			],
+																			"data": []
+																		},
+																		{
+																			"fieldNo": "1069be80-b446-4c17-f867-6e31d69f0afd",
+																			"fieldName": "titleCard",
+																			"fieldParent": "8d0a3fed-4f16-46d5-c95c-e8840efddbfa",
+																			"fieldType": "sap.m.Title",
+																			"script": "",
+																			"customComponent": false,
+																			"request": [],
+																			"response": [],
+																			"attributes": [
+																				{
+																					"attribute": "text",
+																					"grouping": "Properties",
+																					"value": "{firstName},{lastName}",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "textAlign",
+																					"grouping": "Properties",
+																					"value": "Center",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "wrapping",
+																					"grouping": "Properties",
+																					"value": "true",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "styleClassMargin",
+																					"grouping": "Properties",
+																					"value": "sapUiTinyMarginTop",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "text",
+																					"grouping": "Formatter",
+																					"value": "Anonymous Function",
+																					"script": "file://event/sap.m.Title/titleCard/text.script",
+																					"translation": []
+																				}
+																			],
+																			"data": []
+																		}
+																	]
+																},
+																{
+																	"fieldNo": "58e59883-943d-4c8b-846c-1d8fadc9448d",
+																	"fieldName": "layoutTeam",
+																	"fieldParent": "2832af11-6817-439a-9534-8999d8b6b403",
+																	"fieldType": "sap.m.VBox",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [
+																		{
+																			"attribute": "width",
+																			"grouping": "Properties",
+																			"value": "calc(50% - .5rem)",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "renderType",
+																			"grouping": "Properties",
+																			"value": "Bare",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "alignItems",
+																			"grouping": "Properties",
+																			"value": "Center",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "styleClassMargin",
+																			"grouping": "Properties",
+																			"value": "sapUiTinyMarginEnd",
+																			"script": "",
+																			"translation": []
+																		}
+																	],
+																	"data": [
+																		{
+																			"fieldNo": "ded23f23-61fd-4ae5-b0eb-c9966fcbabdd",
+																			"fieldName": "avatarTeam",
+																			"fieldParent": "58e59883-943d-4c8b-846c-1d8fadc9448d",
+																			"fieldType": "sap.f.Avatar",
+																			"script": "",
+																			"customComponent": false,
+																			"request": [],
+																			"response": [],
+																			"attributes": [
+																				{
+																					"attribute": "src",
+																					"grouping": "Properties",
+																					"value": "{teamLogo}",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "displayShape",
+																					"grouping": "Properties",
+																					"value": "Square",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "displaySize",
+																					"grouping": "Properties",
+																					"value": "XL",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "imageFitType",
+																					"grouping": "Properties",
+																					"value": "Contain",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "showBorder",
+																					"grouping": "Properties",
+																					"value": "true",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "styleClass",
+																					"grouping": "Properties",
+																					"value": "nhlTeamAvatar",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "styleClassMargin",
+																					"grouping": "Properties",
+																					"value": "sapUiSmallMarginTop",
+																					"script": "",
+																					"translation": []
+																				}
+																			],
+																			"data": []
+																		},
+																		{
+																			"fieldNo": "4278ecb5-bcb6-49ff-e079-7b1a0353ad7f",
+																			"fieldName": "titleTeam",
+																			"fieldParent": "58e59883-943d-4c8b-846c-1d8fadc9448d",
+																			"fieldType": "sap.m.Title",
+																			"script": "",
+																			"customComponent": false,
+																			"request": [],
+																			"response": [],
+																			"attributes": [
+																				{
+																					"attribute": "text",
+																					"grouping": "Properties",
+																					"value": "{teamAbbrev},{sweaterNumber},{position}",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "textAlign",
+																					"grouping": "Properties",
+																					"value": "Center",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "wrapping",
+																					"grouping": "Properties",
+																					"value": "true",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "styleClassMargin",
+																					"grouping": "Properties",
+																					"value": "sapUiTinyMarginTop",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "text",
+																					"grouping": "Formatter",
+																					"value": "Anonymous Function",
+																					"script": "file://event/sap.m.Title/titleTeam/text.script",
+																					"translation": []
+																				}
+																			],
+																			"data": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"fieldNo": "c55c0910-fdd6-48d6-ea6b-2ed280d8b7e1",
+															"fieldName": "containerGoals",
+															"fieldParent": "d6db2666-4ec5-4b57-d2df-e284a8c85b17",
+															"fieldType": "sap.m.VBox",
+															"script": "",
+															"customComponent": false,
+															"request": [],
+															"response": [],
+															"attributes": [
+																{
+																	"attribute": "width",
+																	"grouping": "Properties",
+																	"value": "100%",
+																	"script": "",
+																	"translation": []
+																},
+																{
+																	"attribute": "renderType",
+																	"grouping": "Properties",
+																	"value": "Bare",
+																	"script": "",
+																	"translation": []
+																},
+																{
+																	"attribute": "alignItems",
+																	"grouping": "Properties",
+																	"value": "Center",
+																	"script": "",
+																	"translation": []
+																}
+															],
+															"data": [
+																{
+																	"fieldNo": "696fd1ec-be3e-4d12-835c-aa4a165fb40e",
+																	"fieldName": "txtGoals",
+																	"fieldParent": "c55c0910-fdd6-48d6-ea6b-2ed280d8b7e1",
+																	"fieldType": "sap.m.Text",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [
+																		{
+																			"attribute": "text",
+																			"grouping": "Properties",
+																			"value": "GOALS",
+																			"script": "",
+																			"translation": []
+																		}
+																	],
+																	"data": []
+																},
+																{
+																	"fieldNo": "59b2639c-b214-4c92-cfca-f6dd849661d8",
+																	"fieldName": "titleGoals",
+																	"fieldParent": "c55c0910-fdd6-48d6-ea6b-2ed280d8b7e1",
+																	"fieldType": "sap.m.Title",
+																	"script": "",
+																	"customComponent": false,
+																	"request": [],
+																	"response": [],
+																	"attributes": [
+																		{
+																			"attribute": "text",
+																			"grouping": "Properties",
+																			"value": "{value}",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "level",
+																			"grouping": "Properties",
+																			"value": "H1",
+																			"script": "",
+																			"translation": []
+																		},
+																		{
+																			"attribute": "titleStyle",
+																			"grouping": "Properties",
+																			"value": "H1",
+																			"script": "",
+																			"translation": []
+																		}
+																	],
+																	"data": []
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"fieldNo": "3af60095-61bf-4a39-e3fa-4ce016a2e05e",
+											"fieldName": "ResponsiveColumnLayout",
+											"fieldParent": "f1ba161f-2928-41cc-c1fe-52d8a58a815c",
+											"fieldType": "sap.ui.layout.cssgrid.ResponsiveColumnLayout",
+											"script": "",
+											"customComponent": false,
+											"request": [],
+											"response": [],
+											"attributes": [],
+											"data": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "606f2587-68d1-4754-9e9a-656f4b361e35",
+					"fieldName": "getAPIData",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/getAPIData.js",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "06a14f3f-bdfd-461f-c639-9eaaeb454636",
+					"fieldName": "Init",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/Init.js",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "24.10.12.2328",
+	"application": "dxp_demo_nhl_skater_stats",
+	"title": "NHL Goals",
+	"description": "NHL Skater Stats Leaders",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": true,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": true,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "neptune_horizon_dark",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "file:///css.css",
+	"compiledCss": "file:///compiledCss.css",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"apis": []
+}

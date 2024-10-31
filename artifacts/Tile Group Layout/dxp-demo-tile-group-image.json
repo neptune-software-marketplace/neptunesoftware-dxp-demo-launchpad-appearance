@@ -1,0 +1,13 @@
+{
+	"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
+	"createdAt": "2024-10-13T10:45:26.832Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"NAME": "dxp-demo-tile-group-image",
+	"HEAD_COLOR": "",
+	"HEAD_TEXT_CLR": null,
+	"SUBHEAD_TEXT_CLR": null,
+	"HEAD_BORDER_CLR": "inherit",
+	"HEAD_BORDER_WDT": "6px",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"ver": "24.10.13.1511"
+}

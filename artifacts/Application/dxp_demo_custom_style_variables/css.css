@@ -1,0 +1,54 @@
+/* Tips
+ * The nepLayout styleclass can be used to override any style added on the html selector, like any one of these:
+ *     html.sap-desktop
+ *     html.sap-tablet
+ *     html.sap-phone
+ *     html.sapUiMedia-Std-Desktop
+ *     html.sapUiMedia-Std-Tablet
+ *     html.sapUiMedia-Std-Phone
+ */
+ 
+/* Segmented Button Connected */
+.nepDxpDemoConnected .sapMSegBBtn.sapMSegBBtnSel .sapMSegBBtnInner {
+    background: var(--sapButton_Success_Background);
+    border-color: var(--sapButton_Success_BorderColor);
+    color: var(--sapButton_Success_TextColor);
+}
+.nepDxpDemoConnected .sapMSegBBtn.sapMSegBBtnSel .sapMSegBBtnInner .sapUiIcon {
+    color: var(--sapButton_Success_TextColor);
+}
+/* Segmented Button Connected Hover */
+.nepLayout .nepDxpDemoConnected .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel:hover .sapMSegBBtnInner {
+    background: var(--sapButton_Success_Hover_Background);
+    border-color: var(--sapButton_Success_Hover_BorderColor);
+    color: var(--sapButton_Success_Hover_TextColor);
+}
+.nepDxpDemoConnected .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel:hover .sapMSegBBtnInner .sapUiIcon {
+    color: var(--sapButton_Success_Hover_TextColor);
+}
+.nepLayout .nepDxpDemoConnected .sapMSegB.sapMSegBIcons .sapMSegBBtn.sapMSegBBtnFocusable:first-child:focus .sapMSegBBtnInner:after,
+.nepLayout .nepDxpDemoConnected .sapMSegBBtn:first-child.sapMSegBBtnFocusable:focus .sapMSegBBtnInner:after {
+    border-color: var(--sapButton_Success_Hover_TextColor);
+}
+/* Segmented Button Disconnected */
+.nepDxpDemoDisconnected .sapMSegBBtn.sapMSegBBtnSel .sapMSegBBtnInner {
+    background: var(--sapButton_Negative_Background);
+    border-color: var(--sapButton_Negative_BorderColor);
+    color: var(--sapButton_Negative_TextColor);
+}
+.nepDxpDemoDisconnected .sapMSegBBtn.sapMSegBBtnSel .sapMSegBBtnInner .sapUiIcon {
+    color: var(--sapButton_Negative_TextColor);
+}
+/* Segmented Button Disconnected Hover */
+.nepLayout .nepDxpDemoDisconnected .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel:hover .sapMSegBBtnInner {
+    background: var(--sapButton_Negative_Hover_Background);
+    border-color: var(--sapButton_Negative_Hover_BorderColor);
+    color: var(--sapButton_Negative_Hover_TextColor);
+}
+.nepDxpDemoDisconnected .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel:hover .sapMSegBBtnInner .sapUiIcon {
+    color: var(--sapButton_Negative_Hover_TextColor);
+}
+.nepLayout .nepDxpDemoDisconnected .sapMSegB.sapMSegBIcons .sapMSegBBtn.sapMSegBBtnFocusable:last-child:focus .sapMSegBBtnInner:after,
+.nepLayout .nepDxpDemoDisconnected .sapMSegBBtn:last-child.sapMSegBBtnFocusable:focus .sapMSegBBtnInner:after {
+    border-color: var(--sapButton_Negative_Hover_TextColor);
+}

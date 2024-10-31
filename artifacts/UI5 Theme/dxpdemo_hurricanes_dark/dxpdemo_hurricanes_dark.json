@@ -1,0 +1,11 @@
+{
+	"id": "03e5197a-39b5-4ea6-bafb-98173acb8800",
+	"createdAt": "2024-10-13T08:51:00.016Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"theme": "dxpdemo_hurricanes_dark",
+	"ver": "24.10.13.0851",
+	"ui5ver": "1.120.21",
+	"extends": "sap_horizon_dark",
+	"description": "DXP Demo Hurricanes Dark 1.120",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+}

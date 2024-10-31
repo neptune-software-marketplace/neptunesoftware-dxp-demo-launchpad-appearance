@@ -1,0 +1,4 @@
+if (typeof firstName === "undefined" || firstName === null || firstName === "") { return; }  
+if (typeof lastName === "undefined" || lastName === null || lastName === "") { return; }  
+var formattedText = firstName + " " + lastName; 
+return formattedText;

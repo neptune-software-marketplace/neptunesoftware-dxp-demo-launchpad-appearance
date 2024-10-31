@@ -1,0 +1,13 @@
+{
+	"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
+	"createdAt": "2024-10-02T07:51:21.903Z",
+	"createdBy": "moje",
+	"NAME": "dxp-demo-hurricanes-light",
+	"HEAD_COLOR": "#ce1126",
+	"HEAD_TEXT_CLR": "#ffffff",
+	"SUBHEAD_TEXT_CLR": "#ffffff",
+	"HEAD_BORDER_CLR": "#a50d1f",
+	"HEAD_BORDER_WDT": "6px",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"ver": "24.10.12.2216"
+}

@@ -1,0 +1,13 @@
+{
+	"id": "731eba12-cf37-41f8-943e-ee198b213b66",
+	"createdAt": "2024-10-02T08:01:03.812Z",
+	"createdBy": "moje",
+	"NAME": "dxp-demo-hurricanes-dark",
+	"HEAD_COLOR": "#240004",
+	"HEAD_TEXT_CLR": "#ff4d61",
+	"SUBHEAD_TEXT_CLR": "#eeeeee",
+	"HEAD_BORDER_CLR": "#ff4d61",
+	"HEAD_BORDER_WDT": "6px",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"ver": "24.10.12.2216"
+}
