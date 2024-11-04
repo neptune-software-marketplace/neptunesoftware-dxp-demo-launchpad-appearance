@@ -16,7 +16,29 @@
 	"layout": [],
 	"config": {
 		"showAccessibilityFocusIndicator": true,
-		"enhancement": "",
+		"enhancement": [
+			"==OBJECT STRING==",
+			"sap.n.Enhancement.BeforeStartup = function () {",
+			"            console.log('Trigger Enhancement BeforeStartup');",
+			"            console.log(`Enhancement Before Startup...`);\r",
+			"\r",
+			"const btnThemeChange = new sap.m.Button(`btnThemeChange`, {\r",
+			"    text: \"Change Appearance\",\r",
+			"    press: function (e) {\r",
+			"        const layouts = {\r",
+			"            layoutLight: `light`,\r",
+			"            layoutDark: `dark`,\r",
+			"        }\r",
+			"        AppCache.loadCustomLayouts({\r",
+			"            layoutLight: layouts.layoutLight,\r",
+			"            layoutDark: layouts.layoutDark,\r",
+			"            // updateUser: true\r",
+			"        });\r",
+			"    },\r",
+			"});\r",
+			"AppCacheShellCustomRight.addItem(btnThemeChange);",
+			"        };"
+		],
 		"disableCustomizations": false,
 		"enableTopMenu": true,
 		"verticalMenu": false,
@@ -26,7 +48,8 @@
 		"pincode": true,
 		"pincodeTries": 5,
 		"pincodeLength": 4,
-		"pincodeKeyIterations": 40000
+		"pincodeKeyIterations": 40000,
+		"noSubmenuHover": true
 	},
 	"enhancement": [
 		{
@@ -38,6 +61,36 @@
 			"group": "Common",
 			"content": "",
 			"active": false,
+			"disabled": false
+		},
+		{
+			"title": "Before Startup",
+			"name": "BeforeStartup",
+			"description": "Triggers after UI5 is loaded but before Startup of desktop/mobile",
+			"param": "",
+			"sort": 20,
+			"group": "Common",
+			"content": [
+				"==OBJECT STRING==",
+				"console.log(`Enhancement Before Startup...`);\r",
+				"\r",
+				"const btnThemeChange = new sap.m.Button(`btnThemeChange`, {\r",
+				"    text: \"Change Appearance\",\r",
+				"    press: function (e) {\r",
+				"        const layouts = {\r",
+				"            layoutLight: `light`,\r",
+				"            layoutDark: `dark`,\r",
+				"        }\r",
+				"        AppCache.loadCustomLayouts({\r",
+				"            layoutLight: layouts.layoutLight,\r",
+				"            layoutDark: layouts.layoutDark,\r",
+				"            // updateUser: true\r",
+				"        });\r",
+				"    },\r",
+				"});\r",
+				"AppCacheShellCustomRight.addItem(btnThemeChange);"
+			],
+			"active": true,
 			"disabled": false
 		}
 	],
@@ -74,7 +127,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.10.31.2127",
+	"ver": "24.11.04.1958",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -89,6 +142,7 @@
 	"pwa_backgroundColor": "rgb(255,255,255)",
 	"passwordResetEmail": null,
 	"activationCodeEmail": null,
+	"noSubmenuHover": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"cat": [
 		{

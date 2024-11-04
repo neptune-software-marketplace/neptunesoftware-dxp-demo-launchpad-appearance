@@ -1,0 +1,1437 @@
+{
+	"id": "61f8d9eb-8b45-4650-90dc-8a5fa8cf1908",
+	"createdAt": "2024-09-27T09:57:54.379Z",
+	"createdBy": "john",
+	"auth": [],
+	"endpoints": [],
+	"paths": [
+		{
+			"id": "f5cd1e77-e4fe-49eb-a99a-99c105a0fc0f",
+			"path": "/model/v1/openapi.json",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "16794f7b-7e32-4135-a5c7-aec2609b8d70",
+			"path": "/v1/club-schedule-season/(team)/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "2a0a54ad-297e-449f-e63c-e94fd232e240",
+			"path": "/v1/club-schedule-season/(team)/(season)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "b7f0f62e-a440-494b-dfd7-3c83ae52070c",
+			"path": "/v1/club-schedule/(team)/month/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "403d7de7-b948-4587-9bc8-024b65db2ecb",
+			"path": "/v1/club-schedule/(team)/month/(month)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "month",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				},
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "72cf510e-3850-4f60-8299-f03fa3b8369e",
+			"path": "/v1/club-schedule/(team)/week/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "8b417d7d-4001-412f-ce09-e5f31fffe8b3",
+			"path": "/v1/club-schedule/(team)/week/(date)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "date",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				},
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "ccb65a56-cd55-498b-c37f-f4b77c985acc",
+			"path": "/v1/club-stats-season/(team)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "b3849cc7-638a-4122-805e-6ac8b4cf47b2",
+			"path": "/v1/club-stats/(team)/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "d21c2bcc-9d7a-425e-fbf5-676320692962",
+			"path": "/v1/club-stats/(team)/(season)/(game-type)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "game-type",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "6460b8b6-351e-4a1f-b1f2-79ed08721039",
+			"path": "/v1/draft-tracker/picks/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "feb23cff-261c-412e-9615-f5226d30320a",
+			"path": "/v1/draft/picks/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "26e6717f-4e6f-4bff-b13e-5024fff753eb",
+			"path": "/v1/draft/picks/(year)/all",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "year",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "0962e8ac-bdec-43c5-dc33-2904541334f4",
+			"path": "/v1/draft/picks/(year)/(round)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "round",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "year",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "5b52e467-e511-4d95-ffe2-3ff6dfc12135",
+			"path": "/v1/draft/rankings/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "fffbe047-b25b-4e49-cd34-b34ef7de6965",
+			"path": "/v1/draft/rankings/(year)/(category)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "year",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "category",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "2863a0b8-ba38-4839-a150-c98cb2db730d",
+			"path": "/v1/gamecenter/(game-id)/boxscore",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "game-id",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "e3142405-660f-4a6e-ceaa-29fbfe1a2ca9",
+			"path": "/v1/gamecenter/(game-id)/landing",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "game-id",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "d9c44f23-451f-4c80-da4f-98906c06e291",
+			"path": "/v1/gamecenter/(game-id)/play-by-play",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "game-id",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "afbca88a-6304-4071-d287-aa84ec8e4342",
+			"path": "/v1/gamecenter/(game-id)/right-rail",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "game-id",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "bcf656b7-5901-417a-b76d-1efc32c0c07f",
+			"path": "/v1/goalie-stats-leaders/current",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "categories",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				},
+				{
+					"name": "limit",
+					"inPath": false,
+					"required": false,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "0199e468-c286-4c5d-ae8a-dde29c03a2ca",
+			"path": "/v1/goalie-stats-leaders/(season)/(game-type)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "game-type",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "categories",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				},
+				{
+					"name": "limit",
+					"inPath": false,
+					"required": false,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "b383b09b-d268-4bdd-fc2c-150d49fb8977",
+			"path": "/v1/location",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "744fc1fa-8961-47f0-904d-19608a96a6ed",
+			"path": "/v1/meta",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "players",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				},
+				{
+					"name": "teams",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				},
+				{
+					"name": "seasonStates",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "f3660bf6-dbde-4554-e46d-e7c80e63508d",
+			"path": "/v1/meta/game/(game-id)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "game-id",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "c22ff192-533f-4f03-a9ac-eb2c713989d8",
+			"path": "/v1/meta/playoff-series/(year)/(series_letter)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "year",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "series_letter",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "180e6d33-0618-40d3-d7cf-b72e0ec8910a",
+			"path": "/v1/network/tv-schedule/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "366c0cbe-bc55-4371-c74b-8f46aeda394e",
+			"path": "/v1/network/tv-schedule/(date)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "date",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "00e78b71-1b42-42b8-9b18-112d5a26d940",
+			"path": "/v1/partner-game/(country-code)/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "country-code",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "1fb28c75-40f9-48a5-ecd7-5d4a70f19867",
+			"path": "/v1/player-spotlight",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "cf0c880d-bebc-4717-9556-eaaf47f660a7",
+			"path": "/v1/player/(player)/game-log/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "player",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "98bf3a41-cdab-4d1d-c538-f805473c2d3d",
+			"path": "/v1/player/(player)/game-log/(season)/(game-type)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "game-type",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "player",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "191cf3de-7efd-4e4d-b58b-468b0169971a",
+			"path": "/v1/player/(player)/landing",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "player",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "849575c7-2868-4910-fd4d-54b5416ac751",
+			"path": "/v1/playoff-bracket/(year)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "year",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "98ec5b1a-0270-448a-bf85-e43e4ae7b77b",
+			"path": "/v1/playoff-series/carousel/(season)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "516224d2-bb7d-47c6-8f50-287bc20d4405",
+			"path": "/v1/postal-lookup/(postalCode)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "postalCode",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "8ac5edc9-d7a1-4c94-dfa5-f0c916ac8bbd",
+			"path": "/v1/prospects/(team)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "cca9bd32-0bff-4ce5-97d3-f3928f44ec50",
+			"path": "/v1/roster-season/(team)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "b0eedf51-b892-4ccd-b8f4-39ad18f2d90f",
+			"path": "/v1/roster/(team)/current",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "98960d66-fe44-4bfe-d72b-558e1fa56331",
+			"path": "/v1/roster/(team)/(season)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "3c0a5725-c3c5-4e04-a0ef-1d9bbfc0331f",
+			"path": "/v1/schedule-calendar/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "25b3cbe3-81c3-4772-8609-afb35635a366",
+			"path": "/v1/schedule-calendar/(date)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "date",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "814a4593-fce4-4211-bae9-b3b844463f93",
+			"path": "/v1/schedule/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "0379ddd9-2169-4fb6-bd63-76f413442f58",
+			"path": "/v1/schedule/playoff-series/(season)/(seriesLetter)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "seriesLetter",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "8225c945-e197-47af-8507-c323bf676343",
+			"path": "/v1/schedule/(date)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "date",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "c69a7c07-553f-48b7-bbbd-441895f8dc93",
+			"path": "/v1/score/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "ad087a95-f2a6-4399-fd26-d3b808c49901",
+			"path": "/v1/score/(date)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "date",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "a160ff5c-32f3-4fb8-bec9-c737c78fad34",
+			"path": "/v1/scoreboard/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "f4cdb4dc-688e-4eb1-a80e-5c89f649c1ea",
+			"path": "/v1/scoreboard/(team)/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "team",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "593a13b2-b1d5-4bb7-dc15-9974f86f4374",
+			"path": "/v1/season",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "f1f7c2d2-f7bc-495b-8cef-a74173e52a5b",
+			"path": "/v1/skater-stats-leaders/current",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "categories",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				},
+				{
+					"name": "limit",
+					"inPath": false,
+					"required": false,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "61e303a2-52c0-4fde-9865-59ae7d31732f",
+			"path": "/v1/skater-stats-leaders/(season)/(game-type)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "season",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "game-type",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				},
+				{
+					"name": "categories",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				},
+				{
+					"name": "limit",
+					"inPath": false,
+					"required": false,
+					"type": "integer"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "7da1aaab-061f-4733-92af-0c8b95a886d2",
+			"path": "/v1/standings-season",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "7b275814-0e05-4608-965e-c0cd80861a51",
+			"path": "/v1/standings/now",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [],
+			"content": []
+		},
+		{
+			"id": "856b3651-ed30-40b9-c837-c9abbdbd062e",
+			"path": "/v1/standings/(date)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "date",
+					"inPath": true,
+					"required": true,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "ec12f590-dd2a-479d-9dcd-0f4c4e56b316",
+			"path": "/v1/where-to-watch",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "include",
+					"inPath": false,
+					"required": false,
+					"type": "string"
+				}
+			],
+			"content": []
+		},
+		{
+			"id": "90d327f6-0d2f-41d1-ad6e-b5e548f6ae85",
+			"path": "/v1/wsc/game-story/(game-id)",
+			"method": "GET",
+			"example": "",
+			"responses": [
+				{
+					"status": "200",
+					"description": "Successful Response",
+					"headers": [],
+					"content": []
+				}
+			],
+			"headers": [],
+			"parameters": [
+				{
+					"name": "game-id",
+					"inPath": true,
+					"required": true,
+					"type": "integer"
+				}
+			],
+			"content": []
+		}
+	],
+	"definitions": [],
+	"documentation": [],
+	"name": "dxpDemoAppearanceNHL",
+	"endpoint": "https://api-web.nhle.com",
+	"ver": "24.11.04.0839",
+	"version": "",
+	"description": null,
+	"mediaType": "application/json",
+	"securitySchemes": null,
+	"swaggerURI": null,
+	"swaggerSystem": null,
+	"apiType": "",
+	"about": null,
+	"enableProxy": true,
+	"forwardProxy": null,
+	"restrictAccess": false,
+	"enableTrace": false,
+	"enableIDE": true,
+	"internalAPI": false,
+	"isPublic": false,
+	"tlsAllowUntrusted": true,
+	"useOwnProcess": false,
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"apiGroup": "5f01ae2e-6459-4dd8-a5aa-e81a1e806352",
+	"apiFormat": 0,
+	"roles": []
+}

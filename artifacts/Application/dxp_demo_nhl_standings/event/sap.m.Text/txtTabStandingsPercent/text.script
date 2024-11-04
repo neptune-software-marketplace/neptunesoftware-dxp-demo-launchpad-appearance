@@ -1,0 +1,13 @@
+if (typeof pointPctg === "undefined" || pointPctg === null) {
+    return;
+}
+jQuery.sap.require("sap.ui.core.format.NumberFormat");
+var oNumberFormat = sap.ui.core.format.NumberFormat.getFloatInstance({
+    maxFractionDigits: 3,
+    minFractionDigits: 3,
+    groupingEnabled: true,
+    groupingSeparator: " ",
+    decimalSeparator: ".",
+});
+var formattedText = `` + oNumberFormat.format(pointPctg);
+return formattedText.replace(`0.`,`.`);

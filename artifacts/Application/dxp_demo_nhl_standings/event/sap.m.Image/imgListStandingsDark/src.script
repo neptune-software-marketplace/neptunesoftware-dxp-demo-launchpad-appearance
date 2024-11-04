@@ -1,0 +1,2 @@
+if (!teamLogo) return "";
+return teamLogo.replace(`_light.svg`,`_dark.svg`);

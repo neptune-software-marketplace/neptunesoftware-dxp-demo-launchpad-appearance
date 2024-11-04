@@ -7,41 +7,20 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.10.31.2233",
+	"ver": "24.11.04.2100",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
 	"excludeTemplateFiles": true,
-	"roles": [
-		{
-			"id": "06e05891-5161-443a-b047-2d2d6ad74327",
-			"createdAt": "2024-10-31T11:02:12.768Z",
-			"updatedAt": "2024-10-31T11:04:00.460Z",
-			"createdBy": "svein.gunnar.larsen@neptune-software.com",
-			"changedBy": "svein.gunnar.larsen@neptune-software.com",
-			"name": "dxp-launchpad-edit",
-			"description": null,
-			"ver": "24.10.31.1104",
-			"isGlobalAdmin": false,
-			"package": null,
-			"verb": "EDIT"
-		},
-		{
-			"id": "c8f1a95d-f050-4d84-b9eb-5f94d8b0349e",
-			"createdAt": "2023-01-31T11:20:33.424Z",
-			"updatedAt": "2024-08-30T14:41:23.902Z",
-			"createdBy": "tsb",
-			"changedBy": "system",
-			"name": "Developers",
-			"description": null,
-			"ver": "24.07.30.2245",
-			"isGlobalAdmin": false,
-			"package": null,
-			"verb": "READ"
-		}
-	],
+	"roles": [],
 	"accessLevel": "EDIT",
 	"apps": [
+		{
+			"id": "c530eb39-0d32-403b-b2d2-705590d501b5",
+			"application": "dxp_demo_nhl_standings",
+			"title": "",
+			"description": ""
+		},
 		{
 			"id": "6efffd5d-b437-4959-a424-a6701dcd997d",
 			"application": "dxp_demo_custom_style_variables",
@@ -59,9 +38,22 @@
 			"application": "dxp_demo_iconexplorer",
 			"title": "Neptune Icon Explorer",
 			"description": "Neptune Icon Explorer"
+		},
+		{
+			"id": "1fd31d5d-498d-44ce-8aa1-32aaef5670d0",
+			"application": "dxp_demo_nhl_player",
+			"title": "",
+			"description": ""
 		}
 	],
-	"api": [],
+	"api": [
+		{
+			"id": "61f8d9eb-8b45-4650-90dc-8a5fa8cf1908",
+			"name": "dxpDemoAppearanceNHL",
+			"description": null,
+			"apiGroup": "5f01ae2e-6459-4dd8-a5aa-e81a1e806352"
+		}
+	],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
@@ -78,7 +70,13 @@
 	"rulesengine": [],
 	"reports": [],
 	"api_authentication": [],
-	"api_group": [],
+	"api_group": [
+		{
+			"id": "5f01ae2e-6459-4dd8-a5aa-e81a1e806352",
+			"name": "DXPDemoAppearance",
+			"description": "Collection of APIs use in the Neptune Appearance Demo applications"
+		}
+	],
 	"tile": [
 		{
 			"id": "f37e689f-46ec-4298-9a7d-b841348f8868",
