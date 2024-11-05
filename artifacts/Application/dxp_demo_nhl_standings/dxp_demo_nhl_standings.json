@@ -760,9 +760,23 @@
 																			"response": [],
 																			"attributes": [
 																				{
+																					"attribute": "width",
+																					"grouping": "Properties",
+																					"value": "100%",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
 																					"attribute": "renderType",
 																					"grouping": "Properties",
 																					"value": "Bare",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "justifyContent",
+																					"grouping": "Properties",
+																					"value": "SpaceBetween",
 																					"script": "",
 																					"translation": []
 																				}
@@ -794,6 +808,199 @@
 																						}
 																					],
 																					"data": []
+																				},
+																				{
+																					"fieldNo": "2392de46-a01c-4f98-d038-8ad95f9516c3",
+																					"fieldName": "VBox",
+																					"fieldParent": "58ca7968-d499-437b-c41e-b41a6f9bf07e",
+																					"fieldType": "sap.m.VBox",
+																					"script": "",
+																					"customComponent": false,
+																					"request": [],
+																					"response": [],
+																					"attributes": [
+																						{
+																							"attribute": "fitContainer",
+																							"grouping": "Properties",
+																							"value": "true",
+																							"script": "",
+																							"translation": []
+																						},
+																						{
+																							"attribute": "renderType",
+																							"grouping": "Properties",
+																							"value": "Bare",
+																							"script": "",
+																							"translation": []
+																						},
+																						{
+																							"attribute": "alignContent",
+																							"grouping": "Properties",
+																							"value": "End",
+																							"script": "",
+																							"translation": []
+																						}
+																					],
+																					"data": [
+																						{
+																							"fieldNo": "dc388600-11f2-4743-a41c-c3379c70f8d9",
+																							"fieldName": "HBox2",
+																							"fieldParent": "2392de46-a01c-4f98-d038-8ad95f9516c3",
+																							"fieldType": "sap.m.HBox",
+																							"script": "",
+																							"customComponent": false,
+																							"request": [],
+																							"response": [],
+																							"attributes": [
+																								{
+																									"attribute": "renderType",
+																									"grouping": "Properties",
+																									"value": "Bare",
+																									"script": "",
+																									"translation": []
+																								},
+																								{
+																									"attribute": "styleClassMargin",
+																									"grouping": "Properties",
+																									"value": "sapUiMediumMarginEnd",
+																									"script": "",
+																									"translation": []
+																								}
+																							],
+																							"data": [
+																								{
+																									"fieldNo": "e853a01a-1c0d-4928-bb8d-5336e1e71261",
+																									"fieldName": "Title1",
+																									"fieldParent": "dc388600-11f2-4743-a41c-c3379c70f8d9",
+																									"fieldType": "sap.m.Title",
+																									"script": "",
+																									"customComponent": false,
+																									"request": [],
+																									"response": [],
+																									"attributes": [
+																										{
+																											"attribute": "text",
+																											"grouping": "Properties",
+																											"value": "{/points}",
+																											"script": "",
+																											"translation": []
+																										},
+																										{
+																											"attribute": "titleStyle",
+																											"grouping": "Properties",
+																											"value": "H1",
+																											"script": "",
+																											"translation": []
+																										},
+																										{
+																											"attribute": "text",
+																											"grouping": "Formatter",
+																											"value": "Anonymous Function",
+																											"script": "file://event/sap.m.Title/Title1/text.script",
+																											"translation": []
+																										}
+																									],
+																									"data": []
+																								}
+																							]
+																						},
+																						{
+																							"fieldNo": "c528ef24-267b-49e6-9451-b497d641c9a0",
+																							"fieldName": "HBox1",
+																							"fieldParent": "2392de46-a01c-4f98-d038-8ad95f9516c3",
+																							"fieldType": "sap.m.HBox",
+																							"script": "",
+																							"customComponent": false,
+																							"request": [],
+																							"response": [],
+																							"attributes": [
+																								{
+																									"attribute": "renderType",
+																									"grouping": "Properties",
+																									"value": "Bare",
+																									"script": "",
+																									"translation": []
+																								},
+																								{
+																									"attribute": "justifyContent",
+																									"grouping": "Properties",
+																									"value": "End",
+																									"script": "",
+																									"translation": []
+																								},
+																								{
+																									"attribute": "styleClassMargin",
+																									"grouping": "Properties",
+																									"value": "sapUiMediumMarginEnd",
+																									"script": "",
+																									"translation": []
+																								}
+																							],
+																							"data": [
+																								{
+																									"fieldNo": "0856f9a1-f15a-4283-b9c5-ded662a96cab",
+																									"fieldName": "Text1",
+																									"fieldParent": "c528ef24-267b-49e6-9451-b497d641c9a0",
+																									"fieldType": "sap.m.Text",
+																									"script": "",
+																									"customComponent": false,
+																									"request": [],
+																									"response": [],
+																									"attributes": [
+																										{
+																											"attribute": "text",
+																											"grouping": "Properties",
+																											"value": "{/wins},{/losses},{/otLosses}",
+																											"script": "",
+																											"translation": []
+																										},
+																										{
+																											"attribute": "text",
+																											"grouping": "Formatter",
+																											"value": "Anonymous Function",
+																											"script": "file://event/sap.m.Text/Text1/text.script",
+																											"translation": []
+																										}
+																									],
+																									"data": []
+																								},
+																								{
+																									"fieldNo": "b805978e-0575-495b-eae6-b43ef5c502d2",
+																									"fieldName": "Text",
+																									"fieldParent": "c528ef24-267b-49e6-9451-b497d641c9a0",
+																									"fieldType": "sap.m.Text",
+																									"script": "",
+																									"customComponent": false,
+																									"request": [],
+																									"response": [],
+																									"attributes": [
+																										{
+																											"attribute": "text",
+																											"grouping": "Properties",
+																											"value": "{/streakCode},{/streakCount}",
+																											"script": "",
+																											"translation": []
+																										},
+																										{
+																											"attribute": "styleClassMargin",
+																											"grouping": "Properties",
+																											"value": "sapUiSmallMarginBegin",
+																											"script": "",
+																											"translation": []
+																										},
+																										{
+																											"attribute": "text",
+																											"grouping": "Formatter",
+																											"value": "Anonymous Function",
+																											"script": "file://event/sap.m.Text/Text/text.script",
+																											"translation": []
+																										}
+																									],
+																									"data": []
+																								}
+																							]
+																						}
+																					]
 																				}
 																			]
 																		}
@@ -1876,6 +2083,90 @@
 																					]
 																				}
 																			]
+																		},
+																		{
+																			"fieldNo": "57d998bd-0433-4fc3-d428-38582d15ea67",
+																			"fieldName": "IconTabFilterSchedule",
+																			"fieldParent": "1d1bbd8b-b3ea-4103-df9a-08659b8227af",
+																			"fieldType": "sap.m.IconTabFilter",
+																			"script": "",
+																			"customComponent": false,
+																			"request": [],
+																			"response": [],
+																			"attributes": [
+																				{
+																					"attribute": "text",
+																					"grouping": "Properties",
+																					"value": "Schedule",
+																					"script": "",
+																					"translation": []
+																				},
+																				{
+																					"attribute": "key",
+																					"grouping": "Properties",
+																					"value": "schedule",
+																					"script": "",
+																					"translation": []
+																				}
+																			],
+																			"data": [
+																				{
+																					"fieldNo": "2c51c5b1-0cee-4df2-b44c-3472e8c464df",
+																					"fieldName": "ListSchedule",
+																					"fieldParent": "57d998bd-0433-4fc3-d428-38582d15ea67",
+																					"fieldType": "sap.m.List",
+																					"script": "",
+																					"customComponent": false,
+																					"bindingValue": "Generic Array",
+																					"bindingType": "h",
+																					"bindingSource": "P9",
+																					"request": [],
+																					"response": [],
+																					"attributes": [],
+																					"data": [
+																						{
+																							"fieldNo": "b40b2275-bd7e-4be3-8580-10bcff85cc85",
+																							"fieldName": "itemListSchedule",
+																							"fieldParent": "2c51c5b1-0cee-4df2-b44c-3472e8c464df",
+																							"fieldType": "sap.m.CustomListItem",
+																							"script": "",
+																							"customComponent": false,
+																							"request": [],
+																							"response": [],
+																							"attributes": [],
+																							"data": [
+																								{
+																									"fieldNo": "3a245fbc-1ba6-42a5-b860-3087536bbcfa",
+																									"fieldName": "FlexBox",
+																									"fieldParent": "b40b2275-bd7e-4be3-8580-10bcff85cc85",
+																									"fieldType": "sap.m.FlexBox",
+																									"script": "",
+																									"customComponent": false,
+																									"request": [],
+																									"response": [],
+																									"attributes": [
+																										{
+																											"attribute": "renderType",
+																											"grouping": "Properties",
+																											"value": "Bare",
+																											"script": "",
+																											"translation": []
+																										},
+																										{
+																											"attribute": "styleClassMargin",
+																											"grouping": "Properties",
+																											"value": "sapUiTinyMargin",
+																											"script": "",
+																											"translation": []
+																										}
+																									],
+																									"data": []
+																								}
+																							]
+																						}
+																					]
+																				}
+																			]
 																		}
 																	]
 																}
@@ -1932,37 +2223,6 @@
 					"data": []
 				},
 				{
-					"fieldNo": "0713ca18-d124-4bae-80d2-0327ee220fa0",
-					"fieldName": "NHLStandingsNow",
-					"fieldParent": 99999,
-					"fieldType": "neptune.restapi",
-					"script": "",
-					"customComponent": false,
-					"disabled": true,
-					"restSource": "61f8d9eb-8b45-4650-90dc-8a5fa8cf1908",
-					"restOperation": "7b275814-0e05-4608-965e-c0cd80861a51",
-					"request": [],
-					"response": [],
-					"attributes": [
-						{
-							"attribute": "setInitLoad",
-							"grouping": "Model",
-							"value": "online",
-							"script": "",
-							"translation": []
-						},
-						{
-							"attribute": "ajaxSuccess",
-							"grouping": "Events",
-							"value": "Anonymous Function",
-							"script": "file://event/neptune.restapi/NHLStandingsNow/ajaxSuccess.js",
-							"language": "javascript",
-							"translation": []
-						}
-					],
-					"data": []
-				},
-				{
 					"fieldNo": "97f907b0-a06e-439e-9455-7a7d30f48214",
 					"fieldName": "NHLRosterTeamSeason",
 					"fieldParent": 99999,
@@ -2002,6 +2262,20 @@
 					"data": []
 				},
 				{
+					"fieldNo": "ee73bc14-e30d-49bc-b6ae-0d17a1b7991f",
+					"fieldName": "NHLScheduleTeamSeason",
+					"fieldParent": 99999,
+					"fieldType": "neptune.restapi",
+					"script": "",
+					"customComponent": false,
+					"restSource": "61f8d9eb-8b45-4650-90dc-8a5fa8cf1908",
+					"restOperation": "2a0a54ad-297e-449f-e63c-e94fd232e240",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
 					"fieldNo": "c06e85dd-a757-411a-ce89-2a31ddb31e00",
 					"fieldName": "Data",
 					"fieldParent": 99999,
@@ -2033,7 +2307,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.11.04.1949",
+	"ver": "24.11.05.0053",
 	"application": "dxp_demo_nhl_standings",
 	"title": "",
 	"description": "",

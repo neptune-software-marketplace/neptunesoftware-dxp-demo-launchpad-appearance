@@ -1,0 +1,2 @@
+if (!points) return "";
+return `${points} PTS`;

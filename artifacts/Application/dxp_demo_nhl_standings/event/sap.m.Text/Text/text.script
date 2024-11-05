@@ -1,0 +1,2 @@
+if (!streakCode) return "";
+return `${streakCode}${streakCount}`;
