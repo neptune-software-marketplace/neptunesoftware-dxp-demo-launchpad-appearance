@@ -625,7 +625,6 @@
 																					"grouping": "Events",
 																					"value": "ResponsiveSplitter._activatePage(0);",
 																					"script": "ResponsiveSplitter._activatePage(0);",
-																					"language": "javascript",
 																					"translation": []
 																				},
 																				{
@@ -2307,7 +2306,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.11.05.0053",
+	"ver": "24.11.05.1239",
 	"application": "dxp_demo_nhl_standings",
 	"title": "",
 	"description": "",

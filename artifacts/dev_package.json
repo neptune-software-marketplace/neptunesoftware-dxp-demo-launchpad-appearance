@@ -7,13 +7,12 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.04.2100",
+	"ver": "24.11.05.1641",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
 	"excludeTemplateFiles": true,
 	"roles": [],
-	"accessLevel": "EDIT",
 	"apps": [
 		{
 			"id": "c530eb39-0d32-403b-b2d2-705590d501b5",
@@ -488,6 +487,11 @@
 			"DESCR": null
 		},
 		{
+			"id": "45d1b888-1952-44b3-9657-3b458438c406",
+			"NAME": "dxp-demo-kraken-dark",
+			"DESCR": null
+		},
+		{
 			"id": "2a8b35fb-7d2a-430c-8215-0977a45ac92a",
 			"NAME": "dxp-demo-hurricanes-dark",
 			"DESCR": null
@@ -516,6 +520,11 @@
 			"id": "fa9a57af-3adf-445c-9f83-6c9427c93c57",
 			"theme": "dxpdemo_hurricanes_light",
 			"description": "DXP Demo Hurricanes Light 1.120"
+		},
+		{
+			"id": "76388be0-441e-4423-b9fe-ae470ed62bdd",
+			"theme": "dxpdemo_kraken_dark",
+			"description": "DXP Demo Kraken Dark 1.120"
 		},
 		{
 			"id": "03e5197a-39b5-4ea6-bafb-98173acb8800",

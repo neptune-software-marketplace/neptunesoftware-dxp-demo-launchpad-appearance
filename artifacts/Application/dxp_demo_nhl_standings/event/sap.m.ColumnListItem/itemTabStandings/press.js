@@ -17,7 +17,7 @@ apiNHLScheduleTeamSeason({
     team: data.teamAbbrev.default,
     season: `20242025`
 }).success((obj) => {
-    console.table(obj.games);
+    // console.table(obj.games);
     modelListSchedule.setData(obj.games);
 });
 
