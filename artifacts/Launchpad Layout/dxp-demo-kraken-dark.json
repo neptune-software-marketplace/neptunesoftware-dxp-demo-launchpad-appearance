@@ -4,7 +4,7 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-kraken-dark",
 	"DESCR": null,
-	"ver": "24.11.06.0017",
+	"ver": "24.11.07.2250",
 	"CUSTOM_CSS": null,
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/nhl/kraken/kraken-wallpaper-dark.jpg",
@@ -129,6 +129,6 @@
 	"MOB_TOP_BACK": null,
 	"FAVICON": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/nhl/kraken/kraken-logo.svg",
 	"STATUSBAR_BASE": null,
-	"THEME_BACK_COLOR": null,
+	"THEME_BACK_COLOR": "#001628",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

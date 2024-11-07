@@ -1,0 +1,11 @@
+{
+	"id": "f0f4849e-d9ea-43f4-8401-c1d9ef428dc8",
+	"createdAt": "2024-11-07T19:52:41.388Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"theme": "dxpdemo_kraken_light",
+	"ver": "24.11.07.1953",
+	"ui5ver": "1.120.22",
+	"extends": "sap_horizon",
+	"description": "DXP Demo Kraken Light 1.120",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+}

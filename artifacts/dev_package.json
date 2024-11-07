@@ -3,7 +3,8 @@
 	"createdAt": "2024-09-21T13:03:10.111Z",
 	"createdBy": "morten.prom@neptune-software.com",
 	"git": {
-		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-demo-launchpad-appearance.git"
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-demo-launchpad-appearance.git",
+		"branch": "master"
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
@@ -115,7 +116,7 @@
 		{
 			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-right"
+			"name": "dxp-demo-background-image-mask-right"
 		},
 		{
 			"id": "d24c4bf3-98c4-47f7-8b35-890751c18e03",
@@ -200,7 +201,7 @@
 		{
 			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-left"
+			"name": "dxp-demo-background-image-mask-left"
 		},
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
@@ -260,7 +261,7 @@
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-bottom"
+			"name": "dxp-demo-background-image-mask-bottom"
 		},
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
@@ -285,7 +286,7 @@
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-top"
+			"name": "dxp-demo-background-image-mask-top"
 		},
 		{
 			"id": "212611b5-141f-460a-9637-a99651e5582a",
@@ -483,7 +484,7 @@
 	"launchpad_layout": [
 		{
 			"id": "6b3256f9-0ed7-4c45-aa34-32f31d0fe844",
-			"NAME": "dxp-demo-hurricanes-light",
+			"NAME": "dxp-demo-kraken-light",
 			"DESCR": null
 		},
 		{
@@ -520,6 +521,11 @@
 			"id": "fa9a57af-3adf-445c-9f83-6c9427c93c57",
 			"theme": "dxpdemo_hurricanes_light",
 			"description": "DXP Demo Hurricanes Light 1.120"
+		},
+		{
+			"id": "f0f4849e-d9ea-43f4-8401-c1d9ef428dc8",
+			"theme": "dxpdemo_kraken_light",
+			"description": "DXP Demo Kraken Light 1.120"
 		},
 		{
 			"id": "ad9c4329-3db2-4989-870c-3d19b4131d8c",

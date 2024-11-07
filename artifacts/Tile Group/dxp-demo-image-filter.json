@@ -155,9 +155,9 @@
 		},
 		{
 			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
-			"name": "dxp-demo-image-filter-mask-right",
-			"title": "Filter Image Mask Right",
-			"ver": "24.10.31.1955"
+			"name": "dxp-demo-background-image-mask-right",
+			"title": "Background Image Mask Right",
+			"ver": "24.11.07.1900"
 		},
 		{
 			"id": "b4e171e4-e8e4-4b72-92fe-18906b4eb8bd",
@@ -179,9 +179,9 @@
 		},
 		{
 			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
-			"name": "dxp-demo-image-filter-mask-left",
-			"title": "Filter Image Mask Left",
-			"ver": "24.10.31.1955"
+			"name": "dxp-demo-background-image-mask-left",
+			"title": "Background Image Mask Left",
+			"ver": "24.11.07.1900"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
@@ -191,15 +191,15 @@
 		},
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
-			"name": "dxp-demo-image-filter-mask-bottom",
-			"title": "Filter Image Mask Bottom",
-			"ver": "24.10.31.1955"
+			"name": "dxp-demo-background-image-mask-bottom",
+			"title": "Background Image Mask Bottom",
+			"ver": "24.11.07.1901"
 		},
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
-			"name": "dxp-demo-image-filter-mask-top",
-			"title": "Filter Image Mask Top",
-			"ver": "24.11.03.1906"
+			"name": "dxp-demo-background-image-mask-top",
+			"title": "Background Image Mask Top",
+			"ver": "24.11.07.1900"
 		},
 		{
 			"id": "212611b5-141f-460a-9637-a99651e5582a",
