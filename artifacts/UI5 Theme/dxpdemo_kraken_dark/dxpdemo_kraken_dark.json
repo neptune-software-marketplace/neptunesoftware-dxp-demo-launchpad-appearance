@@ -1,9 +1,9 @@
 {
-	"id": "76388be0-441e-4423-b9fe-ae470ed62bdd",
-	"createdAt": "2024-11-06T00:06:01.414Z",
-	"createdBy": "morten",
+	"id": "ad9c4329-3db2-4989-870c-3d19b4131d8c",
+	"createdAt": "2024-11-07T15:21:47.642Z",
+	"createdBy": "morten.prom@neptune-software.com",
 	"theme": "dxpdemo_kraken_dark",
-	"ver": "24.11.06.0006",
+	"ver": "24.11.07.1522",
 	"ui5ver": "1.120.21",
 	"extends": "sap_horizon_dark",
 	"description": "DXP Demo Kraken Dark 1.120",
