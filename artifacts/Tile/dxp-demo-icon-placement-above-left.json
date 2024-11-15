@@ -25,7 +25,7 @@
 	"icon": "sap-icon://nep/action-list-item",
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": null,
+	"tileLayoutLight": "75e037e8-42d4-4166-b257-bf45aee4acae",
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +60,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.10.12.2211",
+	"ver": "24.11.15.1233",
 	"actionWebApp": "",
 	"name": "dxp-demo-icon-placement-above-left",
 	"cardWidth": null,
@@ -88,6 +88,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
+	"oneTileLayout": true,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

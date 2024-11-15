@@ -81,6 +81,13 @@
 	"imageDarkHeightMedia": null,
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"oneGroupLayout": false,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [
 		{

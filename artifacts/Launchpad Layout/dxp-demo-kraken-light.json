@@ -106,7 +106,7 @@
 	"APP_BACK_BLUR": null,
 	"BACK_LOGON_USE": false,
 	"BACK_LOGON_CLR": "transparent",
-	"BACK_LOGON_OPA": 1,
+	"BACK_LOGON_OPA": "1.00",
 	"BACK_LOGON_IMG": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/kraken-wallpaper-light.jpg",
 	"BACK_LOGON_PLA": null,
 	"BACK_LOGON_REP": null,

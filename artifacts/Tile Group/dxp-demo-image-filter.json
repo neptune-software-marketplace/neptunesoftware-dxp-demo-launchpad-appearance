@@ -40,7 +40,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.13.2238",
+	"ver": "24.11.15.1231",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -76,7 +76,7 @@
 	"openClickTile": true,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": null,
+	"tileLayoutLight": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -90,79 +90,86 @@
 	"imageDarkHeightMedia": null,
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"oneGroupLayout": false,
+	"oneTileLayout": true,
 	"roles": [],
 	"tiles": [
 		{
 			"id": "ee78cb9e-9a54-4929-b73e-555e6a4b1c55",
 			"name": "dxp-demo-image-filter-invert",
 			"title": "Filter Image Invert",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1222"
 		},
 		{
 			"id": "e4cdaefc-c4d6-44ab-983d-f0e526113acf",
 			"name": "dxp-demo-image-filter-huerotate",
 			"title": "Filter Image Hue Rotate",
-			"ver": "24.10.31.1957"
+			"ver": "24.11.15.1222"
 		},
 		{
 			"id": "de1ec056-62ce-4985-9e08-3bec46f2ba8c",
 			"name": "dxp-demo-image-filter-opacity-top",
 			"title": "Filter Image Opacity",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1221"
 		},
 		{
 			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
 			"name": "dxp-demo-background-image-mask-right",
 			"title": "Background Image Mask Right",
-			"ver": "24.11.07.1900"
+			"ver": "24.11.15.1230"
 		},
 		{
 			"id": "b4e171e4-e8e4-4b72-92fe-18906b4eb8bd",
 			"name": "dxp-demo-image-filter-grayscale",
 			"title": "Filter Image Grayscale",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1222"
 		},
 		{
 			"id": "98f8f903-732b-42d9-ada9-f2d855fa3840",
 			"name": "dxp-demo-image-filter-brightness-background",
 			"title": "Filter Image Brightness",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1226"
 		},
 		{
 			"id": "76aaed69-7299-46ca-837e-8c5772964fa2",
 			"name": "dxp-demo-image-filter-blur",
 			"title": "Filter Image Blur",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1223"
 		},
 		{
 			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
 			"name": "dxp-demo-background-image-mask-left",
 			"title": "Background Image Mask Left",
-			"ver": "24.11.07.1900"
+			"ver": "24.11.15.1230"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
 			"name": "dxp-demo-image-filter-brightness-top",
 			"title": "Filter Image Brightness",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1225"
 		},
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
 			"name": "dxp-demo-background-image-mask-bottom",
 			"title": "Background Image Mask Bottom",
-			"ver": "24.11.07.1901"
+			"ver": "24.11.15.1230"
 		},
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
 			"name": "dxp-demo-background-image-mask-top",
 			"title": "Background Image Mask Top",
-			"ver": "24.11.07.1900"
+			"ver": "24.11.15.1229"
 		},
 		{
 			"id": "212611b5-141f-460a-9637-a99651e5582a",
 			"name": "dxp-demo-image-filter-opacity-background",
 			"title": "Filter Image Opacity",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.15.1222"
 		}
 	],
 	"tilegroups": []

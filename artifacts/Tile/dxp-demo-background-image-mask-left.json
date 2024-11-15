@@ -25,7 +25,7 @@
 	"icon": null,
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": null,
+	"tileLayoutLight": "46221e9d-7714-4925-a179-1cd8fa05d3ef",
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +60,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.07.1900",
+	"ver": "24.11.15.1230",
 	"actionWebApp": "",
 	"name": "dxp-demo-background-image-mask-left",
 	"cardWidth": null,
@@ -88,6 +88,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
+	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

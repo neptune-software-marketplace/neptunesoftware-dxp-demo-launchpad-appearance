@@ -81,6 +81,13 @@
 	"imageDarkHeightMedia": null,
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"oneGroupLayout": false,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -88,7 +95,7 @@
 			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 			"name": "dxp-demo-teams-skinny-tiny",
 			"title": "NHL Teams - Skinny & Tiny",
-			"ver": "24.10.19.1010"
+			"ver": "24.11.15.1205"
 		},
 		{
 			"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
@@ -100,7 +107,7 @@
 			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
 			"name": "dxp-demo-teams-narrow-short",
 			"title": "NHL Teams - Narrow & Short",
-			"ver": "24.10.19.1016"
+			"ver": "24.11.15.1206"
 		},
 		{
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",

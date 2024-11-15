@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.12.1114",
+	"ver": "24.11.15.1108",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.0-rc.3",
@@ -171,12 +171,12 @@
 		{
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
 			"description": null,
-			"name": "dxp-demo-news-montoya-stars"
+			"name": "dxp-demo-news-ticker-montoya-stars"
 		},
 		{
 			"id": "84cbd15f-e771-48e4-838c-be029385e05f",
 			"description": null,
-			"name": "dxp-demo-news-st-louis-blues"
+			"name": "dxp-demo-news-ticker-st-louis-blues"
 		},
 		{
 			"id": "786dc091-9cf0-47f5-a119-ec8a4d8b8b78",
@@ -206,12 +206,12 @@
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
 			"description": null,
-			"name": "dxp-demo-news-nashville"
+			"name": "dxp-demo-news-ticker-nashville"
 		},
 		{
 			"id": "57acc247-1be2-4ec4-a668-c20138e63427",
 			"description": null,
-			"name": "dxp-demo-news-preseason-roundup"
+			"name": "dxp-demo-news-ticker-preseason-roundup"
 		},
 		{
 			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
@@ -231,7 +231,7 @@
 		{
 			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
 			"description": null,
-			"name": "dxp-demo-news-faceoff"
+			"name": "dxp-demo-ticker-news-faceoff"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
@@ -256,7 +256,7 @@
 		{
 			"id": "3af17eb9-bb8b-42b9-97b3-a38c5fa1703e",
 			"description": null,
-			"name": "dxp-demo-news-camp-buzz"
+			"name": "dxp-demo-news-ticker-camp-buzz"
 		},
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
@@ -310,12 +310,120 @@
 			"NAME": "dxp-demo-white-text"
 		},
 		{
+			"id": "fbe7f3e6-7d8a-431b-9fec-6a07ab33ad0a",
+			"NAME": "dxp-demo-icon-above-center"
+		},
+		{
+			"id": "f78409a1-f31c-44cb-b084-6ed7bb10b54a",
+			"NAME": "dxp-demo-filter-invert"
+		},
+		{
+			"id": "f7027e3e-2da6-45c3-977e-95a42ed4b147",
+			"NAME": "dxp-demo-filter-brightness-background"
+		},
+		{
+			"id": "f36fbd26-f50e-415d-902c-1cb6a351bf04",
+			"NAME": "dxp-demo-filter-opacity"
+		},
+		{
+			"id": "f35b78a0-e5bd-4700-8045-4140a60d63ff",
+			"NAME": "dxp-demo-icon-below-left"
+		},
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
+			"NAME": "dxp-demo-image-top"
+		},
+		{
+			"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90",
+			"NAME": "dxp-demo-mask-right-left"
+		},
+		{
+			"id": "e9ece497-9aba-48a2-a808-ad590d54b240",
+			"NAME": "dxp-demo-mask-bottom-up"
+		},
+		{
+			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
+			"NAME": "dxp-demo-tiles-not-clickable"
+		},
+		{
+			"id": "cbe0c11d-1319-4281-96cb-823fb4ee671b",
+			"NAME": "dxp-demo-icon-above-right"
+		},
+		{
+			"id": "c74ad149-2499-4d44-96bb-2fd3656290f6",
+			"NAME": "dxp-demo-narrow-short"
+		},
+		{
+			"id": "c61c6129-0f85-4961-a7ff-040441296f1c",
+			"NAME": "dxp-demo-news-master"
+		},
+		{
+			"id": "c1bf44f9-1c33-42e5-92bf-175a74e91a5d",
+			"NAME": "dxp-demo-filter-hue-rotate"
+		},
+		{
+			"id": "b8781fc2-38a3-4048-ba92-3b976ba98339",
+			"NAME": "dxp-demo-filter-blur"
+		},
+		{
+			"id": "b79f4507-79d6-4f20-b4e2-29d1d5312fab",
+			"NAME": "dxp-demo-filter-grayscale"
+		},
+		{
+			"id": "b3883aab-6c40-41b4-9d18-7d2a2841c15c",
+			"NAME": "dxp-demo-filter-brightness"
+		},
+		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
 			"NAME": "dxp-demo-hurricanes-light"
 		},
 		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
+			"NAME": "dxp-demo-clickable-tiles"
+		},
+		{
+			"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090",
+			"NAME": "dxp-demo-skinny-tiny"
+		},
+		{
+			"id": "79531e0c-a313-4254-807d-e71a212904ae",
+			"NAME": "dxp-demo-mask-top-down"
+		},
+		{
+			"id": "75e037e8-42d4-4166-b257-bf45aee4acae",
+			"NAME": "dxp-demo-icon-above-left"
+		},
+		{
+			"id": "5cb2acd7-2c6c-4244-8c22-f6808686f9cf",
+			"NAME": "dxp-demo-icon-below-right"
+		},
+		{
+			"id": "5c94bb95-b846-4080-840b-fe00732cd99f",
+			"NAME": "dxp-demo-icon-align-left"
+		},
+		{
+			"id": "54e58174-6414-4e14-9351-07adc1ebaa26",
+			"NAME": "dxp-demo-image-inline"
+		},
+		{
+			"id": "46221e9d-7714-4925-a179-1cd8fa05d3ef",
+			"NAME": "dxp-demo-mask-left-right"
+		},
+		{
 			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
 			"NAME": "dxp-demo-huricanes-dark"
+		},
+		{
+			"id": "2f6b8f51-b428-4f15-9c69-b47195684645",
+			"NAME": "dxp-demo-filter-saturate"
+		},
+		{
+			"id": "1ec0811e-d1f0-4951-ba94-2aec21813c8c",
+			"NAME": "dxp-demo-icon-below-center"
+		},
+		{
+			"id": "16402382-9ff5-4a19-b5de-a59dd6b8e844",
+			"NAME": "dxp-demo-icon-align-right"
 		}
 	],
 	"category": [
@@ -462,6 +570,10 @@
 	],
 	"tilegroup_layout": [
 		{
+			"id": "ed05a705-32a3-4aa6-8a44-54166d198660",
+			"NAME": "dxp-demo-mask-custom-center"
+		},
+		{
 			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
 			"NAME": "dxp-demo-hurricanes-light"
 		},
@@ -470,8 +582,12 @@
 			"NAME": "dxp-demo-hurricanes-dark"
 		},
 		{
+			"id": "6b17acb1-7b44-4abb-abc1-86729a52c35e",
+			"NAME": "dxp-demo-mask-right-left"
+		},
+		{
 			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
-			"NAME": "dxp-demo-tile-group-image"
+			"NAME": "dxp-demo-mask-left-right"
 		}
 	],
 	"launchpad": [

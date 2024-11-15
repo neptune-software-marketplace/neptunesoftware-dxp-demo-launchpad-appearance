@@ -29,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.13.2204",
+	"ver": "24.11.15.1239",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -65,7 +65,7 @@
 	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": null,
+	"tileLayoutLight": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -79,6 +79,13 @@
 	"imageDarkHeightMedia": null,
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"oneGroupLayout": false,
+	"oneTileLayout": true,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -98,7 +105,7 @@
 			"id": "031bbf06-fe74-44f9-a89c-92caac0614a5",
 			"name": "dxp-demo-tile-buttons",
 			"title": "Tile Buttons",
-			"ver": "24.10.12.1023"
+			"ver": "24.11.15.1242"
 		}
 	]
 }

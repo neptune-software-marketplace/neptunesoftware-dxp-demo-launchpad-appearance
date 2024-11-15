@@ -81,6 +81,13 @@
 	"imageDarkHeightMedia": "150",
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"oneGroupLayout": false,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -88,19 +95,19 @@
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"name": "dxp-demo-header-image-purple-orange",
 			"title": "One Image - Title Right Alligened",
-			"ver": "24.10.31.2128"
+			"ver": "24.11.15.1324"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
 			"name": "dxp-demo-header-image-hurricanes-grid",
 			"title": "Different Images for Light & Dark Mode",
-			"ver": "24.10.31.2127"
+			"ver": "24.11.15.1324"
 		},
 		{
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"name": "dxp-demo-header-image-red-wave",
 			"title": "One Image - Title Centered",
-			"ver": "24.10.31.2128"
+			"ver": "24.11.15.1353"
 		}
 	]
 }

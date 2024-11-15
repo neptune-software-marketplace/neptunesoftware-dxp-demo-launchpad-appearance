@@ -79,6 +79,13 @@
 	"imageDarkHeightMedia": null,
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
+	"forceTileAttributes": false,
+	"forceGroupAttributes": false,
+	"imageDarkNone": false,
+	"imageTabletDarkNone": false,
+	"imageMobileDarkNone": false,
+	"oneGroupLayout": false,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -86,7 +93,7 @@
 			"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
 			"name": "dxp-demo-image-filter",
 			"title": "Image Filters",
-			"ver": "24.10.13.2238"
+			"ver": "24.11.15.1231"
 		}
 	]
 }
