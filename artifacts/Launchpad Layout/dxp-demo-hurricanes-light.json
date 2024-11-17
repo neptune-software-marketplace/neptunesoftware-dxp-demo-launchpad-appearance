@@ -17,7 +17,7 @@
 	],
 	"NAME": "dxp-demo-hurricanes-light",
 	"DESCR": null,
-	"ver": "24.11.17.1753",
+	"ver": "24.11.17.1854",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
 		".nepTileImage {\r",
@@ -47,7 +47,7 @@
 	"MOB_BUT_BACK": null,
 	"SHELL_BACK_COLOR": "transparent",
 	"SCROLL_COLOR": null,
-	"SCROLL_WIDTH": null,
+	"SCROLL_WIDTH": "thin",
 	"SCROLL_TRACK": null,
 	"TOP_TXT_COLOR": null,
 	"TOP_MENU_COLOR": null,
