@@ -17,11 +17,11 @@
 	],
 	"NAME": "dxp-demo-kraken-light",
 	"DESCR": null,
-	"ver": "24.11.17.1854",
+	"ver": "24.11.17.2214",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
 		".nepTileImage {\r",
-		"    filter: brightness(0.75) hue-rotate(155deg);\r",
+		"    filter: brightness(0.75) hue-rotate(140deg);\r",
 		"}"
 	],
 	"PAGE_BACK_COLOR": "transparent",
