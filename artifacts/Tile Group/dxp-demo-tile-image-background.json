@@ -97,25 +97,25 @@
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
 			"name": "dxp-demo-image-spacewalk",
 			"title": "Spacewalk",
-			"ver": "24.10.31.1956"
+			"ver": "24.11.17.1645"
 		},
 		{
 			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
 			"name": "dxp-demo-image-crew",
 			"title": "Crew",
-			"ver": "24.10.31.1957"
+			"ver": "24.11.17.1642"
 		},
 		{
 			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
 			"name": "dxp-demo-image-suit",
 			"title": "Suit",
-			"ver": "24.10.31.1958"
+			"ver": "24.11.17.1643"
 		},
 		{
 			"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
 			"name": "dxp-demo-image-interior",
 			"title": "Interior",
-			"ver": "24.10.31.1957"
+			"ver": "24.11.17.1643"
 		}
 	],
 	"tilegroups": []

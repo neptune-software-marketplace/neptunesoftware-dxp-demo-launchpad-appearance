@@ -99,19 +99,19 @@
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"name": "dxp-demo-header-image-storm",
 			"title": "One Image - Title Right Alligened",
-			"ver": "24.11.17.1352"
+			"ver": "24.11.17.1635"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
 			"name": "dxp-demo-header-image-hurricanes-grid",
 			"title": "Different Images for Light & Dark Mode",
-			"ver": "24.11.17.1008"
+			"ver": "24.11.17.1637"
 		},
 		{
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"name": "dxp-demo-header-image-waves",
 			"title": "One Image - Title Centered",
-			"ver": "24.11.17.1358"
+			"ver": "24.11.17.1634"
 		}
 	]
 }

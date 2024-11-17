@@ -103,49 +103,49 @@
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"name": "dxp-demo-weather-thunder",
 			"title": "Thunder",
-			"ver": "24.11.17.1328"
+			"ver": "24.11.17.1642"
 		},
 		{
 			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 			"name": "dxp-demo-weather-snow",
 			"title": "Snow",
-			"ver": "24.11.17.1242"
+			"ver": "24.11.17.1641"
 		},
 		{
 			"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
 			"name": "dxp-demo-weather-rain",
 			"title": "Rain",
-			"ver": "24.11.17.1241"
+			"ver": "24.11.17.1640"
 		},
 		{
 			"id": "8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 			"name": "dxp-demo-weather-fog",
 			"title": "Fog",
-			"ver": "24.11.17.1235"
+			"ver": "24.11.17.1640"
 		},
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 			"name": "dxp-demo-weather-wind",
 			"title": "Wind",
-			"ver": "24.11.17.1246"
+			"ver": "24.11.17.1641"
 		},
 		{
 			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
 			"name": "dxp-demo-weather-hail",
 			"title": "Hail",
-			"ver": "24.11.17.1237"
+			"ver": "24.11.17.1640"
 		},
 		{
 			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
 			"name": "dxp-demo-weather-sun",
 			"title": "Sun",
-			"ver": "24.11.17.1244"
+			"ver": "24.11.17.1641"
 		},
 		{
 			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
 			"name": "dxp-demo-weather-overcast",
 			"title": "Overcast",
-			"ver": "24.11.17.1240"
+			"ver": "24.11.17.1640"
 		}
 	],
 	"tilegroups": []
