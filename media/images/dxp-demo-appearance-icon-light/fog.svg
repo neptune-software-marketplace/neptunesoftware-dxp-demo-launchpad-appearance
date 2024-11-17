@@ -2,12 +2,12 @@
 <svg id="fog" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
   <line x1="48" y1="2" x2="62" y2="2" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
   <line x1="10" y1="2" x2="36" y2="2" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-  <line x1="28" y1="14" x2="58" y2="14" style="fill: none; stroke: #f1ad28; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-  <line x1="6" y1="14" x2="16" y2="14" style="fill: none; stroke: #f1ad28; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="28" y1="14" x2="58" y2="14" style="fill: none; stroke: #ff9c33; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="6" y1="14" x2="16" y2="14" style="fill: none; stroke: #ff9c33; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
   <line x1="2" y1="26" x2="54" y2="26" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-  <line x1="48.17" y1="38" x2="58" y2="38" style="fill: none; stroke: #f1ad28; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-  <line x1="6" y1="38" x2="36" y2="38" style="fill: none; stroke: #f1ad28; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="48.17" y1="38" x2="58" y2="38" style="fill: none; stroke: #ff9c33; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="6" y1="38" x2="36" y2="38" style="fill: none; stroke: #ff9c33; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
   <line x1="10" y1="50" x2="62" y2="50" style="fill: none; stroke: #424242; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-  <line x1="28.06" y1="62" x2="58" y2="62" style="fill: none; stroke: #f1ad28; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
-  <line x1="6" y1="62" x2="16" y2="62" style="fill: none; stroke: #f1ad28; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="28.06" y1="62" x2="58" y2="62" style="fill: none; stroke: #ff9c33; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <line x1="6" y1="62" x2="16" y2="62" style="fill: none; stroke: #ff9c33; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 4px;"/>
 </svg>

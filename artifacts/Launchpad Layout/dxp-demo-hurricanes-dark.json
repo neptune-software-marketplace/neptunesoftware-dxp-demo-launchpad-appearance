@@ -17,8 +17,13 @@
 	],
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "24.11.17.1633",
-	"CUSTOM_CSS": null,
+	"ver": "24.11.17.1753",
+	"CUSTOM_CSS": [
+		"==OBJECT STRING==",
+		".nepTileImage {\r",
+		"    filter: hue-rotate(315deg) brightness(.7) saturate(2);\r",
+		"}"
+	],
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/dxp-demo-appearance-layout/hurricanes-wallpaper-dark.jpg",
 	"TOP_BACK_COLOR": null,

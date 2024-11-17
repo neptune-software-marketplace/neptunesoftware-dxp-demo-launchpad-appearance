@@ -17,8 +17,13 @@
 	],
 	"NAME": "dxp-demo-kraken-light",
 	"DESCR": null,
-	"ver": "24.11.17.1631",
-	"CUSTOM_CSS": null,
+	"ver": "24.11.17.1756",
+	"CUSTOM_CSS": [
+		"==OBJECT STRING==",
+		".nepTileImage {\r",
+		"    filter: brightness(0.75) hue-rotate(155deg);\r",
+		"}"
+	],
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/dxp-demo-appearance-layout/kraken-wallpaper-light.jpg",
 	"TOP_BACK_COLOR": null,
