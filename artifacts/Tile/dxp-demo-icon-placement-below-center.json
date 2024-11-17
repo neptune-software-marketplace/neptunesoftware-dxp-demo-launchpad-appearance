@@ -2,6 +2,12 @@
 	"id": "786dc091-9cf0-47f5-a119-ec8a4d8b8b78",
 	"createdAt": "2024-09-22T17:13:33.063Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "1ec0811e-d1f0-4951-ba94-2aec21813c8c"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -25,7 +31,7 @@
 	"icon": "sap-icon://nep/export",
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": "1ec0811e-d1f0-4951-ba94-2aec21813c8c",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +66,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.15.1237",
+	"ver": "24.11.17.0239",
 	"actionWebApp": "",
 	"name": "dxp-demo-icon-placement-below-center",
 	"cardWidth": null,
@@ -88,7 +94,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

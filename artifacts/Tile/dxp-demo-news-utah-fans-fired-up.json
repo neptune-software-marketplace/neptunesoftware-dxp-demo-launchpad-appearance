@@ -2,6 +2,12 @@
 	"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
 	"createdAt": "2024-09-24T12:32:19.785Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "c61c6129-0f85-4961-a7ff-040441296f1c"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -25,7 +31,7 @@
 	"icon": null,
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": "c61c6129-0f85-4961-a7ff-040441296f1c",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +66,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.15.1128",
+	"ver": "24.11.17.0002",
 	"actionWebApp": null,
 	"name": "dxp-demo-news-utah-fans-fired-up",
 	"cardWidth": "Wider",
@@ -88,7 +94,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

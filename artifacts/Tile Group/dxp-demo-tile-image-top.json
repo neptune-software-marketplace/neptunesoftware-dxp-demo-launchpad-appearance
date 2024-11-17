@@ -11,6 +11,14 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda"
+		}
+	],
+	"darkTileLayouts": [],
 	"title": "Tile Image Top",
 	"subTitle": "All tiles with images added to the top",
 	"menuText": null,
@@ -30,7 +38,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1208",
+	"ver": "24.11.17.1005",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -66,7 +74,7 @@
 	"openClickTile": true,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -86,7 +94,7 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [
 		{

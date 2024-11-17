@@ -12,6 +12,10 @@
 		"b1e6222a-7c59-4e61-b91f-20960d2981c9"
 	],
 	"configMessage": {},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE",
@@ -31,7 +35,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1216",
+	"ver": "24.11.17.1008",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -67,7 +71,7 @@
 	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -87,7 +91,7 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -95,13 +99,13 @@
 			"id": "bd911597-4abb-49df-891c-555cb451a70a",
 			"name": "dxp-demo-tile-image-background-mask",
 			"title": "Tile Image Background Filter Mask",
-			"ver": "24.11.15.1211"
+			"ver": "24.11.17.1006"
 		},
 		{
 			"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
 			"name": "dxp-demo-tile-image-background-brightness",
 			"title": "Tile Image Background Filter Brightness",
-			"ver": "24.11.15.1213"
+			"ver": "24.11.17.1006"
 		},
 		{
 			"id": "afaf312d-be73-4bd6-9a3b-f5b026dd4e44",
@@ -113,13 +117,13 @@
 			"id": "43d6e570-3b5b-49cd-9c6c-137a82e14117",
 			"name": "dxp-demo-tile-image-inline",
 			"title": "Tile Image Inline",
-			"ver": "24.11.15.1209"
+			"ver": "24.11.17.1006"
 		},
 		{
 			"id": "060018d3-7efe-4682-8ce4-30f4da0e7093",
 			"name": "dxp-demo-tile-image-top",
 			"title": "Tile Image Top",
-			"ver": "24.11.15.1208"
+			"ver": "24.11.17.1005"
 		}
 	]
 }

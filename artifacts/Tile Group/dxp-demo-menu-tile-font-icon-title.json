@@ -10,6 +10,10 @@
 		"031bbf06-fe74-44f9-a89c-92caac0614a5"
 	],
 	"configMessage": {},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE FONT ICON & TITLE",
@@ -29,7 +33,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1239",
+	"ver": "24.11.17.1007",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -65,7 +69,7 @@
 	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -85,7 +89,7 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -93,7 +97,7 @@
 			"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
 			"name": "dxp-demo-tile-title",
 			"title": "Tile & Tile Group Title Size",
-			"ver": "24.10.12.1021"
+			"ver": "24.11.17.0250"
 		},
 		{
 			"id": "084633a5-96d1-4e28-bc9f-f85c15021930",
@@ -105,7 +109,7 @@
 			"id": "031bbf06-fe74-44f9-a89c-92caac0614a5",
 			"name": "dxp-demo-tile-buttons",
 			"title": "Tile Buttons",
-			"ver": "24.11.15.1242"
+			"ver": "24.11.17.1007"
 		}
 	]
 }

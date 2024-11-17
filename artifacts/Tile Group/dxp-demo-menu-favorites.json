@@ -12,6 +12,10 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": null,
+	"darkGroupLayouts": null,
+	"lightTileLayouts": null,
+	"darkTileLayouts": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "FAVORITES",
@@ -94,7 +98,7 @@
 			"id": "9b570512-0afd-4eb0-989e-865d6be75c23",
 			"name": "dxp-demo-app-style-variables",
 			"title": "Style Variables",
-			"ver": "24.10.31.1015"
+			"ver": "24.11.17.0244"
 		},
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",

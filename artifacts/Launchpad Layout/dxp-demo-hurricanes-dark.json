@@ -2,9 +2,22 @@
 	"id": "2a8b35fb-7d2a-430c-8215-0977a45ac92a",
 	"createdAt": "2024-09-30T22:58:42.078Z",
 	"createdBy": "morten",
+	"TILE_LAYOUTS": [
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53"
+		},
+		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06"
+		}
+	],
+	"GROUP_LAYOUTS": [
+		{
+			"id": "731eba12-cf37-41f8-943e-ee198b213b66"
+		}
+	],
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "24.11.12.1105",
+	"ver": "24.11.17.0909",
 	"CUSTOM_CSS": null,
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/hurricanes-wallpaper-dark.jpg",
@@ -51,8 +64,8 @@
 	"HEAD_BORDER_WDT": null,
 	"ENABLE_CALC": false,
 	"TILE_TYPE": null,
-	"TILE_LAYOUT": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
-	"GROUP_LAYOUT": "731eba12-cf37-41f8-943e-ee198b213b66",
+	"TILE_LAYOUT": null,
+	"GROUP_LAYOUT": null,
 	"VISIBLE_ALL": false,
 	"HEAD_FULL_WIDTH": false,
 	"TOP_MENU_BACK": null,
@@ -130,5 +143,7 @@
 	"FAVICON": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/neptune-connect-hurricanes.svg",
 	"STATUSBAR_BASE": null,
 	"THEME_BACK_COLOR": "#240004",
+	"ONE_GROUP_LAYOUT": false,
+	"ONE_TILE_LAYOUT": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

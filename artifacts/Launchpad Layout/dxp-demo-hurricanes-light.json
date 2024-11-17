@@ -2,9 +2,22 @@
 	"id": "262c50c7-984a-4d31-9812-dd33221fde62",
 	"createdAt": "2024-11-12T09:41:50.842Z",
 	"createdBy": "morten@neptune-software.com",
+	"TILE_LAYOUTS": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794"
+		},
+		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06"
+		}
+	],
+	"GROUP_LAYOUTS": [
+		{
+			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b"
+		}
+	],
 	"NAME": "dxp-demo-hurricanes-light",
 	"DESCR": null,
-	"ver": "24.11.12.1102",
+	"ver": "24.11.17.0248",
 	"CUSTOM_CSS": null,
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/horricanes-wallpaper-light.jpg",
@@ -130,5 +143,7 @@
 	"FAVICON": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/neptune-connect-hurricanes.svg",
 	"STATUSBAR_BASE": null,
 	"THEME_BACK_COLOR": "#f2f2f2",
+	"ONE_GROUP_LAYOUT": false,
+	"ONE_TILE_LAYOUT": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

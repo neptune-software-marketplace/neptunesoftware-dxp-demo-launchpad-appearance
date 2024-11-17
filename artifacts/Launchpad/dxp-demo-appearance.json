@@ -270,7 +270,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.11.15.1113",
+	"ver": "24.11.17.0016",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -298,7 +298,7 @@
 			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
 			"name": "dxp-demo-menu-tile-font-icon-title",
 			"title": "",
-			"ver": "24.11.15.1239"
+			"ver": "24.11.17.1007"
 		},
 		{
 			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
@@ -310,13 +310,13 @@
 			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
 			"name": "dxp-demo-menu-tile-image-icon",
 			"title": "",
-			"ver": "24.10.13.2203"
+			"ver": "24.11.17.0148"
 		},
 		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
 			"name": "dxp-demo-menu-tile-image",
 			"title": "",
-			"ver": "24.11.15.1216"
+			"ver": "24.11.17.1008"
 		},
 		{
 			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",

@@ -17,6 +17,14 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090"
+		}
+	],
+	"darkTileLayouts": [],
 	"title": "NHL Teams - Skinny & Tiny",
 	"subTitle": null,
 	"menuText": null,
@@ -36,7 +44,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1205",
+	"ver": "24.11.17.1027",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -72,7 +80,7 @@
 	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": "Skinny",
 	"cardHeight": "Tiny",
@@ -92,7 +100,7 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [
 		{

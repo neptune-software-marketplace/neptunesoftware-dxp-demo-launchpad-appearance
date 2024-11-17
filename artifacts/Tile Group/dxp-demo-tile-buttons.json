@@ -17,6 +17,14 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10"
+		}
+	],
+	"darkTileLayouts": [],
 	"title": "Tile Buttons",
 	"subTitle": "Open action and context menu buttons",
 	"menuText": null,
@@ -36,7 +44,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1242",
+	"ver": "24.11.17.1007",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -72,7 +80,7 @@
 	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -92,56 +100,56 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [
 		{
 			"id": "f37e689f-46ec-4298-9a7d-b841348f8868",
 			"name": "dxp-demo-icon-placement-below-left",
 			"title": "Icon",
-			"ver": "24.11.15.1237"
+			"ver": "24.11.17.0240"
 		},
 		{
 			"id": "e6339091-2f9f-4af5-a250-ea9b25b0f008",
 			"name": "dxp-demo-icon-placement-below-right",
 			"title": "Icon",
-			"ver": "24.11.15.1237"
+			"ver": "24.11.17.0239"
 		},
 		{
 			"id": "d24c4bf3-98c4-47f7-8b35-890751c18e03",
 			"name": "dxp-demo-icon-placement-above-right",
 			"title": "Icon",
-			"ver": "24.11.15.1236"
+			"ver": "24.11.17.0239"
 		},
 		{
 			"id": "c71cd197-fd36-42a8-857d-ce18adcc5341",
 			"name": "dxp-demo-icon-placement-inline-right",
 			"title": "Icon",
-			"ver": "24.11.15.1236"
+			"ver": "24.11.17.0240"
 		},
 		{
 			"id": "c4ad18f3-fd79-4c7d-b6fd-baafa481ecc0",
 			"name": "dxp-demo-icon-placement-above-left",
 			"title": "Icon",
-			"ver": "24.11.15.1233"
+			"ver": "24.11.17.0239"
 		},
 		{
 			"id": "786dc091-9cf0-47f5-a119-ec8a4d8b8b78",
 			"name": "dxp-demo-icon-placement-below-center",
 			"title": "Icon",
-			"ver": "24.11.15.1237"
+			"ver": "24.11.17.0239"
 		},
 		{
 			"id": "61d2c2ec-0b82-4e89-8ea6-7d4259f382d0",
 			"name": "dxp-demo-icon-placement-above-center",
 			"title": "Icon",
-			"ver": "24.11.15.1236"
+			"ver": "24.11.17.0239"
 		},
 		{
 			"id": "3dd5a12a-1f06-447f-9ff9-b936c1dbbf58",
 			"name": "dxp-demo-icon-placement-inline-left",
 			"title": "Icon",
-			"ver": "24.11.15.1237"
+			"ver": "24.11.17.0239"
 		}
 	],
 	"tilegroups": []

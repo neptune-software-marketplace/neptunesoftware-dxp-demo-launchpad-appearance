@@ -17,6 +17,10 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": null,
+	"darkGroupLayouts": null,
+	"lightTileLayouts": null,
+	"darkTileLayouts": null,
 	"title": "NHL Fantasy Teams",
 	"subTitle": null,
 	"menuText": null,

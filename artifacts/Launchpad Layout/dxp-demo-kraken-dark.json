@@ -2,9 +2,15 @@
 	"id": "45d1b888-1952-44b3-9657-3b458438c406",
 	"createdAt": "2024-11-06T00:08:08.854Z",
 	"createdBy": "morten",
+	"TILE_LAYOUTS": [
+		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06"
+		}
+	],
+	"GROUP_LAYOUTS": [],
 	"NAME": "dxp-demo-kraken-dark",
 	"DESCR": null,
-	"ver": "24.11.12.1108",
+	"ver": "24.11.17.1028",
 	"CUSTOM_CSS": null,
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/kraken-wallpaper-dark.jpg",
@@ -130,5 +136,7 @@
 	"FAVICON": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/neptune-connect-kraken.svg",
 	"STATUSBAR_BASE": null,
 	"THEME_BACK_COLOR": "#001628",
+	"ONE_GROUP_LAYOUT": false,
+	"ONE_TILE_LAYOUT": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

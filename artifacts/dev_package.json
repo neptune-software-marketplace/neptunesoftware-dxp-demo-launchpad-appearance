@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.15.1405",
+	"ver": "24.11.16.2357",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.0-rc.3",
@@ -415,7 +415,7 @@
 		},
 		{
 			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
-			"NAME": "dxp-demo-huricanes-dark"
+			"NAME": "dxp-demo-hurricanes-dark"
 		},
 		{
 			"id": "2f6b8f51-b428-4f15-9c69-b47195684645",
@@ -428,6 +428,14 @@
 		{
 			"id": "16402382-9ff5-4a19-b5de-a59dd6b8e844",
 			"NAME": "dxp-demo-icon-align-right"
+		},
+		{
+			"id": "14dce9b2-2e92-4023-a95d-87fba425e1ff",
+			"NAME": "dxp-demo-subtitle-h6"
+		},
+		{
+			"id": "0c8fcb7f-ad6d-4b98-9532-903fa3e7a3ce",
+			"NAME": "dxp-demo-title-h2"
 		}
 	],
 	"category": [
@@ -576,6 +584,10 @@
 		{
 			"id": "ed05a705-32a3-4aa6-8a44-54166d198660",
 			"NAME": "dxp-demo-mask-custom-center"
+		},
+		{
+			"id": "de74dab6-83fa-4668-9239-7466ac45374f",
+			"NAME": "dxp-demo-align-center"
 		},
 		{
 			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",

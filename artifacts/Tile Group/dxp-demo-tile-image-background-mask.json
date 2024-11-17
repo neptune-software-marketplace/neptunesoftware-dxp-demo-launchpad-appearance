@@ -11,6 +11,14 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "79531e0c-a313-4254-807d-e71a212904ae"
+		}
+	],
+	"darkTileLayouts": [],
 	"title": "Tile Image Background Filter Mask",
 	"subTitle": "Background images with top to bottom image mask",
 	"menuText": null,
@@ -30,7 +38,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1211",
+	"ver": "24.11.17.1006",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -66,7 +74,7 @@
 	"openClickTile": true,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "79531e0c-a313-4254-807d-e71a212904ae",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": null,
 	"cardHeight": null,
@@ -86,7 +94,7 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [
 		{

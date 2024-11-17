@@ -2,6 +2,12 @@
 	"id": "3dd5a12a-1f06-447f-9ff9-b936c1dbbf58",
 	"createdAt": "2024-09-22T17:05:50.652Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "5c94bb95-b846-4080-840b-fe00732cd99f"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -25,7 +31,7 @@
 	"icon": "sap-icon://nep/connectivity-group",
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": "5c94bb95-b846-4080-840b-fe00732cd99f",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +66,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.15.1237",
+	"ver": "24.11.17.0239",
 	"actionWebApp": "",
 	"name": "dxp-demo-icon-placement-inline-left",
 	"cardWidth": null,
@@ -88,7 +94,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

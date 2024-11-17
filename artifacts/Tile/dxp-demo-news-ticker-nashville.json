@@ -2,6 +2,12 @@
 	"id": "5ac891cb-b9cd-477f-a232-500744db8761",
 	"createdAt": "2024-09-24T13:00:52.566Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -25,7 +31,7 @@
 	"icon": "sap-icon://nep/app-cache",
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +66,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": true,
-	"ver": "24.11.15.1158",
+	"ver": "24.11.17.0000",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-nashville",
 	"cardWidth": null,
@@ -88,7 +94,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

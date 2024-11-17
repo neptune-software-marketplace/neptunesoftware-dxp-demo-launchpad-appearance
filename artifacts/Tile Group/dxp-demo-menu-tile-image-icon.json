@@ -12,6 +12,14 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": [
+		{
+			"id": "de74dab6-83fa-4668-9239-7466ac45374f"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE ICON",
@@ -31,7 +39,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.13.2203",
+	"ver": "24.11.17.0148",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -95,19 +103,13 @@
 			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 			"name": "dxp-demo-teams-skinny-tiny",
 			"title": "NHL Teams - Skinny & Tiny",
-			"ver": "24.11.15.1205"
-		},
-		{
-			"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
-			"name": "dxp-demo-news-fantacy-teams",
-			"title": "NHL Fantasy Teams",
-			"ver": "24.10.19.1015"
+			"ver": "24.11.17.1027"
 		},
 		{
 			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
 			"name": "dxp-demo-teams-narrow-short",
 			"title": "NHL Teams - Narrow & Short",
-			"ver": "24.11.15.1206"
+			"ver": "24.11.17.1007"
 		},
 		{
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",

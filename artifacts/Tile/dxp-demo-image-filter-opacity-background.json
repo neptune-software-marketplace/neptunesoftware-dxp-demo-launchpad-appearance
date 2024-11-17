@@ -2,6 +2,12 @@
 	"id": "212611b5-141f-460a-9637-a99651e5582a",
 	"createdAt": "2024-10-13T22:36:40.528Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "f36fbd26-f50e-415d-902c-1cb6a351bf04"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -25,7 +31,7 @@
 	"icon": null,
 	"backgroundType": null,
 	"backgroundColor": null,
-	"tileLayoutLight": "f36fbd26-f50e-415d-902c-1cb6a351bf04",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"backgroundShade": null,
 	"tileApplication": null,
@@ -60,7 +66,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.15.1222",
+	"ver": "24.11.17.0242",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-filter-opacity-background",
 	"cardWidth": "",
@@ -88,7 +94,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": []
 }

@@ -17,6 +17,14 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "c74ad149-2499-4d44-96bb-2fd3656290f6"
+		}
+	],
+	"darkTileLayouts": [],
 	"title": "NHL Teams - Narrow & Short",
 	"subTitle": null,
 	"menuText": null,
@@ -36,7 +44,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.15.1206",
+	"ver": "24.11.17.1007",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -72,7 +80,7 @@
 	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
-	"tileLayoutLight": "c74ad149-2499-4d44-96bb-2fd3656290f6",
+	"tileLayoutLight": null,
 	"tileLayoutDark": null,
 	"cardWidth": "Narrow",
 	"cardHeight": "Short",
@@ -92,7 +100,7 @@
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
 	"oneGroupLayout": false,
-	"oneTileLayout": true,
+	"oneTileLayout": false,
 	"roles": [],
 	"tiles": [
 		{

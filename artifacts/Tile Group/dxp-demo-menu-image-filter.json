@@ -10,6 +10,10 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"lightGroupLayouts": null,
+	"darkGroupLayouts": null,
+	"lightTileLayouts": null,
+	"darkTileLayouts": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "IMAGE FILTER",
@@ -93,7 +97,7 @@
 			"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
 			"name": "dxp-demo-image-filter",
 			"title": "Image Filters",
-			"ver": "24.11.15.1231"
+			"ver": "24.11.17.1007"
 		}
 	]
 }
