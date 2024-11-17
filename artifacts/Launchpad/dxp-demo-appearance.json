@@ -10,8 +10,7 @@
 		"82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
 		"fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 		"41b472ad-657a-4ea5-95ae-3f693f555f23",
-		"e538ea34-7f6a-450c-98a1-1f9318df2d12",
-		"6ee4ebe8-a57c-48c0-b805-da0037aa3307"
+		"e538ea34-7f6a-450c-98a1-1f9318df2d12"
 	],
 	"layout": [],
 	"config": {
@@ -270,7 +269,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.11.17.0016",
+	"ver": "24.11.17.1343",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -317,12 +316,6 @@
 			"name": "dxp-demo-menu-tile-image",
 			"title": "",
 			"ver": "24.11.17.1008"
-		},
-		{
-			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",
-			"name": "dxp-demo-menu-favorites",
-			"title": "",
-			"ver": "24.10.31.1019"
 		},
 		{
 			"id": "41b472ad-657a-4ea5-95ae-3f693f555f23",

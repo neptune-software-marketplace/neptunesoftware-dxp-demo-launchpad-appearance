@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.16.2357",
+	"ver": "24.11.17.1424",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.0-rc.3",
@@ -16,32 +16,8 @@
 	"roles": [],
 	"apps": [
 		{
-			"id": "c530eb39-0d32-403b-b2d2-705590d501b5",
-			"application": "dxp_demo_nhl_standings",
-			"title": "",
-			"description": ""
-		},
-		{
-			"id": "6efffd5d-b437-4959-a424-a6701dcd997d",
-			"application": "dxp_demo_custom_style_variables",
-			"title": "",
-			"description": ""
-		},
-		{
-			"id": "691f8ae0-221e-449e-a3af-d711e1548c1b",
-			"application": "dxp_demo_nhl_skater_stats",
-			"title": "NHL Goals",
-			"description": "NHL Skater Stats Leaders"
-		},
-		{
-			"id": "4551a61d-6b3f-4d65-9aa7-0b726cb31359",
-			"application": "dxp_demo_iconexplorer",
-			"title": "Neptune Icon Explorer",
-			"description": "Neptune Icon Explorer"
-		},
-		{
-			"id": "1fd31d5d-498d-44ce-8aa1-32aaef5670d0",
-			"application": "dxp_demo_nhl_player",
+			"id": "9a628aab-a32c-4405-83df-3d5de8dfc03b",
+			"application": "dxp_demo_appearance_placeholder",
 			"title": "",
 			"description": ""
 		}
@@ -91,7 +67,7 @@
 		{
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"description": null,
-			"name": "dxp-demo-team-edmonton-oilers"
+			"name": "dxp-demo-weather-thunder"
 		},
 		{
 			"id": "ee78cb9e-9a54-4929-b73e-555e6a4b1c55",
@@ -136,7 +112,7 @@
 		{
 			"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
 			"description": null,
-			"name": "dxp-demo-news-utah-fans-fired-up"
+			"name": "dxp-demo-season-hurricane"
 		},
 		{
 			"id": "b4e171e4-e8e4-4b72-92fe-18906b4eb8bd",
@@ -146,17 +122,12 @@
 		{
 			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 			"description": null,
-			"name": "dxp-demo-team-pittsburgh-penguins"
+			"name": "dxp-demo-weather-snow"
 		},
 		{
 			"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
 			"description": null,
-			"name": "dxp-demo-team-tampa-bay-lightning"
-		},
-		{
-			"id": "9b570512-0afd-4eb0-989e-865d6be75c23",
-			"description": null,
-			"name": "dxp-demo-app-style-variables"
+			"name": "dxp-demo-weather-rain"
 		},
 		{
 			"id": "98f8f903-732b-42d9-ada9-f2d855fa3840",
@@ -166,17 +137,17 @@
 		{
 			"id": "8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 			"description": null,
-			"name": "dxp-demo-team-vegas-golden-knights"
+			"name": "dxp-demo-weather-fog"
 		},
 		{
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
 			"description": null,
-			"name": "dxp-demo-news-ticker-montoya-stars"
+			"name": "dxp-demo-news-ticker-tornado"
 		},
 		{
 			"id": "84cbd15f-e771-48e4-838c-be029385e05f",
 			"description": null,
-			"name": "dxp-demo-news-ticker-st-louis-blues"
+			"name": "dxp-demo-news-ticker-thunder"
 		},
 		{
 			"id": "786dc091-9cf0-47f5-a119-ec8a4d8b8b78",
@@ -191,7 +162,7 @@
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 			"description": null,
-			"name": "dxp-demo-team-boston-bruins"
+			"name": "dxp-demo-weather-wind"
 		},
 		{
 			"id": "61d2c2ec-0b82-4e89-8ea6-7d4259f382d0",
@@ -206,12 +177,12 @@
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
 			"description": null,
-			"name": "dxp-demo-news-ticker-nashville"
+			"name": "dxp-demo-news-ticker-chilly"
 		},
 		{
 			"id": "57acc247-1be2-4ec4-a668-c20138e63427",
 			"description": null,
-			"name": "dxp-demo-news-ticker-preseason-roundup"
+			"name": "dxp-demo-news-ticker-sun"
 		},
 		{
 			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
@@ -221,27 +192,22 @@
 		{
 			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
 			"description": null,
-			"name": "dxp-demo-team-vancouver-canucks"
+			"name": "dxp-demo-weather-hail"
 		},
 		{
 			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
 			"description": null,
-			"name": "dxp-demo-team-philadelphia-flyers"
+			"name": "dxp-demo-weather-sun"
 		},
 		{
 			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
 			"description": null,
-			"name": "dxp-demo-ticker-news-faceoff"
+			"name": "dxp-demo-ticker-news-wind"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
 			"description": null,
 			"name": "dxp-demo-image-filter-brightness-top"
-		},
-		{
-			"id": "407e067c-b989-41ae-838a-7b54d576a289",
-			"description": null,
-			"name": "dxp-demo-style-class"
 		},
 		{
 			"id": "3dd5a12a-1f06-447f-9ff9-b936c1dbbf58",
@@ -256,7 +222,7 @@
 		{
 			"id": "3af17eb9-bb8b-42b9-97b3-a38c5fa1703e",
 			"description": null,
-			"name": "dxp-demo-news-ticker-camp-buzz"
+			"name": "dxp-demo-news-ticker-smog"
 		},
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
@@ -266,22 +232,22 @@
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
 			"description": null,
-			"name": "dxp-demo-news-story-break-out-for-canadiens"
+			"name": "dxp-demo-season-winter"
 		},
 		{
 			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
 			"description": null,
-			"name": "dxp-demo-team-toronto-maple-leafs"
+			"name": "dxp-demo-weather-overcast"
 		},
 		{
 			"id": "2ecc027b-8814-4141-ad35-9cfe597aed4a",
 			"description": null,
-			"name": "dxp-demo-news-story-hall-ready-to-contribute"
+			"name": "dxp-demo-season-spring"
 		},
 		{
 			"id": "22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
 			"description": null,
-			"name": "dxp-demo-news-story-goalie-split-for-wild"
+			"name": "dxp-demo-season-sun"
 		},
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
@@ -301,7 +267,7 @@
 		{
 			"id": "0bf25985-5375-4df4-96e1-1c555d9ed2ac",
 			"description": null,
-			"name": "dxp-demo-news-story-eyeing-deep-run"
+			"name": "dxp-demo-season-autumn"
 		}
 	],
 	"tile_layout": [
@@ -394,6 +360,10 @@
 			"NAME": "dxp-demo-icon-above-left"
 		},
 		{
+			"id": "6cb57ece-3cc6-4313-b08a-68b954fb9894",
+			"NAME": "dxp-demo-kraken-light"
+		},
+		{
 			"id": "5cb2acd7-2c6c-4244-8c22-f6808686f9cf",
 			"NAME": "dxp-demo-icon-below-right"
 		},
@@ -457,7 +427,7 @@
 		{
 			"id": "ddb17570-dafd-4dea-8933-d0c34f1b9e37",
 			"description": null,
-			"name": "dxp-demo-nhl-news-stories-inline-images"
+			"name": "dxp-demo-news-stories-inline-images"
 		},
 		{
 			"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
@@ -467,7 +437,7 @@
 		{
 			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 			"description": null,
-			"name": "dxp-demo-teams-skinny-tiny"
+			"name": "dxp-demo-size-skinny-tiny"
 		},
 		{
 			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
@@ -502,7 +472,7 @@
 		{
 			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
 			"description": null,
-			"name": "dxp-demo-teams-narrow-short"
+			"name": "dxp-demo-size-narrow-short"
 		},
 		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
@@ -512,12 +482,7 @@
 		{
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
 			"description": null,
-			"name": "dxp-demo-teams-small-small"
-		},
-		{
-			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",
-			"description": null,
-			"name": "dxp-demo-menu-favorites"
+			"name": "dxp-demo-size-small-small"
 		},
 		{
 			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
@@ -547,7 +512,7 @@
 		{
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"description": null,
-			"name": "dxp-demo-header-image-purple-orange"
+			"name": "dxp-demo-header-image-storm"
 		},
 		{
 			"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
@@ -562,7 +527,7 @@
 		{
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"description": null,
-			"name": "dxp-demo-header-image-red-wave"
+			"name": "dxp-demo-header-image-waves"
 		},
 		{
 			"id": "084633a5-96d1-4e28-bc9f-f85c15021930",

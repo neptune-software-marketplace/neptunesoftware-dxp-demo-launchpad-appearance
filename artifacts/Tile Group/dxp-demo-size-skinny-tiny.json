@@ -1,6 +1,6 @@
 {
-	"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
-	"createdAt": "2024-10-14T07:10:37.129Z",
+	"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
+	"createdAt": "2024-09-14T22:42:03.459Z",
 	"createdBy": "morten.prom@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
@@ -19,9 +19,13 @@
 	},
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090"
+		}
+	],
 	"darkTileLayouts": [],
-	"title": "Weather Fantasy Teams",
+	"title": "Skinny & Tiny (1x1)",
 	"subTitle": null,
 	"menuText": null,
 	"description": null,
@@ -35,7 +39,7 @@
 	"icon": null,
 	"sort": null,
 	"inclFav": false,
-	"styleClass": "nepDxpDemoSectionTeamsNarrowShort",
+	"styleClass": "nepDxpDemoSectionTeamsSkinnyTiny nepDxpDemoSectionSmallCentered nepDxpDemoSectionMarginTop",
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
@@ -54,8 +58,8 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "dxp-demo-news-fantacy-teams",
-	"cardContentWidth": "",
+	"name": "dxp-demo-size-skinny-tiny",
+	"cardContentWidth": "Small",
 	"cardContentAlign": "Center",
 	"cardPerRow": "",
 	"cardStyle": null,
@@ -78,8 +82,8 @@
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
 	"tileLayoutDark": null,
-	"cardWidth": "Narrow",
-	"cardHeight": "Short",
+	"cardWidth": "Skinny",
+	"cardHeight": "Tiny",
 	"tileBackgroundHeight": null,
 	"imageHeightMedia": null,
 	"imageTabletHeightMedia": null,

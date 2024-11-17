@@ -1,2 +1,0 @@
-if (!wins) return "";
-return `${wins}-${losses}-${otLosses}`;

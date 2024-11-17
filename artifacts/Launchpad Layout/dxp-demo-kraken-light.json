@@ -5,6 +5,9 @@
 	"TILE_LAYOUTS": [
 		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06"
+		},
+		{
+			"id": "6cb57ece-3cc6-4313-b08a-68b954fb9894"
 		}
 	],
 	"GROUP_LAYOUTS": [
@@ -14,7 +17,7 @@
 	],
 	"NAME": "dxp-demo-kraken-light",
 	"DESCR": null,
-	"ver": "24.11.17.1027",
+	"ver": "24.11.17.1339",
 	"CUSTOM_CSS": null,
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/neptunesoftware-dxp-demo-launchpad-appearance/layout/kraken-wallpaper-light.jpg",

@@ -1,8 +1,0 @@
-const context = oEvent.oSource.getBindingContext();
-const data = context.getObject();
-
-sap.n.Shell.loadSidepanel("dxp_demo_nhl_player", {
-    tabId: `nhlPlayer_${data.id}`,
-    tabTitle: `${data.firstName.default} ${data.lastName.default}`,
-    startParams: data
-});

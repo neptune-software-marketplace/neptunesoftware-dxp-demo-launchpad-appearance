@@ -40,8 +40,8 @@
 	"HD_FIL_OPACITY": "0",
 	"HD_FIL_SATURATEX": false,
 	"HD_FIL_SATURATE": "0",
-	"HD_MASK_IMG": "T",
-	"HD_MASK_CUSTOM": null,
+	"HD_MASK_IMG": "C",
+	"HD_MASK_CUSTOM": "radial-gradient(circle, transparent 24%, rgba(0,0,0,1) 75%)",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"ver": "24.11.15.1352"
+	"ver": "24.11.17.1358"
 }

@@ -1,2 +1,0 @@
-if (!id) return "";
-return `https://assets.nhle.com/mugs/actionshots/1296x729/${id}.jpg`;
