@@ -8,7 +8,7 @@
 		}
 	],
 	"NAME": "dxp-demo-news-master",
-	"ver": "24.11.15.1201",
+	"ver": "24.11.19.1204",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
@@ -32,7 +32,7 @@
 	"TITLE_LEVEL_SUB": null,
 	"FIORI_STYLE": null,
 	"BACK_WIDTH": "Wider",
-	"TILE_BACK_HEIGHT": "500px",
+	"TILE_BACK_HEIGHT": "",
 	"FIT_TILE_CONTENT": null,
 	"OPEN_BUTTON_NOTX": null,
 	"TILE_BACK_PLACE": null,

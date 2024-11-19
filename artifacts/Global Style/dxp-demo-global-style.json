@@ -4,7 +4,7 @@
 	"createdBy": "morten.prom@neptune-software.com",
 	"content": [],
 	"name": "dxp-demo-global-style",
-	"ver": "24.10.31.1023",
+	"ver": "24.11.19.1212",
 	"description": "Neptune DXP Demo Global Style",
 	"ui5Theme": "sap_fiori_3",
 	"stylesheet": null,
@@ -40,10 +40,10 @@
 		".nepDxpDemoSectionSmallCentered {\r",
 		"    border-radius: 1rem;\r",
 		"}\r",
-		".nepDxpDemoNewsUtah .sapFCard {\r",
+		".nepDxpDemoNewsMaster .sapFCard {\r",
 		"    flex-direction: column-reverse;\r",
 		"}\r",
-		".nepDxpDemoNewsUtah .sapFCard .sapFCardHeader {\r",
+		".nepDxpDemoNewsMaster .sapFCard .sapFCardHeader {\r",
 		"    margin-bottom: 1rem;\r",
 		"}\r",
 		".nepDxpDemoSectionTeamsNarrowShort .nepTileShort .nepTileImage,\r",
@@ -66,7 +66,12 @@
 		".nepDxpDemoGridNoPaddingBottom.nepGrid {\r",
 		"    padding-bottom: 0;\r",
 		"}\r",
-		""
+		".nepGroupHeaderMessage {\r",
+		"    display: none;\r",
+		"}\r",
+		".nepDxpDemoHelp .nepGroupHeaderMessage {\r",
+		"    display: flex;\r",
+		"}"
 	],
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }
