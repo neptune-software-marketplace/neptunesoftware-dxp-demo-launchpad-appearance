@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.19.1222",
+	"ver": "24.11.22.0025",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.1",
