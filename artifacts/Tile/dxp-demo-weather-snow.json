@@ -2,7 +2,11 @@
 	"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 	"createdAt": "2024-09-14T23:44:48.750Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "98ff3698-6d26-41c7-9f99-c35705b03e98"
+		}
+	],
 	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
@@ -54,7 +58,6 @@
 	"styleClass": null,
 	"titleAlignment": null,
 	"titleLevel": null,
-	"subTitleLevel": null,
 	"dataUrl": null,
 	"dataInterval": null,
 	"footer": "Every winter has its spring",
@@ -66,7 +69,7 @@
 	"helpText": "<p><br></p>",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2038",
+	"ver": "24.11.19.2329",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-snow",
 	"cardWidth": "",
@@ -80,11 +83,7 @@
 	"imageRepeat": null,
 	"imageSize": null,
 	"imagePosition": null,
-	"iconPlacement": "",
-	"imgShapeCircle": false,
-	"iconOnlyMenu": false,
 	"forceAttributes": false,
-	"imageType": null,
 	"openText": null,
 	"imageHeight": null,
 	"bodyHeight": null,

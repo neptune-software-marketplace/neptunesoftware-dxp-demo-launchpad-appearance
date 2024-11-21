@@ -2,7 +2,11 @@
 	"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
 	"createdAt": "2024-09-22T18:14:34.284Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda"
+		}
+	],
 	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
@@ -50,7 +54,6 @@
 	"styleClass": null,
 	"titleAlignment": null,
 	"titleLevel": null,
-	"subTitleLevel": null,
 	"dataUrl": null,
 	"dataInterval": null,
 	"footer": "As long as we’re living and breathing...",
@@ -62,7 +65,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2038",
+	"ver": "24.11.19.2323",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-interior",
 	"cardWidth": null,
@@ -76,11 +79,7 @@
 	"imageRepeat": null,
 	"imageSize": null,
 	"imagePosition": null,
-	"iconPlacement": null,
-	"imgShapeCircle": false,
-	"iconOnlyMenu": false,
 	"forceAttributes": false,
-	"imageType": null,
 	"openText": null,
 	"imageHeight": null,
 	"bodyHeight": null,

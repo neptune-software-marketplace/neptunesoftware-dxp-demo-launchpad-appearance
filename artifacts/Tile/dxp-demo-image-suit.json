@@ -2,7 +2,11 @@
 	"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
 	"createdAt": "2024-09-22T18:15:52.819Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda"
+		}
+	],
 	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
@@ -50,7 +54,6 @@
 	"styleClass": null,
 	"titleAlignment": null,
 	"titleLevel": null,
-	"subTitleLevel": null,
 	"dataUrl": null,
 	"dataInterval": null,
 	"footer": "Guilt is like salt...",
@@ -62,7 +65,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2039",
+	"ver": "24.11.19.2323",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-suit",
 	"cardWidth": null,
@@ -76,11 +79,7 @@
 	"imageRepeat": null,
 	"imageSize": null,
 	"imagePosition": null,
-	"iconPlacement": null,
-	"imgShapeCircle": false,
-	"iconOnlyMenu": false,
 	"forceAttributes": false,
-	"imageType": null,
 	"openText": null,
 	"imageHeight": null,
 	"bodyHeight": null,

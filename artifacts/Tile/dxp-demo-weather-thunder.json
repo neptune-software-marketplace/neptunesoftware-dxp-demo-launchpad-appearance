@@ -2,7 +2,11 @@
 	"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 	"createdAt": "2024-09-14T23:46:06.360Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "98ff3698-6d26-41c7-9f99-c35705b03e98"
+		}
+	],
 	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
@@ -50,7 +54,6 @@
 	"styleClass": null,
 	"titleAlignment": null,
 	"titleLevel": null,
-	"subTitleLevel": null,
 	"dataUrl": null,
 	"dataInterval": null,
 	"footer": "I go where the sound of thunder is.",
@@ -62,7 +65,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2038",
+	"ver": "24.11.19.2329",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-thunder",
 	"cardWidth": "",
@@ -76,11 +79,7 @@
 	"imageRepeat": null,
 	"imageSize": null,
 	"imagePosition": null,
-	"iconPlacement": "",
-	"imgShapeCircle": false,
-	"iconOnlyMenu": false,
 	"forceAttributes": false,
-	"imageType": null,
 	"openText": null,
 	"imageHeight": null,
 	"bodyHeight": null,

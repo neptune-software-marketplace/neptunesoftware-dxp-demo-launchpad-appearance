@@ -2,7 +2,11 @@
 	"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
 	"createdAt": "2024-09-14T23:45:14.842Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "98ff3698-6d26-41c7-9f99-c35705b03e98"
+		}
+	],
 	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
@@ -54,7 +58,6 @@
 	"styleClass": null,
 	"titleAlignment": null,
 	"titleLevel": null,
-	"subTitleLevel": null,
 	"dataUrl": null,
 	"dataInterval": null,
 	"footer": "If you want to see the sunshine, you have to weather the storm",
@@ -66,7 +69,7 @@
 	"helpText": "<p><br></p>",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2038",
+	"ver": "24.11.19.2329",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-sun",
 	"cardWidth": "",
@@ -80,11 +83,7 @@
 	"imageRepeat": null,
 	"imageSize": null,
 	"imagePosition": null,
-	"iconPlacement": "",
-	"imgShapeCircle": false,
-	"iconOnlyMenu": false,
 	"forceAttributes": false,
-	"imageType": null,
 	"openText": null,
 	"imageHeight": null,
 	"bodyHeight": null,

@@ -15,14 +15,20 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
-		"type": "None"
+		"type": "None",
+		"text": [
+			"==OBJECT STRING==",
+			"<code>dxp-demo-icon-placement</code><br>",
+			"Standard section tile group with standard tiles displaying tile icons in various placements"
+		],
+		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"084633a5-96d1-4e28-bc9f-f85c15021930\"%2C\"name\"%3A\"dxp-demo-icon-placement\"%7D"
 	},
-	"lightGroupLayouts": null,
-	"darkGroupLayouts": null,
-	"lightTileLayouts": null,
-	"darkTileLayouts": null,
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "Icon Placement",
-	"subTitle": null,
+	"subTitle": "Tiles icons with various placement in tile",
 	"menuText": null,
 	"description": null,
 	"enableFullScreen": false,
@@ -39,8 +45,8 @@
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": false,
-	"ver": "24.10.12.1024",
+	"enableMessage": true,
+	"ver": "24.11.19.1953",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

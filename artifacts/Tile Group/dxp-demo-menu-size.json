@@ -1,33 +1,25 @@
 {
-	"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
-	"createdAt": "2024-10-10T00:13:03.178Z",
-	"createdBy": "morten.prom@neptune-software.com",
+	"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
+	"createdAt": "2024-11-19T19:27:29.160Z",
+	"createdBy": "morten@neptune-software.com",
 	"translation": [],
-	"tilesOrder": [
-		"f29d8323-484c-47b2-bb77-99698adf76b4",
-		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
-		"4f5b2752-ed92-4ec7-a6fc-d30446b33939",
-		"3c24032a-d234-4c07-9a63-9087cdbe3940"
+	"tilesOrder": [],
+	"tilegroupsOrder": [
+		"5e23413c-d854-4b90-b1a5-34aaa6462bc3",
+		"2263b67f-6365-4622-aad2-3ded99553a19",
+		"2631a381-0cb2-4c36-9514-94bb726e4f93"
 	],
-	"tilegroupsOrder": [],
 	"configMessage": {},
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "b3883aab-6c40-41b4-9d18-7d2a2841c15c"
-		},
-		{
-			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5"
-		}
-	],
+	"lightTileLayouts": [],
 	"darkTileLayouts": [],
-	"title": "Tile Image Background Filter Brightness",
-	"subTitle": "50% brightness. Tile layout with white text added to tile group",
-	"menuText": null,
+	"title": "dxp-demo-menu-size",
+	"subTitle": null,
+	"menuText": "SIZE",
 	"description": null,
 	"enableFullScreen": false,
-	"hideHeader": false,
+	"hideHeader": true,
 	"backgroundType": "cards",
 	"backgroundColor": "",
 	"backgroundShade": null,
@@ -36,12 +28,12 @@
 	"icon": null,
 	"sort": null,
 	"inclFav": false,
-	"styleClass": "nepDxpDemoSectionBackgroundImage",
+	"styleClass": null,
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.19.2323",
+	"ver": "24.11.19.2334",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -55,7 +47,7 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "dxp-demo-tile-image-background-brightness",
+	"name": "dxp-demo-menu-size",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
@@ -74,7 +66,7 @@
 	"roleTag": null,
 	"cockpitTileGroup": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"openClickTile": true,
+	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
@@ -99,31 +91,25 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"tiles": [
+	"tiles": [],
+	"tilegroups": [
 		{
-			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
-			"name": "dxp-demo-image-spacewalk",
-			"title": "Spacewalk",
-			"ver": "24.11.19.2319"
+			"id": "5e23413c-d854-4b90-b1a5-34aaa6462bc3",
+			"name": "dxp-demo-size-many",
+			"title": "Many Tiles pr Row",
+			"ver": "24.11.19.2331"
 		},
 		{
-			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
-			"name": "dxp-demo-image-crew",
-			"title": "Crew",
-			"ver": "24.11.19.2324"
+			"id": "2631a381-0cb2-4c36-9514-94bb726e4f93",
+			"name": "dxp-demo-size-few",
+			"title": "Few Tiles pr Row",
+			"ver": "24.11.19.2334"
 		},
 		{
-			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
-			"name": "dxp-demo-image-suit",
-			"title": "Suit",
-			"ver": "24.11.19.2323"
-		},
-		{
-			"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
-			"name": "dxp-demo-image-interior",
-			"title": "Interior",
-			"ver": "24.11.19.2323"
+			"id": "2263b67f-6365-4622-aad2-3ded99553a19",
+			"name": "dxp-demo-size-more",
+			"title": "More Tiles pr Row",
+			"ver": "24.11.19.2333"
 		}
-	],
-	"tilegroups": []
+	]
 }

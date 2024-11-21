@@ -1,41 +1,31 @@
 {
-	"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
-	"createdAt": "2024-10-14T07:10:37.129Z",
-	"createdBy": "morten.prom@neptune-software.com",
+	"id": "2631a381-0cb2-4c36-9514-94bb726e4f93",
+	"createdAt": "2024-11-19T22:34:14.119Z",
+	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
+		"c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
+		"f29d8323-484c-47b2-bb77-99698adf76b4",
+		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
+		"3c24032a-d234-4c07-9a63-9087cdbe3940",
+		"4f5b2752-ed92-4ec7-a6fc-d30446b33939",
 		"757ca572-4401-4e4f-8e7a-56309357a526",
-		"a658d165-847d-41ec-8b18-3a9d020f8421",
-		"2ef0a021-120b-47bf-9347-523fe8e1264c",
-		"f1f38d9a-80ff-4f7d-98a4-1e756a215369",
-		"b1a7b690-7570-4da8-a6c4-9fb909f3f669",
+		"44826820-fab7-4d35-b4e2-84b6453903cf",
 		"4702fde2-7129-401a-8ca5-c261e7b8225e",
-		"44826820-fab7-4d35-b4e2-84b6453903cf"
+		"b1a7b690-7570-4da8-a6c4-9fb909f3f669",
+		"f1f38d9a-80ff-4f7d-98a4-1e756a215369",
+		"2ef0a021-120b-47bf-9347-523fe8e1264c",
+		"a658d165-847d-41ec-8b18-3a9d020f8421",
+		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb"
 	],
 	"tilegroupsOrder": [],
-	"configMessage": {
-		"type": "None",
-		"text": [
-			"==OBJECT STRING==",
-			"<code>dxp-demo-news-fantacy-teams</code><br>",
-			"Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. The tile group has a 4x4 tile layout overwriting the 2x2 tile layout set on the tiles."
-		],
-		"showCloseButton": false,
-		"showIcon": false,
-		"icon": "sap-icon://nep/adaptive-designer",
-		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c07341a3-9c1d-412e-b034-e605cd49aa11\"%2C\"name\"%3A\"dxp-demo-news-fantacy-teams\"%7D"
-	},
+	"configMessage": {},
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "c01ceaef-1da7-4b7b-a2f9-0bf0c0061fdd"
-		}
-	],
+	"lightTileLayouts": [],
 	"darkTileLayouts": [],
-	"title": "Weather Fantasy Teams",
-	"subTitle": null,
+	"title": "Few Tiles pr Row",
+	"subTitle": "",
 	"menuText": null,
 	"description": null,
 	"enableFullScreen": false,
@@ -48,12 +38,12 @@
 	"icon": null,
 	"sort": null,
 	"inclFav": false,
-	"styleClass": "nepDxpDemoSectionTeamsNarrowShort",
+	"styleClass": null,
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": true,
-	"ver": "24.11.20.2032",
+	"enableMessage": false,
+	"ver": "24.11.19.2334",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -67,10 +57,10 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "dxp-demo-news-fantacy-teams",
-	"cardContentWidth": "",
-	"cardContentAlign": "Center",
-	"cardPerRow": "",
+	"name": "dxp-demo-size-few",
+	"cardContentWidth": null,
+	"cardContentAlign": null,
+	"cardPerRow": "Few",
 	"cardStyle": null,
 	"cardHeightFit": false,
 	"imagePlacement": null,
@@ -91,8 +81,8 @@
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
 	"tileLayoutDark": null,
-	"cardWidth": "Narrow",
-	"cardHeight": "Short",
+	"cardWidth": null,
+	"cardHeight": null,
 	"tileBackgroundHeight": null,
 	"imageHeightMedia": null,
 	"imageTabletHeightMedia": null,
@@ -113,10 +103,22 @@
 	"roles": [],
 	"tiles": [
 		{
+			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
+			"name": "dxp-demo-image-spacewalk",
+			"title": "Spacewalk",
+			"ver": "24.11.19.2319"
+		},
+		{
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"name": "dxp-demo-weather-thunder",
 			"title": "Thunder",
 			"ver": "24.11.19.2329"
+		},
+		{
+			"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
+			"name": "dxp-demo-season-hurricane",
+			"title": "A third November storm",
+			"ver": "24.11.19.1212"
 		},
 		{
 			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
@@ -143,6 +145,12 @@
 			"ver": "24.11.19.2327"
 		},
 		{
+			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
+			"name": "dxp-demo-image-crew",
+			"title": "Crew",
+			"ver": "24.11.19.2324"
+		},
+		{
 			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
 			"name": "dxp-demo-weather-hail",
 			"title": "Hail",
@@ -155,10 +163,22 @@
 			"ver": "24.11.19.2329"
 		},
 		{
+			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
+			"name": "dxp-demo-image-suit",
+			"title": "Suit",
+			"ver": "24.11.19.2323"
+		},
+		{
 			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
 			"name": "dxp-demo-weather-overcast",
 			"title": "Overcast",
 			"ver": "24.11.19.2329"
+		},
+		{
+			"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
+			"name": "dxp-demo-image-interior",
+			"title": "Interior",
+			"ver": "24.11.19.2323"
 		}
 	],
 	"tilegroups": []
