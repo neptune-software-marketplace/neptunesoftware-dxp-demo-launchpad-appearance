@@ -20,6 +20,12 @@
 			"application": "dxp_demo_appearance_placeholder",
 			"title": "",
 			"description": ""
+		},
+		{
+			"id": "2b374984-036d-4f13-82d6-d004c4e6983e",
+			"application": "dxp_demo_appearance_help",
+			"title": "",
+			"description": ""
 		}
 	],
 	"api": [
