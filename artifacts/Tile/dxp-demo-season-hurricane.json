@@ -5,6 +5,9 @@
 	"lightTileLayouts": [
 		{
 			"id": "c61c6129-0f85-4961-a7ff-040441296f1c"
+		},
+		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06"
 		}
 	],
 	"darkTileLayouts": [],
@@ -69,7 +72,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.19.1212",
+	"ver": "24.11.24.1319",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-hurricane",
 	"cardWidth": "Wider",

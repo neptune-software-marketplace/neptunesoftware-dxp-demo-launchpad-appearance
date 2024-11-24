@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.22.0025",
+	"ver": "24.11.24.1527",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.1",
@@ -28,14 +28,7 @@
 			"description": ""
 		}
 	],
-	"api": [
-		{
-			"id": "61f8d9eb-8b45-4650-90dc-8a5fa8cf1908",
-			"name": "dxpDemoAppearanceNHL",
-			"description": null,
-			"apiGroup": "5f01ae2e-6459-4dd8-a5aa-e81a1e806352"
-		}
-	],
+	"api": [],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
@@ -52,13 +45,7 @@
 	"rulesengine": [],
 	"reports": [],
 	"api_authentication": [],
-	"api_group": [
-		{
-			"id": "5f01ae2e-6459-4dd8-a5aa-e81a1e806352",
-			"name": "DXPDemoAppearance",
-			"description": "Collection of APIs use in the Neptune Appearance Demo applications"
-		}
-	],
+	"api_group": [],
 	"tile": [
 		{
 			"id": "f37e689f-46ec-4298-9a7d-b841348f8868",
@@ -98,7 +85,7 @@
 		{
 			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
 			"description": null,
-			"name": "dxp-demo-background-image-mask-right"
+			"name": "dxp-demo-image-filter-mask-right"
 		},
 		{
 			"id": "d24c4bf3-98c4-47f7-8b35-890751c18e03",
@@ -178,7 +165,7 @@
 		{
 			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
 			"description": null,
-			"name": "dxp-demo-background-image-mask-left"
+			"name": "dxp-demo-image-filter-mask-left"
 		},
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
@@ -208,7 +195,7 @@
 		{
 			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
 			"description": null,
-			"name": "dxp-demo-ticker-news-wind"
+			"name": "dxp-demo-news-ticker-wind"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
@@ -233,7 +220,7 @@
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
 			"description": null,
-			"name": "dxp-demo-background-image-mask-bottom"
+			"name": "dxp-demo-image-filter-mask-bottom"
 		},
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
@@ -258,7 +245,7 @@
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
 			"description": null,
-			"name": "dxp-demo-background-image-mask-top"
+			"name": "dxp-demo-image-filter-mask-top"
 		},
 		{
 			"id": "212611b5-141f-460a-9637-a99651e5582a",
@@ -342,6 +329,10 @@
 			"NAME": "dxp-demo-size-4x4"
 		},
 		{
+			"id": "be880ce9-a6a9-4e86-a3cc-d49663105d8e",
+			"NAME": "dxp-demo-plain-background"
+		},
+		{
 			"id": "b8781fc2-38a3-4048-ba92-3b976ba98339",
 			"NAME": "dxp-demo-filter-blur"
 		},
@@ -363,7 +354,7 @@
 		},
 		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
-			"NAME": "dxp-demo-clickable-tiles"
+			"NAME": "dxp-demo-clickable-tile"
 		},
 		{
 			"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090",
@@ -384,6 +375,10 @@
 		{
 			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
 			"NAME": "dxp-demo-image-background"
+		},
+		{
+			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3",
+			"NAME": "dxp-demo-image-height-180px"
 		},
 		{
 			"id": "5cb2acd7-2c6c-4244-8c22-f6808686f9cf",
@@ -656,7 +651,7 @@
 	"doc": [
 		{
 			"id": "d057f8c0-a855-42eb-8396-5e8110712a72",
-			"application": "dxp_demo_nhl_skater_stats"
+			"application": "dxp_demo_appearance_help"
 		}
 	],
 	"wf_notifications": [],

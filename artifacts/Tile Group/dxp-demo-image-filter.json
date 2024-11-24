@@ -23,7 +23,11 @@
 	},
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3"
+		}
+	],
 	"darkTileLayouts": [],
 	"title": "Image Filters",
 	"subTitle": "Tiles with an image with one applied filter",
@@ -39,12 +43,12 @@
 	"icon": null,
 	"sort": null,
 	"inclFav": false,
-	"styleClass": null,
+	"styleClass": "",
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.17.1007",
+	"ver": "24.11.23.1042",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -119,13 +123,13 @@
 			"id": "de1ec056-62ce-4985-9e08-3bec46f2ba8c",
 			"name": "dxp-demo-image-filter-opacity-top",
 			"title": "Filter Image Opacity",
-			"ver": "24.11.17.2040"
+			"ver": "24.11.23.0928"
 		},
 		{
 			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
-			"name": "dxp-demo-background-image-mask-right",
+			"name": "dxp-demo-image-filter-mask-right",
 			"title": "Background Image Mask Right",
-			"ver": "24.11.17.2039"
+			"ver": "24.11.23.0955"
 		},
 		{
 			"id": "b4e171e4-e8e4-4b72-92fe-18906b4eb8bd",
@@ -147,9 +151,9 @@
 		},
 		{
 			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
-			"name": "dxp-demo-background-image-mask-left",
+			"name": "dxp-demo-image-filter-mask-left",
 			"title": "Background Image Mask Left",
-			"ver": "24.11.17.2039"
+			"ver": "24.11.23.0955"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
@@ -159,15 +163,15 @@
 		},
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
-			"name": "dxp-demo-background-image-mask-bottom",
+			"name": "dxp-demo-image-filter-mask-bottom",
 			"title": "Background Image Mask Bottom",
-			"ver": "24.11.17.2039"
+			"ver": "24.11.23.0955"
 		},
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
-			"name": "dxp-demo-background-image-mask-top",
+			"name": "dxp-demo-image-filter-mask-top",
 			"title": "Background Image Mask Top",
-			"ver": "24.11.17.2039"
+			"ver": "24.11.23.0955"
 		},
 		{
 			"id": "212611b5-141f-460a-9637-a99651e5582a",

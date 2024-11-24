@@ -17,7 +17,7 @@
 	],
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "24.11.17.1753",
+	"ver": "24.11.24.1230",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
 		".nepTileImage {\r",

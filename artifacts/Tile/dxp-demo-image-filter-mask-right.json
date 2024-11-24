@@ -1,18 +1,18 @@
 {
-	"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
-	"createdAt": "2024-10-08T07:42:58.927Z",
+	"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
+	"createdAt": "2024-10-08T07:43:21.348Z",
 	"createdBy": "morten.prom@neptune-software.com",
 	"lightTileLayouts": [
 		{
-			"id": "46221e9d-7714-4925-a179-1cd8fa05d3ef"
+			"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90"
 		}
 	],
 	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
-	"title": "Background Image Mask Left",
-	"subTitle": "Gradient from left to right",
+	"title": "Background Image Mask Right",
+	"subTitle": "Gradient from right to left",
 	"description": null,
 	"categoryID": null,
 	"sort": null,
@@ -51,7 +51,7 @@
 	"sidepanelTitle": null,
 	"tags": "",
 	"actiongroup": null,
-	"styleClass": "nepDxpDemoTileBackgroundImage",
+	"styleClass": "",
 	"titleAlignment": null,
 	"titleLevel": null,
 	"dataUrl": null,
@@ -65,9 +65,9 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2039",
+	"ver": "24.11.23.0955",
 	"actionWebApp": "",
-	"name": "dxp-demo-background-image-mask-left",
+	"name": "dxp-demo-image-filter-mask-right",
 	"cardWidth": null,
 	"cardHeight": null,
 	"cardHeightFit": false,

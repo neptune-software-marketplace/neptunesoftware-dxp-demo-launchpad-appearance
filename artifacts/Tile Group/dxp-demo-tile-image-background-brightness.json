@@ -19,6 +19,9 @@
 		},
 		{
 			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5"
+		},
+		{
+			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3"
 		}
 	],
 	"darkTileLayouts": [],
@@ -41,7 +44,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.19.2323",
+	"ver": "24.11.24.1450",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

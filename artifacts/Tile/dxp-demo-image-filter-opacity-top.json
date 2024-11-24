@@ -5,6 +5,9 @@
 	"lightTileLayouts": [
 		{
 			"id": "f36fbd26-f50e-415d-902c-1cb6a351bf04"
+		},
+		{
+			"id": "f454519b-543e-4b85-b09c-b66775b9942f"
 		}
 	],
 	"darkTileLayouts": [],
@@ -65,7 +68,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2040",
+	"ver": "24.11.23.0928",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-filter-opacity-top",
 	"cardWidth": "",
