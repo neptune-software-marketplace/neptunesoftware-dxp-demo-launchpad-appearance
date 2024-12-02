@@ -12,14 +12,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": [
-		{
-			"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c"
-		}
-	],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": "",
 	"menuText": "HEADER IMAGE",
@@ -97,6 +90,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [
+		{
+			"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c",
+			"ver": "24.11.20.0029"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
 		{

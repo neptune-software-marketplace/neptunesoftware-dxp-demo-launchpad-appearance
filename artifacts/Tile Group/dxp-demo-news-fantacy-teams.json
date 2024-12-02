@@ -26,14 +26,7 @@
 		"icon": "sap-icon://nep/adaptive-designer",
 		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c07341a3-9c1d-412e-b034-e605cd49aa11\"%2C\"name\"%3A\"dxp-demo-news-fantacy-teams\"%7D"
 	},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "c01ceaef-1da7-4b7b-a2f9-0bf0c0061fdd"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Weather Fantasy Teams",
 	"subTitle": null,
 	"menuText": null,
@@ -111,6 +104,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "c01ceaef-1da7-4b7b-a2f9-0bf0c0061fdd",
+			"ver": "24.11.20.2030"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",

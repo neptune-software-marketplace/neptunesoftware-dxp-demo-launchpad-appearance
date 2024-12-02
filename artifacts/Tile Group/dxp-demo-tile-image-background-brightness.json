@@ -11,20 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "b3883aab-6c40-41b4-9d18-7d2a2841c15c"
-		},
-		{
-			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5"
-		},
-		{
-			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Tile Image Background Filter Brightness",
 	"subTitle": "50% brightness. Tile layout with white text added to tile group",
 	"menuText": null,
@@ -102,6 +89,23 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3",
+			"ver": "24.10.12.2217"
+		},
+		{
+			"id": "b3883aab-6c40-41b4-9d18-7d2a2841c15c",
+			"ver": "24.11.15.1224"
+		},
+		{
+			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
+			"ver": "24.11.19.2321"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",

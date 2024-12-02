@@ -23,14 +23,7 @@
 		],
 		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"031bbf06-fe74-44f9-a89c-92caac0614a5\"%2C\"name\"%3A\"dxp-demo-tile-buttons\"%7D"
 	},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Tile Buttons",
 	"subTitle": "Open action and context menu buttons",
 	"menuText": null,
@@ -108,6 +101,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
+			"ver": "24.11.17.1819"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f37e689f-46ec-4298-9a7d-b841348f8868",

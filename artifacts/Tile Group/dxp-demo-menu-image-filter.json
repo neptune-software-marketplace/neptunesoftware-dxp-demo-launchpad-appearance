@@ -10,10 +10,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": null,
-	"darkGroupLayouts": null,
-	"lightTileLayouts": null,
-	"darkTileLayouts": null,
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "IMAGE FILTER",
@@ -91,6 +88,10 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
 		{

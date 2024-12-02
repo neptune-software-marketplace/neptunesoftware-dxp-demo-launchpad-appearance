@@ -30,10 +30,7 @@
 		],
 		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c1aebb86-6128-4427-b8e7-e53c7cc57458\"%2C\"name\"%3A\"dxp-demo-menu-news\"%7D"
 	},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "NEWS",
@@ -53,7 +50,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "24.11.19.1210",
+	"ver": "24.12.02.1901",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -111,6 +108,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
+			"ver": "24.11.24.1319"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",

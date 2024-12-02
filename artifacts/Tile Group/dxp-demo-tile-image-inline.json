@@ -11,14 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "54e58174-6414-4e14-9351-07adc1ebaa26"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Tile Image Inline",
 	"subTitle": "All tiles with images added inline below the title",
 	"menuText": null,
@@ -96,6 +89,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "54e58174-6414-4e14-9351-07adc1ebaa26",
+			"ver": "24.11.15.1209"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",

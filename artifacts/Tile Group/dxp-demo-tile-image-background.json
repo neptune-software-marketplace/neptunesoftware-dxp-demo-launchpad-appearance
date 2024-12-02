@@ -11,14 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Tile Image Background",
 	"subTitle": "All tiles with images added as a background",
 	"menuText": null,
@@ -96,6 +89,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
+			"ver": "24.11.19.2321"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",

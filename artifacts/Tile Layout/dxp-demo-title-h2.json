@@ -2,7 +2,6 @@
 	"id": "0c8fcb7f-ad6d-4b98-9532-903fa3e7a3ce",
 	"createdAt": "2024-11-17T01:49:16.832Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-title-h2",
 	"ver": "24.11.17.0249",
 	"TILE_BACK": null,
@@ -56,5 +55,6 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": []
 }

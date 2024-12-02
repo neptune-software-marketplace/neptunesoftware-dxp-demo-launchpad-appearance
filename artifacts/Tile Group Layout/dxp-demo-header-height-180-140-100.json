@@ -2,7 +2,6 @@
 	"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c",
 	"createdAt": "2024-11-19T23:29:18.519Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-header-height-180-140-100",
 	"HEAD_COLOR": null,
 	"HEAD_TEXT_CLR": null,
@@ -44,5 +43,6 @@
 	"HD_MASK_CUSTOM": null,
 	"TILES_PR_ROW": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"ver": "24.11.20.0029"
+	"ver": "24.11.20.0029",
+	"LAYOUT_HIERARCHY": []
 }

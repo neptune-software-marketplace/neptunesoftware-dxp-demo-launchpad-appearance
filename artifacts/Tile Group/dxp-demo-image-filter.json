@@ -21,14 +21,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Image Filters",
 	"subTitle": "Tiles with an image with one applied filter",
 	"menuText": null,
@@ -106,6 +99,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3",
+			"ver": "24.11.23.1124"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "ee78cb9e-9a54-4929-b73e-555e6a4b1c55",

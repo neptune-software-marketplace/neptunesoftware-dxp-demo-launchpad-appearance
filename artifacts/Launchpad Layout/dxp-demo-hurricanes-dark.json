@@ -2,19 +2,6 @@
 	"id": "2a8b35fb-7d2a-430c-8215-0977a45ac92a",
 	"createdAt": "2024-09-30T22:58:42.078Z",
 	"createdBy": "morten",
-	"TILE_LAYOUTS": [
-		{
-			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53"
-		},
-		{
-			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06"
-		}
-	],
-	"GROUP_LAYOUTS": [
-		{
-			"id": "731eba12-cf37-41f8-943e-ee198b213b66"
-		}
-	],
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
 	"ver": "24.11.24.1230",
@@ -150,5 +137,21 @@
 	"THEME_BACK_COLOR": "#240004",
 	"ONE_GROUP_LAYOUT": false,
 	"ONE_TILE_LAYOUT": false,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"TILE_LAYOUTS": [
+		{
+			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
+			"ver": "24.11.24.1319"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "24.11.17.0011"
+		}
+	],
+	"GROUP_LAYOUTS": [
+		{
+			"id": "731eba12-cf37-41f8-943e-ee198b213b66",
+			"ver": "24.10.12.2216"
+		}
+	]
 }

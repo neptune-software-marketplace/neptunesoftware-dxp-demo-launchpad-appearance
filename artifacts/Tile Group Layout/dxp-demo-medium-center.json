@@ -2,7 +2,6 @@
 	"id": "1dcc8cce-09f4-47cf-aab2-5af833927a39",
 	"createdAt": "2024-11-20T19:37:57.526Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-medium-center",
 	"HEAD_COLOR": null,
 	"HEAD_TEXT_CLR": null,
@@ -44,5 +43,6 @@
 	"HD_MASK_CUSTOM": null,
 	"TILES_PR_ROW": "",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"ver": "24.11.20.2039"
+	"ver": "24.11.20.2039",
+	"LAYOUT_HIERARCHY": []
 }

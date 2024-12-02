@@ -15,10 +15,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Small Small (4x4)",
 	"subTitle": null,
 	"menuText": null,
@@ -96,6 +93,10 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",

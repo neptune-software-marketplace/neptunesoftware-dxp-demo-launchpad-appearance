@@ -2,7 +2,6 @@
 	"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090",
 	"createdAt": "2024-11-15T11:02:58.721Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-skinny-tiny",
 	"ver": "24.11.24.1552",
 	"TILE_BACK": "transparent",
@@ -56,5 +55,6 @@
 	"BG_FIL_SATURATE": "0",
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": []
 }

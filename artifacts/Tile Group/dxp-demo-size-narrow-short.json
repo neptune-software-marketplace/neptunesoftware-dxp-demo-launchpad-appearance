@@ -17,14 +17,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "c74ad149-2499-4d44-96bb-2fd3656290f6"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Narrow & Short (2x2)",
 	"subTitle": null,
 	"menuText": null,
@@ -102,6 +95,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "c74ad149-2499-4d44-96bb-2fd3656290f6",
+			"ver": "24.11.15.1205"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",

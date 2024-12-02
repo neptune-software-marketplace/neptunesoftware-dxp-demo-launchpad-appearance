@@ -11,10 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "News Stories",
 	"subTitle": "Image position & height controlled by tile group configuration",
 	"menuText": null,
@@ -92,6 +89,10 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",

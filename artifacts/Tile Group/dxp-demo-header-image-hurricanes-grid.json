@@ -13,14 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": [
-		{
-			"id": "38ad8257-2a89-436c-911a-4f9da88884b6"
-		}
-	],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Different Images for Light & Dark Mode",
 	"subTitle": "Left to right header image mask applied",
 	"menuText": null,
@@ -98,6 +91,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [
+		{
+			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
+			"ver": "24.11.21.2335"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",

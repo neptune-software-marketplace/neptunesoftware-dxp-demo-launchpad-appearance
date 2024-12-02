@@ -13,14 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": [
-		{
-			"id": "de74dab6-83fa-4668-9239-7466ac45374f"
-		}
-	],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE ICON",
@@ -98,6 +91,15 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [
+		{
+			"id": "de74dab6-83fa-4668-9239-7466ac45374f",
+			"ver": "24.11.17.0147"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
 		{

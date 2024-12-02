@@ -2,7 +2,6 @@
 	"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90",
 	"createdAt": "2024-11-15T11:28:42.008Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": null,
 	"NAME": "dxp-demo-mask-right-left",
 	"ver": "24.11.15.1228",
 	"TILE_BACK": null,
@@ -56,5 +55,6 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": "R",
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": []
 }

@@ -13,10 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Single Logo with Transparent Background",
 	"subTitle": "Title left aligned. Image right aligned.",
 	"menuText": null,
@@ -94,6 +91,10 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",

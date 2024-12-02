@@ -11,17 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "79531e0c-a313-4254-807d-e71a212904ae"
-		},
-		{
-			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5"
-		}
-	],
-	"darkTileLayouts": [],
+	"sidebarGroupOrder": [],
 	"title": "Tile Image Background Filter Mask",
 	"subTitle": "Background images with top to bottom image mask",
 	"menuText": null,
@@ -99,6 +89,19 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "79531e0c-a313-4254-807d-e71a212904ae",
+			"ver": "24.11.15.1210"
+		},
+		{
+			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
+			"ver": "24.11.19.2321"
+		}
+	],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
