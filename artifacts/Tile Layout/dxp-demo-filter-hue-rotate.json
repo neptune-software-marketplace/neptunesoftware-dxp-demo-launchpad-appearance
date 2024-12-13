@@ -2,7 +2,6 @@
 	"id": "c1bf44f9-1c33-42e5-92bf-175a74e91a5d",
 	"createdAt": "2024-11-15T11:19:20.039Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-filter-hue-rotate",
 	"ver": "24.11.15.1220",
 	"TILE_BACK": null,
@@ -56,5 +55,6 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": []
 }

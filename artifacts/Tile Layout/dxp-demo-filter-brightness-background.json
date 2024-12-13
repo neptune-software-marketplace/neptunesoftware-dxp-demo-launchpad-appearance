@@ -2,11 +2,6 @@
 	"id": "f7027e3e-2da6-45c3-977e-95a42ed4b147",
 	"createdAt": "2024-11-15T11:24:16.111Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [
-		{
-			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3"
-		}
-	],
 	"NAME": "dxp-demo-filter-brightness-background",
 	"ver": "24.11.15.1224",
 	"TILE_BACK": null,
@@ -60,5 +55,11 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": [
+		{
+			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3",
+			"ver": "24.10.12.2217"
+		}
+	]
 }

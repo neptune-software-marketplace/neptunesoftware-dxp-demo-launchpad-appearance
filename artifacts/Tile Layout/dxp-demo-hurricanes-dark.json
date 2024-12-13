@@ -2,7 +2,6 @@
 	"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
 	"createdAt": "2024-10-03T22:51:28.389Z",
 	"createdBy": "morten",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-hurricanes-dark",
 	"ver": "24.11.17.0011",
 	"TILE_BACK": "#420000",
@@ -56,5 +55,6 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": []
 }

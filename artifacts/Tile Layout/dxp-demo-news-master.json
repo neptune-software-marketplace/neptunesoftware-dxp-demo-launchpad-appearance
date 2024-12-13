@@ -2,13 +2,8 @@
 	"id": "c61c6129-0f85-4961-a7ff-040441296f1c",
 	"createdAt": "2024-11-15T10:22:20.714Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [
-		{
-			"id": "e9ece497-9aba-48a2-a808-ad590d54b240"
-		}
-	],
 	"NAME": "dxp-demo-news-master",
-	"ver": "24.11.15.1201",
+	"ver": "24.12.02.1902",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
@@ -32,7 +27,7 @@
 	"TITLE_LEVEL_SUB": null,
 	"FIORI_STYLE": null,
 	"BACK_WIDTH": "Wider",
-	"TILE_BACK_HEIGHT": "500px",
+	"TILE_BACK_HEIGHT": "",
 	"FIT_TILE_CONTENT": null,
 	"OPEN_BUTTON_NOTX": null,
 	"TILE_BACK_PLACE": null,
@@ -47,18 +42,24 @@
 	"TILE_HEIGHT": "Tower",
 	"BG_FIL_BLUR": null,
 	"BG_FIL_BRIGHTX": false,
-	"BG_FIL_BRIGHT": null,
+	"BG_FIL_BRIGHT": "0",
 	"BG_FIL_GRAYX": false,
-	"BG_FIL_GRAY": null,
+	"BG_FIL_GRAY": "0",
 	"BG_FIL_HUEX": false,
-	"BG_FIL_HUE": null,
+	"BG_FIL_HUE": "0",
 	"BG_FIL_INVERTX": false,
-	"BG_FIL_INVERT": null,
+	"BG_FIL_INVERT": "0",
 	"BG_FIL_OPACITYX": false,
-	"BG_FIL_OPACITY": null,
+	"BG_FIL_OPACITY": "0",
 	"BG_FIL_SATURATEX": false,
-	"BG_FIL_SATURATE": null,
-	"BG_MASK_IMG": null,
+	"BG_FIL_SATURATE": "0",
+	"BG_MASK_IMG": "",
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": [
+		{
+			"id": "e9ece497-9aba-48a2-a808-ad590d54b240",
+			"ver": "24.11.15.1202"
+		}
+	]
 }

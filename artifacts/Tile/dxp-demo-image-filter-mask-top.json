@@ -1,18 +1,12 @@
 {
-	"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
-	"createdAt": "2024-09-24T12:56:20.473Z",
+	"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
+	"createdAt": "2024-10-08T10:10:29.491Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [
-		{
-			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98"
-		}
-	],
-	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
-	"title": "Wind is picking up",
-	"subTitle": null,
+	"title": "Background Image Mask Top",
+	"subTitle": "Gradient from top down",
 	"description": null,
 	"categoryID": null,
 	"sort": null,
@@ -26,9 +20,9 @@
 	"forceRow": false,
 	"frameType": null,
 	"type": null,
-	"image": null,
+	"image": "/media/root/dxp-demo-appearance-tile/spacewalk.jpg",
 	"imageDark": null,
-	"icon": "sap-icon://fas/wind",
+	"icon": null,
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -51,9 +45,9 @@
 	"sidepanelTitle": null,
 	"tags": "",
 	"actiongroup": null,
-	"styleClass": null,
+	"styleClass": "",
 	"titleAlignment": null,
-	"titleLevel": "H5",
+	"titleLevel": null,
 	"dataUrl": null,
 	"dataInterval": null,
 	"footer": null,
@@ -64,12 +58,12 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "24.11.17.2037",
+	"openClickTile": false,
+	"ver": "24.11.23.0955",
 	"actionWebApp": "",
-	"name": "dxp-demo-ticker-news-wind",
+	"name": "dxp-demo-image-filter-mask-top",
 	"cardWidth": null,
-	"cardHeight": "Tiny",
+	"cardHeight": null,
 	"cardHeightFit": false,
 	"cardImage": null,
 	"cardImageDark": null,
@@ -91,5 +85,12 @@
 	"imageDarkNone": false,
 	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"roles": []
+	"roles": [],
+	"lightTileLayouts": [
+		{
+			"id": "79531e0c-a313-4254-807d-e71a212904ae",
+			"ver": "24.11.15.1210"
+		}
+	],
+	"darkTileLayouts": []
 }

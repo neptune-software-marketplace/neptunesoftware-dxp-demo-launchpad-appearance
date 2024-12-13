@@ -2,8 +2,6 @@
 	"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
 	"createdAt": "2024-09-14T23:17:42.341Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": {
@@ -65,7 +63,7 @@
 	"helpText": "<p><br></p>",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.17.2038",
+	"ver": "24.11.19.2330",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-rain",
 	"cardWidth": "",
@@ -91,5 +89,12 @@
 	"imageDarkNone": false,
 	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"roles": []
+	"roles": [],
+	"lightTileLayouts": [
+		{
+			"id": "98ff3698-6d26-41c7-9f99-c35705b03e98",
+			"ver": "24.11.19.2327"
+		}
+	],
+	"darkTileLayouts": []
 }

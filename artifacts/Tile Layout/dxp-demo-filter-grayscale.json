@@ -2,7 +2,6 @@
 	"id": "b79f4507-79d6-4f20-b4e2-29d1d5312fab",
 	"createdAt": "2024-11-15T11:19:03.231Z",
 	"createdBy": "morten@neptune-software.com",
-	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-filter-grayscale",
 	"ver": "24.11.15.1219",
 	"TILE_BACK": null,
@@ -56,5 +55,6 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"LAYOUT_HIERARCHY": []
 }

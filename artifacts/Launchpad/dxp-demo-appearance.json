@@ -10,7 +10,8 @@
 		"82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
 		"fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 		"41b472ad-657a-4ea5-95ae-3f693f555f23",
-		"e538ea34-7f6a-450c-98a1-1f9318df2d12"
+		"e538ea34-7f6a-450c-98a1-1f9318df2d12",
+		"9de6a6a9-39a6-4b0c-9478-8c5c00668f6e"
 	],
 	"layout": [],
 	"config": {
@@ -29,6 +30,25 @@
 			"    },\r",
 			"});\r",
 			"AppCacheShellCustomRight.addItem(btnThemeChange);\r",
+			"\r",
+			"const btnEnableHelpAppearance = new sap.m.Button(`btnEnableHelpAppearance`, {\r",
+			"    text: \"Enable Help\",\r",
+			"    visible: false,\r",
+			"    press: function (e) {\r",
+			"        if (this.getText() === \"Enable Help\") {\r",
+			"            document.documentElement.classList.add(\"nepDxpDemoHelp\");\r",
+			"            this.setText(\"Disable Help\");\r",
+			"            sap.n.Shell.loadSidepanel(\"dxp_demo_appearance_help\", {\r",
+			"                tabTitle: \"Help\"\r",
+			"            });\r",
+			"        } else {\r",
+			"            document.documentElement.classList.remove(\"nepDxpDemoHelp\");\r",
+			"            this.setText(\"Enable Help\");\r",
+			"            sap.n.Shell.closeSidepanel();\r",
+			"        }\r",
+			"    },\r",
+			"});\r",
+			"AppCacheShellCustomRight.addItem(btnEnableHelpAppearance);\r",
 			"\r",
 			"const ListAppearance = new sap.m.List(\"ListAppearance\");\r",
 			"const itemListAppearance = new sap.m.StandardListItem(\"itemListAppearance\", {\r",
@@ -79,6 +99,7 @@
 			"window.dxpDemoAppearance = {\r",
 			"    setThemeChangeVisibility: (visible) => {\r",
 			"        btnThemeChange.setVisible(visible);\r",
+			"        btnEnableHelpAppearance.setVisible(visible);\r",
 			"    }\r",
 			"};",
 			"        };sap.n.Enhancement.BeforeLock = function (authType) {",
@@ -92,7 +113,7 @@
 			"            dxpDemoAppearance.setThemeChangeVisibility(true);",
 			"        };"
 		],
-		"disableCustomizations": false,
+		"disableCustomizations": true,
 		"enableTopMenu": true,
 		"verticalMenu": false,
 		"activeAppsSide": false,
@@ -135,6 +156,25 @@
 				"    },\r",
 				"});\r",
 				"AppCacheShellCustomRight.addItem(btnThemeChange);\r",
+				"\r",
+				"const btnEnableHelpAppearance = new sap.m.Button(`btnEnableHelpAppearance`, {\r",
+				"    text: \"Enable Help\",\r",
+				"    visible: false,\r",
+				"    press: function (e) {\r",
+				"        if (this.getText() === \"Enable Help\") {\r",
+				"            document.documentElement.classList.add(\"nepDxpDemoHelp\");\r",
+				"            this.setText(\"Disable Help\");\r",
+				"            sap.n.Shell.loadSidepanel(\"dxp_demo_appearance_help\", {\r",
+				"                tabTitle: \"Help\"\r",
+				"            });\r",
+				"        } else {\r",
+				"            document.documentElement.classList.remove(\"nepDxpDemoHelp\");\r",
+				"            this.setText(\"Enable Help\");\r",
+				"            sap.n.Shell.closeSidepanel();\r",
+				"        }\r",
+				"    },\r",
+				"});\r",
+				"AppCacheShellCustomRight.addItem(btnEnableHelpAppearance);\r",
 				"\r",
 				"const ListAppearance = new sap.m.List(\"ListAppearance\");\r",
 				"const itemListAppearance = new sap.m.StandardListItem(\"itemListAppearance\", {\r",
@@ -185,6 +225,7 @@
 				"window.dxpDemoAppearance = {\r",
 				"    setThemeChangeVisibility: (visible) => {\r",
 				"        btnThemeChange.setVisible(visible);\r",
+				"        btnEnableHelpAppearance.setVisible(visible);\r",
 				"    }\r",
 				"};"
 			],
@@ -269,7 +310,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.11.17.1343",
+	"ver": "24.11.23.1926",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -291,25 +332,31 @@
 			"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 			"name": "dxp-demo-menu-header-image",
 			"title": "",
-			"ver": "24.10.14.2341"
+			"ver": "24.11.21.2351"
 		},
 		{
 			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
 			"name": "dxp-demo-menu-tile-font-icon-title",
 			"title": "",
-			"ver": "24.11.17.1007"
+			"ver": "24.11.19.1945"
 		},
 		{
 			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
 			"name": "dxp-demo-menu-news",
 			"title": "",
-			"ver": "24.10.14.0723"
+			"ver": "24.12.02.1901"
 		},
 		{
 			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
 			"name": "dxp-demo-menu-tile-image-icon",
 			"title": "",
-			"ver": "24.11.17.0148"
+			"ver": "24.11.21.0150"
+		},
+		{
+			"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
+			"name": "dxp-demo-menu-size",
+			"title": "dxp-demo-menu-size",
+			"ver": "24.11.19.2334"
 		},
 		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",

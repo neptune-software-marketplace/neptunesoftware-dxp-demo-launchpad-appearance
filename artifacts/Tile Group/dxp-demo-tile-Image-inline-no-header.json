@@ -11,10 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"lightGroupLayouts": null,
-	"darkGroupLayouts": null,
-	"lightTileLayouts": null,
-	"darkTileLayouts": null,
+	"sidebarGroupOrder": [],
 	"title": "Tile Image",
 	"subTitle": "",
 	"menuText": null,
@@ -92,30 +89,34 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
 			"name": "dxp-demo-image-spacewalk",
 			"title": "Spacewalk",
-			"ver": "24.11.17.2039"
+			"ver": "24.11.19.2319"
 		},
 		{
 			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
 			"name": "dxp-demo-image-crew",
 			"title": "Crew",
-			"ver": "24.11.17.2038"
+			"ver": "24.11.19.2324"
 		},
 		{
 			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
 			"name": "dxp-demo-image-suit",
 			"title": "Suit",
-			"ver": "24.11.17.2039"
+			"ver": "24.11.19.2323"
 		},
 		{
 			"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
 			"name": "dxp-demo-image-interior",
 			"title": "Interior",
-			"ver": "24.11.17.2038"
+			"ver": "24.11.19.2323"
 		}
 	],
 	"tilegroups": []
