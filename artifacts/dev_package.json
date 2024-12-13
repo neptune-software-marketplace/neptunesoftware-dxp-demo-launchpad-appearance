@@ -7,7 +7,7 @@
 		"branch": "24.11.0"
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
-	"description": "Neptune Software DXP Demo Launchpad Appearance",
+	"description": "A showcase of launchpad configurations using the DXP24 Layout Tooling.",
 	"ver": "24.12.13.1359",
 	"enableCICD": true,
 	"internalReadOnly": false,
