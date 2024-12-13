@@ -12,7 +12,10 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"sidebarGroupOrder": [],
+	"lightGroupLayouts": null,
+	"darkGroupLayouts": null,
+	"lightTileLayouts": null,
+	"darkTileLayouts": null,
 	"title": "",
 	"subTitle": "",
 	"menuText": "HEADER IMAGE",
@@ -32,7 +35,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.21.2351",
+	"ver": "24.10.14.2341",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -48,17 +51,17 @@
 	"imageHeight": "",
 	"name": "dxp-demo-menu-header-image",
 	"cardContentWidth": null,
-	"cardContentAlign": "",
+	"cardContentAlign": "Left",
 	"cardPerRow": null,
 	"cardStyle": null,
 	"cardHeightFit": false,
-	"imagePlacement": "",
+	"imagePlacement": "right center",
 	"imageRepeat": null,
-	"imageSize": "",
-	"imageTabletPlacement": "",
+	"imageSize": "contain",
+	"imageTabletPlacement": "right center",
 	"imageTabletRepeat": null,
 	"imageTabletSize": null,
-	"imageMobilePlacement": "",
+	"imageMobilePlacement": "right center",
 	"imageMobileRepeat": null,
 	"imageMobileSize": null,
 	"hideFromMenu": false,
@@ -73,7 +76,7 @@
 	"cardWidth": null,
 	"cardHeight": null,
 	"tileBackgroundHeight": null,
-	"imageHeightMedia": "303",
+	"imageHeightMedia": "150",
 	"imageTabletHeightMedia": "160",
 	"imageMobileHeightMedia": "160",
 	"imageDark": "",
@@ -90,28 +93,19 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [
-		{
-			"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c",
-			"ver": "24.11.20.0029"
-		}
-	],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
 		{
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"name": "dxp-demo-header-image-storm",
 			"title": "One Image - Title Right Alligened",
-			"ver": "24.11.21.1112"
+			"ver": "24.11.17.1635"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
 			"name": "dxp-demo-header-image-hurricanes-grid",
 			"title": "Different Images for Light & Dark Mode",
-			"ver": "24.11.21.2338"
+			"ver": "24.11.17.1637"
 		},
 		{
 			"id": "10006a73-e631-4910-846b-110bef082032",

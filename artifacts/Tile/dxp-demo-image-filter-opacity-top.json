@@ -2,6 +2,12 @@
 	"id": "de1ec056-62ce-4985-9e08-3bec46f2ba8c",
 	"createdAt": "2024-10-08T10:29:12.417Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "f36fbd26-f50e-415d-902c-1cb6a351bf04"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -59,7 +65,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.23.0928",
+	"ver": "24.11.17.2040",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-filter-opacity-top",
 	"cardWidth": "",
@@ -85,7 +91,5 @@
 	"imageDarkNone": false,
 	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"roles": []
 }

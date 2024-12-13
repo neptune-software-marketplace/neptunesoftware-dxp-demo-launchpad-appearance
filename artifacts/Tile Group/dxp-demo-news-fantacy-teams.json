@@ -4,29 +4,23 @@
 	"createdBy": "morten.prom@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 		"757ca572-4401-4e4f-8e7a-56309357a526",
 		"a658d165-847d-41ec-8b18-3a9d020f8421",
-		"2ef0a021-120b-47bf-9347-523fe8e1264c",
 		"f1f38d9a-80ff-4f7d-98a4-1e756a215369",
-		"b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 		"4702fde2-7129-401a-8ca5-c261e7b8225e",
-		"44826820-fab7-4d35-b4e2-84b6453903cf"
+		"b1a7b690-7570-4da8-a6c4-9fb909f3f669",
+		"44826820-fab7-4d35-b4e2-84b6453903cf",
+		"2ef0a021-120b-47bf-9347-523fe8e1264c",
+		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
-		"type": "None",
-		"text": [
-			"==OBJECT STRING==",
-			"<code>dxp-demo-news-fantacy-teams</code><br>",
-			"Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. The tile group has a 4x4 tile layout overwriting the 2x2 tile layout set on the tiles."
-		],
-		"showCloseButton": false,
-		"showIcon": false,
-		"icon": "sap-icon://nep/adaptive-designer",
-		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c07341a3-9c1d-412e-b034-e605cd49aa11\"%2C\"name\"%3A\"dxp-demo-news-fantacy-teams\"%7D"
+		"type": "None"
 	},
-	"sidebarGroupOrder": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "Weather Fantasy Teams",
 	"subTitle": null,
 	"menuText": null,
@@ -45,8 +39,8 @@
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": true,
-	"ver": "24.11.24.1232",
+	"enableMessage": false,
+	"ver": "24.11.17.1333",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -104,63 +98,54 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "c01ceaef-1da7-4b7b-a2f9-0bf0c0061fdd",
-			"ver": "24.11.20.2030"
-		}
-	],
-	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"name": "dxp-demo-weather-thunder",
 			"title": "Thunder",
-			"ver": "24.11.19.2329"
+			"ver": "24.11.17.2038"
 		},
 		{
 			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 			"name": "dxp-demo-weather-snow",
 			"title": "Snow",
-			"ver": "24.11.19.2329"
+			"ver": "24.11.17.2038"
 		},
 		{
 			"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
 			"name": "dxp-demo-weather-rain",
 			"title": "Rain",
-			"ver": "24.11.19.2330"
+			"ver": "24.11.17.2038"
 		},
 		{
 			"id": "8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 			"name": "dxp-demo-weather-fog",
 			"title": "Fog",
-			"ver": "24.11.19.2330"
+			"ver": "24.11.17.2037"
 		},
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 			"name": "dxp-demo-weather-wind",
 			"title": "Wind",
-			"ver": "24.11.19.2327"
+			"ver": "24.11.17.2040"
 		},
 		{
 			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
 			"name": "dxp-demo-weather-hail",
 			"title": "Hail",
-			"ver": "24.11.19.2329"
+			"ver": "24.11.17.2037"
 		},
 		{
 			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
 			"name": "dxp-demo-weather-sun",
 			"title": "Sun",
-			"ver": "24.11.19.2329"
+			"ver": "24.11.17.2038"
 		},
 		{
 			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
 			"name": "dxp-demo-weather-overcast",
 			"title": "Overcast",
-			"ver": "24.11.19.2329"
+			"ver": "24.11.17.2038"
 		}
 	],
 	"tilegroups": []

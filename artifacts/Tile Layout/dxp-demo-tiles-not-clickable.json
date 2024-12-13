@@ -2,6 +2,7 @@
 	"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
 	"createdAt": "2024-11-15T11:40:48.307Z",
 	"createdBy": "morten@neptune-software.com",
+	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-tiles-not-clickable",
 	"ver": "24.11.17.1819",
 	"TILE_BACK": null,
@@ -55,6 +56,5 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"LAYOUT_HIERARCHY": []
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

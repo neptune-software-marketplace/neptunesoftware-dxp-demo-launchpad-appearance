@@ -2,6 +2,12 @@
 	"id": "76aaed69-7299-46ca-837e-8c5772964fa2",
 	"createdAt": "2024-10-07T21:23:50.778Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "b8781fc2-38a3-4048-ba92-3b976ba98339"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -85,12 +91,5 @@
 	"imageDarkNone": false,
 	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "b8781fc2-38a3-4048-ba92-3b976ba98339",
-			"ver": "24.11.15.1218"
-		}
-	],
-	"darkTileLayouts": []
+	"roles": []
 }

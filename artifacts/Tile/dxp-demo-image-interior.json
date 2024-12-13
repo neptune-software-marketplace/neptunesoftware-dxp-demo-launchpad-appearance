@@ -2,6 +2,8 @@
 	"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
 	"createdAt": "2024-09-22T18:14:34.284Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -59,7 +61,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.19.2323",
+	"ver": "24.11.17.2038",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-interior",
 	"cardWidth": null,
@@ -85,12 +87,5 @@
 	"imageDarkNone": false,
 	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
-			"ver": "24.11.15.1208"
-		}
-	],
-	"darkTileLayouts": []
+	"roles": []
 }

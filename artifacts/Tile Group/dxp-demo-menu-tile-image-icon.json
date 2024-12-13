@@ -7,13 +7,19 @@
 	"tilegroupsOrder": [
 		"cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 		"9ff41169-9514-4a6f-9151-e54e987ec909",
-		"7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
-		"d6ad11f9-c525-4231-a660-bf217ceeee58"
+		"7bc85ec4-45a7-4781-9fd1-5b8cc85dea78"
 	],
 	"configMessage": {
 		"type": "None"
 	},
-	"sidebarGroupOrder": [],
+	"lightGroupLayouts": [
+		{
+			"id": "de74dab6-83fa-4668-9239-7466ac45374f"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE ICON",
@@ -33,7 +39,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.21.0150",
+	"ver": "24.11.17.0148",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -49,7 +55,7 @@
 	"imageHeight": null,
 	"name": "dxp-demo-menu-tile-image-icon",
 	"cardContentWidth": null,
-	"cardContentAlign": "",
+	"cardContentAlign": "Left",
 	"cardPerRow": null,
 	"cardStyle": null,
 	"cardHeightFit": false,
@@ -91,22 +97,13 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [
-		{
-			"id": "de74dab6-83fa-4668-9239-7466ac45374f",
-			"ver": "24.11.17.0147"
-		}
-	],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
 		{
 			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 			"name": "dxp-demo-size-skinny-tiny",
 			"title": "Skinny & Tiny (1x1)",
-			"ver": "24.11.20.2059"
+			"ver": "24.11.17.1333"
 		},
 		{
 			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
@@ -118,7 +115,7 @@
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
 			"name": "dxp-demo-size-small-small",
 			"title": "Small Small (4x4)",
-			"ver": "24.11.19.2328"
+			"ver": "24.11.17.1334"
 		}
 	]
 }

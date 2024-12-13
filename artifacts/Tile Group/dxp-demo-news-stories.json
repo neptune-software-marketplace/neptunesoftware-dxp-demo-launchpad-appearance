@@ -10,15 +10,11 @@
 		"35e49df5-950d-4adb-98b7-8f1273b1f252"
 	],
 	"tilegroupsOrder": [],
-	"configMessage": {
-		"text": [
-			"==OBJECT STRING==",
-			"<code>dxp-demo-news-stories</code><br>",
-			"Tile group section with hidden tile group header. 4 tiles with a tile image aligned at the top."
-		],
-		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"6771be62-82d9-458e-9c3f-53c2c2ca98d8\"%2C\"name\"%3A\"dxp-demo-news-stories\"%7D"
-	},
-	"sidebarGroupOrder": [],
+	"configMessage": {},
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "News Stories",
 	"subTitle": null,
 	"menuText": null,
@@ -37,8 +33,8 @@
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": true,
-	"ver": "24.11.19.1154",
+	"enableMessage": false,
+	"ver": "24.11.17.1339",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -96,10 +92,6 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",

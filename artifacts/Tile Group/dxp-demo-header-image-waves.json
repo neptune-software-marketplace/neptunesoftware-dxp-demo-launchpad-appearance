@@ -13,7 +13,21 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"sidebarGroupOrder": [],
+	"lightGroupLayouts": [
+		{
+			"id": "ed05a705-32a3-4aa6-8a44-54166d198660"
+		}
+	],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10"
+		},
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98"
+		}
+	],
+	"darkTileLayouts": [],
 	"title": "One Image - Title Centered",
 	"subTitle": "Custom image mask: radial-gradient ellipse centered",
 	"menuText": null,
@@ -91,24 +105,6 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [
-		{
-			"id": "ed05a705-32a3-4aa6-8a44-54166d198660",
-			"ver": "24.11.17.1358"
-		}
-	],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
-			"ver": "24.11.17.1819"
-		},
-		{
-			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
-			"ver": "24.11.15.1424"
-		}
-	],
-	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",

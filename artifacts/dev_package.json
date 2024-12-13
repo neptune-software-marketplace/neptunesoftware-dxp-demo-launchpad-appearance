@@ -8,22 +8,16 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.12.02.2033",
+	"ver": "24.11.17.2047",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.10.1",
+	"oeVersion": "24.10.0",
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
 		{
 			"id": "9a628aab-a32c-4405-83df-3d5de8dfc03b",
 			"application": "dxp_demo_appearance_placeholder",
-			"title": "",
-			"description": ""
-		},
-		{
-			"id": "2b374984-036d-4f13-82d6-d004c4e6983e",
-			"application": "dxp_demo_appearance_help",
 			"title": "",
 			"description": ""
 		}
@@ -45,7 +39,13 @@
 	"rulesengine": [],
 	"reports": [],
 	"api_authentication": [],
-	"api_group": [],
+	"api_group": [
+		{
+			"id": "5f01ae2e-6459-4dd8-a5aa-e81a1e806352",
+			"name": "DXPDemoAppearance",
+			"description": "Collection of APIs use in the Neptune Appearance Demo applications"
+		}
+	],
 	"tile": [
 		{
 			"id": "f37e689f-46ec-4298-9a7d-b841348f8868",
@@ -85,7 +85,7 @@
 		{
 			"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-right"
+			"name": "dxp-demo-background-image-mask-right"
 		},
 		{
 			"id": "d24c4bf3-98c4-47f7-8b35-890751c18e03",
@@ -165,7 +165,7 @@
 		{
 			"id": "5c2a727f-cf45-49c7-861e-d159fde16ee8",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-left"
+			"name": "dxp-demo-background-image-mask-left"
 		},
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
@@ -195,7 +195,7 @@
 		{
 			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
 			"description": null,
-			"name": "dxp-demo-news-ticker-wind"
+			"name": "dxp-demo-ticker-news-wind"
 		},
 		{
 			"id": "40eaf101-585e-47f5-9b36-a44f0a0dac7d",
@@ -220,7 +220,7 @@
 		{
 			"id": "39061b2c-7ade-4049-a157-b11177bd6646",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-bottom"
+			"name": "dxp-demo-background-image-mask-bottom"
 		},
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
@@ -245,7 +245,7 @@
 		{
 			"id": "220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
 			"description": null,
-			"name": "dxp-demo-image-filter-mask-top"
+			"name": "dxp-demo-background-image-mask-top"
 		},
 		{
 			"id": "212611b5-141f-460a-9637-a99651e5582a",
@@ -313,24 +313,12 @@
 			"NAME": "dxp-demo-narrow-short"
 		},
 		{
-			"id": "c6b58404-8d3e-463f-9b63-df160f0ad403",
-			"NAME": "dxp-demo-image-background-contain"
-		},
-		{
 			"id": "c61c6129-0f85-4961-a7ff-040441296f1c",
 			"NAME": "dxp-demo-news-master"
 		},
 		{
 			"id": "c1bf44f9-1c33-42e5-92bf-175a74e91a5d",
 			"NAME": "dxp-demo-filter-hue-rotate"
-		},
-		{
-			"id": "c01ceaef-1da7-4b7b-a2f9-0bf0c0061fdd",
-			"NAME": "dxp-demo-size-4x4"
-		},
-		{
-			"id": "be880ce9-a6a9-4e86-a3cc-d49663105d8e",
-			"NAME": "dxp-demo-plain-background"
 		},
 		{
 			"id": "b8781fc2-38a3-4048-ba92-3b976ba98339",
@@ -345,16 +333,12 @@
 			"NAME": "dxp-demo-filter-brightness"
 		},
 		{
-			"id": "98ff3698-6d26-41c7-9f99-c35705b03e98",
-			"NAME": "dxp-demo-size-2x2"
-		},
-		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
 			"NAME": "dxp-demo-hurricanes-light"
 		},
 		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
-			"NAME": "dxp-demo-clickable-tile"
+			"NAME": "dxp-demo-clickable-tiles"
 		},
 		{
 			"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090",
@@ -371,14 +355,6 @@
 		{
 			"id": "6cb57ece-3cc6-4313-b08a-68b954fb9894",
 			"NAME": "dxp-demo-kraken-light"
-		},
-		{
-			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
-			"NAME": "dxp-demo-image-background"
-		},
-		{
-			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3",
-			"NAME": "dxp-demo-image-height-180px"
 		},
 		{
 			"id": "5cb2acd7-2c6c-4244-8c22-f6808686f9cf",
@@ -492,11 +468,6 @@
 			"name": "dxp-demo-size-narrow-short"
 		},
 		{
-			"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
-			"description": null,
-			"name": "dxp-demo-menu-size"
-		},
-		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
 			"description": null,
 			"name": "dxp-demo-menu-tile-image"
@@ -510,11 +481,6 @@
 			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
 			"description": null,
 			"name": "dxp-demo-news-stories"
-		},
-		{
-			"id": "5e23413c-d854-4b90-b1a5-34aaa6462bc3",
-			"description": null,
-			"name": "dxp-demo-size-many"
 		},
 		{
 			"id": "525c070f-8e6c-436b-85ac-0a1e88ce95a7",
@@ -542,19 +508,9 @@
 			"name": "dxp-demo-header-image-storm"
 		},
 		{
-			"id": "2631a381-0cb2-4c36-9514-94bb726e4f93",
-			"description": null,
-			"name": "dxp-demo-size-few"
-		},
-		{
 			"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
 			"description": null,
 			"name": "dxp-demo-tile-title"
-		},
-		{
-			"id": "2263b67f-6365-4622-aad2-3ded99553a19",
-			"description": null,
-			"name": "dxp-demo-size-more"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
@@ -592,10 +548,6 @@
 			"NAME": "dxp-demo-align-center"
 		},
 		{
-			"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c",
-			"NAME": "dxp-demo-header-height-180-140-100"
-		},
-		{
 			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
 			"NAME": "dxp-demo-hurricanes-light"
 		},
@@ -610,10 +562,6 @@
 		{
 			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
 			"NAME": "dxp-demo-mask-left-right"
-		},
-		{
-			"id": "1dcc8cce-09f4-47cf-aab2-5af833927a39",
-			"NAME": "dxp-demo-medium-center"
 		}
 	],
 	"launchpad": [
@@ -648,12 +596,7 @@
 	"certificates": [],
 	"role": [],
 	"systems": [],
-	"doc": [
-		{
-			"id": "d057f8c0-a855-42eb-8396-5e8110712a72",
-			"application": "dxp_demo_appearance_help"
-		}
-	],
+	"doc": [],
 	"wf_notifications": [],
 	"department": [],
 	"script_scheduler": [],

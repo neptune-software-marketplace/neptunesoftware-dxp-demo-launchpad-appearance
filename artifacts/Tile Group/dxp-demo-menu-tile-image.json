@@ -12,7 +12,10 @@
 		"b1e6222a-7c59-4e61-b91f-20960d2981c9"
 	],
 	"configMessage": {},
-	"sidebarGroupOrder": [],
+	"lightGroupLayouts": [],
+	"darkGroupLayouts": [],
+	"lightTileLayouts": [],
+	"darkTileLayouts": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE",
@@ -90,29 +93,25 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
 		{
 			"id": "bd911597-4abb-49df-891c-555cb451a70a",
 			"name": "dxp-demo-tile-image-background-mask",
 			"title": "Tile Image Background Filter Mask",
-			"ver": "24.11.19.2322"
+			"ver": "24.11.17.1006"
 		},
 		{
 			"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
 			"name": "dxp-demo-tile-image-background-brightness",
 			"title": "Tile Image Background Filter Brightness",
-			"ver": "24.11.24.1450"
+			"ver": "24.11.17.1006"
 		},
 		{
 			"id": "afaf312d-be73-4bd6-9a3b-f5b026dd4e44",
 			"name": "dxp-demo-tile-image-background",
 			"title": "Tile Image Background",
-			"ver": "24.11.19.2322"
+			"ver": "24.10.19.1022"
 		},
 		{
 			"id": "43d6e570-3b5b-49cd-9c6c-137a82e14117",

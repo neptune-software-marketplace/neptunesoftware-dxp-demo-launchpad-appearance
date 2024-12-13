@@ -2,6 +2,7 @@
 	"id": "ed05a705-32a3-4aa6-8a44-54166d198660",
 	"createdAt": "2024-11-15T12:52:49.505Z",
 	"createdBy": "morten@neptune-software.com",
+	"LAYOUT_HIERARCHY": [],
 	"NAME": "dxp-demo-mask-custom-center",
 	"HEAD_COLOR": "",
 	"HEAD_TEXT_CLR": null,
@@ -41,8 +42,6 @@
 	"HD_FIL_SATURATE": "0",
 	"HD_MASK_IMG": "C",
 	"HD_MASK_CUSTOM": "radial-gradient(circle, transparent 24%, rgba(0,0,0,1) 75%)",
-	"TILES_PR_ROW": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"ver": "24.11.17.1358",
-	"LAYOUT_HIERARCHY": []
+	"ver": "24.11.17.1358"
 }

@@ -2,6 +2,7 @@
 	"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
 	"createdAt": "2024-10-03T22:50:30.323Z",
 	"createdBy": "morten",
+	"LAYOUT_HIERARCHY": null,
 	"NAME": "dxp-demo-hurricanes-light",
 	"ver": "24.10.12.2217",
 	"TILE_BACK": "",
@@ -55,6 +56,5 @@
 	"BG_FIL_SATURATE": null,
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"LAYOUT_HIERARCHY": []
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

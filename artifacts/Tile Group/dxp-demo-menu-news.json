@@ -17,20 +17,12 @@
 		"c07341a3-9c1d-412e-b034-e605cd49aa11"
 	],
 	"configMessage": {
-		"type": "None",
-		"text": [
-			"==OBJECT STRING==",
-			"<code>dxp-demo-menu-news</code><br>",
-			"Screen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles.",
-			"<ul>",
-			"<li>12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image.</li>",
-			"<li>4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel</li>",
-			"</ul>",
-			""
-		],
-		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c1aebb86-6128-4427-b8e7-e53c7cc57458\"%2C\"name\"%3A\"dxp-demo-menu-news\"%7D"
+		"type": "None"
 	},
-	"sidebarGroupOrder": [],
+	"lightGroupLayouts": null,
+	"darkGroupLayouts": null,
+	"lightTileLayouts": null,
+	"darkTileLayouts": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "NEWS",
@@ -49,8 +41,8 @@
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": true,
-	"ver": "24.12.02.1901",
+	"enableMessage": false,
+	"ver": "24.10.14.0723",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -108,21 +100,12 @@
 	"oneGroupLayout": false,
 	"oneTileLayout": false,
 	"roles": [],
-	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
-			"ver": "24.11.24.1319"
-		}
-	],
-	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
 			"name": "dxp-demo-season-hurricane",
 			"title": "A third November storm",
-			"ver": "24.11.24.1319"
+			"ver": "24.11.17.2037"
 		},
 		{
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
@@ -150,9 +133,9 @@
 		},
 		{
 			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
-			"name": "dxp-demo-news-ticker-wind",
+			"name": "dxp-demo-ticker-news-wind",
 			"title": "Wind is picking up",
-			"ver": "24.11.22.0924"
+			"ver": "24.11.17.2037"
 		},
 		{
 			"id": "3af17eb9-bb8b-42b9-97b3-a38c5fa1703e",
@@ -166,13 +149,13 @@
 			"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
 			"name": "dxp-demo-news-fantacy-teams",
 			"title": "Weather Fantasy Teams",
-			"ver": "24.11.24.1232"
+			"ver": "24.11.17.1333"
 		},
 		{
 			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
 			"name": "dxp-demo-news-stories",
 			"title": "News Stories",
-			"ver": "24.11.19.1154"
+			"ver": "24.11.17.1339"
 		}
 	]
 }

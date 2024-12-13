@@ -2,6 +2,12 @@
 	"id": "d5db38f8-7ba5-40fb-9e1f-1271637ec1d9",
 	"createdAt": "2024-10-08T07:43:21.348Z",
 	"createdBy": "morten.prom@neptune-software.com",
+	"lightTileLayouts": [
+		{
+			"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90"
+		}
+	],
+	"darkTileLayouts": [],
 	"translation": [],
 	"storeItem": {},
 	"settings": null,
@@ -45,7 +51,7 @@
 	"sidepanelTitle": null,
 	"tags": "",
 	"actiongroup": null,
-	"styleClass": "",
+	"styleClass": "nepDxpDemoTileBackgroundImage",
 	"titleAlignment": null,
 	"titleLevel": null,
 	"dataUrl": null,
@@ -59,9 +65,9 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.23.0955",
+	"ver": "24.11.17.2039",
 	"actionWebApp": "",
-	"name": "dxp-demo-image-filter-mask-right",
+	"name": "dxp-demo-background-image-mask-right",
 	"cardWidth": null,
 	"cardHeight": null,
 	"cardHeightFit": false,
@@ -85,12 +91,5 @@
 	"imageDarkNone": false,
 	"oneTileLayout": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90",
-			"ver": "24.11.15.1228"
-		}
-	],
-	"darkTileLayouts": []
+	"roles": []
 }
