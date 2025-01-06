@@ -8,6 +8,9 @@
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
 	"TILE_ICON": null,
+	"TILE_ICON_COLOR": null,
+	"TILE_ICON_IMAGE": null,
+	"TILE_BACKIMAGE": null,
 	"TILE_BORDER_ACT": null,
 	"TILE_SEPARATOR": null,
 	"TILE_TEXT": null,
@@ -59,7 +62,7 @@
 	"LAYOUT_HIERARCHY": [
 		{
 			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3",
-			"ver": "24.10.12.2217"
+			"ver": "25.01.03.1813"
 		}
 	]
 }

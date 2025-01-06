@@ -17,6 +17,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "Skinny & Tiny (1x1)",
 	"subTitle": null,
@@ -37,7 +38,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.20.2059",
+	"ver": "25.01.05.1332",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -53,7 +54,7 @@
 	"imageHeight": null,
 	"name": "dxp-demo-size-skinny-tiny",
 	"cardContentWidth": "Small",
-	"cardContentAlign": "Center",
+	"cardContentAlign": "",
 	"cardPerRow": "",
 	"cardStyle": null,
 	"cardHeightFit": false,
@@ -87,13 +88,15 @@
 	"imageDarkHeightMedia": null,
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
-	"forceTileAttributes": false,
+	"forceTileAttributes": true,
 	"forceGroupAttributes": false,
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -101,6 +104,10 @@
 		{
 			"id": "8c5d675b-b48a-4d0f-a42a-f4b7010ea090",
 			"ver": "24.11.24.1552"
+		},
+		{
+			"id": "86bd4b5e-f323-4e54-88cb-bcee9f814ff6",
+			"ver": "25.01.06.0106"
 		}
 	],
 	"darkTileLayouts": [],
@@ -109,50 +116,52 @@
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"name": "dxp-demo-weather-thunder",
 			"title": "Thunder",
-			"ver": "24.11.19.2329"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 			"name": "dxp-demo-weather-snow",
 			"title": "Snow",
-			"ver": "24.11.19.2329"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
 			"name": "dxp-demo-weather-rain",
 			"title": "Rain",
-			"ver": "24.11.19.2330"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 			"name": "dxp-demo-weather-fog",
 			"title": "Fog",
-			"ver": "24.11.19.2330"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 			"name": "dxp-demo-weather-wind",
 			"title": "Wind",
-			"ver": "24.11.19.2327"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
 			"name": "dxp-demo-weather-hail",
 			"title": "Hail",
-			"ver": "24.11.19.2329"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
 			"name": "dxp-demo-weather-sun",
 			"title": "Sun",
-			"ver": "24.11.19.2329"
+			"ver": "25.01.05.2011"
 		},
 		{
 			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
 			"name": "dxp-demo-weather-overcast",
 			"title": "Overcast",
-			"ver": "24.11.19.2329"
+			"ver": "25.01.05.2011"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

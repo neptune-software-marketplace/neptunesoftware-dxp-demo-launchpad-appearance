@@ -11,6 +11,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "Tile Image Background Filter Mask",
 	"subTitle": "Background images with top to bottom image mask",
@@ -86,8 +87,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -128,5 +131,7 @@
 			"ver": "24.11.19.2323"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

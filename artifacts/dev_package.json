@@ -7,8 +7,8 @@
 		"branch": "24.11.0"
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
-	"description": "A showcase of launchpad configurations using the DXP24 Layout Tooling.",
-	"ver": "24.12.13.1359",
+	"description": "Neptune Software DXP Demo Launchpad Appearance",
+	"ver": "24.11.24.1527",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.1",
@@ -293,6 +293,10 @@
 			"NAME": "dxp-demo-image-top"
 		},
 		{
+			"id": "ed65c01e-7817-45de-a141-fa55c577a035",
+			"NAME": "dxp-demo-kraken-focus-ticker-dark"
+		},
+		{
 			"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90",
 			"NAME": "dxp-demo-mask-right-left"
 		},
@@ -301,8 +305,16 @@
 			"NAME": "dxp-demo-mask-bottom-up"
 		},
 		{
+			"id": "e70f5586-80fa-4a11-adb8-13395bac03a0",
+			"NAME": "dxp-demo-hurricanes-focus-weather-dark"
+		},
+		{
 			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
 			"NAME": "dxp-demo-tiles-not-clickable"
+		},
+		{
+			"id": "d7f98a4b-0a8a-487a-978b-4f095b707e4f",
+			"NAME": "dxp-demo-icon-inline-left"
 		},
 		{
 			"id": "cbe0c11d-1319-4281-96cb-823fb4ee671b",
@@ -341,6 +353,10 @@
 			"NAME": "dxp-demo-filter-grayscale"
 		},
 		{
+			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
+			"NAME": "dxp-demo-hurricanes-focus-ticker-light"
+		},
+		{
 			"id": "b3883aab-6c40-41b4-9d18-7d2a2841c15c",
 			"NAME": "dxp-demo-filter-brightness"
 		},
@@ -361,6 +377,10 @@
 			"NAME": "dxp-demo-skinny-tiny"
 		},
 		{
+			"id": "86bd4b5e-f323-4e54-88cb-bcee9f814ff6",
+			"NAME": "dxp-demo-small-tiny-4x1"
+		},
+		{
 			"id": "79531e0c-a313-4254-807d-e71a212904ae",
 			"NAME": "dxp-demo-mask-top-down"
 		},
@@ -373,12 +393,20 @@
 			"NAME": "dxp-demo-kraken-light"
 		},
 		{
+			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
+			"NAME": "dxp-demo-hurricanes-focus-ticker-dark"
+		},
+		{
 			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
 			"NAME": "dxp-demo-image-background"
 		},
 		{
 			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3",
 			"NAME": "dxp-demo-image-height-180px"
+		},
+		{
+			"id": "61a972e5-cab9-4d7e-9c7c-32243fc2798d",
+			"NAME": "dxp-demo-kraken-focus-ticker-light"
 		},
 		{
 			"id": "5cb2acd7-2c6c-4244-8c22-f6808686f9cf",
@@ -397,6 +425,14 @@
 			"NAME": "dxp-demo-image-inline"
 		},
 		{
+			"id": "5341781c-4b24-4e0f-b8a7-5bd5565e1862",
+			"NAME": "dxp-demo-kraken-focus-weather-dark"
+		},
+		{
+			"id": "4d5a75f1-4387-40c4-a835-7b4a8ac93977",
+			"NAME": "dxp-demo-icon-value-help"
+		},
+		{
 			"id": "46221e9d-7714-4925-a179-1cd8fa05d3ef",
 			"NAME": "dxp-demo-mask-left-right"
 		},
@@ -405,8 +441,16 @@
 			"NAME": "dxp-demo-hurricanes-dark"
 		},
 		{
+			"id": "3bd0a8d0-159d-4ada-b2c1-04fe490b0952",
+			"NAME": "dxp-demo-hurricanes-focus-weather-light"
+		},
+		{
 			"id": "2f6b8f51-b428-4f15-9c69-b47195684645",
 			"NAME": "dxp-demo-filter-saturate"
+		},
+		{
+			"id": "2a1c38aa-9345-46ce-87e7-f975a56227f7",
+			"NAME": "dxp-demo-kraken-focus-weather-light"
 		},
 		{
 			"id": "1ec0811e-d1f0-4951-ba94-2aec21813c8c",
@@ -435,6 +479,11 @@
 			"id": "f741af6d-b28b-4ae4-80b3-5af697283c2d",
 			"description": "neptunesoftware-dxp-launchpad-demo",
 			"name": "dxp-demo-tile-Image-inline-no-header"
+		},
+		{
+			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
+			"description": null,
+			"name": "dxp-demo-navbar-anlytical"
 		},
 		{
 			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
@@ -495,6 +544,11 @@
 			"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
 			"description": null,
 			"name": "dxp-demo-menu-size"
+		},
+		{
+			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
+			"description": null,
+			"name": "dxp-demo-navbar-favorites"
 		},
 		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
@@ -562,6 +616,11 @@
 			"name": "dxp-demo-header-image-hurricanes-grid"
 		},
 		{
+			"id": "15365a99-a77b-418e-b744-3eb51ad48b98",
+			"description": null,
+			"name": "dxp-demo-menu-analytical"
+		},
+		{
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"description": null,
 			"name": "dxp-demo-header-image-waves"
@@ -592,6 +651,10 @@
 			"NAME": "dxp-demo-align-center"
 		},
 		{
+			"id": "abcda2d1-846f-439c-bffd-e97ee65ac466",
+			"NAME": "dxp-demo-background-size-auto"
+		},
+		{
 			"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c",
 			"NAME": "dxp-demo-header-height-180-140-100"
 		},
@@ -606,6 +669,10 @@
 		{
 			"id": "6b17acb1-7b44-4abb-abc1-86729a52c35e",
 			"NAME": "dxp-demo-mask-right-left"
+		},
+		{
+			"id": "685f5346-a304-4112-b516-2d45582b6fcb",
+			"NAME": "dxp-demo-image-repeat"
 		},
 		{
 			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",

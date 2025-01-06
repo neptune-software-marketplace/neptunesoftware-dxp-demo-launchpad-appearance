@@ -6,6 +6,7 @@
 	"extUserDepartments": [],
 	"catOrder": [
 		"c1aebb86-6128-4427-b8e7-e53c7cc57458",
+		"15365a99-a77b-418e-b744-3eb51ad48b98",
 		"add31352-fcc1-43e1-b9d6-2409344c7496",
 		"82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
 		"fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
@@ -310,7 +311,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.11.23.1926",
+	"ver": "25.01.06.0112",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -350,13 +351,13 @@
 			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
 			"name": "dxp-demo-menu-tile-image-icon",
 			"title": "",
-			"ver": "24.11.21.0150"
+			"ver": "25.01.05.1259"
 		},
 		{
 			"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
 			"name": "dxp-demo-menu-size",
 			"title": "dxp-demo-menu-size",
-			"ver": "24.11.19.2334"
+			"ver": "25.01.04.1039"
 		},
 		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
@@ -369,6 +370,12 @@
 			"name": "dxp-demo-menu-image-filter",
 			"title": "",
 			"ver": "24.10.13.2200"
+		},
+		{
+			"id": "15365a99-a77b-418e-b744-3eb51ad48b98",
+			"name": "dxp-demo-menu-analytical",
+			"title": "",
+			"ver": "25.01.06.0113"
 		}
 	]
 }

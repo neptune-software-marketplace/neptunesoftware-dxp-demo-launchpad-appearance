@@ -4,10 +4,11 @@
 	"createdBy": "morten@neptune-software.com",
 	"NAME": "dxp-demo-hurricanes-light",
 	"DESCR": null,
-	"ver": "24.11.17.1854",
+	"ver": "25.01.06.0058",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
-		".nepTileImage {\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .nepTileImage,\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .sapFAvatarImageContain {\r",
 		"    filter: hue-rotate(315deg) brightness(.3) saturate(6);\r",
 		"}"
 	],
@@ -140,12 +141,20 @@
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"TILE_LAYOUTS": [
 		{
+			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
+			"ver": "25.01.05.1933"
+		},
+		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
-			"ver": "24.10.12.2217"
+			"ver": "25.01.05.1947"
 		},
 		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
 			"ver": "24.11.24.1319"
+		},
+		{
+			"id": "3bd0a8d0-159d-4ada-b2c1-04fe490b0952",
+			"ver": "25.01.05.1943"
 		}
 	],
 	"GROUP_LAYOUTS": [

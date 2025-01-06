@@ -13,6 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "One Image - Title Right Alligened",
 	"subTitle": "Right to left header image mask applied",
@@ -88,8 +89,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [
 		{
@@ -126,5 +129,7 @@
 			"ver": "24.11.17.2037"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

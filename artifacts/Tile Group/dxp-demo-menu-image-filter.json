@@ -10,6 +10,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
@@ -85,8 +86,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -100,5 +103,7 @@
 			"title": "Image Filters",
 			"ver": "24.11.23.1042"
 		}
-	]
+	],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

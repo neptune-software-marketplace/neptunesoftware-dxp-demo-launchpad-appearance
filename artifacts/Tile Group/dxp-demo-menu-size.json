@@ -10,6 +10,7 @@
 		"2631a381-0cb2-4c36-9514-94bb726e4f93"
 	],
 	"configMessage": {},
+	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "dxp-demo-menu-size",
 	"subTitle": null,
@@ -30,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.19.2334",
+	"ver": "25.01.04.1039",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -45,7 +46,7 @@
 	"imageTabletHeight": null,
 	"imageHeight": null,
 	"name": "dxp-demo-menu-size",
-	"cardContentWidth": null,
+	"cardContentWidth": "XXLarge",
 	"cardContentAlign": null,
 	"cardPerRow": null,
 	"cardStyle": null,
@@ -85,8 +86,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -112,5 +115,7 @@
 			"title": "More Tiles pr Row",
 			"ver": "24.11.19.2333"
 		}
-	]
+	],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

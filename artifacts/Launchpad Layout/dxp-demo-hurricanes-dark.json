@@ -4,10 +4,11 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "24.11.24.1230",
+	"ver": "25.01.06.0058",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
-		".nepTileImage {\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .nepTileImage,\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .sapFAvatarImageContain {\r",
 		"    filter: hue-rotate(315deg) brightness(.7) saturate(2);\r",
 		"}"
 	],
@@ -140,8 +141,16 @@
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"TILE_LAYOUTS": [
 		{
+			"id": "e70f5586-80fa-4a11-adb8-13395bac03a0",
+			"ver": "25.01.06.0120"
+		},
+		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
 			"ver": "24.11.24.1319"
+		},
+		{
+			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
+			"ver": "25.01.05.1934"
 		},
 		{
 			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",

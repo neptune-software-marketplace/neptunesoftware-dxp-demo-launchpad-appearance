@@ -63,7 +63,7 @@
 	"helpText": "<p><br></p>",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.19.2329",
+	"ver": "25.01.05.2011",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-hail",
 	"cardWidth": "",
@@ -87,14 +87,10 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"oneTileLayout": false,
+	"noInheritTileLayout": false,
+	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "98ff3698-6d26-41c7-9f99-c35705b03e98",
-			"ver": "24.11.19.2327"
-		}
-	],
+	"lightTileLayouts": [],
 	"darkTileLayouts": []
 }

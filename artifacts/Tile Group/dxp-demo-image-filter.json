@@ -21,6 +21,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "Image Filters",
 	"subTitle": "Tiles with an image with one applied filter",
@@ -96,8 +97,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -182,5 +185,7 @@
 			"ver": "24.11.17.2040"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

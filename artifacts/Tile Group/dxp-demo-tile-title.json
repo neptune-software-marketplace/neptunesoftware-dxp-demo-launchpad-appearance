@@ -23,6 +23,7 @@
 		],
 		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"23c7fce8-5925-4ef8-acfb-d515cf79acac\"%2C\"name\"%3A\"dxp-demo-tile-title\"%7D"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "Tile & Tile Group Title Size",
 	"subTitle": "H2 title & H6 subtitle",
@@ -98,8 +99,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -164,5 +167,7 @@
 			"ver": "24.11.17.2036"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

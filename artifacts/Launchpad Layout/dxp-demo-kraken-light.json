@@ -4,10 +4,11 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-kraken-light",
 	"DESCR": null,
-	"ver": "24.11.24.1231",
+	"ver": "25.01.06.0058",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
-		".nepTileImage {\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .nepTileImage,\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .sapFAvatarImageContain {\r",
 		"    filter: brightness(0.75) hue-rotate(155deg);\r",
 		"}"
 	],
@@ -112,7 +113,7 @@
 	"BACK_LOGON_USE": false,
 	"BACK_LOGON_CLR": "transparent",
 	"BACK_LOGON_OPA": "1.00",
-	"BACK_LOGON_IMG": "/media/root/dxp-demo-appearance-layout/horricanes-wallpaper-light.jpg",
+	"BACK_LOGON_IMG": "/media/root/dxp-demo-appearance-layout/kraken-wallpaper-light.jpg",
 	"BACK_LOGON_PLA": null,
 	"BACK_LOGON_REP": null,
 	"BACK_LOGON_SIZ": null,
@@ -145,7 +146,15 @@
 		},
 		{
 			"id": "6cb57ece-3cc6-4313-b08a-68b954fb9894",
-			"ver": "24.11.17.1340"
+			"ver": "25.01.05.2001"
+		},
+		{
+			"id": "61a972e5-cab9-4d7e-9c7c-32243fc2798d",
+			"ver": "25.01.03.2038"
+		},
+		{
+			"id": "2a1c38aa-9345-46ce-87e7-f975a56227f7",
+			"ver": "25.01.05.1941"
 		}
 	],
 	"GROUP_LAYOUTS": []

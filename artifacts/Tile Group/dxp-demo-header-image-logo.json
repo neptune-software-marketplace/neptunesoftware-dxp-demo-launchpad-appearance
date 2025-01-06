@@ -13,6 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "Single Logo with Transparent Background",
 	"subTitle": "Title left aligned. Image right aligned.",
@@ -88,8 +89,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -121,5 +124,7 @@
 			"ver": "24.11.17.2037"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

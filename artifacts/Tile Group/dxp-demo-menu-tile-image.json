@@ -12,6 +12,7 @@
 		"b1e6222a-7c59-4e61-b91f-20960d2981c9"
 	],
 	"configMessage": {},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
@@ -87,8 +88,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -126,5 +129,7 @@
 			"title": "Tile Image Top",
 			"ver": "24.11.17.1005"
 		}
-	]
+	],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

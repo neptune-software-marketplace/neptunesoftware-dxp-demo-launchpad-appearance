@@ -17,6 +17,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "Tile Layout",
 	"subTitle": "Apply tile layout to all tiles in tile group",
@@ -92,15 +93,17 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [
 		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
-			"ver": "24.10.12.2217"
+			"ver": "25.01.05.1947"
 		}
 	],
 	"darkTileLayouts": [
@@ -159,5 +162,7 @@
 			"ver": "24.11.17.2036"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

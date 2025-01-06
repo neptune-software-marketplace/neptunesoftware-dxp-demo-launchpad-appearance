@@ -4,12 +4,14 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-kraken-dark",
 	"DESCR": null,
-	"ver": "24.11.17.1755",
+	"ver": "25.01.06.0057",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
-		".nepTileImage {\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .nepTileImage,\r",
+		".nepFCardContainer:not(.dxp-demo-focus-weather) .sapFAvatarImageContain {\r",
 		"    filter: hue-rotate(155deg) brightness(0.75) saturate(.75);\r",
-		"}"
+		"}\r",
+		""
 	],
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/dxp-demo-appearance-layout/kraken-wallpaper-dark.jpg",
@@ -140,8 +142,16 @@
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"TILE_LAYOUTS": [
 		{
+			"id": "ed65c01e-7817-45de-a141-fa55c577a035",
+			"ver": "25.01.05.1932"
+		},
+		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
 			"ver": "24.11.24.1319"
+		},
+		{
+			"id": "5341781c-4b24-4e0f-b8a7-5bd5565e1862",
+			"ver": "25.01.05.1942"
 		}
 	],
 	"GROUP_LAYOUTS": []

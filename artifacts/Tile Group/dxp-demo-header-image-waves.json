@@ -13,6 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": null,
 	"sidebarGroupOrder": [],
 	"title": "One Image - Title Centered",
 	"subTitle": "Custom image mask: radial-gradient ellipse centered",
@@ -88,8 +89,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [
 		{
@@ -120,7 +123,7 @@
 			"id": "84cbd15f-e771-48e4-838c-be029385e05f",
 			"name": "dxp-demo-news-ticker-thunder",
 			"title": "Thunder on the rise",
-			"ver": "24.11.17.2037"
+			"ver": "25.01.03.2037"
 		},
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
@@ -135,5 +138,7 @@
 			"ver": "24.11.17.2037"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

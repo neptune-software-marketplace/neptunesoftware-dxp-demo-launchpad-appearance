@@ -13,6 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
+	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "Different Images for Light & Dark Mode",
 	"subTitle": "Left to right header image mask applied",
@@ -24,7 +25,7 @@
 	"backgroundColor": "",
 	"backgroundShade": null,
 	"type": null,
-	"image": "/media/root/dxp-demo-appearance-header/grid-light.png",
+	"image": "/media/root/dxp-demo-appearance-header/grid-pure-light.png",
 	"icon": null,
 	"sort": null,
 	"inclFav": false,
@@ -33,7 +34,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.21.2338",
+	"ver": "25.01.05.0151",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -49,17 +50,17 @@
 	"imageHeight": "",
 	"name": "dxp-demo-header-image-hurricanes-grid",
 	"cardContentWidth": null,
-	"cardContentAlign": "Left",
+	"cardContentAlign": "",
 	"cardPerRow": null,
 	"cardStyle": null,
 	"cardHeightFit": false,
 	"imagePlacement": "",
 	"imageRepeat": null,
 	"imageSize": "",
-	"imageTabletPlacement": "right center",
+	"imageTabletPlacement": "",
 	"imageTabletRepeat": null,
 	"imageTabletSize": null,
-	"imageMobilePlacement": "right center",
+	"imageMobilePlacement": "",
 	"imageMobileRepeat": null,
 	"imageMobileSize": null,
 	"hideFromMenu": false,
@@ -74,24 +75,34 @@
 	"cardWidth": null,
 	"cardHeight": null,
 	"tileBackgroundHeight": null,
-	"imageHeightMedia": "180",
+	"imageHeightMedia": "22",
 	"imageTabletHeightMedia": "180",
 	"imageMobileHeightMedia": "180",
-	"imageDark": "/media/root/dxp-demo-appearance-header/grid-dark.png",
+	"imageDark": "/media/root/dxp-demo-appearance-header/grid-pure-dark.png",
 	"imageTabletDark": "",
 	"imageMobileDark": "",
-	"imageDarkHeightMedia": "180",
+	"imageDarkHeightMedia": "22",
 	"imageTabletDarkHeightMedia": "180",
 	"imageMobileDarkHeightMedia": "180",
 	"forceTileAttributes": false,
-	"forceGroupAttributes": false,
+	"forceGroupAttributes": true,
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"oneGroupLayout": false,
-	"oneTileLayout": false,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": null,
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [
+		{
+			"id": "abcda2d1-846f-439c-bffd-e97ee65ac466",
+			"ver": "25.01.05.0150"
+		},
+		{
+			"id": "685f5346-a304-4112-b516-2d45582b6fcb",
+			"ver": "25.01.05.0150"
+		},
 		{
 			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
 			"ver": "24.11.21.2335"
@@ -126,5 +137,7 @@
 			"ver": "24.11.17.2037"
 		}
 	],
-	"tilegroups": []
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }
