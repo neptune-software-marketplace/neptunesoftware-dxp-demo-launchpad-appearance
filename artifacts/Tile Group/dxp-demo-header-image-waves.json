@@ -13,7 +13,7 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
+	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "One Image - Title Centered",
 	"subTitle": "Custom image mask: radial-gradient ellipse centered",
@@ -89,8 +89,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"roles": [],

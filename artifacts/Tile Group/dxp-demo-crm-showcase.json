@@ -1,24 +1,21 @@
 {
-	"id": "15365a99-a77b-418e-b744-3eb51ad48b98",
-	"createdAt": "2025-01-06T00:08:50.285Z",
+	"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
+	"createdAt": "2025-01-08T19:53:39.958Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
-	"tilesOrder": [],
-	"tilegroupsOrder": [
-		"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb"
+	"tilesOrder": [
+		"4cfb9d5f-c760-eb11-a607-0003ff1e4706",
+		"f93afb05-9ab2-4deb-bc7d-9342fef19b03",
+		"b6c73ba2-5ad8-424a-baa3-95c8f8da99bf",
+		"b89dfe9e-5272-48da-864f-dab4827b93c7"
 	],
+	"tilegroupsOrder": [],
 	"configMessage": {},
-	"navbarGroupOrder": [
-		"91264f58-cd2e-4b05-a2df-6223fdff2def",
-		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
-	],
-	"sidebarGroupOrder": [
-		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
-		"f7812880-d88b-4797-b711-f3c6d7e25a67"
-	],
-	"title": "",
-	"subTitle": null,
-	"menuText": "ANALYTICAL",
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
+	"title": "Applications",
+	"subTitle": "",
+	"menuText": null,
 	"description": null,
 	"enableFullScreen": false,
 	"hideHeader": true,
@@ -30,7 +27,7 @@
 	"icon": null,
 	"sort": null,
 	"inclFav": false,
-	"styleClass": null,
+	"styleClass": "dxp-demo-crm-showcase",
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
@@ -49,8 +46,8 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "dxp-demo-menu-analytical",
-	"cardContentWidth": "Full",
+	"name": "dxp-demo-crm-showcase",
+	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
 	"cardStyle": null,
@@ -73,7 +70,7 @@
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
 	"tileLayoutDark": null,
-	"cardWidth": null,
+	"cardWidth": "Wide",
 	"cardHeight": null,
 	"tileBackgroundHeight": null,
 	"imageHeightMedia": null,
@@ -93,52 +90,39 @@
 	"noInheritGroupLayout": false,
 	"noInheritTileLayout": false,
 	"navbarWidth": null,
-	"sidebarWidth": "",
+	"sidebarWidth": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [
-		{
-			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
-			"ver": "24.11.24.1319"
-		}
-	],
+	"lightTileLayouts": [],
 	"darkTileLayouts": [],
-	"tiles": [],
-	"tilegroups": [
+	"tiles": [
 		{
-			"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
-			"name": "dxp-demo-crm-showcase",
-			"title": "Applications",
-			"ver": "25.01.09.1910"
-		}
-	],
-	"navbarGroups": [
-		{
-			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
-			"name": "dxp-demo-navbar-anlytical",
-			"title": "dxp-demo-navbar-anlytical",
-			"ver": "25.01.06.0107"
+			"id": "f93afb05-9ab2-4deb-bc7d-9342fef19b03",
+			"name": "Sales Account",
+			"title": "Account",
+			"ver": "23.2.15.1216"
 		},
 		{
-			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
-			"name": "dxp-demo-navbar-favorites",
-			"title": "dxp-demo-navbar-favorites",
-			"ver": "25.01.06.0101"
-		}
-	],
-	"sidebarGroups": [
-		{
-			"id": "f7812880-d88b-4797-b711-f3c6d7e25a67",
-			"name": "dxp-demo-sidebar-image-top",
-			"title": "Tile Image Top",
-			"ver": "25.01.08.2050"
+			"id": "b89dfe9e-5272-48da-864f-dab4827b93c7",
+			"name": "Sales Contact",
+			"title": "Contact",
+			"ver": "23.2.15.1216"
 		},
 		{
-			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
-			"name": "dxp-demo-navbar-anlytical",
-			"title": "dxp-demo-navbar-anlytical",
-			"ver": "25.01.06.0107"
+			"id": "b6c73ba2-5ad8-424a-baa3-95c8f8da99bf",
+			"name": "Sales Opportunity",
+			"title": "Opportunity",
+			"ver": "23.2.15.1216"
+		},
+		{
+			"id": "4cfb9d5f-c760-eb11-a607-0003ff1e4706",
+			"name": "Sales Orders",
+			"title": "Sales Orders",
+			"ver": "24.05.23.1341"
 		}
-	]
+	],
+	"tilegroups": [],
+	"navbarGroups": [],
+	"sidebarGroups": []
 }

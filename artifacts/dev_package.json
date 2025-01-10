@@ -476,6 +476,11 @@
 			"name": "dxp-demo-menu-header-image"
 		},
 		{
+			"id": "f7812880-d88b-4797-b711-f3c6d7e25a67",
+			"description": null,
+			"name": "dxp-demo-sidebar-image-top"
+		},
+		{
 			"id": "f741af6d-b28b-4ae4-80b3-5af697283c2d",
 			"description": "neptunesoftware-dxp-launchpad-demo",
 			"name": "dxp-demo-tile-Image-inline-no-header"
@@ -484,6 +489,11 @@
 			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
 			"description": null,
 			"name": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
+			"description": null,
+			"name": "dxp-demo-crm-showcase"
 		},
 		{
 			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
@@ -499,6 +509,11 @@
 			"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
 			"description": null,
 			"name": "dxp-demo-image-filter"
+		},
+		{
+			"id": "d2330eb0-ed27-4f56-8c1a-5e81ad727b62",
+			"description": null,
+			"name": "dxp-demo-menu-analytical-plain"
 		},
 		{
 			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
