@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "24.11.24.1527",
+	"ver": "25.01.15.0110",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.10.1",
@@ -574,6 +574,11 @@
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
 			"description": null,
 			"name": "dxp-demo-size-small-small"
+		},
+		{
+			"id": "6a7b6a15-d3e5-4188-8c32-57986656e48f",
+			"description": null,
+			"name": "dxp-demo-navbar-1x"
 		},
 		{
 			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",

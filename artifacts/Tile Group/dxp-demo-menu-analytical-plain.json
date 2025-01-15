@@ -96,6 +96,8 @@
 	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": "Medium",
+	"navbarFit": null,
+	"sidebarFit": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],

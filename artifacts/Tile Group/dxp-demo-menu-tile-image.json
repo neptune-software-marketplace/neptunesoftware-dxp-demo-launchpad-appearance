@@ -12,7 +12,10 @@
 		"b1e6222a-7c59-4e61-b91f-20960d2981c9"
 	],
 	"configMessage": {},
-	"navbarGroupOrder": null,
+	"navbarGroupOrder": [
+		"91264f58-cd2e-4b05-a2df-6223fdff2def",
+		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
+	],
 	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
@@ -33,7 +36,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.17.1008",
+	"ver": "25.01.10.1541",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -88,10 +91,12 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
-	"navbarWidth": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": "XSmall",
 	"sidebarWidth": null,
+	"navbarFit": null,
+	"sidebarFit": null,
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -99,12 +104,6 @@
 	"darkTileLayouts": [],
 	"tiles": [],
 	"tilegroups": [
-		{
-			"id": "f7812880-d88b-4797-b711-f3c6d7e25a67",
-			"name": "dxp-demo-sidebar-image-top",
-			"title": "Tile Image Top",
-			"ver": "25.01.08.2050"
-		},
 		{
 			"id": "bd911597-4abb-49df-891c-555cb451a70a",
 			"name": "dxp-demo-tile-image-background-mask",
@@ -136,6 +135,19 @@
 			"ver": "24.11.17.1005"
 		}
 	],
-	"navbarGroups": [],
+	"navbarGroups": [
+		{
+			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
+			"name": "dxp-demo-navbar-anlytical",
+			"title": "dxp-demo-navbar-anlytical",
+			"ver": "25.01.06.0107"
+		},
+		{
+			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
+			"name": "dxp-demo-navbar-favorites",
+			"title": "dxp-demo-navbar-favorites",
+			"ver": "25.01.06.0101"
+		}
+	],
 	"sidebarGroups": []
 }

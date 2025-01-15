@@ -12,7 +12,9 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
+	"navbarGroupOrder": [
+		"6a7b6a15-d3e5-4188-8c32-57986656e48f"
+	],
 	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": "",
@@ -33,7 +35,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.21.2351",
+	"ver": "25.01.10.1543",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -88,10 +90,12 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
-	"navbarWidth": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
+	"navbarWidth": "XXSmall",
 	"sidebarWidth": null,
+	"navbarFit": null,
+	"sidebarFit": null,
 	"roles": [],
 	"lightGroupLayouts": [
 		{
@@ -123,6 +127,13 @@
 			"ver": "24.11.17.1634"
 		}
 	],
-	"navbarGroups": [],
+	"navbarGroups": [
+		{
+			"id": "6a7b6a15-d3e5-4188-8c32-57986656e48f",
+			"name": "dxp-demo-navbar-1x",
+			"title": "dxp-demo-navbar-anlytical",
+			"ver": "25.01.10.1543"
+		}
+	],
 	"sidebarGroups": []
 }
