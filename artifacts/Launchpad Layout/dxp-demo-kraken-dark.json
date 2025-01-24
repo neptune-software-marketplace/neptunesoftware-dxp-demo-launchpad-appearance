@@ -139,6 +139,7 @@
 	"THEME_BACK_COLOR": "#001628",
 	"ONE_GROUP_LAYOUT": false,
 	"ONE_TILE_LAYOUT": false,
+	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"TILE_LAYOUTS": [
 		{
