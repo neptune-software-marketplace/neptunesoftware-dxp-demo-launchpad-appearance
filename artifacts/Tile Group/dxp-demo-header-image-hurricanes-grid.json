@@ -13,8 +13,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": [],
-	"sidebarGroupOrder": [],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "Different Images for Light & Dark Mode",
 	"subTitle": "Left to right header image mask applied",
 	"menuText": null,
@@ -89,8 +89,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

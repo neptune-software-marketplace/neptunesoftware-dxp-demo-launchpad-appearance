@@ -8,7 +8,7 @@
 	"TILE_BORDER": "#423c00",
 	"TILE_HOVER": "",
 	"TILE_ICON": "",
-	"TILE_ICON_COLOR": "#575005",
+	"TILE_ICON_COLOR": null,
 	"TILE_ICON_IMAGE": null,
 	"TILE_BACKIMAGE": null,
 	"TILE_BORDER_ACT": "#322e01",

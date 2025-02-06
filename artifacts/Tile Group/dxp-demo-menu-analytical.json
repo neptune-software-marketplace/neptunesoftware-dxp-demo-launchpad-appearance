@@ -8,14 +8,8 @@
 		"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb"
 	],
 	"configMessage": {},
-	"navbarGroupOrder": [
-		"91264f58-cd2e-4b05-a2df-6223fdff2def",
-		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
-	],
-	"sidebarGroupOrder": [
-		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
-		"f7812880-d88b-4797-b711-f3c6d7e25a67"
-	],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "ANALYTICAL",
@@ -90,10 +84,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
 	"navbarWidth": null,
-	"sidebarWidth": "",
+	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,
 	"roles": [],
@@ -112,7 +106,7 @@
 			"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
 			"name": "dxp-demo-crm-showcase",
 			"title": "Applications",
-			"ver": "25.01.09.1910"
+			"ver": "25.02.06.1343"
 		}
 	],
 	"navbarGroups": [

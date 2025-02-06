@@ -321,7 +321,7 @@
 	"title": "DXPAppearance",
 	"description": "Neptune DXP Appearance Demo",
 	"startApp": null,
-	"launchpadFooter": "dxp_demo_appearance_footer",
+	"launchpadFooter": null,
 	"startWebApp": null,
 	"customLogo": "",
 	"launchpadApp": "",

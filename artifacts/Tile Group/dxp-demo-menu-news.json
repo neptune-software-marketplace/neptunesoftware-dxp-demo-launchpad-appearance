@@ -31,7 +31,7 @@
 		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c1aebb86-6128-4427-b8e7-e53c7cc57458\"%2C\"name\"%3A\"dxp-demo-menu-news\"%7D"
 	},
 	"navbarGroupOrder": null,
-	"sidebarGroupOrder": [],
+	"sidebarGroupOrder": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "NEWS",

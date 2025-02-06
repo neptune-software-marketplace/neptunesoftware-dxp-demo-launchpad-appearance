@@ -12,7 +12,7 @@
 	"tilegroupsOrder": [],
 	"configMessage": {},
 	"navbarGroupOrder": null,
-	"sidebarGroupOrder": [],
+	"sidebarGroupOrder": null,
 	"title": "News Stories",
 	"subTitle": "Image position & height controlled by tile group configuration",
 	"menuText": null,

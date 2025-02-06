@@ -18,7 +18,7 @@
 		"type": "None"
 	},
 	"navbarGroupOrder": null,
-	"sidebarGroupOrder": [],
+	"sidebarGroupOrder": null,
 	"title": "Tile Layout",
 	"subTitle": "Apply tile layout to all tiles in tile group",
 	"menuText": null,

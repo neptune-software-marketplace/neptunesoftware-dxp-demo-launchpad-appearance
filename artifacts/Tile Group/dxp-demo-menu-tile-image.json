@@ -12,11 +12,8 @@
 		"b1e6222a-7c59-4e61-b91f-20960d2981c9"
 	],
 	"configMessage": {},
-	"navbarGroupOrder": [
-		"91264f58-cd2e-4b05-a2df-6223fdff2def",
-		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
-	],
-	"sidebarGroupOrder": [],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE",
@@ -91,9 +88,9 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
-	"navbarWidth": "XSmall",
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,

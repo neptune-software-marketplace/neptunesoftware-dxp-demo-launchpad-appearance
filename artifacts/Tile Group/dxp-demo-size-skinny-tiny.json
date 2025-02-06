@@ -17,8 +17,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": [],
-	"sidebarGroupOrder": [],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "Skinny & Tiny (1x1)",
 	"subTitle": null,
 	"menuText": null,
@@ -93,8 +93,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

@@ -12,10 +12,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": [
-		"6a7b6a15-d3e5-4188-8c32-57986656e48f"
-	],
-	"sidebarGroupOrder": [],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "",
 	"subTitle": "",
 	"menuText": "HEADER IMAGE",
@@ -90,9 +88,9 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
-	"navbarWidth": "XXSmall",
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
+	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,

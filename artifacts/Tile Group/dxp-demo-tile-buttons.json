@@ -24,7 +24,7 @@
 		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"031bbf06-fe74-44f9-a89c-92caac0614a5\"%2C\"name\"%3A\"dxp-demo-tile-buttons\"%7D"
 	},
 	"navbarGroupOrder": null,
-	"sidebarGroupOrder": [],
+	"sidebarGroupOrder": null,
 	"title": "Tile Buttons",
 	"subTitle": "Open action and context menu buttons",
 	"menuText": null,

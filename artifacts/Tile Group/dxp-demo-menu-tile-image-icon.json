@@ -12,8 +12,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": [],
-	"sidebarGroupOrder": [],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE ICON",
@@ -88,8 +88,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

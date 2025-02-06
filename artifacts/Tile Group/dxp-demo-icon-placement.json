@@ -24,7 +24,7 @@
 		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"084633a5-96d1-4e28-bc9f-f85c15021930\"%2C\"name\"%3A\"dxp-demo-icon-placement\"%7D"
 	},
 	"navbarGroupOrder": null,
-	"sidebarGroupOrder": [],
+	"sidebarGroupOrder": null,
 	"title": "Icon Placement",
 	"subTitle": "Tiles icons with various placement in tile",
 	"menuText": null,

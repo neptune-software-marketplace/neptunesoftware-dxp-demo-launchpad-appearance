@@ -11,13 +11,8 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"navbarGroupOrder": [
-		"91264f58-cd2e-4b05-a2df-6223fdff2def",
-		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
-	],
-	"sidebarGroupOrder": [
-		"f1c81d87-3424-4d08-afbe-56e3ad69982f"
-	],
+	"navbarGroupOrder": null,
+	"sidebarGroupOrder": null,
 	"title": "",
 	"subTitle": null,
 	"menuText": "ANALYTICAL PLAIN",
@@ -92,10 +87,10 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": false,
-	"noInheritTileLayout": false,
+	"noInheritGroupLayout": null,
+	"noInheritTileLayout": null,
 	"navbarWidth": null,
-	"sidebarWidth": "Medium",
+	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,
 	"roles": [],
