@@ -1,2 +1,3 @@
-### Neptune Demo Launchpad
-This repository includes artifacts from the Neptune DXP24 Demo Launchpad. 
+# neptunesoftware-launchpad-appearance-example
+
+V24 and above only.
