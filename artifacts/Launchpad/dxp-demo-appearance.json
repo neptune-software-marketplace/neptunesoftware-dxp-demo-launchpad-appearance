@@ -12,7 +12,8 @@
 		"fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 		"41b472ad-657a-4ea5-95ae-3f693f555f23",
 		"e538ea34-7f6a-450c-98a1-1f9318df2d12",
-		"9de6a6a9-39a6-4b0c-9478-8c5c00668f6e"
+		"9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
+		"d2330eb0-ed27-4f56-8c1a-5e81ad727b62"
 	],
 	"layout": [],
 	"config": {
@@ -350,7 +351,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.02.10.1935",
+	"ver": "25.02.01.1151",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -379,6 +380,12 @@
 			"name": "dxp-demo-menu-tile-font-icon-title",
 			"title": "",
 			"ver": "24.11.19.1945"
+		},
+		{
+			"id": "d2330eb0-ed27-4f56-8c1a-5e81ad727b62",
+			"name": "dxp-demo-menu-analytical-plain",
+			"title": "",
+			"ver": "25.01.08.1945"
 		},
 		{
 			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",

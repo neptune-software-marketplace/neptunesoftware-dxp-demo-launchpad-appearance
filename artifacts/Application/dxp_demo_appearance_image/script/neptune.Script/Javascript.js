@@ -14,12 +14,19 @@ neptune.Shell.attachBeforeDisplay(data => {
     Icon.setSrc(icons[data?.icon] || "sap-icon://nep/neptune-connect");
 });
 
-// neptune.Shell.attachOnNavigation(data => {
-//     console.log(data);
-// });
-// window.addEventListener("hashchange", () => {
-//     if (location.hash.startsWith("#neptunenavigation-NEPTUNE_DEMO_APPEARANCE_IMAGE")) {
-//         const hash = location.hash.split("#neptunenavigation-NEPTUNE_DEMO_APPEARANCE_IMAGE_")[1];
-//         Icon.setSrc(icons[hash] || "sap-icon://nep/neptune-connect");
-//     }
-// });
+itemSegmentedButtonNew.addCustomData(new sap.ui.core.CustomData({
+    key: "segmented",
+    value: "new",
+    writeToDom: true,
+}));
+itemSegmentedButtonCopy.addCustomData(new sap.ui.core.CustomData({
+    key: "segmented",
+    value: "copy",
+    writeToDom: true,
+}));
+itemSegmentedButtonEdit.addCustomData(new sap.ui.core.CustomData({
+    key: "segmented",
+    value: "edit",
+    writeToDom: true,
+}));
+

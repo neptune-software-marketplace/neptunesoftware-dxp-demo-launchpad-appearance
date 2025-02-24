@@ -1,0 +1,55 @@
+
+.dxpDemoSegmentedButton.sapMSegB .sapMSegBBtn .sapMSegBBtnInner {
+    color: var(--sapContent_LabelColor);
+}
+
+.sapMSegBBtn.sapMSegBBtnFocusable[data-segmented="new"]:active:hover .sapMSegBBtnInner,
+.sapMSegB .sapMSegBBtnSel[data-segmented="new"] .sapMSegBBtnInner {
+    color: var(--sapLegendColor8);
+}
+.sapMSegBBtn.sapMSegBBtnSel[data-segmented="new"] .sapMSegBBtnInner {
+    border-color: var(--sapLegendColor8);
+    background-color: var(--sapLegendBackgroundColor8);
+}
+html.sap-desktop .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel[data-segmented="new"]:hover .sapMSegBBtnInner {
+    background-color: var(--sapLegendBackgroundColor8);
+}
+.sapMSegBBtn.sapMSegBBtnFocusable[data-segmented="new"]:active:hover .sapMSegBBtnInner,
+html.sap-desktop .sapMSegBBtnFocusable.sapMSegBBtnSel[data-segmented="new"]:hover .sapMSegBBtnInner,
+html.sap-desktop .sapMSegBBtn:first-child.sapMSegBBtnFocusable[data-segmented="new"]:focus .sapMSegBBtnInner:after {
+    border-color: var(--sapLegendColor8);
+}
+
+.sapMSegBBtn.sapMSegBBtnFocusable[data-segmented="copy"]:active:hover .sapMSegBBtnInner,
+.sapMSegB .sapMSegBBtnSel[data-segmented="copy"] .sapMSegBBtnInner {
+    color: var(--sapLegendColor10);
+}
+.sapMSegBBtn.sapMSegBBtnSel[data-segmented="copy"] .sapMSegBBtnInner {
+    border-color: var(--sapLegendColor10);
+    background-color: var(--sapLegendBackgroundColor10);
+}
+html.sap-desktop .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel[data-segmented="copy"]:hover .sapMSegBBtnInner {
+    background-color: var(--sapLegendBackgroundColor10);
+}
+.sapMSegBBtn.sapMSegBBtnFocusable[data-segmented="copy"]:active:hover .sapMSegBBtnInner,
+html.sap-desktop .sapMSegBBtnFocusable.sapMSegBBtnSel[data-segmented="copy"]:hover .sapMSegBBtnInner,
+html.sap-desktop .sapMSegBBtnFocusable[data-segmented="copy"]:focus .sapMSegBBtnInner:after {
+    border-color: var(--sapLegendColor10);
+}
+
+.sapMSegBBtn.sapMSegBBtnFocusable[data-segmented="edit"]:active:hover .sapMSegBBtnInner,
+.sapMSegB .sapMSegBBtnSel[data-segmented="edit"] .sapMSegBBtnInner {
+    color: var(--sapLegendColor4);
+}
+.sapMSegBBtn.sapMSegBBtnSel[data-segmented="edit"] .sapMSegBBtnInner {
+    border-color: var(--sapLegendColor4);
+    background-color: var(--sapLegendBackgroundColor4);
+}
+html.sap-desktop .sapMSegBBtn.sapMSegBBtnFocusable.sapMSegBBtnSel[data-segmented="edit"]:hover .sapMSegBBtnInner {
+    background-color: var(--sapLegendBackgroundColor4);
+}
+.sapMSegBBtn.sapMSegBBtnFocusable[data-segmented="edit"]:active:hover .sapMSegBBtnInner,
+html.sap-desktop .sapMSegBBtnFocusable.sapMSegBBtnSel[data-segmented="edit"]:hover .sapMSegBBtnInner,
+html.sap-desktop .sapMSegBBtn.sapMSegBtnLastVisibleButton.sapMSegBBtnFocusable[data-segmented="edit"]:focus .sapMSegBBtnInner:after {
+    border-color: var(--sapLegendColor4);
+}

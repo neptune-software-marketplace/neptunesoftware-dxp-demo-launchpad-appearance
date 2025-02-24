@@ -25,14 +25,165 @@
 					"response": [],
 					"attributes": [
 						{
-							"attribute": "showHeader",
+							"attribute": "titleAlignment",
 							"grouping": "Properties",
-							"value": "false",
+							"value": "Center",
 							"script": "",
 							"translation": []
 						}
 					],
 					"data": [
+						{
+							"fieldNo": "bbe88492-7fcc-4ad2-de12-147e37107cbe",
+							"fieldName": "headerPage",
+							"fieldParent": "f3cfeefa-3c05-4b84-869a-d41d76342c6a",
+							"fieldType": "sap.m.Bar",
+							"script": "",
+							"customComponent": false,
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "position",
+									"grouping": "Parent",
+									"value": "setCustomHeader",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "091a92da-c514-4c52-b7b2-2dfbc24e1fee",
+									"fieldName": "Middle",
+									"fieldParent": "bbe88492-7fcc-4ad2-de12-147e37107cbe",
+									"fieldType": "neptune.BarContent",
+									"script": "",
+									"customComponent": false,
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "position",
+											"grouping": "Parent",
+											"value": "ContentMiddle",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "be6c1f6b-dc59-46fb-9d4a-0ef708021f3b",
+											"fieldName": "editorSegmentedButton",
+											"fieldParent": "091a92da-c514-4c52-b7b2-2dfbc24e1fee",
+											"fieldType": "sap.m.SegmentedButton",
+											"script": "",
+											"customComponent": false,
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "width",
+													"grouping": "Properties",
+													"value": "360px",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "styleClass",
+													"grouping": "Properties",
+													"value": "dxpDemoSegmentedButton",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": [
+												{
+													"fieldNo": "bcbbcd6e-714b-43ef-d7bb-3d5ebc94727e",
+													"fieldName": "itemSegmentedButtonNew",
+													"fieldParent": "be6c1f6b-dc59-46fb-9d4a-0ef708021f3b",
+													"fieldType": "sap.m.SegmentedButtonItem",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "New",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "key",
+															"grouping": "Properties",
+															"value": "new",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												},
+												{
+													"fieldNo": "291fe316-9c5e-4bf2-c5d1-1eda1e256bf7",
+													"fieldName": "itemSegmentedButtonCopy",
+													"fieldParent": "be6c1f6b-dc59-46fb-9d4a-0ef708021f3b",
+													"fieldType": "sap.m.SegmentedButtonItem",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "Copy",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "key",
+															"grouping": "Properties",
+															"value": "copy",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												},
+												{
+													"fieldNo": "336cf585-b82f-4f32-94c6-71ad899d70d9",
+													"fieldName": "itemSegmentedButtonEdit",
+													"fieldParent": "be6c1f6b-dc59-46fb-9d4a-0ef708021f3b",
+													"fieldType": "sap.m.SegmentedButtonItem",
+													"script": "",
+													"customComponent": false,
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "Edit",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "key",
+															"grouping": "Properties",
+															"value": "edit",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												}
+											]
+										}
+									]
+								}
+							]
+						},
 						{
 							"fieldNo": "7a01bb4c-3a06-43e1-912c-37a9fa68a81b",
 							"fieldName": "FlexBox",
@@ -136,13 +287,13 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.01.26.1245",
+	"ver": "25.02.25.0025",
 	"application": "dxp_demo_appearance_image",
 	"title": "",
 	"description": "",
 	"enableFileStorage": false,
 	"enableManifest": false,
-	"enableStylesheet": false,
+	"enableStylesheet": true,
 	"enableObfuscate": false,
 	"onlyRunLaunchpad": false,
 	"disabled": false,
@@ -160,8 +311,8 @@
 	"ui5_language": null,
 	"ui5_url": "",
 	"cus_theme": "",
-	"css": "",
-	"compiledCss": null,
+	"css": "file:///css.css",
+	"compiledCss": "file:///compiledCss.css",
 	"header": "",
 	"manifest": "",
 	"globalScript": null,
