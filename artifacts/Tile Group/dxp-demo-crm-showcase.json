@@ -11,8 +11,14 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"navbarGroupOrder": [],
-	"sidebarGroupOrder": [],
+	"navbarGroupOrder": [
+		"91264f58-cd2e-4b05-a2df-6223fdff2def",
+		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
+	],
+	"sidebarGroupOrder": [
+		"f7812880-d88b-4797-b711-f3c6d7e25a67",
+		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
+	],
 	"title": "Applications",
 	"subTitle": "",
 	"menuText": null,
@@ -32,7 +38,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.02.26.1131",
+	"ver": "25.02.26.1141",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -92,7 +98,7 @@
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": "",
-	"sidebarFit": "",
+	"sidebarFit": "WrapBelow",
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
@@ -125,6 +131,32 @@
 		}
 	],
 	"tilegroups": [],
-	"navbarGroups": [],
-	"sidebarGroups": []
+	"navbarGroups": [
+		{
+			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
+			"name": "dxp-demo-navbar-anlytical",
+			"title": "dxp-demo-navbar-anlytical",
+			"ver": "25.01.06.0107"
+		},
+		{
+			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
+			"name": "dxp-demo-navbar-favorites",
+			"title": "dxp-demo-navbar-favorites",
+			"ver": "25.01.06.0101"
+		}
+	],
+	"sidebarGroups": [
+		{
+			"id": "f7812880-d88b-4797-b711-f3c6d7e25a67",
+			"name": "dxp-demo-sidebar-image-top",
+			"title": "Tile Image Top",
+			"ver": "25.01.08.2050"
+		},
+		{
+			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
+			"name": "dxp-demo-navbar-anlytical",
+			"title": "dxp-demo-navbar-anlytical",
+			"ver": "25.01.06.0107"
+		}
+	]
 }
