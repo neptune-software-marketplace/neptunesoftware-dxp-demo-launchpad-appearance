@@ -2,7 +2,48 @@
 	"id": "afaf312d-be73-4bd6-9a3b-f5b026dd4e44",
 	"createdAt": "2024-09-22T18:10:34.235Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "صورة البلاط الخلفية",
+			"subTitle": "جميع البلاطات مع الصور المضافة كخلفية"
+		},
+		{
+			"language": "DE",
+			"title": "Kachelbild Hintergrund",
+			"subTitle": "Alle Kacheln mit Bildern als Hintergrund hinzugefügt"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Background",
+			"subTitle": "All tiles with images added as a background"
+		},
+		{
+			"language": "FR",
+			"title": "Image de tuile en arrière-plan",
+			"subTitle": "Toutes les tuiles avec des images ajoutées en arrière-plan"
+		},
+		{
+			"language": "NO",
+			"title": "Flisbilde Bakgrunn",
+			"subTitle": "Alle fliser med bilder lagt som bakgrunn"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像背景",
+			"subTitle": "所有添加了图片作为背景的图块"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像背景",
+			"subTitle": "所有添加了圖片作為背景的圖塊"
+		},
+		{
+			"language": "NN",
+			"title": "Flisbilde Bakgrunn",
+			"subTitle": "Alle fliser med bilder lagt som bakgrunn"
+		}
+	],
 	"tilesOrder": [
 		"f29d8323-484c-47b2-bb77-99698adf76b4",
 		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
@@ -87,8 +128,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

@@ -2,7 +2,56 @@
 	"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
 	"createdAt": "2024-09-22T18:06:19.975Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "المشي في الفضاء",
+			"subTitle": "خذ نفسًا عميقًا",
+			"footer": "ثق بحدسك..."
+		},
+		{
+			"language": "DE",
+			"title": "Weltraumspaziergang",
+			"subTitle": "Tief durchatmen",
+			"footer": "Vertraue deinem Bauchgefühl..."
+		},
+		{
+			"language": "EN",
+			"title": "Spacewalk",
+			"subTitle": "Take a deep breath",
+			"footer": "Trust your gut..."
+		},
+		{
+			"language": "FR",
+			"title": "Marche spatiale",
+			"subTitle": "Prenez une grande respiration",
+			"footer": "Faites confiance à votre instinct..."
+		},
+		{
+			"language": "NO",
+			"title": "Romvandring",
+			"subTitle": "Ta et dypt pust",
+			"footer": "Stol på magefølelsen din..."
+		},
+		{
+			"language": "ZH",
+			"title": "太空行走",
+			"subTitle": "深吸一口气",
+			"footer": "相信你的直觉..."
+		},
+		{
+			"language": "ZF",
+			"title": "太空行走",
+			"subTitle": "深呼吸",
+			"footer": "相信你的直覺..."
+		},
+		{
+			"language": "NN",
+			"title": "Romvandring",
+			"subTitle": "Ta eit djupt andedrag",
+			"footer": "Stol på magekjensla di..."
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Spacewalk",
@@ -83,7 +132,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

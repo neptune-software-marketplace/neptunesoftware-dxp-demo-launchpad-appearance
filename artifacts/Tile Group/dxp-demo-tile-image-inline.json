@@ -2,7 +2,48 @@
 	"id": "43d6e570-3b5b-49cd-9c6c-137a82e14117",
 	"createdAt": "2024-09-22T18:17:52.922Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "صورة البلاط المضمنة",
+			"subTitle": "جميع البلاطات مع الصور المضافة أسفل العنوان"
+		},
+		{
+			"language": "DE",
+			"title": "Kachelbild Inline",
+			"subTitle": "Alle Kacheln mit Bildern inline unterhalb des Titels hinzugefügt"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Inline",
+			"subTitle": "All tiles with images added inline below the title"
+		},
+		{
+			"language": "FR",
+			"title": "Image de tuile en ligne",
+			"subTitle": "Toutes les tuiles avec des images ajoutées en ligne sous le titre"
+		},
+		{
+			"language": "NO",
+			"title": "Flisbilde Inline",
+			"subTitle": "Alle fliser med bilder lagt inline under tittelen"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像內聯",
+			"subTitle": "所有帶有圖片的圖塊均在標題下方內嵌添加"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像内联",
+			"subTitle": "所有带有图片的图块均在标题下方内嵌添加"
+		},
+		{
+			"language": "NN",
+			"title": "Flisbilde Inline",
+			"subTitle": "Alle fliser med bilder lagt til under tittelen"
+		}
+	],
 	"tilesOrder": [
 		"f29d8323-484c-47b2-bb77-99698adf76b4",
 		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
@@ -87,8 +128,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

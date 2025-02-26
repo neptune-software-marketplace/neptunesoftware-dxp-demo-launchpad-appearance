@@ -3,13 +3,13 @@
 	"createdAt": "2025-01-05T18:42:51.793Z",
 	"createdBy": "morten@neptune-software.com",
 	"NAME": "dxp-demo-hurricanes-focus-weather-light",
-	"ver": "25.01.05.1943",
+	"ver": "25.02.26.0119",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
 	"TILE_ICON": null,
 	"TILE_ICON_COLOR": null,
-	"TILE_ICON_IMAGE": null,
+	"TILE_ICON_IMAGE": "/media/root/dxp-demo-appearance-icon-focus/focus-thunder-hurricanes-light.svg",
 	"TILE_BACKIMAGE": null,
 	"TILE_BORDER_ACT": null,
 	"TILE_SEPARATOR": null,
@@ -45,24 +45,24 @@
 	"TILE_HEIGHT": null,
 	"BG_FIL_BLUR": null,
 	"BG_FIL_BRIGHTX": false,
-	"BG_FIL_BRIGHT": null,
+	"BG_FIL_BRIGHT": "0",
 	"BG_FIL_GRAYX": false,
-	"BG_FIL_GRAY": null,
+	"BG_FIL_GRAY": "0",
 	"BG_FIL_HUEX": false,
-	"BG_FIL_HUE": null,
+	"BG_FIL_HUE": "0",
 	"BG_FIL_INVERTX": false,
-	"BG_FIL_INVERT": null,
+	"BG_FIL_INVERT": "0",
 	"BG_FIL_OPACITYX": false,
-	"BG_FIL_OPACITY": null,
+	"BG_FIL_OPACITY": "0",
 	"BG_FIL_SATURATEX": false,
-	"BG_FIL_SATURATE": null,
+	"BG_FIL_SATURATE": "0",
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"LAYOUT_HIERARCHY": [
 		{
 			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
-			"ver": "25.01.05.1933"
+			"ver": "25.02.26.0119"
 		}
 	]
 }

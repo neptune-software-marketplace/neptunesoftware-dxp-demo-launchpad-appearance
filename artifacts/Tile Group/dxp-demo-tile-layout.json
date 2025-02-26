@@ -105,13 +105,13 @@
 	"lightTileLayouts": [
 		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
-			"ver": "25.01.05.1947"
+			"ver": "25.02.26.0117"
 		}
 	],
 	"darkTileLayouts": [
 		{
 			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
-			"ver": "25.01.24.0159"
+			"ver": "25.02.26.0113"
 		}
 	],
 	"tiles": [

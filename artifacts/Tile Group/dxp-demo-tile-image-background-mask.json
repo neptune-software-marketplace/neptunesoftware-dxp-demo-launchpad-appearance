@@ -2,7 +2,48 @@
 	"id": "bd911597-4abb-49df-891c-555cb451a70a",
 	"createdAt": "2024-10-08T17:22:42.354Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "صورة البلاط الخلفية مع قناع التصفية",
+			"subTitle": "صور خلفية مع قناع صورة من الأعلى إلى الأسفل"
+		},
+		{
+			"language": "DE",
+			"title": "Kachelbild Hintergrund Filtermaske",
+			"subTitle": "Hintergrundbilder mit Bildmaske von oben nach unten"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Background Filter Mask",
+			"subTitle": "Background images with top to bottom image mask"
+		},
+		{
+			"language": "FR",
+			"title": "Image de tuile avec filtre de masque",
+			"subTitle": "Images d'arrière-plan avec un masque d'image de haut en bas"
+		},
+		{
+			"language": "NO",
+			"title": "Flisbilde Bakgrunn Filtermaske",
+			"subTitle": "Bakgrunnsbilder med topp til bunn bildefiltermaske"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像背景过滤蒙版",
+			"subTitle": "带有从上到下图像遮罩的背景图像"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像背景濾鏡蒙版",
+			"subTitle": "帶有從上到下圖像遮罩的背景圖像"
+		},
+		{
+			"language": "NN",
+			"title": "Flisbilde Bakgrunn Filtermaske",
+			"subTitle": "Bakgrunnsbilder med bildeoverlegg fra topp til bunn"
+		}
+	],
 	"tilesOrder": [
 		"f29d8323-484c-47b2-bb77-99698adf76b4",
 		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
@@ -87,8 +128,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

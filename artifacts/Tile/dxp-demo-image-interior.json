@@ -2,7 +2,56 @@
 	"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
 	"createdAt": "2024-09-22T18:14:34.284Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الداخلية",
+			"subTitle": "كل ما تحتاجه...",
+			"footer": "طالما نحن على قيد الحياة والتنفس..."
+		},
+		{
+			"language": "DE",
+			"title": "Innenraum",
+			"subTitle": "Alles, was du brauchst...",
+			"footer": "Solange wir leben und atmen..."
+		},
+		{
+			"language": "EN",
+			"title": "Interior",
+			"subTitle": "Everything you need...",
+			"footer": "As long as we’re living and breathing..."
+		},
+		{
+			"language": "FR",
+			"title": "Intérieur",
+			"subTitle": "Tout ce dont vous avez besoin...",
+			"footer": "Tant que nous vivons et respirons..."
+		},
+		{
+			"language": "NO",
+			"title": "Interiør",
+			"subTitle": "Alt du trenger...",
+			"footer": "Så lenge vi lever og puster..."
+		},
+		{
+			"language": "ZF",
+			"title": "內部的",
+			"subTitle": "您所需要的一切...",
+			"footer": "只要我們還活著、還在呼吸…"
+		},
+		{
+			"language": "ZH",
+			"title": "内部的",
+			"subTitle": "您所需要的一切...",
+			"footer": "只要我们还活着、还在呼吸……"
+		},
+		{
+			"language": "NN",
+			"title": "Interiør",
+			"subTitle": "Alt du treng...",
+			"footer": "Så lenge vi lever og pustar..."
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Interior",
@@ -83,7 +132,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

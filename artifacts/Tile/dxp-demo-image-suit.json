@@ -2,7 +2,56 @@
 	"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
 	"createdAt": "2024-09-22T18:15:52.819Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "البدلة",
+			"subTitle": "أفضل بدلات الفضاء التقنية",
+			"footer": "الشعور بالذنب مثل الملح..."
+		},
+		{
+			"language": "DE",
+			"title": "Anzug",
+			"subTitle": "Top-Technik-Raumanzüge",
+			"footer": "Schuld ist wie Salz..."
+		},
+		{
+			"language": "EN",
+			"title": "Suit",
+			"subTitle": "Top tech space suits",
+			"footer": "Guilt is like salt..."
+		},
+		{
+			"language": "FR",
+			"title": "Combinaison",
+			"subTitle": "Les meilleures combinaisons spatiales de pointe",
+			"footer": "La culpabilité est comme le sel..."
+		},
+		{
+			"language": "NO",
+			"title": "Drakt",
+			"subTitle": "Topp tekniske romdrakter",
+			"footer": "Skyld er som salt..."
+		},
+		{
+			"language": "ZH",
+			"title": "套装",
+			"subTitle": "顶级科技太空服",
+			"footer": "内疚就像盐……"
+		},
+		{
+			"language": "ZF",
+			"title": "套裝",
+			"subTitle": "頂級科技太空服",
+			"footer": "內疚就像鹽…"
+		},
+		{
+			"language": "NN",
+			"title": "Drakt",
+			"subTitle": "Topp teknologi romdrakter",
+			"footer": "Skuld er som salt..."
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Suit",
@@ -83,7 +132,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

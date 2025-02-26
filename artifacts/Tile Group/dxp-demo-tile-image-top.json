@@ -2,7 +2,48 @@
 	"id": "060018d3-7efe-4682-8ce4-30f4da0e7093",
 	"createdAt": "2024-09-22T18:18:11.420Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "صورة البلاط العلوي",
+			"subTitle": "جميع البلاطات مع الصور المضافة إلى الأعلى"
+		},
+		{
+			"language": "DE",
+			"title": "Kachelbild oben",
+			"subTitle": "Alle Kacheln mit Bildern oben hinzugefügt"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Top",
+			"subTitle": "All tiles with images added to the top"
+		},
+		{
+			"language": "FR",
+			"title": "Image de tuile en haut",
+			"subTitle": "Toutes les tuiles avec des images ajoutées en haut"
+		},
+		{
+			"language": "NO",
+			"title": "Flisbilde Topp",
+			"subTitle": "Alle fliser med bilder lagt til toppen"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像顶部",
+			"subTitle": "所有带有图片的图块都添加到顶部"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像頂部",
+			"subTitle": "所有帶有圖片的圖塊都添加到頂部"
+		},
+		{
+			"language": "NN",
+			"title": "Flisbilde Topp",
+			"subTitle": "Alle fliser med bilder lagt til toppen"
+		}
+	],
 	"tilesOrder": [
 		"f29d8323-484c-47b2-bb77-99698adf76b4",
 		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
@@ -87,8 +128,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

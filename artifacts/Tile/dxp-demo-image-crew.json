@@ -2,7 +2,56 @@
 	"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
 	"createdAt": "2024-09-22T18:15:09.220Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الطاقم",
+			"subTitle": "تعرف على طاقم روسينانتي",
+			"footer": "الحقيقة هي الحقيقة!"
+		},
+		{
+			"language": "DE",
+			"title": "Crew",
+			"subTitle": "Triff die Rocinante-Crew",
+			"footer": "Wahrheit ist Wahrheit!"
+		},
+		{
+			"language": "EN",
+			"title": "Crew",
+			"subTitle": "Meet the Rocinante crew",
+			"footer": "Truth is truth!"
+		},
+		{
+			"language": "FR",
+			"title": "Équipage",
+			"subTitle": "Rencontrez l'équipage du Rocinante",
+			"footer": "La vérité est la vérité!"
+		},
+		{
+			"language": "NO",
+			"title": "Manus",
+			"subTitle": "Møt Rocinante-manuset",
+			"footer": "Sannheten er sannhet!"
+		},
+		{
+			"language": "ZH",
+			"title": "全体人员",
+			"subTitle": "见见 Rocinante 船员",
+			"footer": "真理就是真理！"
+		},
+		{
+			"language": "ZF",
+			"title": "全體人員",
+			"subTitle": "見見 Rocinante 船員",
+			"footer": "真理就是真理！"
+		},
+		{
+			"language": "NN",
+			"title": "Mannskap",
+			"subTitle": "Møt Rocinante mannskapet",
+			"footer": "Sanning er sanning!"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Crew",
@@ -83,7 +132,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

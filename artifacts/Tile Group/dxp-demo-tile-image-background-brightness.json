@@ -2,7 +2,48 @@
 	"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
 	"createdAt": "2024-10-10T00:13:03.178Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "صورة البلاط الخلفية مع تصفية السطوع",
+			"subTitle": "50% من السطوع. تخطيط البلاط مع إضافة نص أبيض إلى مجموعة البلاط"
+		},
+		{
+			"language": "DE",
+			"title": "Kachelbild Hintergrund Filter Helligkeit",
+			"subTitle": "50% Helligkeit. Kachel-Layout mit weißem Text zur Kachelgruppe hinzugefügt"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Background Filter Brightness",
+			"subTitle": "50% brightness. Tile layout with white text added to tile group"
+		},
+		{
+			"language": "FR",
+			"title": "Image de tuile avec filtre de luminosité",
+			"subTitle": "50% de luminosité. Agencement de tuiles avec texte blanc ajouté au groupe de tuiles"
+		},
+		{
+			"language": "NO",
+			"title": "Flisbilde Bakgrunn Filter Lysstyrke",
+			"subTitle": "50% lysstyrke. Flisoppsett med hvit tekst lagt til flisgruppe"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像背景过滤器亮度",
+			"subTitle": "亮度为 50%。图块布局，其中向图块组添加了白色文本"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像背景濾鏡亮度",
+			"subTitle": "50%亮度。將白色文字加入圖塊組的圖塊佈局"
+		},
+		{
+			"language": "NN",
+			"title": "Flisbilde Bakgrunn Filter Lysstyrke",
+			"subTitle": "50% lysstyrke. Flisoppsett med kvit tekst lagt til flisgruppe"
+		}
+	],
 	"tilesOrder": [
 		"f29d8323-484c-47b2-bb77-99698adf76b4",
 		"12ec4cfd-3f8a-4aed-9819-f0329c40116d",
@@ -87,8 +128,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,
