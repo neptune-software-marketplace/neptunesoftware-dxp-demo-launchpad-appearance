@@ -2,7 +2,168 @@
 	"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
 	"createdAt": "2024-10-14T07:10:37.129Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "فرق فانتازيا الطقس"
+		},
+		{
+			"language": "BG",
+			"title": "Weather Fantasy Teams"
+		},
+		{
+			"language": "CS",
+			"title": "Počasí Fantasy Teams"
+		},
+		{
+			"language": "DA",
+			"title": "Vejr Fantasy Teams"
+		},
+		{
+			"language": "DE",
+			"title": "Wetter Fantasy Teams"
+		},
+		{
+			"language": "EL",
+			"title": "Ομάδες Φαντασίας Καιρού"
+		},
+		{
+			"language": "EN",
+			"title": "Weather Fantasy Teams"
+		},
+		{
+			"language": "ES",
+			"title": "Equipos de fantasía del clima"
+		},
+		{
+			"language": "ET",
+			"title": "Ilma fantaasia meeskonnad"
+		},
+		{
+			"language": "FI",
+			"title": "Sää Fantasia joukkueet"
+		},
+		{
+			"language": "FR",
+			"title": "Équipes de fantasy météo"
+		},
+		{
+			"language": "HE",
+			"title": "צוותי מזג אוויר"
+		},
+		{
+			"language": "IT",
+			"title": "Squadre Fantasy Meteo"
+		},
+		{
+			"language": "JA",
+			"title": "天気ファンタジーチーム"
+		},
+		{
+			"language": "LT",
+			"title": "Orų fantazijos komandos"
+		},
+		{
+			"language": "NL",
+			"title": "Weer Fantasy Teams"
+		},
+		{
+			"language": "PL",
+			"title": "Zespoły fantasy pogodowe"
+		},
+		{
+			"language": "RO",
+			"title": "Echipe Fantezie Meteo"
+		},
+		{
+			"language": "SK",
+			"title": "Fantasy tímy počasia"
+		},
+		{
+			"language": "SL",
+			"title": "Vremenske fantazijske ekipe"
+		},
+		{
+			"language": "TR",
+			"title": "Hava Durumu Fantezi Takımları"
+		},
+		{
+			"language": "HR",
+			"title": "Weather Fantasy Timovi"
+		},
+		{
+			"language": "HU",
+			"title": "Időjárás Fantasy csapatok"
+		},
+		{
+			"language": "ID",
+			"title": "Tim Fantasi Cuaca"
+		},
+		{
+			"language": "IS",
+			"title": "Veður Fantasy Teams"
+		},
+		{
+			"language": "KO",
+			"title": "날씨 판타지 팀"
+		},
+		{
+			"language": "LV",
+			"title": "Laikapstākļu fantāzijas komandas"
+		},
+		{
+			"language": "MS",
+			"title": "Pasukan Fantasi Cuaca"
+		},
+		{
+			"language": "NN",
+			"title": "Værfantasilag"
+		},
+		{
+			"language": "NO",
+			"title": "Værfantasilag"
+		},
+		{
+			"language": "PT",
+			"title": "Times de Fantasia do Tempo"
+		},
+		{
+			"language": "RU",
+			"title": "Команды погодных фантазий"
+		},
+		{
+			"language": "SE",
+			"title": "Dálkkádatfantasiijajoavkkut"
+		},
+		{
+			"language": "SH",
+			"title": "Веатхер Фантаси Теамс"
+		},
+		{
+			"language": "SR",
+			"title": "Веатхер Фантаси Теамс"
+		},
+		{
+			"language": "SV",
+			"title": "Väderfantasilag"
+		},
+		{
+			"language": "TH",
+			"title": "ทีมแฟนตาซีสภาพอากาศ"
+		},
+		{
+			"language": "UK",
+			"title": "Команди Weather Fantasy"
+		},
+		{
+			"language": "ZF",
+			"title": "天氣幻想隊"
+		},
+		{
+			"language": "ZH",
+			"title": "天气幻想队"
+		}
+	],
 	"tilesOrder": [
 		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 		"757ca572-4401-4e4f-8e7a-56309357a526",
@@ -102,8 +263,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

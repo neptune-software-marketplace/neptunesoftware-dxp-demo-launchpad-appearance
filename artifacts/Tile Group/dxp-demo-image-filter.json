@@ -2,7 +2,208 @@
 	"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
 	"createdAt": "2024-10-08T10:03:22.286Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "مرشحات الصور",
+			"subTitle": "البلاط مع صورة مع تطبيق مرشح واحد"
+		},
+		{
+			"language": "BG",
+			"title": "Филтри за изображения",
+			"subTitle": "Плочки с изображение с един приложен филтър"
+		},
+		{
+			"language": "CS",
+			"title": "Obrazové filtry",
+			"subTitle": "Dlaždice s obrázkem s jedním použitým filtrem"
+		},
+		{
+			"language": "DA",
+			"title": "Billedfiltre",
+			"subTitle": "Fliser med et billede med ét anvendt filter"
+		},
+		{
+			"language": "DE",
+			"title": "Bildfilter",
+			"subTitle": "Kacheln mit einem Bild mit einem angewendeten Filter"
+		},
+		{
+			"language": "EL",
+			"title": "Φίλτρα εικόνας",
+			"subTitle": "Πλακάκια με εικόνα με ένα εφαρμοσμένο φίλτρο"
+		},
+		{
+			"language": "EN",
+			"title": "Image Filters",
+			"subTitle": "Tiles with an image with one applied filter"
+		},
+		{
+			"language": "ES",
+			"title": "Filtros de imagen",
+			"subTitle": "Mosaicos con una imagen con un filtro aplicado"
+		},
+		{
+			"language": "ET",
+			"title": "Pildifiltrid",
+			"subTitle": "Ühe rakendatud filtriga pildiga plaadid"
+		},
+		{
+			"language": "FI",
+			"title": "Kuvasuodattimet",
+			"subTitle": "Laatat, joissa on kuva yhdellä suodattimella"
+		},
+		{
+			"language": "FR",
+			"title": "Filtres d'image",
+			"subTitle": "Tuiles avec une image avec un filtre appliqué"
+		},
+		{
+			"language": "HE",
+			"title": "מסנני תמונה",
+			"subTitle": "אריחים עם תמונה עם מסנן מוחל אחד"
+		},
+		{
+			"language": "HU",
+			"title": "Képszűrők",
+			"subTitle": "Csempék képpel egy alkalmazott szűrővel"
+		},
+		{
+			"language": "ID",
+			"title": "Filter Gambar",
+			"subTitle": "Ubin dengan gambar dengan satu filter yang diterapkan"
+		},
+		{
+			"language": "IS",
+			"title": "Myndasíur",
+			"subTitle": "Flísar með mynd með einni beittri síu"
+		},
+		{
+			"language": "IT",
+			"title": "Filtri immagine",
+			"subTitle": "Piastrelle con un'immagine con un filtro applicato"
+		},
+		{
+			"language": "JA",
+			"title": "画像フィルター",
+			"subTitle": "フィルターを 1 つ適用した画像のタイル"
+		},
+		{
+			"language": "LT",
+			"title": "Vaizdo filtrai",
+			"subTitle": "Plytelės su vaizdu su vienu pritaikytu filtru"
+		},
+		{
+			"language": "NL",
+			"title": "Afbeeldingfilters",
+			"subTitle": "Tegels met een afbeelding met één toegepast filter"
+		},
+		{
+			"language": "NO",
+			"title": "Bildefiltre",
+			"subTitle": "Fliser med et bilde med ett brukt filter"
+		},
+		{
+			"language": "PL",
+			"title": "Filtry obrazu",
+			"subTitle": "Kafelki z obrazem z zastosowanym jednym filtrem"
+		},
+		{
+			"language": "PT",
+			"title": "Filtros de Imagem",
+			"subTitle": "Tiles com uma imagem com um filtro aplicado"
+		},
+		{
+			"language": "SL",
+			"title": "Filtri za slike",
+			"subTitle": "Ploščice s sliko z enim uporabljenim filtrom"
+		},
+		{
+			"language": "SR",
+			"title": "Филтери за слике",
+			"subTitle": "Плочице са сликом са једним примењеним филтером"
+		},
+		{
+			"language": "TR",
+			"title": "Görüntü Filtreleri",
+			"subTitle": "Bir uygulanmış filtreye sahip bir görüntü içeren döşemeler"
+		},
+		{
+			"language": "HR",
+			"title": "Filtri slike",
+			"subTitle": "Pločice sa slikom s jednim primijenjenim filtrom"
+		},
+		{
+			"language": "KO",
+			"title": "이미지 필터",
+			"subTitle": "하나의 필터가 적용된 이미지가 있는 타일"
+		},
+		{
+			"language": "LV",
+			"title": "Attēlu filtri",
+			"subTitle": "Flīzes ar attēlu ar vienu piemērotu filtru"
+		},
+		{
+			"language": "MS",
+			"title": "Penapis Imej",
+			"subTitle": "Jubin dengan imej dengan satu penapis yang digunakan"
+		},
+		{
+			"language": "NN",
+			"title": "Bildefiltre",
+			"subTitle": "Fliser med et bilde med ett brukt filter"
+		},
+		{
+			"language": "RO",
+			"title": "Filtre de imagine",
+			"subTitle": "Dale cu o imagine cu un filtru aplicat"
+		},
+		{
+			"language": "RU",
+			"title": "Фильтры изображений",
+			"subTitle": "Плитка с изображением с одним примененным фильтром"
+		},
+		{
+			"language": "SE",
+			"title": "Govvafilterat",
+			"subTitle": "Fliisat main lea govva mas lea okta bidjon filter"
+		},
+		{
+			"language": "SH",
+			"title": "Филтери за слике",
+			"subTitle": "Плочице са сликом са једним примењеним филтером"
+		},
+		{
+			"language": "SK",
+			"title": "Obrazové filtre",
+			"subTitle": "Dlaždice s obrázkom s jedným aplikovaným filtrom"
+		},
+		{
+			"language": "SV",
+			"title": "Bildfilter",
+			"subTitle": "Brickor med en bild med ett tillämpat filter"
+		},
+		{
+			"language": "TH",
+			"title": "ฟิลเตอร์ภาพ",
+			"subTitle": "กระเบื้องที่มีภาพพร้อมฟิลเตอร์ที่ใช้หนึ่งตัว"
+		},
+		{
+			"language": "UK",
+			"title": "Фільтри зображень",
+			"subTitle": "Плитки із зображенням із одним застосованим фільтром"
+		},
+		{
+			"language": "ZF",
+			"title": "影像濾鏡",
+			"subTitle": "應用了一個濾鏡的圖像圖塊"
+		},
+		{
+			"language": "ZH",
+			"title": "图像滤镜",
+			"subTitle": "应用了一个滤镜的图像图块"
+		}
+	],
 	"tilesOrder": [
 		"220c2ea1-89be-4a26-a5a9-f5e7270f3d06",
 		"39061b2c-7ade-4049-a157-b11177bd6646",
@@ -21,8 +222,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Image Filters",
 	"subTitle": "Tiles with an image with one applied filter",
 	"menuText": null,
@@ -42,7 +243,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.23.1042",
+	"ver": "25.02.27.2013",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -97,8 +298,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,
@@ -107,6 +308,10 @@
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [
+		{
+			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
+			"ver": "25.02.27.2013"
+		},
 		{
 			"id": "624cc74a-a0ec-47b5-a6ef-090aab9682c3",
 			"ver": "24.11.23.1124"

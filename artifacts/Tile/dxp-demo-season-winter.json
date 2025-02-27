@@ -2,7 +2,168 @@
 	"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
 	"createdAt": "2024-09-25T08:32:23.080Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الصيف هو للاستسلام، والشتاء هو للتساؤل"
+		},
+		{
+			"language": "BG",
+			"title": "Лятото е за предаване; зимата е за чудене"
+		},
+		{
+			"language": "CS",
+			"title": "Léto je k odevzdání; zima je k zamyšlení"
+		},
+		{
+			"language": "DA",
+			"title": "Sommeren er til at overgive sig; vinteren er til undren"
+		},
+		{
+			"language": "DE",
+			"title": "Der Sommer ist zum Aufgeben da, der Winter zum Staunen"
+		},
+		{
+			"language": "EL",
+			"title": "Το καλοκαίρι είναι για παράδοση. ο χειμώνας είναι για να αναρωτιέστε"
+		},
+		{
+			"language": "EN",
+			"title": "Summer is for surrendering; winter is for wondering"
+		},
+		{
+			"language": "ES",
+			"title": "El verano es para entregarse; el invierno es para preguntarse."
+		},
+		{
+			"language": "ET",
+			"title": "Suvi on alistumise jaoks; talv on imestamiseks"
+		},
+		{
+			"language": "FI",
+			"title": "Kesä on antautumista varten; talvi on ihmettelyä varten"
+		},
+		{
+			"language": "FR",
+			"title": "L'été est fait pour se rendre, l'hiver est fait pour s'interroger"
+		},
+		{
+			"language": "HE",
+			"title": "הקיץ נועד לכניעה; החורף הוא לתהיות"
+		},
+		{
+			"language": "HR",
+			"title": "Ljeto je za predaje; zima je za čuđenje"
+		},
+		{
+			"language": "HU",
+			"title": "A nyár a megadásé; a tél a csodálkozásé"
+		},
+		{
+			"language": "IS",
+			"title": "Sumarið er til að gefast upp; vetur er til að spá í"
+		},
+		{
+			"language": "IT",
+			"title": "L'estate è per arrendersi; l'inverno è per meravigliarsi"
+		},
+		{
+			"language": "JA",
+			"title": "夏は諦める季節、冬は疑問に思う季節"
+		},
+		{
+			"language": "KO",
+			"title": "여름은 항복하는 계절이고, 겨울은 방황하는 계절이다"
+		},
+		{
+			"language": "LT",
+			"title": "Vasara skirta pasidavimui; žiema skirta stebėtis"
+		},
+		{
+			"language": "NN",
+			"title": "Sommeren er for å overgi seg; vinteren er til å undre seg over"
+		},
+		{
+			"language": "NO",
+			"title": "Sommeren er for å overgi seg; vinteren er til å undre seg over"
+		},
+		{
+			"language": "RU",
+			"title": "Лето — для сдачи, зима — для размышлений."
+		},
+		{
+			"language": "SH",
+			"title": "Лето је за предају; зима је за чуђење"
+		},
+		{
+			"language": "SK",
+			"title": "Leto je na odovzdanie sa; zima je na zamyslenie"
+		},
+		{
+			"language": "SL",
+			"title": "Poletje je za predajanje; zima je za spraševanje"
+		},
+		{
+			"language": "TH",
+			"title": "ฤดูร้อนคือเวลาแห่งการยอมแพ้ ฤดูหนาวคือเวลาแห่งการสงสัย"
+		},
+		{
+			"language": "ID",
+			"title": "Musim panas adalah untuk menyerah; musim dingin adalah untuk bertanya-tanya"
+		},
+		{
+			"language": "LV",
+			"title": "Vasara ir padošanai; ziema ir domāta brīnumam"
+		},
+		{
+			"language": "MS",
+			"title": "Musim panas adalah untuk menyerah diri; musim sejuk adalah untuk tertanya-tanya"
+		},
+		{
+			"language": "NL",
+			"title": "De zomer is voor overgave; de winter is voor verwondering"
+		},
+		{
+			"language": "PL",
+			"title": "Lato jest po to, by się poddać, zima po to, by się zastanawiać"
+		},
+		{
+			"language": "PT",
+			"title": "O verão é para se render; o inverno é para se perguntar"
+		},
+		{
+			"language": "RO",
+			"title": "Vara este pentru predare; iarna este de mirare"
+		},
+		{
+			"language": "SE",
+			"title": "Geassi lea vuolláneapmái; dálvi lea imaštallat"
+		},
+		{
+			"language": "SR",
+			"title": "Лето је за предају; зима је за чуђење"
+		},
+		{
+			"language": "SV",
+			"title": "Sommaren är till för att kapitulera; vintern är för att undra"
+		},
+		{
+			"language": "TR",
+			"title": "Yaz teslim olmak içindir; kış ise merak etmek içindir"
+		},
+		{
+			"language": "UK",
+			"title": "Літо для капітуляції; зима для того, щоб дивуватися"
+		},
+		{
+			"language": "ZF",
+			"title": "夏天是投降的；冬天是用來思考的"
+		},
+		{
+			"language": "ZH",
+			"title": "夏天是屈服的，冬天是疑惑的"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Summer is for surrendering; winter is for wondering",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

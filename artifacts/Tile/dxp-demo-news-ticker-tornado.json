@@ -2,7 +2,168 @@
 	"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
 	"createdAt": "2024-09-25T07:42:08.924Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "موسم الأعاصير هنا"
+		},
+		{
+			"language": "BG",
+			"title": "Сезонът на торнадото е тук"
+		},
+		{
+			"language": "CS",
+			"title": "Sezóna tornád je tady"
+		},
+		{
+			"language": "DA",
+			"title": "Tornado sæsonen er her"
+		},
+		{
+			"language": "DE",
+			"title": "Die Tornado-Saison hat begonnen"
+		},
+		{
+			"language": "EL",
+			"title": "Η εποχή των ανεμοστρόβιλων είναι εδώ"
+		},
+		{
+			"language": "EN",
+			"title": "Tornado season is here"
+		},
+		{
+			"language": "ES",
+			"title": "La temporada de tornados ya está aquí"
+		},
+		{
+			"language": "ET",
+			"title": "Tornaadohooaeg on käes"
+		},
+		{
+			"language": "FI",
+			"title": "Tornadokausi on täällä"
+		},
+		{
+			"language": "FR",
+			"title": "La saison des tornades est arrivée"
+		},
+		{
+			"language": "HE",
+			"title": "עונת הטורנדו כבר כאן"
+		},
+		{
+			"language": "HR",
+			"title": "Sezona tornada je stigla"
+		},
+		{
+			"language": "ID",
+			"title": "Musim tornado telah tiba"
+		},
+		{
+			"language": "IS",
+			"title": "Tornado tímabilið er komið"
+		},
+		{
+			"language": "IT",
+			"title": "La stagione dei tornado è arrivata"
+		},
+		{
+			"language": "JA",
+			"title": "竜巻の季節が到来"
+		},
+		{
+			"language": "KO",
+			"title": "토네이도 시즌이 왔습니다"
+		},
+		{
+			"language": "NL",
+			"title": "Het tornadoseizoen is hier"
+		},
+		{
+			"language": "NN",
+			"title": "Tornadosesongen er her"
+		},
+		{
+			"language": "NO",
+			"title": "Tornadosesongen er her"
+		},
+		{
+			"language": "RO",
+			"title": "Sezonul tornadelor este aici"
+		},
+		{
+			"language": "SE",
+			"title": "Tornádoáigodat lea boahtán"
+		},
+		{
+			"language": "SH",
+			"title": "Сезона торнада је стигла"
+		},
+		{
+			"language": "SK",
+			"title": "Sezóna tornád je tu"
+		},
+		{
+			"language": "SL",
+			"title": "Sezona tornadov je tu"
+		},
+		{
+			"language": "SR",
+			"title": "Сезона торнада је стигла"
+		},
+		{
+			"language": "SV",
+			"title": "Tornadosäsongen är här"
+		},
+		{
+			"language": "ZF",
+			"title": "龍捲風季節到了"
+		},
+		{
+			"language": "ZH",
+			"title": "龙卷风季节到了"
+		},
+		{
+			"language": "HU",
+			"title": "Itt a tornádó szezon"
+		},
+		{
+			"language": "LT",
+			"title": "Tornado sezonas čia"
+		},
+		{
+			"language": "LV",
+			"title": "Tornado sezona ir klāt"
+		},
+		{
+			"language": "MS",
+			"title": "Musim puting beliung sudah tiba"
+		},
+		{
+			"language": "PL",
+			"title": "Nadszedł sezon tornad"
+		},
+		{
+			"language": "PT",
+			"title": "A temporada de tornados chegou"
+		},
+		{
+			"language": "RU",
+			"title": "Сезон торнадо уже здесь"
+		},
+		{
+			"language": "TH",
+			"title": "ฤดูพายุทอร์นาโดมาถึงแล้ว"
+		},
+		{
+			"language": "TR",
+			"title": "Kasırga sezonu geldi"
+		},
+		{
+			"language": "UK",
+			"title": "Настав сезон торнадо"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Tornado season is here",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

@@ -2,7 +2,208 @@
 	"id": "76aaed69-7299-46ca-837e-8c5772964fa2",
 	"createdAt": "2024-10-07T21:23:50.778Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "فلترة الصورة الضبابية",
+			"subTitle": "تم تطبيق 6 بكسل طمس"
+		},
+		{
+			"language": "BG",
+			"title": "Филтър за замъгляване на изображението",
+			"subTitle": "Приложено е замъгляване от 6px"
+		},
+		{
+			"language": "CS",
+			"title": "Filtr Rozostření obrazu",
+			"subTitle": "Bylo použito 6px rozostření"
+		},
+		{
+			"language": "DA",
+			"title": "Filtrer billedsløring",
+			"subTitle": "6px sløring er blevet anvendt"
+		},
+		{
+			"language": "DE",
+			"title": "Filterbildunschärfe",
+			"subTitle": "6px Unschärfe wurde angewendet"
+		},
+		{
+			"language": "EL",
+			"title": "Θάμπωμα φίλτρου εικόνας",
+			"subTitle": "Εφαρμόστηκε θάμπωμα 6 εικονοστοιχείων"
+		},
+		{
+			"language": "EN",
+			"title": "Filter Image Blur",
+			"subTitle": "6px blur has been applied"
+		},
+		{
+			"language": "ES",
+			"title": "Filtro de desenfoque de imagen",
+			"subTitle": "Se ha aplicado un desenfoque de 6 px"
+		},
+		{
+			"language": "ET",
+			"title": "Pildi hägususe filtreerimine",
+			"subTitle": "Rakendatud on 6 piksli hägusust"
+		},
+		{
+			"language": "FI",
+			"title": "Suodata kuvan epäterävyyttä",
+			"subTitle": "6px-sumennus on käytetty"
+		},
+		{
+			"language": "FR",
+			"title": "Filtrer le flou de l'image",
+			"subTitle": "Un flou de 6 px a été appliqué"
+		},
+		{
+			"language": "HE",
+			"title": "סינון טשטוש תמונה",
+			"subTitle": "טשטוש של 6 פיקסלים הוחל"
+		},
+		{
+			"language": "HR",
+			"title": "Filtar Zamućenje slike",
+			"subTitle": "Primijenjeno je zamućenje od 6 piksela"
+		},
+		{
+			"language": "IT",
+			"title": "Filtro Immagine Sfocata",
+			"subTitle": "È stata applicata la sfocatura di 6px"
+		},
+		{
+			"language": "JA",
+			"title": "フィルター画像ぼかし",
+			"subTitle": "6ピクセルのぼかしが適用されました"
+		},
+		{
+			"language": "MS",
+			"title": "Tapis Imej Kabur",
+			"subTitle": "6px kabur telah digunakan"
+		},
+		{
+			"language": "NN",
+			"title": "Filtrer uskarphet",
+			"subTitle": "6 px uskarphet har blitt brukt"
+		},
+		{
+			"language": "NO",
+			"title": "Filtrer uskarphet",
+			"subTitle": "6 px uskarphet har blitt brukt"
+		},
+		{
+			"language": "PT",
+			"title": "Filtrar Desfoque de Imagem",
+			"subTitle": "Foi aplicado um desfoque de 6px"
+		},
+		{
+			"language": "RU",
+			"title": "Фильтр размытия изображения",
+			"subTitle": "Применено размытие 6 пикселей."
+		},
+		{
+			"language": "SE",
+			"title": "Filter Govva Suorbma",
+			"subTitle": "6px čuovga lea biddjon"
+		},
+		{
+			"language": "SV",
+			"title": "Filtrera bildoskärpa",
+			"subTitle": "6 px oskärpa har applicerats"
+		},
+		{
+			"language": "UK",
+			"title": "Фільтр розмиття зображення",
+			"subTitle": "Застосовано розмиття на 6 пікселів"
+		},
+		{
+			"language": "ZH",
+			"title": "过滤图像模糊",
+			"subTitle": "已应用 6px 模糊"
+		},
+		{
+			"language": "HU",
+			"title": "Képelmosás szűrése",
+			"subTitle": "6 képpont elmosódás lett alkalmazva"
+		},
+		{
+			"language": "ID",
+			"title": "Filter Gambar Buram",
+			"subTitle": "Blur 6px telah diterapkan"
+		},
+		{
+			"language": "IS",
+			"title": "Sía mynd óskýr",
+			"subTitle": "6px þoka hefur verið beitt"
+		},
+		{
+			"language": "KO",
+			"title": "필터 이미지 흐림",
+			"subTitle": "6px blur가 적용되었습니다"
+		},
+		{
+			"language": "LT",
+			"title": "Filtruoti vaizdo suliejimą",
+			"subTitle": "Pritaikytas 6 pikselių suliejimas"
+		},
+		{
+			"language": "LV",
+			"title": "Filtrēt attēla izplūšanu",
+			"subTitle": "Ir lietots 6 pikseļu aizmiglojums"
+		},
+		{
+			"language": "NL",
+			"title": "Filter Afbeelding Vervagen",
+			"subTitle": "6px vervaging is toegepast"
+		},
+		{
+			"language": "PL",
+			"title": "Filtr rozmycia obrazu",
+			"subTitle": "Zastosowano rozmycie 6px"
+		},
+		{
+			"language": "RO",
+			"title": "Filtrați încețoșarea imaginii",
+			"subTitle": "S-a aplicat estomparea de 6 pixeli"
+		},
+		{
+			"language": "SH",
+			"title": "Филтер замућења слике",
+			"subTitle": "Замућење од 6 пиксела је примењено"
+		},
+		{
+			"language": "SK",
+			"title": "Filtrovať rozostrenie obrazu",
+			"subTitle": "Bolo použité rozmazanie 6 pixelov"
+		},
+		{
+			"language": "SL",
+			"title": "Filter Zameglitev slike",
+			"subTitle": "Uporabljena je bila zameglitev 6px"
+		},
+		{
+			"language": "SR",
+			"title": "Филтер замућења слике",
+			"subTitle": "Замућење од 6 пиксела је примењено"
+		},
+		{
+			"language": "TH",
+			"title": "ฟิลเตอร์เบลอภาพ",
+			"subTitle": "เบลอภาพ 6px แล้ว"
+		},
+		{
+			"language": "TR",
+			"title": "Görüntü Bulanıklaştırma Filtresi",
+			"subTitle": "6px bulanıklık uygulandı"
+		},
+		{
+			"language": "ZF",
+			"title": "過濾影像模糊",
+			"subTitle": "已應用 6px 模糊"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Filter Image Blur",
@@ -83,7 +284,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

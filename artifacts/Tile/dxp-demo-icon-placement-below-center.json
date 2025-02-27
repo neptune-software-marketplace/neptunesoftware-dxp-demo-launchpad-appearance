@@ -2,7 +2,248 @@
 	"id": "786dc091-9cf0-47f5-a119-ec8a4d8b8b78",
 	"createdAt": "2024-09-22T17:13:33.063Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "رمز",
+			"subTitle": "أسفل مركز العنوان",
+			"footer": "معلومات التذييل تظهر هنا"
+		},
+		{
+			"language": "BG",
+			"title": "Икона",
+			"subTitle": "Под центъра на заглавието",
+			"footer": "Информацията за долния колонтитул отива тук"
+		},
+		{
+			"language": "CS",
+			"title": "Ikona",
+			"subTitle": "Pod nadpisem uprostřed",
+			"footer": "Informace v zápatí jsou zde"
+		},
+		{
+			"language": "DA",
+			"title": "Ikon",
+			"subTitle": "Under titelcenter",
+			"footer": "Footer info kommer her"
+		},
+		{
+			"language": "DE",
+			"title": "Symbol",
+			"subTitle": "Unter der Titelmitte",
+			"footer": "Die Fußzeileninformationen kommen hierhin"
+		},
+		{
+			"language": "EL",
+			"title": "Εικόνισμα",
+			"subTitle": "Κάτω από το κέντρο του τίτλου",
+			"footer": "Οι πληροφορίες για το υποσέλιδο πηγαίνουν εδώ"
+		},
+		{
+			"language": "EN",
+			"title": "Icon",
+			"subTitle": "Below title center",
+			"footer": "The footer info goes here"
+		},
+		{
+			"language": "ES",
+			"title": "Icono",
+			"subTitle": "Debajo del centro del título",
+			"footer": "La información del pie de página va aquí"
+		},
+		{
+			"language": "ET",
+			"title": "Ikoon",
+			"subTitle": "Pealkirjakeskuse all",
+			"footer": "Jaluse teave läheb siia"
+		},
+		{
+			"language": "FI",
+			"title": "Kuvake",
+			"subTitle": "Otsikon keskellä",
+			"footer": "Alatunnisteen tiedot tulevat tänne"
+		},
+		{
+			"language": "FR",
+			"title": "Icône",
+			"subTitle": "Sous le titre central",
+			"footer": "Les informations du pied de page se trouvent ici"
+		},
+		{
+			"language": "HE",
+			"title": "סמל",
+			"subTitle": "מתחת למרכז הכותרת",
+			"footer": "המידע בכותרת התחתונה מגיע לכאן"
+		},
+		{
+			"language": "HU",
+			"title": "Ikon",
+			"subTitle": "A cím középpontja alatt",
+			"footer": "A lábléc információk itt találhatók"
+		},
+		{
+			"language": "ID",
+			"title": "Ikon",
+			"subTitle": "Di bawah judul tengah",
+			"footer": "Info footer ada di sini"
+		},
+		{
+			"language": "IT",
+			"title": "Icona",
+			"subTitle": "Sotto il centro del titolo",
+			"footer": "Le informazioni del piè di pagina vanno qui"
+		},
+		{
+			"language": "JA",
+			"title": "アイコン",
+			"subTitle": "タイトル中央下",
+			"footer": "フッター情報はここに表示されます"
+		},
+		{
+			"language": "NL",
+			"title": "Icon",
+			"subTitle": "Onder titel midden",
+			"footer": "De voettekstinfo komt hier"
+		},
+		{
+			"language": "PL",
+			"title": "Ikona",
+			"subTitle": "Poniżej środka tytułu",
+			"footer": "Informacje stopki znajdują się tutaj"
+		},
+		{
+			"language": "RO",
+			"title": "Pictogramă",
+			"subTitle": "Sub centrul titlului",
+			"footer": "Informațiile de subsol ajung aici"
+		},
+		{
+			"language": "RU",
+			"title": "Икона",
+			"subTitle": "Ниже заголовка по центру",
+			"footer": "Информация нижнего колонтитула находится здесь"
+		},
+		{
+			"language": "SL",
+			"title": "Ikona",
+			"subTitle": "Pod sredino naslova",
+			"footer": "Podatki o nogi so tukaj"
+		},
+		{
+			"language": "SV",
+			"title": "Ikon",
+			"subTitle": "Under titel mitten",
+			"footer": "Sidfotsinformationen kommer här"
+		},
+		{
+			"language": "TH",
+			"title": "ไอคอน",
+			"subTitle": "ด้านล่างชื่อเรื่องกลาง",
+			"footer": "ข้อมูลส่วนท้ายอยู่ที่นี่"
+		},
+		{
+			"language": "TR",
+			"title": "Simge",
+			"subTitle": "Başlık merkezinin altında",
+			"footer": "Altbilgi bilgisi buraya gelir"
+		},
+		{
+			"language": "UK",
+			"title": "значок",
+			"subTitle": "Нижче заголовка по центру",
+			"footer": "Інформація про нижній колонтитул міститься тут"
+		},
+		{
+			"language": "HR",
+			"title": "Ikona",
+			"subTitle": "Ispod središta naslova",
+			"footer": "Podaci o podnožju idu ovdje"
+		},
+		{
+			"language": "IS",
+			"title": "Táknmynd",
+			"subTitle": "Fyrir neðan titil miðju",
+			"footer": "Fótupplýsingarnar fara hér"
+		},
+		{
+			"language": "KO",
+			"title": "상",
+			"subTitle": "제목 아래 중앙",
+			"footer": "바닥글 정보는 여기에 있습니다."
+		},
+		{
+			"language": "LT",
+			"title": "Piktograma",
+			"subTitle": "Žemiau pavadinimo centre",
+			"footer": "Poraštės informacija pateikiama čia"
+		},
+		{
+			"language": "LV",
+			"title": "Ikona",
+			"subTitle": "Zem virsraksta centra",
+			"footer": "Kājenes informācija ir pieejama šeit"
+		},
+		{
+			"language": "MS",
+			"title": "ikon",
+			"subTitle": "Di bawah pusat tajuk",
+			"footer": "Maklumat pengaki pergi di sini"
+		},
+		{
+			"language": "NN",
+			"title": "Ikon",
+			"subTitle": "Under tittelsenteret",
+			"footer": "Bunntekstinformasjonen kommer her"
+		},
+		{
+			"language": "NO",
+			"title": "Ikon",
+			"subTitle": "Under tittelsenteret",
+			"footer": "Bunntekstinformasjonen kommer her"
+		},
+		{
+			"language": "PT",
+			"title": "Ícone",
+			"subTitle": "Abaixo do centro do título",
+			"footer": "As informações do rodapé vão aqui"
+		},
+		{
+			"language": "SE",
+			"title": "Ikona",
+			"subTitle": "Vuolábealde namma lea guovddážis",
+			"footer": "Vuolledieđut mannet dáppe"
+		},
+		{
+			"language": "SH",
+			"title": "Икона",
+			"subTitle": "Испод насловног центра",
+			"footer": "Информације у подножју иду овде"
+		},
+		{
+			"language": "SK",
+			"title": "Ikona",
+			"subTitle": "Pod stredom nadpisu",
+			"footer": "Informácie v päte nájdete tu"
+		},
+		{
+			"language": "SR",
+			"title": "Икона",
+			"subTitle": "Испод насловног центра",
+			"footer": "Информације у подножју иду овде"
+		},
+		{
+			"language": "ZF",
+			"title": "圖示",
+			"subTitle": "標題中心下方",
+			"footer": "頁尾訊息在此處"
+		},
+		{
+			"language": "ZH",
+			"title": "图标",
+			"subTitle": "标题中心下方",
+			"footer": "页脚信息在此处"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Icon",
@@ -83,7 +324,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

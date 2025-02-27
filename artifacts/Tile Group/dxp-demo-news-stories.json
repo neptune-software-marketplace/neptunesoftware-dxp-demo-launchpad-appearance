@@ -2,7 +2,168 @@
 	"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
 	"createdAt": "2024-09-25T07:59:28.853Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "قصص اخبارية"
+		},
+		{
+			"language": "BG",
+			"title": "Новини"
+		},
+		{
+			"language": "CS",
+			"title": "Novinky"
+		},
+		{
+			"language": "DA",
+			"title": "Nyhedshistorier"
+		},
+		{
+			"language": "DE",
+			"title": "Nachrichten"
+		},
+		{
+			"language": "EL",
+			"title": "Ειδήσεις"
+		},
+		{
+			"language": "EN",
+			"title": "News Stories"
+		},
+		{
+			"language": "ES",
+			"title": "Historias de noticias"
+		},
+		{
+			"language": "ET",
+			"title": "Uudised Lood"
+		},
+		{
+			"language": "FI",
+			"title": "Uutiset Tarinat"
+		},
+		{
+			"language": "FR",
+			"title": "Articles de presse"
+		},
+		{
+			"language": "HE",
+			"title": "סיפורי חדשות"
+		},
+		{
+			"language": "HU",
+			"title": "Hírek"
+		},
+		{
+			"language": "IT",
+			"title": "Notizie Storie"
+		},
+		{
+			"language": "JA",
+			"title": "ニュース記事"
+		},
+		{
+			"language": "LT",
+			"title": "Naujienų istorijos"
+		},
+		{
+			"language": "LV",
+			"title": "Ziņu stāsti"
+		},
+		{
+			"language": "NL",
+			"title": "Nieuwsverhalen"
+		},
+		{
+			"language": "PL",
+			"title": "Wiadomości"
+		},
+		{
+			"language": "RO",
+			"title": "Stiri"
+		},
+		{
+			"language": "SK",
+			"title": "Novinky"
+		},
+		{
+			"language": "SL",
+			"title": "Novice"
+		},
+		{
+			"language": "TR",
+			"title": "Haber Hikayeleri"
+		},
+		{
+			"language": "HR",
+			"title": "Vijesti"
+		},
+		{
+			"language": "ID",
+			"title": "Berita"
+		},
+		{
+			"language": "IS",
+			"title": "Fréttir Sögur"
+		},
+		{
+			"language": "KO",
+			"title": "뉴스기사"
+		},
+		{
+			"language": "MS",
+			"title": "Berita Berita"
+		},
+		{
+			"language": "NN",
+			"title": "Nyheter"
+		},
+		{
+			"language": "NO",
+			"title": "Nyheter"
+		},
+		{
+			"language": "PT",
+			"title": "Notícias"
+		},
+		{
+			"language": "RU",
+			"title": "Новости Истории"
+		},
+		{
+			"language": "SE",
+			"title": "Ođđasat"
+		},
+		{
+			"language": "SH",
+			"title": "Вести"
+		},
+		{
+			"language": "SR",
+			"title": "Вести"
+		},
+		{
+			"language": "SV",
+			"title": "Nyheter"
+		},
+		{
+			"language": "TH",
+			"title": "เรื่องราวข่าวสาร"
+		},
+		{
+			"language": "UK",
+			"title": "Новини"
+		},
+		{
+			"language": "ZF",
+			"title": "新聞故事"
+		},
+		{
+			"language": "ZH",
+			"title": "新闻故事"
+		}
+	],
 	"tilesOrder": [
 		"2ecc027b-8814-4141-ad35-9cfe597aed4a",
 		"22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
@@ -94,8 +255,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

@@ -2,7 +2,168 @@
 	"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
 	"createdAt": "2025-01-06T00:02:02.068Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "dxp-demo-navbar-تحليلي"
+		},
+		{
+			"language": "BG",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "CS",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "DA",
+			"title": "dxp-demo-navbar-anlytisk"
+		},
+		{
+			"language": "DE",
+			"title": "dxp-demo-navbar-analytisch"
+		},
+		{
+			"language": "EL",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "EN",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "ES",
+			"title": "Barra de navegación analítica de demostración de DXP"
+		},
+		{
+			"language": "ET",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "FI",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "FR",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "HE",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "IT",
+			"title": "dxp-demo-navbar-analitico"
+		},
+		{
+			"language": "JA",
+			"title": "dxp デモ ナビゲーション バー分析"
+		},
+		{
+			"language": "LT",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "NL",
+			"title": "dxp-demo-navigatiebalk-analyse"
+		},
+		{
+			"language": "PL",
+			"title": "dxp-demo-pasek nawigacyjny-analityczny"
+		},
+		{
+			"language": "PT",
+			"title": "dxp-demo-navbar-analítico"
+		},
+		{
+			"language": "RO",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "SE",
+			"title": "dxp-demo-navbar-analytical"
+		},
+		{
+			"language": "SK",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "SR",
+			"title": "дкп-демо-навбар-анлитицал"
+		},
+		{
+			"language": "TR",
+			"title": "dxp-demo-navbar-analitik"
+		},
+		{
+			"language": "UK",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "HR",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "HU",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "ID",
+			"title": "dxp-demo-navbar-analitis"
+		},
+		{
+			"language": "IS",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "KO",
+			"title": "dxp-데모-네비바-분석"
+		},
+		{
+			"language": "LV",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "MS",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "NN",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "NO",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "RU",
+			"title": "dxp-demo-navbar-аналитический"
+		},
+		{
+			"language": "SH",
+			"title": "дкп-демо-навбар-анлитицал"
+		},
+		{
+			"language": "SL",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "SV",
+			"title": "dxp-demo-navbar-anlytical"
+		},
+		{
+			"language": "TH",
+			"title": "dxp-demo-navbar-การวิเคราะห์"
+		},
+		{
+			"language": "ZF",
+			"title": "dxp-示範-導覽列-分析"
+		},
+		{
+			"language": "ZH",
+			"title": "dxp-演示-导航栏-分析"
+		}
+	],
 	"tilesOrder": [
 		"4702fde2-7129-401a-8ca5-c261e7b8225e",
 		"a658d165-847d-41ec-8b18-3a9d020f8421",
@@ -91,8 +252,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

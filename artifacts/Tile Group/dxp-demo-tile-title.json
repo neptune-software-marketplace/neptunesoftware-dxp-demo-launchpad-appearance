@@ -2,7 +2,208 @@
 	"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
 	"createdAt": "2024-09-22T17:18:19.237Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "حجم عنوان مجموعة البلاط والبلاط",
+			"subTitle": "عنوان H2 وعنوان فرعي H6"
+		},
+		{
+			"language": "BG",
+			"title": "Размер на заглавието на групата плочки и плочки",
+			"subTitle": "H2 заглавие и H6 подзаглавие"
+		},
+		{
+			"language": "CS",
+			"title": "Velikost názvu skupiny dlaždic a dlaždic",
+			"subTitle": "Název H2 a titulky H6"
+		},
+		{
+			"language": "DA",
+			"title": "Flise- og flisegruppetitelstørrelse",
+			"subTitle": "H2 titel & H6 undertekst"
+		},
+		{
+			"language": "DE",
+			"title": "Titelgröße für Kacheln und Kachelgruppen",
+			"subTitle": "H2-Titel und H6-Untertitel"
+		},
+		{
+			"language": "EL",
+			"title": "Μέγεθος τίτλου ομάδας πλακιδίων & πλακιδίων",
+			"subTitle": "Τίτλος H2 & υπότιτλος H6"
+		},
+		{
+			"language": "EN",
+			"title": "Tile & Tile Group Title Size",
+			"subTitle": "H2 title & H6 subtitle"
+		},
+		{
+			"language": "ES",
+			"title": "Título del grupo de baldosas y azulejos Tamaño",
+			"subTitle": "Título H2 y subtítulo H6"
+		},
+		{
+			"language": "ET",
+			"title": "Plaatide ja plaatide rühma pealkirja suurus",
+			"subTitle": "H2 pealkiri ja H6 alapealkiri"
+		},
+		{
+			"language": "FI",
+			"title": "Laattojen ja laattojen ryhmän otsikon koko",
+			"subTitle": "H2 otsikko ja H6 alaotsikko"
+		},
+		{
+			"language": "FR",
+			"title": "Taille du titre du groupe de tuiles et de carreaux",
+			"subTitle": "Titre H2 et sous-titre H6"
+		},
+		{
+			"language": "HE",
+			"title": "גודל כותרת קבוצת אריחים ואריחים",
+			"subTitle": "כותרת H2 וכתובית H6"
+		},
+		{
+			"language": "HR",
+			"title": "Pločica i grupa pločica Veličina naslova",
+			"subTitle": "H2 naslov i H6 titl"
+		},
+		{
+			"language": "HU",
+			"title": "Csempe és csempecsoport címének mérete",
+			"subTitle": "H2 cím és H6 alcím"
+		},
+		{
+			"language": "ID",
+			"title": "Judul Ukuran Ubin & Grup Ubin",
+			"subTitle": "Judul H2 dan subjudul H6"
+		},
+		{
+			"language": "IS",
+			"title": "Titilstærð flísar og flísarhóps",
+			"subTitle": "H2 titill & H6 texti"
+		},
+		{
+			"language": "IT",
+			"title": "Tile & Tile Group Titolo Dimensioni",
+			"subTitle": "Titolo H2 e sottotitolo H6"
+		},
+		{
+			"language": "JA",
+			"title": "タイルとタイルグループのタイトルサイズ",
+			"subTitle": "H2 タイトルと H6 サブタイトル"
+		},
+		{
+			"language": "KO",
+			"title": "타일 및 타일 그룹 제목 크기",
+			"subTitle": "H2 타이틀 & H6 자막"
+		},
+		{
+			"language": "NL",
+			"title": "Tegel & Tegelgroep Titel Grootte",
+			"subTitle": "H2-titel en H6-ondertitel"
+		},
+		{
+			"language": "NN",
+			"title": "Tile & Tile Group Tittelstørrelse",
+			"subTitle": "H2 tittel og H6 undertekst"
+		},
+		{
+			"language": "NO",
+			"title": "Tile & Tile Group Tittelstørrelse",
+			"subTitle": "H2 tittel & H6 undertekst"
+		},
+		{
+			"language": "PL",
+			"title": "Rozmiar tytułu kafelka i grupy kafelków",
+			"subTitle": "Tytuł H2 i podtytuł H6"
+		},
+		{
+			"language": "SE",
+			"title": "Fliisa & Fliisajoavkku nammasturrodat",
+			"subTitle": "H2 namma & H6 vuollečálus"
+		},
+		{
+			"language": "SH",
+			"title": "Величина наслова групе плочица и плочица",
+			"subTitle": "Х2 наслов & Х6 титл"
+		},
+		{
+			"language": "SK",
+			"title": "Veľkosť názvu skupiny dlaždíc a dlaždíc",
+			"subTitle": "Názov H2 a titulky H6"
+		},
+		{
+			"language": "TR",
+			"title": "Karo ve Karo Grubu Başlık Boyutu",
+			"subTitle": "H2 başlığı ve H6 alt başlığı"
+		},
+		{
+			"language": "ZF",
+			"title": "瓷磚和瓷磚組標題大小",
+			"subTitle": "H2 標題和 H6 副標題"
+		},
+		{
+			"language": "LT",
+			"title": "Plytelių ir plytelių grupės pavadinimo dydis",
+			"subTitle": "H2 pavadinimas ir H6 paantraštė"
+		},
+		{
+			"language": "LV",
+			"title": "Flīžu un flīžu grupas nosaukuma lielums",
+			"subTitle": "H2 virsraksts un H6 apakšvirsraksts"
+		},
+		{
+			"language": "MS",
+			"title": "Saiz Tajuk Kumpulan Jubin & Jubin",
+			"subTitle": "Tajuk H2 & sari kata H6"
+		},
+		{
+			"language": "PT",
+			"title": "Tamanho do título do grupo Tile & Tile",
+			"subTitle": "Título H2 e subtítulo H6"
+		},
+		{
+			"language": "RO",
+			"title": "Tile & Tile Group Title Size",
+			"subTitle": "Titlul H2 și subtitrarea H6"
+		},
+		{
+			"language": "RU",
+			"title": "Размер заголовка плитки и группы плиток",
+			"subTitle": "Заголовок H2 и подзаголовок H6"
+		},
+		{
+			"language": "SL",
+			"title": "Velikost naslova ploščic in skupine ploščic",
+			"subTitle": "H2 naslov & H6 podnaslov"
+		},
+		{
+			"language": "SR",
+			"title": "Величина наслова групе плочица и плочица",
+			"subTitle": "Х2 наслов & Х6 титл"
+		},
+		{
+			"language": "SV",
+			"title": "Kakel & Kakel Grupp Titelstorlek",
+			"subTitle": "H2 titel & H6 undertext"
+		},
+		{
+			"language": "TH",
+			"title": "ขนาดชื่อกลุ่มกระเบื้องและกระเบื้อง",
+			"subTitle": "ชื่อเรื่อง H2 และคำบรรยาย H6"
+		},
+		{
+			"language": "UK",
+			"title": "Розмір заголовка плитки та групи плиток",
+			"subTitle": "Заголовок H2 і підзаголовок H6"
+		},
+		{
+			"language": "ZH",
+			"title": "瓷砖和瓷砖组标题大小",
+			"subTitle": "H2 标题和 H6 副标题"
+		}
+	],
 	"tilesOrder": [
 		"c4ad18f3-fd79-4c7d-b6fd-baafa481ecc0",
 		"61d2c2ec-0b82-4e89-8ea6-7d4259f382d0",
@@ -99,8 +300,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

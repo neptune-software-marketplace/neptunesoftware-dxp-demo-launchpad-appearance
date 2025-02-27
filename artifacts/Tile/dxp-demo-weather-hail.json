@@ -2,7 +2,248 @@
 	"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
 	"createdAt": "2024-09-14T23:44:20.258Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "يشيد",
+			"subTitle": "صعبة ووحشية",
+			"footer": "أعتقد أن أغنية \"Hail to the Chief\" لها رنين جميل."
+		},
+		{
+			"language": "BG",
+			"title": "градушка",
+			"subTitle": "Твърд и брутален",
+			"footer": "Мисля, че \"Hail to the Chief\" звучи добре."
+		},
+		{
+			"language": "CS",
+			"title": "Kroupy",
+			"subTitle": "Hard & Brutal",
+			"footer": "Myslím, že 'Hail to the Chief' má pěkný nádech."
+		},
+		{
+			"language": "DA",
+			"title": "Hagl",
+			"subTitle": "Hårdt & Brutalt",
+			"footer": "Jeg synes, 'Hail to the Chief' har en fin klang over sig."
+		},
+		{
+			"language": "DE",
+			"title": "Hagel",
+			"subTitle": "Hart & Brutal",
+			"footer": "Ich finde, „Hail to the Chief“ klingt gut."
+		},
+		{
+			"language": "EL",
+			"title": "Χαλάζι",
+			"subTitle": "Hard & Brutal",
+			"footer": "Νομίζω ότι το «Hail to the Chief» έχει ένα ωραίο δαχτυλίδι."
+		},
+		{
+			"language": "EN",
+			"title": "Hail",
+			"subTitle": "Hard & Brutal",
+			"footer": "I think 'Hail to the Chief' has a nice ring to it."
+		},
+		{
+			"language": "ES",
+			"title": "Granizo",
+			"subTitle": "Duro y brutal",
+			"footer": "Creo que 'Hail to the Chief' suena muy bien."
+		},
+		{
+			"language": "ET",
+			"title": "Tere",
+			"subTitle": "Raske ja jõhker",
+			"footer": "Ma arvan, et 'Hail to the Chief' on kena kõlaga."
+		},
+		{
+			"language": "FI",
+			"title": "Tervehdys",
+			"subTitle": "Kova & Brutaali",
+			"footer": "Mielestäni 'Hail to the Chief' on hieno soi."
+		},
+		{
+			"language": "FR",
+			"title": "Grêle",
+			"subTitle": "Dur et brutal",
+			"footer": "Je pense que « Hail to the Chief » sonne bien."
+		},
+		{
+			"language": "HE",
+			"title": "בָּרָד",
+			"subTitle": "קשה ואכזרי",
+			"footer": "אני חושב של'שלום לצ'יף' יש צלצול נחמד."
+		},
+		{
+			"language": "HR",
+			"title": "živio",
+			"subTitle": "Teško i brutalno",
+			"footer": "Mislim da 'Hail to the Chief' lijepo zvuči."
+		},
+		{
+			"language": "HU",
+			"title": "Jégeső",
+			"subTitle": "Hard & Brutális",
+			"footer": "Azt hiszem, az „Üdvözlet a főnöknek” szép csengése van."
+		},
+		{
+			"language": "ID",
+			"title": "Memanggil",
+			"subTitle": "Keras & Brutal",
+			"footer": "Menurutku, lagu 'Hail to the Chief' terdengar bagus."
+		},
+		{
+			"language": "IS",
+			"title": "Sæl",
+			"subTitle": "Harður & grimmur",
+			"footer": "Mér finnst „Hail to the Chief“ hafa góðan hring."
+		},
+		{
+			"language": "IT",
+			"title": "Salve",
+			"subTitle": "Duro e brutale",
+			"footer": "Penso che \"Hail to the Chief\" suoni bene."
+		},
+		{
+			"language": "JA",
+			"title": "雹",
+			"subTitle": "ハード＆ブルータル",
+			"footer": "「Hail to the Chief」はいい響きだと思う。"
+		},
+		{
+			"language": "KO",
+			"title": "빗발",
+			"subTitle": "강하고 잔인하다",
+			"footer": "저는 'Hail to the Chief'라는 노래가 듣기 좋다고 생각해요."
+		},
+		{
+			"language": "LT",
+			"title": "Sveika",
+			"subTitle": "Sunkus ir brutalus",
+			"footer": "Manau, kad „Sveika vyriausiajam“ skamba gražiai."
+		},
+		{
+			"language": "LV",
+			"title": "Sveiciens",
+			"subTitle": "Grūti un brutāli",
+			"footer": "Manuprāt, dziesmai “Sveicināts priekšniekam” ir jauks gredzens."
+		},
+		{
+			"language": "NL",
+			"title": "Hagel",
+			"subTitle": "Hard & Brutaal",
+			"footer": "Ik vind dat 'Hail to the Chief' wel lekker klinkt."
+		},
+		{
+			"language": "NN",
+			"title": "Hagl",
+			"subTitle": "Hardt og brutalt",
+			"footer": "Jeg synes 'Hail to the Chief' har en fin klang over seg."
+		},
+		{
+			"language": "NO",
+			"title": "Hagl",
+			"subTitle": "Hardt og brutalt",
+			"footer": "Jeg synes \"Hail to the Chief\" har en fin klang."
+		},
+		{
+			"language": "SH",
+			"title": "Здраво",
+			"subTitle": "Хард & Брутал",
+			"footer": "Мислим да 'Здраво шефу' има добар звук."
+		},
+		{
+			"language": "SK",
+			"title": "krúpy",
+			"subTitle": "Hard & Brutal",
+			"footer": "Myslím, že 'Hail to the Chief' má pekný nádych."
+		},
+		{
+			"language": "SL",
+			"title": "Pozdravljena",
+			"subTitle": "Trdo in brutalno",
+			"footer": "Mislim, da 'Hail to the Chief' lepo zveni."
+		},
+		{
+			"language": "SR",
+			"title": "Здраво",
+			"subTitle": "Хард & Брутал",
+			"footer": "Мислим да 'Здраво шефу' има добар звук."
+		},
+		{
+			"language": "SV",
+			"title": "Hagel",
+			"subTitle": "Hårt & Brutalt",
+			"footer": "Jag tycker att \"Hej till chefen\" har en fin klang."
+		},
+		{
+			"language": "TR",
+			"title": "Dolu",
+			"subTitle": "Sert ve Acımasız",
+			"footer": "'Hail to the Chief'in kulağa hoş geldiğini düşünüyorum."
+		},
+		{
+			"language": "ZH",
+			"title": "冰雹",
+			"subTitle": "残酷而艰难",
+			"footer": "我认为“向酋长致敬”听起来很动听。"
+		},
+		{
+			"language": "ZF",
+			"title": "冰雹",
+			"subTitle": "殘酷而艱難",
+			"footer": "我認為「向酋長致敬」聽起來很動聽。"
+		},
+		{
+			"language": "MS",
+			"title": "salam",
+			"subTitle": "Keras & Kejam",
+			"footer": "Saya rasa 'Salam Kepada Ketua' mempunyai cincin yang bagus untuk itu."
+		},
+		{
+			"language": "PL",
+			"title": "Grad",
+			"subTitle": "Twardy i brutalny",
+			"footer": "Myślę, że „Hail to the Chief” brzmi nieźle."
+		},
+		{
+			"language": "PT",
+			"title": "Saudação",
+			"subTitle": "Duro e Brutal",
+			"footer": "Acho que \"Hail to the Chief\" soa bem."
+		},
+		{
+			"language": "RO",
+			"title": "Grindină",
+			"subTitle": "Greu și brutal",
+			"footer": "Cred că „Hail to the Chief” are un sunet frumos."
+		},
+		{
+			"language": "RU",
+			"title": "Град",
+			"subTitle": "Жесткий и брутальный",
+			"footer": "Я думаю, что «Hail to the Chief» звучит неплохо."
+		},
+		{
+			"language": "SE",
+			"title": "Čuorpmastit",
+			"subTitle": "Garra ja garra",
+			"footer": "Mun jáhkán ahte 'Hail to the Chief' lea fiinna riŋges."
+		},
+		{
+			"language": "TH",
+			"title": "ลูกเห็บ",
+			"subTitle": "ยากและโหดร้าย",
+			"footer": "ฉันคิดว่าเพลง 'Hail to the Chief' มีทำนองที่ไพเราะดี"
+		},
+		{
+			"language": "UK",
+			"title": "Град",
+			"subTitle": "Жорсткий і жорстокий",
+			"footer": "Я думаю, що \"Вітаємо начальника\" добре звучить."
+		}
+	],
 	"storeItem": {},
 	"settings": {
 		"adaptive": {
@@ -87,7 +328,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

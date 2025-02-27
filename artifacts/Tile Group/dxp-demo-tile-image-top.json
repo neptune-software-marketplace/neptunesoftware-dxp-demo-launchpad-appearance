@@ -5,13 +5,13 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "صورة البلاط العلوي",
-			"subTitle": "جميع البلاطات مع الصور المضافة إلى الأعلى"
+			"title": "صورة البلاط في الأعلى",
+			"subTitle": "جميع البلاطات التي تحتوي على صور مضافة إلى الأعلى"
 		},
 		{
 			"language": "DE",
 			"title": "Kachelbild oben",
-			"subTitle": "Alle Kacheln mit Bildern oben hinzugefügt"
+			"subTitle": "Alle Kacheln mit oben hinzugefügten Bildern"
 		},
 		{
 			"language": "EN",
@@ -25,7 +25,7 @@
 		},
 		{
 			"language": "NO",
-			"title": "Flisbilde Topp",
+			"title": "Tile Image Topp",
 			"subTitle": "Alle fliser med bilder lagt til toppen"
 		},
 		{
@@ -42,6 +42,186 @@
 			"language": "NN",
 			"title": "Flisbilde Topp",
 			"subTitle": "Alle fliser med bilder lagt til toppen"
+		},
+		{
+			"language": "BG",
+			"title": "Изображение отгоре",
+			"subTitle": "Всички плочки с изображения, добавени в горната част"
+		},
+		{
+			"language": "CS",
+			"title": "Dlaždice Obrázek Top",
+			"subTitle": "Všechny dlaždice s obrázky přidány nahoru"
+		},
+		{
+			"language": "DA",
+			"title": "Tile Billede Top",
+			"subTitle": "Alle fliser med billeder tilføjet til toppen"
+		},
+		{
+			"language": "EL",
+			"title": "Πλακάκι Εικόνα Κορυφή",
+			"subTitle": "Όλα τα πλακίδια με εικόνες που προστέθηκαν στην κορυφή"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Top",
+			"subTitle": "All tiles with images added to the top"
+		},
+		{
+			"language": "ES",
+			"title": "Imagen de mosaico superior",
+			"subTitle": "Todos los mosaicos con imágenes agregadas en la parte superior"
+		},
+		{
+			"language": "ET",
+			"title": "Tile Image Top",
+			"subTitle": "Kõik plaadid, mille ülaossa on lisatud pildid"
+		},
+		{
+			"language": "FI",
+			"title": "Tile Image Top",
+			"subTitle": "Kaikki laatat, joiden yläosaan on lisätty kuvia"
+		},
+		{
+			"language": "FR",
+			"title": "Image de tuile en haut",
+			"subTitle": "Toutes les tuiles avec des images ajoutées en haut"
+		},
+		{
+			"language": "HE",
+			"title": "תמונת אריחים למעלה",
+			"subTitle": "כל האריחים עם תמונות שנוספו למעלה"
+		},
+		{
+			"language": "HU",
+			"title": "Csempe kép tetején",
+			"subTitle": "Az összes csempe tetejére képekkel"
+		},
+		{
+			"language": "ID",
+			"title": "Gambar Ubin Atas",
+			"subTitle": "Semua ubin dengan gambar ditambahkan ke atas"
+		},
+		{
+			"language": "IT",
+			"title": "Immagine piastrellata in alto",
+			"subTitle": "Tutte le tessere con immagini aggiunte in alto"
+		},
+		{
+			"language": "JA",
+			"title": "タイル画像トップ",
+			"subTitle": "画像が上部に追加されたすべてのタイル"
+		},
+		{
+			"language": "KO",
+			"title": "타일 이미지 상단",
+			"subTitle": "이미지가 맨 위에 추가된 모든 타일"
+		},
+		{
+			"language": "LT",
+			"title": "Plytelių vaizdas Į viršų",
+			"subTitle": "Visos plytelės su viršuje pridėtais vaizdais"
+		},
+		{
+			"language": "LV",
+			"title": "Flīžu attēls Augšpusē",
+			"subTitle": "Visas flīzes ar attēliem, kas pievienoti augšpusē"
+		},
+		{
+			"language": "MS",
+			"title": "Atas Imej Jubin",
+			"subTitle": "Semua jubin dengan imej ditambahkan ke bahagian atas"
+		},
+		{
+			"language": "NL",
+			"title": "Tegelafbeelding Boven",
+			"subTitle": "Alle tegels met afbeeldingen bovenaan toegevoegd"
+		},
+		{
+			"language": "PL",
+			"title": "Obraz kafelka na górze",
+			"subTitle": "Wszystkie kafelki z obrazami dodanymi na górze"
+		},
+		{
+			"language": "RU",
+			"title": "Изображение плитки сверху",
+			"subTitle": "Все плитки с изображениями добавлены наверх"
+		},
+		{
+			"language": "SE",
+			"title": "Tile Image Top",
+			"subTitle": "Buot čáhcefápmorusttegat main leat govat mat leat lasihuvvon bajimussii"
+		},
+		{
+			"language": "SK",
+			"title": "Dlaždice Obrázok hore",
+			"subTitle": "Všetky dlaždice s obrázkami pridané navrch"
+		},
+		{
+			"language": "SR",
+			"title": "Тиле Имаге Врх",
+			"subTitle": "Све плочице са сликама додатим на врх"
+		},
+		{
+			"language": "SV",
+			"title": "Kakelbild Topp",
+			"subTitle": "Alla brickor med bilder lagt till överst"
+		},
+		{
+			"language": "TR",
+			"title": "Karo Görüntü Üst",
+			"subTitle": "Resimli tüm fayanslar üste eklendi"
+		},
+		{
+			"language": "UK",
+			"title": "Плитка зображення зверху",
+			"subTitle": "Усі плитки із зображеннями додані вгору"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像顶部",
+			"subTitle": "所有带有图片的图块都添加到顶部"
+		},
+		{
+			"language": "HR",
+			"title": "Vrh slike pločice",
+			"subTitle": "Sve pločice sa slikama dodane su na vrh"
+		},
+		{
+			"language": "IS",
+			"title": "Flísamynd efst",
+			"subTitle": "Allar flísar með myndum bætt við efst"
+		},
+		{
+			"language": "PT",
+			"title": "Imagem em mosaico no topo",
+			"subTitle": "Todos os blocos com imagens adicionadas ao topo"
+		},
+		{
+			"language": "RO",
+			"title": "Imagine Tile Top",
+			"subTitle": "Toate plăcile cu imagini adăugate în partea de sus"
+		},
+		{
+			"language": "SH",
+			"title": "Тиле Имаге Врх",
+			"subTitle": "Све плочице са сликама додатим на врх"
+		},
+		{
+			"language": "SL",
+			"title": "Tile Image Top",
+			"subTitle": "Vse ploščice s slikami, dodane na vrh"
+		},
+		{
+			"language": "TH",
+			"title": "ภาพกระเบื้องด้านบน",
+			"subTitle": "เพิ่มกระเบื้องทั้งหมดพร้อมรูปภาพไว้ด้านบน"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像頂部",
+			"subTitle": "所有帶有圖片的圖塊都添加到頂部"
 		}
 	],
 	"tilesOrder": [

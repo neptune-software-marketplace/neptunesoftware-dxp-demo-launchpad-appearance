@@ -2,7 +2,168 @@
 	"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
 	"createdAt": "2025-01-06T00:01:07.025Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "BG",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "CS",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "DA",
+			"title": "dxp-demo-navbar-favoritter"
+		},
+		{
+			"language": "DE",
+			"title": "dxp-demo-navbar-favoriten"
+		},
+		{
+			"language": "EL",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "EN",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "ES",
+			"title": "barra de navegación de demostración de dxp favoritos"
+		},
+		{
+			"language": "ET",
+			"title": "dxp-demo-navbar-lemmikud"
+		},
+		{
+			"language": "FI",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "FR",
+			"title": "dxp-demo-navbar-favoris"
+		},
+		{
+			"language": "HE",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "HU",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "IT",
+			"title": "dxp-demo-navbar-preferiti"
+		},
+		{
+			"language": "JA",
+			"title": "dxp デモ ナビゲーション バーのお気に入り"
+		},
+		{
+			"language": "LT",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "NL",
+			"title": "dxp-demo-navbar-favorieten"
+		},
+		{
+			"language": "PL",
+			"title": "dxp-demo-pasek nawigacyjny-ulubione"
+		},
+		{
+			"language": "PT",
+			"title": "dxp-demo-navbar-favoritos"
+		},
+		{
+			"language": "RO",
+			"title": "dxp-demo-navbar-favorite"
+		},
+		{
+			"language": "SE",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "SR",
+			"title": "дкп-демо-навбар-фаворитес"
+		},
+		{
+			"language": "SV",
+			"title": "dxp-demo-navbar-favoriter"
+		},
+		{
+			"language": "TR",
+			"title": "dxp-demo-navbar-favoriler"
+		},
+		{
+			"language": "HR",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "ID",
+			"title": "dxp-demo-navbar-favorit"
+		},
+		{
+			"language": "IS",
+			"title": "dxp-demo-navbar-uppáhalds"
+		},
+		{
+			"language": "KO",
+			"title": "dxp-데모-네비바-즐겨찾기"
+		},
+		{
+			"language": "LV",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "MS",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "NN",
+			"title": "dxp-demo-navbar-favoritter"
+		},
+		{
+			"language": "NO",
+			"title": "dxp-demo-navbar-favoritter"
+		},
+		{
+			"language": "RU",
+			"title": "dxp-demo-navbar-избранное"
+		},
+		{
+			"language": "SH",
+			"title": "дкп-демо-навбар-фаворитес"
+		},
+		{
+			"language": "SK",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "SL",
+			"title": "dxp-demo-navbar-priljubljene"
+		},
+		{
+			"language": "TH",
+			"title": "dxp-demo-navbar-รายการโปรด"
+		},
+		{
+			"language": "UK",
+			"title": "dxp-demo-navbar-favorites"
+		},
+		{
+			"language": "ZF",
+			"title": "dxp-示範-導覽列-收藏夾"
+		},
+		{
+			"language": "ZH",
+			"title": "dxp-演示-导航栏-收藏夹"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [],
 	"configMessage": {},
@@ -82,8 +243,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

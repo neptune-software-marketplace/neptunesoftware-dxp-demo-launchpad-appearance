@@ -2,7 +2,248 @@
 	"id": "c71cd197-fd36-42a8-857d-ce18adcc5341",
 	"createdAt": "2024-09-22T17:06:18.104Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "رمز",
+			"subTitle": "الينج مع حق الملكية",
+			"footer": "معلومات التذييل تظهر هنا"
+		},
+		{
+			"language": "BG",
+			"title": "Икона",
+			"subTitle": "Aling с право на заглавие",
+			"footer": "Информацията за долния колонтитул отива тук"
+		},
+		{
+			"language": "CS",
+			"title": "Ikona",
+			"subTitle": "Aling s právem titulu",
+			"footer": "Informace v zápatí jsou zde"
+		},
+		{
+			"language": "DA",
+			"title": "Ikon",
+			"subTitle": "Aling med titelret",
+			"footer": "Footer info kommer her"
+		},
+		{
+			"language": "DE",
+			"title": "Symbol",
+			"subTitle": "Aling mit Titelrecht",
+			"footer": "Die Fußzeileninformationen kommen hierhin"
+		},
+		{
+			"language": "EL",
+			"title": "Εικόνισμα",
+			"subTitle": "Συμφωνία με τον τίτλο δεξιά",
+			"footer": "Οι πληροφορίες για το υποσέλιδο πηγαίνουν εδώ"
+		},
+		{
+			"language": "EN",
+			"title": "Icon",
+			"subTitle": "Aling with title right",
+			"footer": "The footer info goes here"
+		},
+		{
+			"language": "ES",
+			"title": "Icono",
+			"subTitle": "Aling con título correcto",
+			"footer": "La información del pie de página va aquí"
+		},
+		{
+			"language": "ET",
+			"title": "Ikoon",
+			"subTitle": "Ühinevad pealkirjaga",
+			"footer": "Jaluse teave läheb siia"
+		},
+		{
+			"language": "FI",
+			"title": "Kuvake",
+			"subTitle": "Yhdessä otsikon kanssa",
+			"footer": "Alatunnisteen tiedot tulevat tänne"
+		},
+		{
+			"language": "FR",
+			"title": "Icône",
+			"subTitle": "Aling avec droit de propriété",
+			"footer": "Les informations du pied de page se trouvent ici"
+		},
+		{
+			"language": "HE",
+			"title": "סמל",
+			"subTitle": "אלינג עם כותרת זכות",
+			"footer": "המידע בכותרת התחתונה מגיע לכאן"
+		},
+		{
+			"language": "ID",
+			"title": "Ikon",
+			"subTitle": "Aling dengan judul yang benar",
+			"footer": "Info footer ada di sini"
+		},
+		{
+			"language": "IT",
+			"title": "Icona",
+			"subTitle": "Alling con diritto di proprietà",
+			"footer": "Le informazioni del piè di pagina vanno qui"
+		},
+		{
+			"language": "JA",
+			"title": "アイコン",
+			"subTitle": "タイトル権を持つアリング",
+			"footer": "フッター情報はここに表示されます"
+		},
+		{
+			"language": "MS",
+			"title": "ikon",
+			"subTitle": "Aling dengan gelaran yang betul",
+			"footer": "Maklumat pengaki pergi di sini"
+		},
+		{
+			"language": "NL",
+			"title": "Icon",
+			"subTitle": "Aling met titelrecht",
+			"footer": "De voettekstinfo komt hier"
+		},
+		{
+			"language": "PL",
+			"title": "Ikona",
+			"subTitle": "Zgodnie z tytułem",
+			"footer": "Informacje stopki znajdują się tutaj"
+		},
+		{
+			"language": "NO",
+			"title": "Ikon",
+			"subTitle": "Aling med tittelrett",
+			"footer": "Bunntekstinformasjonen kommer her"
+		},
+		{
+			"language": "RO",
+			"title": "Pictogramă",
+			"subTitle": "Aling cu dreptul de titlu",
+			"footer": "Informațiile de subsol ajung aici"
+		},
+		{
+			"language": "RU",
+			"title": "Икона",
+			"subTitle": "Алинг с правом собственности",
+			"footer": "Информация нижнего колонтитула находится здесь"
+		},
+		{
+			"language": "SH",
+			"title": "Икона",
+			"subTitle": "Алинг са насловом десно",
+			"footer": "Информације у подножју иду овде"
+		},
+		{
+			"language": "SL",
+			"title": "Ikona",
+			"subTitle": "Aling z naslovom desno",
+			"footer": "Podatki o nogi so tukaj"
+		},
+		{
+			"language": "SV",
+			"title": "Ikon",
+			"subTitle": "Aling med titelrätt",
+			"footer": "Sidfotsinformationen kommer här"
+		},
+		{
+			"language": "TR",
+			"title": "Simge",
+			"subTitle": "Aling, mülkiyet hakkıyla",
+			"footer": "Altbilgi bilgisi buraya gelir"
+		},
+		{
+			"language": "UK",
+			"title": "значок",
+			"subTitle": "Aling з правом на назву",
+			"footer": "Інформація про нижній колонтитул міститься тут"
+		},
+		{
+			"language": "ZF",
+			"title": "圖示",
+			"subTitle": "具有所有權",
+			"footer": "頁尾訊息在此處"
+		},
+		{
+			"language": "ZH",
+			"title": "图标",
+			"subTitle": "具有所有权",
+			"footer": "页脚信息在此处"
+		},
+		{
+			"language": "HR",
+			"title": "Ikona",
+			"subTitle": "Aling s naslovom desno",
+			"footer": "Podaci o podnožju idu ovdje"
+		},
+		{
+			"language": "HU",
+			"title": "Ikon",
+			"subTitle": "Egyetért a címmel",
+			"footer": "A lábléc információk itt találhatók"
+		},
+		{
+			"language": "IS",
+			"title": "Táknmynd",
+			"subTitle": "Aling með titilrétt",
+			"footer": "Fótupplýsingarnar fara hér"
+		},
+		{
+			"language": "KO",
+			"title": "상",
+			"subTitle": "타이틀 권리와 함께 Aling",
+			"footer": "바닥글 정보는 여기에 있습니다."
+		},
+		{
+			"language": "LT",
+			"title": "Piktograma",
+			"subTitle": "Sutinka su pavadinimu",
+			"footer": "Poraštės informacija pateikiama čia"
+		},
+		{
+			"language": "LV",
+			"title": "Ikona",
+			"subTitle": "Saskaņo ar nosaukumu tiesības",
+			"footer": "Kājenes informācija ir pieejama šeit"
+		},
+		{
+			"language": "NN",
+			"title": "Ikon",
+			"subTitle": "Aling med tittelrett",
+			"footer": "Bunntekstinformasjonen kommer her"
+		},
+		{
+			"language": "PT",
+			"title": "Ícone",
+			"subTitle": "Alinhando com o título certo",
+			"footer": "As informações do rodapé vão aqui"
+		},
+		{
+			"language": "SE",
+			"title": "Ikona",
+			"subTitle": "Aling mas lea vuoigatvuohta",
+			"footer": "Vuolledieđut mannet dáppe"
+		},
+		{
+			"language": "SK",
+			"title": "Ikona",
+			"subTitle": "Aling s právom na titul",
+			"footer": "Informácie v päte nájdete tu"
+		},
+		{
+			"language": "SR",
+			"title": "Икона",
+			"subTitle": "Алинг са насловом десно",
+			"footer": "Информације у подножју иду овде"
+		},
+		{
+			"language": "TH",
+			"title": "ไอคอน",
+			"subTitle": "อาลิงมีกรรมสิทธิ์",
+			"footer": "ข้อมูลส่วนท้ายอยู่ที่นี่"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Icon",
@@ -83,7 +324,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

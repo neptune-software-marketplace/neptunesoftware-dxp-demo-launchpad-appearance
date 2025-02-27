@@ -5,13 +5,13 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "صورة البلاط المضمنة",
-			"subTitle": "جميع البلاطات مع الصور المضافة أسفل العنوان"
+			"title": "صورة بلاط مضمنة",
+			"subTitle": "جميع المربعات التي تحتوي على صور مضافة مضمنة أسفل العنوان"
 		},
 		{
 			"language": "DE",
-			"title": "Kachelbild Inline",
-			"subTitle": "Alle Kacheln mit Bildern inline unterhalb des Titels hinzugefügt"
+			"title": "Bild inline kacheln",
+			"subTitle": "Alle Kacheln mit Bildern, die inline unter dem Titel hinzugefügt wurden"
 		},
 		{
 			"language": "EN",
@@ -20,13 +20,13 @@
 		},
 		{
 			"language": "FR",
-			"title": "Image de tuile en ligne",
+			"title": "Image en mosaïque en ligne",
 			"subTitle": "Toutes les tuiles avec des images ajoutées en ligne sous le titre"
 		},
 		{
 			"language": "NO",
-			"title": "Flisbilde Inline",
-			"subTitle": "Alle fliser med bilder lagt inline under tittelen"
+			"title": "Tile Image Inline",
+			"subTitle": "Alle fliser med bilder lagt til inline under tittelen"
 		},
 		{
 			"language": "ZF",
@@ -42,6 +42,181 @@
 			"language": "NN",
 			"title": "Flisbilde Inline",
 			"subTitle": "Alle fliser med bilder lagt til under tittelen"
+		},
+		{
+			"language": "BG",
+			"title": "Вградено изображение на плочка",
+			"subTitle": "Всички плочки с изображения, добавени в ред под заглавието"
+		},
+		{
+			"language": "CS",
+			"title": "Dlaždice Obrázek Inline",
+			"subTitle": "Všechny dlaždice s obrázky přidanými pod nadpisem"
+		},
+		{
+			"language": "DA",
+			"title": "Tile Image Inline",
+			"subTitle": "Alle fliser med billeder tilføjet inline under titlen"
+		},
+		{
+			"language": "EL",
+			"title": "Ενσωματωμένη εικόνα πλακιδίων",
+			"subTitle": "Όλα τα πλακίδια με εικόνες που προστέθηκαν ενσωματωμένα κάτω από τον τίτλο"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Inline",
+			"subTitle": "All tiles with images added inline below the title"
+		},
+		{
+			"language": "ES",
+			"title": "Imagen de mosaico en línea",
+			"subTitle": "Todos los mosaicos con imágenes agregadas en línea debajo del título"
+		},
+		{
+			"language": "ET",
+			"title": "Tile Image Inline",
+			"subTitle": "Kõik plaadid, mille pealkirja alla on lisatud pildid"
+		},
+		{
+			"language": "FI",
+			"title": "Laattakuva upotettuna",
+			"subTitle": "Kaikki laatat, joiden kuvat on lisätty upotettuna otsikon alle"
+		},
+		{
+			"language": "HE",
+			"title": "תמונת אריח בשורה",
+			"subTitle": "כל האריחים עם תמונות שנוספו בשורה מתחת לכותרת"
+		},
+		{
+			"language": "HU",
+			"title": "Mozaik kép Inline",
+			"subTitle": "Minden olyan mozaik, amelyen a cím alatti képek vannak hozzáadva"
+		},
+		{
+			"language": "ID",
+			"title": "Gambar Ubin Sebaris",
+			"subTitle": "Semua ubin dengan gambar ditambahkan sebaris di bawah judul"
+		},
+		{
+			"language": "IS",
+			"title": "Flísamynd innbyggð",
+			"subTitle": "Allar flísar með myndum bætt inn í línu fyrir neðan titilinn"
+		},
+		{
+			"language": "IT",
+			"title": "Immagine piastrellata in linea",
+			"subTitle": "Tutti i riquadri con immagini aggiunte in linea sotto il titolo"
+		},
+		{
+			"language": "JA",
+			"title": "タイル画像インライン",
+			"subTitle": "タイトルの下にインラインで画像が追加されたすべてのタイル"
+		},
+		{
+			"language": "KO",
+			"title": "타일 이미지 인라인",
+			"subTitle": "제목 아래에 인라인으로 이미지가 추가된 모든 타일"
+		},
+		{
+			"language": "LT",
+			"title": "Plytelių vaizdas Inline",
+			"subTitle": "Visos plytelės su vaizdais, pridėtais eilute po pavadinimu"
+		},
+		{
+			"language": "LV",
+			"title": "Flīžu attēls iekļauts",
+			"subTitle": "Visas flīzes ar attēliem, kas pievienoti iekļauti zem virsraksta"
+		},
+		{
+			"language": "MS",
+			"title": "Imej Jubin Sebaris",
+			"subTitle": "Semua jubin dengan imej ditambah sebaris di bawah tajuk"
+		},
+		{
+			"language": "NL",
+			"title": "Tegelafbeelding inline",
+			"subTitle": "Alle tegels met afbeeldingen toegevoegd inline onder de titel"
+		},
+		{
+			"language": "PL",
+			"title": "Obraz kafelkowy w linii",
+			"subTitle": "Wszystkie kafelki z obrazami dodanymi w linii poniżej tytułu"
+		},
+		{
+			"language": "RO",
+			"title": "Tile Image Inline",
+			"subTitle": "Toate plăcile cu imagini adăugate sub titlu"
+		},
+		{
+			"language": "RU",
+			"title": "Изображение мозаики в строке",
+			"subTitle": "Все плитки с изображениями добавлены под заголовком"
+		},
+		{
+			"language": "SE",
+			"title": "Tile Image Inline",
+			"subTitle": "Buot távvalat main leat govat mat leat lasihuvvon čállosa vuollái"
+		},
+		{
+			"language": "SK",
+			"title": "Obrázok dlaždice vložený",
+			"subTitle": "Všetky dlaždice s obrázkami pridanými pod nadpisom"
+		},
+		{
+			"language": "SR",
+			"title": "Тиле Имаге Инлине",
+			"subTitle": "Све плочице са сликама додатим у линији испод наслова"
+		},
+		{
+			"language": "SV",
+			"title": "Kakelbild Inline",
+			"subTitle": "Alla brickor med bilder inlagda under rubriken"
+		},
+		{
+			"language": "TR",
+			"title": "Döşeme Görüntüsü Satır İçi",
+			"subTitle": "Resimli tüm fayanslar başlığın altına satır içi olarak eklendi"
+		},
+		{
+			"language": "UK",
+			"title": "Вбудоване зображення плитки",
+			"subTitle": "Усі плитки із зображеннями, доданими під заголовком"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像内联",
+			"subTitle": "所有带有图片的图块均在标题下方内嵌添加"
+		},
+		{
+			"language": "HR",
+			"title": "Umetnuta slika pločice",
+			"subTitle": "Sve pločice sa slikama dodane u redu ispod naslova"
+		},
+		{
+			"language": "PT",
+			"title": "Imagem em mosaico embutida",
+			"subTitle": "Todos os blocos com imagens adicionadas em linha abaixo do título"
+		},
+		{
+			"language": "SH",
+			"title": "Тиле Имаге Инлине",
+			"subTitle": "Све плочице са сликама додатим у линији испод наслова"
+		},
+		{
+			"language": "SL",
+			"title": "Tile Image Inline",
+			"subTitle": "Vse ploščice s slikami, dodane v vrstici pod naslovom"
+		},
+		{
+			"language": "TH",
+			"title": "ภาพกระเบื้องแบบอินไลน์",
+			"subTitle": "ไทล์ทั้งหมดพร้อมรูปภาพเพิ่มลงในบรรทัดด้านล่างชื่อเรื่อง"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像內聯",
+			"subTitle": "所有帶有圖片的圖塊均在標題下方內嵌添加"
 		}
 	],
 	"tilesOrder": [

@@ -5,15 +5,15 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "المشي في الفضاء",
-			"subTitle": "خذ نفسًا عميقًا",
-			"footer": "ثق بحدسك..."
+			"title": "السير في الفضاء",
+			"subTitle": "خذ نفسا عميقا",
+			"footer": "ثق في أحشائك..."
 		},
 		{
 			"language": "DE",
 			"title": "Weltraumspaziergang",
-			"subTitle": "Tief durchatmen",
-			"footer": "Vertraue deinem Bauchgefühl..."
+			"subTitle": "Atmen Sie tief durch",
+			"footer": "Vertraue deinem Bauchgefühl ..."
 		},
 		{
 			"language": "EN",
@@ -23,8 +23,8 @@
 		},
 		{
 			"language": "FR",
-			"title": "Marche spatiale",
-			"subTitle": "Prenez une grande respiration",
+			"title": "Sortie dans l'espace",
+			"subTitle": "Respirez profondément",
 			"footer": "Faites confiance à votre instinct..."
 		},
 		{
@@ -48,8 +48,224 @@
 		{
 			"language": "NN",
 			"title": "Romvandring",
-			"subTitle": "Ta eit djupt andedrag",
-			"footer": "Stol på magekjensla di..."
+			"subTitle": "Ta et dypt pust",
+			"footer": "Stol på magefølelsen din..."
+		},
+		{
+			"language": "BG",
+			"title": "Космическа разходка",
+			"subTitle": "Поемете дълбоко дъх",
+			"footer": "Доверете се на инстинкта си..."
+		},
+		{
+			"language": "CS",
+			"title": "Spacewalk",
+			"subTitle": "Zhluboka se nadechněte",
+			"footer": "Věřte svému nitru..."
+		},
+		{
+			"language": "DA",
+			"title": "Rumvandring",
+			"subTitle": "Tag en dyb indånding",
+			"footer": "Stol på din mavefornemmelse..."
+		},
+		{
+			"language": "EL",
+			"title": "Διαστημικός περίπατος",
+			"subTitle": "Πάρτε μια βαθιά ανάσα",
+			"footer": "Εμπιστεύσου το ένστικτό σου..."
+		},
+		{
+			"language": "EN",
+			"title": "Spacewalk",
+			"subTitle": "Take a deep breath",
+			"footer": "Trust your gut..."
+		},
+		{
+			"language": "ES",
+			"title": "Paseo espacial",
+			"subTitle": "Respira profundamente",
+			"footer": "Confía en tu instinto..."
+		},
+		{
+			"language": "ET",
+			"title": "Kosmosekõnd",
+			"subTitle": "Hinga sügavalt sisse",
+			"footer": "Usalda oma sisetunnet..."
+		},
+		{
+			"language": "FI",
+			"title": "Avaruuskävely",
+			"subTitle": "Hengitä syvään",
+			"footer": "Luota vaistoosi..."
+		},
+		{
+			"language": "HE",
+			"title": "הליכת חלל",
+			"subTitle": "קח נשימה עמוקה",
+			"footer": "סמוך על הבטן שלך..."
+		},
+		{
+			"language": "HR",
+			"title": "Svemirska šetnja",
+			"subTitle": "Duboko udahni",
+			"footer": "Vjeruj svom osjećaju..."
+		},
+		{
+			"language": "ID",
+			"title": "Jalan-jalan di luar angkasa",
+			"subTitle": "Tarik napas dalam-dalam",
+			"footer": "Percayalah pada intuisi Anda..."
+		},
+		{
+			"language": "IS",
+			"title": "Geimganga",
+			"subTitle": "Dragðu djúpt andann",
+			"footer": "Treystu þörmum þínum..."
+		},
+		{
+			"language": "IT",
+			"title": "Passeggiata nello spazio",
+			"subTitle": "Fai un respiro profondo",
+			"footer": "Fidati del tuo istinto..."
+		},
+		{
+			"language": "JA",
+			"title": "宇宙遊泳",
+			"subTitle": "深呼吸しましょう",
+			"footer": "自分の直感を信じてください..."
+		},
+		{
+			"language": "KO",
+			"title": "우주 유영",
+			"subTitle": "심호흡을 하세요",
+			"footer": "직감을 믿으세요."
+		},
+		{
+			"language": "LV",
+			"title": "Kosmosa pastaiga",
+			"subTitle": "Ievelciet dziļu elpu",
+			"footer": "Uzticieties savām dvēselēm..."
+		},
+		{
+			"language": "MS",
+			"title": "Spacewalk",
+			"subTitle": "Tarik nafas dalam-dalam",
+			"footer": "Percayalah usus anda..."
+		},
+		{
+			"language": "NL",
+			"title": "Ruimtewandeling",
+			"subTitle": "Haal diep adem",
+			"footer": "Vertrouw op je intuïtie..."
+		},
+		{
+			"language": "NO",
+			"title": "Romvandring",
+			"subTitle": "Ta et dypt pust",
+			"footer": "Stol på magefølelsen din..."
+		},
+		{
+			"language": "RO",
+			"title": "Plimbare spațială",
+			"subTitle": "Respiră adânc",
+			"footer": "Ai încredere în instinctul tău..."
+		},
+		{
+			"language": "SE",
+			"title": "Spacewalk",
+			"subTitle": "Váldde čiekŋalis vuoiŋŋasteami",
+			"footer": "Luohte iežat njuoratmánnái..."
+		},
+		{
+			"language": "SH",
+			"title": "Спацевалк",
+			"subTitle": "Дубоко удахни",
+			"footer": "Верујте свом стомаку..."
+		},
+		{
+			"language": "SK",
+			"title": "Spacewalk",
+			"subTitle": "Zhlboka sa nadýchnite",
+			"footer": "Dôveruj svojmu úsudku..."
+		},
+		{
+			"language": "SL",
+			"title": "Vesoljski sprehod",
+			"subTitle": "Globoko vdihni",
+			"footer": "Zaupajte svojemu občutku ..."
+		},
+		{
+			"language": "SV",
+			"title": "Rymdpromenad",
+			"subTitle": "Ta ett djupt andetag",
+			"footer": "Lita på din magkänsla..."
+		},
+		{
+			"language": "SR",
+			"title": "Спацевалк",
+			"subTitle": "Дубоко удахни",
+			"footer": "Верујте свом стомаку..."
+		},
+		{
+			"language": "TH",
+			"title": "การเดินในอวกาศ",
+			"subTitle": "หายใจเข้าลึกๆ",
+			"footer": "เชื่อสัญชาตญาณของคุณ..."
+		},
+		{
+			"language": "TR",
+			"title": "Uzay yürüyüşü",
+			"subTitle": "Derin bir nefes alın",
+			"footer": "İçgüdülerinize güvenin..."
+		},
+		{
+			"language": "UK",
+			"title": "Вихід у відкритий космос",
+			"subTitle": "Зробіть глибокий вдих",
+			"footer": "Довіряйте своєму чуттю..."
+		},
+		{
+			"language": "ZF",
+			"title": "太空行走",
+			"subTitle": "深呼吸",
+			"footer": "相信你的直覺..."
+		},
+		{
+			"language": "HU",
+			"title": "Űrséta",
+			"subTitle": "Vegyél egy mély levegőt",
+			"footer": "Bízz a megérzéseidben..."
+		},
+		{
+			"language": "LT",
+			"title": "Ėjimas į kosmosą",
+			"subTitle": "Giliai įkvėpkite",
+			"footer": "Pasitikėk savo nuojauta..."
+		},
+		{
+			"language": "PL",
+			"title": "Spacer kosmiczny",
+			"subTitle": "Weź głęboki oddech",
+			"footer": "Zaufaj swojej intuicji..."
+		},
+		{
+			"language": "PT",
+			"title": "Caminhada espacial",
+			"subTitle": "Respire fundo",
+			"footer": "Confie no seu instinto..."
+		},
+		{
+			"language": "RU",
+			"title": "Выход в открытый космос",
+			"subTitle": "Сделай глубокий вдох.",
+			"footer": "Доверьтесь своей интуиции..."
+		},
+		{
+			"language": "ZH",
+			"title": "太空行走",
+			"subTitle": "深吸一口气",
+			"footer": "相信你的直觉..."
 		}
 	],
 	"storeItem": {},

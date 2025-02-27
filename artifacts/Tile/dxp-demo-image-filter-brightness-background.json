@@ -2,7 +2,208 @@
 	"id": "98f8f903-732b-42d9-ada9-f2d855fa3840",
 	"createdAt": "2024-10-08T10:08:48.179Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "تصفية سطوع الصورة",
+			"subTitle": "تم تطبيق 50% من السطوع"
+		},
+		{
+			"language": "BG",
+			"title": "Филтър Яркост на изображението",
+			"subTitle": "Приложена е 50% яркост"
+		},
+		{
+			"language": "CS",
+			"title": "Filtr Jas obrazu",
+			"subTitle": "Použitý jas 50 %."
+		},
+		{
+			"language": "DA",
+			"title": "Filter billedlysstyrke",
+			"subTitle": "50 % lysstyrke anvendt"
+		},
+		{
+			"language": "DE",
+			"title": "Bildhelligkeit filtern",
+			"subTitle": "50 % Helligkeit angewendet"
+		},
+		{
+			"language": "EL",
+			"title": "Φίλτρο φωτεινότητας εικόνας",
+			"subTitle": "Εφαρμόστηκε φωτεινότητα 50%."
+		},
+		{
+			"language": "EN",
+			"title": "Filter Image Brightness",
+			"subTitle": "50% brightness applied"
+		},
+		{
+			"language": "ES",
+			"title": "Filtrar brillo de imagen",
+			"subTitle": "Se aplicó un brillo del 50 %"
+		},
+		{
+			"language": "ET",
+			"title": "Filtri pildi heledus",
+			"subTitle": "50% heledust rakendatud"
+		},
+		{
+			"language": "FI",
+			"title": "Suodata kuvan kirkkaus",
+			"subTitle": "50 % kirkkautta käytetty"
+		},
+		{
+			"language": "FR",
+			"title": "Filtrer la luminosité de l'image",
+			"subTitle": "50 % de luminosité appliquée"
+		},
+		{
+			"language": "HE",
+			"title": "סינון בהירות תמונה",
+			"subTitle": "50% בהירות הוחל"
+		},
+		{
+			"language": "HR",
+			"title": "Svjetlina slike filtra",
+			"subTitle": "Primijenjena svjetlina od 50%."
+		},
+		{
+			"language": "IT",
+			"title": "Filtra la luminosità dell'immagine",
+			"subTitle": "Luminosità applicata al 50%"
+		},
+		{
+			"language": "JA",
+			"title": "画像の明るさをフィルターする",
+			"subTitle": "50%の明るさを適用"
+		},
+		{
+			"language": "KO",
+			"title": "필터 이미지 밝기",
+			"subTitle": "밝기 50% 적용"
+		},
+		{
+			"language": "NN",
+			"title": "Filtrer bildelysstyrke",
+			"subTitle": "50 % lysstyrke brukt"
+		},
+		{
+			"language": "NO",
+			"title": "Filtrer bildelysstyrke",
+			"subTitle": "50 % lysstyrke brukt"
+		},
+		{
+			"language": "PT",
+			"title": "Filtrar Brilho da Imagem",
+			"subTitle": "50% de brilho aplicado"
+		},
+		{
+			"language": "SE",
+			"title": "Filter gova čábbátvuođa",
+			"subTitle": "50% čuovga biddjon"
+		},
+		{
+			"language": "SK",
+			"title": "Filtrovať jas obrazu",
+			"subTitle": "Použitý jas 50 %."
+		},
+		{
+			"language": "SV",
+			"title": "Filtrera bildens ljusstyrka",
+			"subTitle": "50 % ljusstyrka tillämpas"
+		},
+		{
+			"language": "UK",
+			"title": "Яскравість зображення фільтра",
+			"subTitle": "Застосовується яскравість 50%."
+		},
+		{
+			"language": "ZH",
+			"title": "过滤图像亮度",
+			"subTitle": "应用 50% 亮度"
+		},
+		{
+			"language": "HU",
+			"title": "Szűrő kép fényereje",
+			"subTitle": "50%-os fényerő alkalmazva"
+		},
+		{
+			"language": "ID",
+			"title": "Filter Kecerahan Gambar",
+			"subTitle": "Kecerahan 50% diterapkan"
+		},
+		{
+			"language": "IS",
+			"title": "Sía myndbirtustig",
+			"subTitle": "50% birta beitt"
+		},
+		{
+			"language": "LT",
+			"title": "Filtruoti vaizdo ryškumą",
+			"subTitle": "Pritaikytas 50 % ryškumas"
+		},
+		{
+			"language": "LV",
+			"title": "Filtrēt attēla spilgtumu",
+			"subTitle": "Pielietots 50% spilgtums"
+		},
+		{
+			"language": "MS",
+			"title": "Tapis Kecerahan Imej",
+			"subTitle": "50% kecerahan digunakan"
+		},
+		{
+			"language": "NL",
+			"title": "Filter Afbeelding Helderheid",
+			"subTitle": "50% helderheid toegepast"
+		},
+		{
+			"language": "PL",
+			"title": "Filtruj jasność obrazu",
+			"subTitle": "Zastosowano 50% jasności"
+		},
+		{
+			"language": "RO",
+			"title": "Filtrați luminozitatea imaginii",
+			"subTitle": "50% luminozitate aplicată"
+		},
+		{
+			"language": "RU",
+			"title": "Фильтр Яркость изображения",
+			"subTitle": "Применена яркость 50%"
+		},
+		{
+			"language": "SH",
+			"title": "Осветљеност слике филтера",
+			"subTitle": "Примењено је 50% осветљености"
+		},
+		{
+			"language": "SL",
+			"title": "Filter Svetlost slike",
+			"subTitle": "Uporabljena je 50 % svetlost"
+		},
+		{
+			"language": "SR",
+			"title": "Осветљеност слике филтера",
+			"subTitle": "Примењено је 50% осветљености"
+		},
+		{
+			"language": "TH",
+			"title": "ฟิลเตอร์ปรับความสว่างของภาพ",
+			"subTitle": "ใช้ความสว่าง 50%"
+		},
+		{
+			"language": "TR",
+			"title": "Görüntü Parlaklığını Filtrele",
+			"subTitle": "%50 parlaklık uygulandı"
+		},
+		{
+			"language": "ZF",
+			"title": "濾波影像亮度",
+			"subTitle": "應用 50% 亮度"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Filter Image Brightness",
@@ -83,7 +284,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

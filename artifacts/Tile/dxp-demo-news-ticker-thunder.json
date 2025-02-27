@@ -2,7 +2,168 @@
 	"id": "84cbd15f-e771-48e4-838c-be029385e05f",
 	"createdAt": "2024-09-25T07:41:39.373Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الرعد في ارتفاع"
+		},
+		{
+			"language": "BG",
+			"title": "Гръмотевици във възход"
+		},
+		{
+			"language": "CS",
+			"title": "Hrom na vzestupu"
+		},
+		{
+			"language": "DA",
+			"title": "Torden stiger"
+		},
+		{
+			"language": "DE",
+			"title": "Donner im Aufwind"
+		},
+		{
+			"language": "EL",
+			"title": "Βροντές σε άνοδο"
+		},
+		{
+			"language": "EN",
+			"title": "Thunder on the rise"
+		},
+		{
+			"language": "ES",
+			"title": "Truenos en aumento"
+		},
+		{
+			"language": "ET",
+			"title": "Äike tõusuteel"
+		},
+		{
+			"language": "FI",
+			"title": "Ukkonen nousussa"
+		},
+		{
+			"language": "FR",
+			"title": "Le tonnerre s'élève"
+		},
+		{
+			"language": "HE",
+			"title": "הרעם מתגבר"
+		},
+		{
+			"language": "HR",
+			"title": "Grmljavina u porastu"
+		},
+		{
+			"language": "ID",
+			"title": "Guntur sedang meningkat"
+		},
+		{
+			"language": "IS",
+			"title": "Þruma á uppleið"
+		},
+		{
+			"language": "IT",
+			"title": "Il tuono si avvicina"
+		},
+		{
+			"language": "JA",
+			"title": "雷鳴が上がる"
+		},
+		{
+			"language": "KO",
+			"title": "천둥이 치솟다"
+		},
+		{
+			"language": "LT",
+			"title": "Perkūnija kyla"
+		},
+		{
+			"language": "LV",
+			"title": "Pērkons pieaug"
+		},
+		{
+			"language": "NL",
+			"title": "Donder op komst"
+		},
+		{
+			"language": "NN",
+			"title": "Torden øker"
+		},
+		{
+			"language": "NO",
+			"title": "Torden øker"
+		},
+		{
+			"language": "RO",
+			"title": "Tunetul în creștere"
+		},
+		{
+			"language": "SH",
+			"title": "Грмљавина у порасту"
+		},
+		{
+			"language": "SK",
+			"title": "Hrom na vzostupe"
+		},
+		{
+			"language": "SL",
+			"title": "Grmenje v porastu"
+		},
+		{
+			"language": "SR",
+			"title": "Грмљавина у порасту"
+		},
+		{
+			"language": "SV",
+			"title": "Åskan på väg upp"
+		},
+		{
+			"language": "ZF",
+			"title": "雷霆崛起"
+		},
+		{
+			"language": "ZH",
+			"title": "雷霆崛起"
+		},
+		{
+			"language": "HU",
+			"title": "Emelkedő mennydörgés"
+		},
+		{
+			"language": "MS",
+			"title": "Guruh semakin meningkat"
+		},
+		{
+			"language": "PL",
+			"title": "Grzmot narasta"
+		},
+		{
+			"language": "PT",
+			"title": "Trovão em ascensão"
+		},
+		{
+			"language": "RU",
+			"title": "Гром на подъеме"
+		},
+		{
+			"language": "SE",
+			"title": "Duolva lea loktanan"
+		},
+		{
+			"language": "TH",
+			"title": "ฟ้าร้องกำลังขึ้น"
+		},
+		{
+			"language": "TR",
+			"title": "Yükselişte gök gürültüsü"
+		},
+		{
+			"language": "UK",
+			"title": "Грім на підйомі"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Thunder on the rise",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

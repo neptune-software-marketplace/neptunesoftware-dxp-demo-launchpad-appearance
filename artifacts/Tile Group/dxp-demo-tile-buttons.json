@@ -2,7 +2,208 @@
 	"id": "031bbf06-fe74-44f9-a89c-92caac0614a5",
 	"createdAt": "2024-10-04T07:26:01.692Z",
 	"createdBy": "morten",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "أزرار البلاط",
+			"subTitle": "فتح أزرار القائمة السياقية والإجراءات"
+		},
+		{
+			"language": "BG",
+			"title": "Бутони за плочки",
+			"subTitle": "Отваряне на бутони за действие и контекстно меню"
+		},
+		{
+			"language": "CS",
+			"title": "Dlaždice tlačítka",
+			"subTitle": "Otevřít tlačítka akcí a kontextové nabídky"
+		},
+		{
+			"language": "DA",
+			"title": "Fliseknapper",
+			"subTitle": "Åbn handlings- og kontekstmenuknapper"
+		},
+		{
+			"language": "DE",
+			"title": "Kachelknöpfe",
+			"subTitle": "Aktions- und Kontextmenüschaltflächen öffnen"
+		},
+		{
+			"language": "EL",
+			"title": "Κουμπιά πλακιδίων",
+			"subTitle": "Ανοίξτε τα κουμπιά του μενού ενεργειών και περιβάλλοντος"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Buttons",
+			"subTitle": "Open action and context menu buttons"
+		},
+		{
+			"language": "ES",
+			"title": "Botones de mosaico",
+			"subTitle": "Abrir botones de acción y menú contextual"
+		},
+		{
+			"language": "ET",
+			"title": "Plaatide nupud",
+			"subTitle": "Avage toimingu- ja kontekstimenüü nupud"
+		},
+		{
+			"language": "FI",
+			"title": "Laattojen painikkeet",
+			"subTitle": "Avaa toiminto- ja kontekstivalikkopainikkeet"
+		},
+		{
+			"language": "FR",
+			"title": "Boutons de tuiles",
+			"subTitle": "Ouvrir les boutons d'action et de menu contextuel"
+		},
+		{
+			"language": "HE",
+			"title": "כפתורי אריחים",
+			"subTitle": "פתח את לחצני הפעולה ותפריט ההקשר"
+		},
+		{
+			"language": "HR",
+			"title": "Gumbi za pločice",
+			"subTitle": "Otvaranje radnji i gumbi kontekstnog izbornika"
+		},
+		{
+			"language": "HU",
+			"title": "Csempe gombok",
+			"subTitle": "Nyissa meg a műveleti és helyi menü gombjait"
+		},
+		{
+			"language": "ID",
+			"title": "Tombol Ubin",
+			"subTitle": "Buka tombol tindakan dan menu konteks"
+		},
+		{
+			"language": "IS",
+			"title": "Flísar hnappar",
+			"subTitle": "Opnaðu aðgerðar- og samhengisvalmyndarhnappa"
+		},
+		{
+			"language": "IT",
+			"title": "Pulsanti Tile",
+			"subTitle": "Apri i pulsanti del menu di azione e di contesto"
+		},
+		{
+			"language": "JA",
+			"title": "タイルボタン",
+			"subTitle": "アクションとコンテキストメニューボタンを開く"
+		},
+		{
+			"language": "KO",
+			"title": "타일 버튼",
+			"subTitle": "작업 및 상황에 맞는 메뉴 버튼 열기"
+		},
+		{
+			"language": "MS",
+			"title": "Butang Jubin",
+			"subTitle": "Buka butang menu tindakan dan konteks"
+		},
+		{
+			"language": "NL",
+			"title": "Tegelknoppen",
+			"subTitle": "Open actie- en contextmenuknoppen"
+		},
+		{
+			"language": "NN",
+			"title": "Flisknapper",
+			"subTitle": "Åpne handlings- og kontekstmenyknapper"
+		},
+		{
+			"language": "NO",
+			"title": "Flisknapper",
+			"subTitle": "Åpne handlings- og kontekstmenyknapper"
+		},
+		{
+			"language": "PL",
+			"title": "Przyciski kafelkowe",
+			"subTitle": "Otwórz przyciski akcji i menu kontekstowego"
+		},
+		{
+			"language": "SE",
+			"title": "Tile Buttons",
+			"subTitle": "Raba doaibma- ja konteakstamenu nuppástusaid"
+		},
+		{
+			"language": "SH",
+			"title": "Дугмад за плочице",
+			"subTitle": "Отворите дугмад за радње и контекстни мени"
+		},
+		{
+			"language": "SK",
+			"title": "Tlačidlá dlaždice",
+			"subTitle": "Otvoriť tlačidlá akcií a kontextovej ponuky"
+		},
+		{
+			"language": "TR",
+			"title": "Fayans Düğmeleri",
+			"subTitle": "Eylem ve bağlam menüsü düğmelerini açın"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪按鈕",
+			"subTitle": "開啟操作和上下文選單按鈕"
+		},
+		{
+			"language": "LT",
+			"title": "Plytelių mygtukai",
+			"subTitle": "Atidarykite veiksmų ir kontekstinio meniu mygtukus"
+		},
+		{
+			"language": "LV",
+			"title": "Flīžu pogas",
+			"subTitle": "Atveriet darbību un konteksta izvēlnes pogas"
+		},
+		{
+			"language": "PT",
+			"title": "Botões de ladrilho",
+			"subTitle": "Abrir botões de ação e menu de contexto"
+		},
+		{
+			"language": "RO",
+			"title": "Butoane pentru plăci",
+			"subTitle": "Deschideți butoanele de acțiune și meniul contextual"
+		},
+		{
+			"language": "RU",
+			"title": "Кнопки плитки",
+			"subTitle": "Открыть кнопки действий и контекстного меню"
+		},
+		{
+			"language": "SL",
+			"title": "Gumbi za ploščice",
+			"subTitle": "Gumbi za odpiranje dejanj in kontekstnega menija"
+		},
+		{
+			"language": "SR",
+			"title": "Дугмад за плочице",
+			"subTitle": "Отворите дугмад за радње и контекстни мени"
+		},
+		{
+			"language": "SV",
+			"title": "Kakelknappar",
+			"subTitle": "Öppna åtgärds- och snabbmenyknappar"
+		},
+		{
+			"language": "TH",
+			"title": "ปุ่มกระเบื้อง",
+			"subTitle": "เปิดปุ่มการดำเนินการและเมนูบริบท"
+		},
+		{
+			"language": "UK",
+			"title": "Плитка кнопки",
+			"subTitle": "Кнопки відкритих дій і контекстного меню"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺按钮",
+			"subTitle": "打开操作和上下文菜单按钮"
+		}
+	],
 	"tilesOrder": [
 		"c4ad18f3-fd79-4c7d-b6fd-baafa481ecc0",
 		"61d2c2ec-0b82-4e89-8ea6-7d4259f382d0",
@@ -99,8 +300,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

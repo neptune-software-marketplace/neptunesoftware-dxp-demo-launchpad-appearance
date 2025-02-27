@@ -2,7 +2,168 @@
 	"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
 	"createdAt": "2024-09-24T12:56:20.473Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الرياح تشتد"
+		},
+		{
+			"language": "BG",
+			"title": "Вятърът се усилва"
+		},
+		{
+			"language": "CS",
+			"title": "Vítr se zvedá"
+		},
+		{
+			"language": "DA",
+			"title": "Vinden tager til"
+		},
+		{
+			"language": "DE",
+			"title": "Wind nimmt zu"
+		},
+		{
+			"language": "EL",
+			"title": "Ο άνεμος δυναμώνει"
+		},
+		{
+			"language": "EN",
+			"title": "Wind is picking up"
+		},
+		{
+			"language": "ES",
+			"title": "El viento se está levantando"
+		},
+		{
+			"language": "ET",
+			"title": "Tuul tõuseb"
+		},
+		{
+			"language": "FI",
+			"title": "Tuuli voimistuu"
+		},
+		{
+			"language": "FR",
+			"title": "Le vent se lève"
+		},
+		{
+			"language": "HE",
+			"title": "הרוח מתגברת"
+		},
+		{
+			"language": "HR",
+			"title": "Vjetar se pojačava"
+		},
+		{
+			"language": "ID",
+			"title": "Angin mulai bertiup kencang"
+		},
+		{
+			"language": "IS",
+			"title": "Vindur er að aukast"
+		},
+		{
+			"language": "IT",
+			"title": "Il vento sta aumentando"
+		},
+		{
+			"language": "JA",
+			"title": "風が強くなってきた"
+		},
+		{
+			"language": "KO",
+			"title": "바람이 불기 시작하다"
+		},
+		{
+			"language": "LT",
+			"title": "Pakyla vėjas"
+		},
+		{
+			"language": "NL",
+			"title": "De wind neemt toe"
+		},
+		{
+			"language": "NN",
+			"title": "Vinden tar seg opp"
+		},
+		{
+			"language": "NO",
+			"title": "Vinden tar seg opp"
+		},
+		{
+			"language": "RO",
+			"title": "Vântul se ridică"
+		},
+		{
+			"language": "RU",
+			"title": "Ветер усиливается."
+		},
+		{
+			"language": "SH",
+			"title": "Ветар се појачава"
+		},
+		{
+			"language": "SK",
+			"title": "Vietor sa zdvíha"
+		},
+		{
+			"language": "SL",
+			"title": "Veter se krepi"
+		},
+		{
+			"language": "SV",
+			"title": "Vinden tilltar"
+		},
+		{
+			"language": "SR",
+			"title": "Ветар се појачава"
+		},
+		{
+			"language": "ZF",
+			"title": "風力增強"
+		},
+		{
+			"language": "ZH",
+			"title": "风力增强"
+		},
+		{
+			"language": "HU",
+			"title": "A szél megélénkül"
+		},
+		{
+			"language": "LV",
+			"title": "Vējš pieņemas spēkā"
+		},
+		{
+			"language": "MS",
+			"title": "Angin semakin kencang"
+		},
+		{
+			"language": "PL",
+			"title": "Wiatr się wzmaga"
+		},
+		{
+			"language": "PT",
+			"title": "O vento está aumentando"
+		},
+		{
+			"language": "SE",
+			"title": "Biegga lea njiedjan"
+		},
+		{
+			"language": "TH",
+			"title": "ลมเริ่มแรงขึ้น"
+		},
+		{
+			"language": "TR",
+			"title": "Rüzgar artıyor"
+		},
+		{
+			"language": "UK",
+			"title": "Вітер посилюється"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Wind is picking up",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

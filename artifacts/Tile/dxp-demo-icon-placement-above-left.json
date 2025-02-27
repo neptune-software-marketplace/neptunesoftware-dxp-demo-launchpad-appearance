@@ -2,7 +2,248 @@
 	"id": "c4ad18f3-fd79-4c7d-b6fd-baafa481ecc0",
 	"createdAt": "2024-09-22T15:36:57.614Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "رمز",
+			"subTitle": "العنوان أعلاه على اليسار",
+			"footer": "معلومات التذييل تظهر هنا"
+		},
+		{
+			"language": "BG",
+			"title": "Икона",
+			"subTitle": "Над заглавието вляво",
+			"footer": "Информацията за долния колонтитул отива тук"
+		},
+		{
+			"language": "CS",
+			"title": "Ikona",
+			"subTitle": "Nad nadpisem vlevo",
+			"footer": "Informace v zápatí jsou zde"
+		},
+		{
+			"language": "DA",
+			"title": "Ikon",
+			"subTitle": "Over titel til venstre",
+			"footer": "Footer info kommer her"
+		},
+		{
+			"language": "DE",
+			"title": "Symbol",
+			"subTitle": "Über dem Titel links",
+			"footer": "Die Fußzeileninformationen kommen hierhin"
+		},
+		{
+			"language": "EL",
+			"title": "Εικόνισμα",
+			"subTitle": "Πάνω από τον τίτλο αριστερά",
+			"footer": "Οι πληροφορίες για το υποσέλιδο πηγαίνουν εδώ"
+		},
+		{
+			"language": "EN",
+			"title": "Icon",
+			"subTitle": "Above title left",
+			"footer": "The footer info goes here"
+		},
+		{
+			"language": "ES",
+			"title": "Icono",
+			"subTitle": "Título arriba a la izquierda",
+			"footer": "La información del pie de página va aquí"
+		},
+		{
+			"language": "ET",
+			"title": "Ikoon",
+			"subTitle": "Pealkirja kohal vasakul",
+			"footer": "Jaluse teave läheb siia"
+		},
+		{
+			"language": "FI",
+			"title": "Kuvake",
+			"subTitle": "Otsikon yläpuolella vasemmalla",
+			"footer": "Alatunnisteen tiedot tulevat tänne"
+		},
+		{
+			"language": "FR",
+			"title": "Icône",
+			"subTitle": "Au-dessus du titre à gauche",
+			"footer": "Les informations du pied de page se trouvent ici"
+		},
+		{
+			"language": "HE",
+			"title": "סמל",
+			"subTitle": "שמאל מעל הכותרת",
+			"footer": "המידע בכותרת התחתונה מגיע לכאן"
+		},
+		{
+			"language": "HR",
+			"title": "Ikona",
+			"subTitle": "Gore naslov lijevo",
+			"footer": "Podaci o podnožju idu ovdje"
+		},
+		{
+			"language": "ID",
+			"title": "Ikon",
+			"subTitle": "Di atas judul kiri",
+			"footer": "Info footer ada di sini"
+		},
+		{
+			"language": "IT",
+			"title": "Icona",
+			"subTitle": "Sopra il titolo a sinistra",
+			"footer": "Le informazioni del piè di pagina vanno qui"
+		},
+		{
+			"language": "JA",
+			"title": "アイコン",
+			"subTitle": "タイトル左上",
+			"footer": "フッター情報はここに表示されます"
+		},
+		{
+			"language": "MS",
+			"title": "ikon",
+			"subTitle": "Di atas tajuk kiri",
+			"footer": "Maklumat pengaki pergi di sini"
+		},
+		{
+			"language": "NN",
+			"title": "Ikon",
+			"subTitle": "Over tittel til venstre",
+			"footer": "Bunntekstinformasjonen kommer her"
+		},
+		{
+			"language": "NO",
+			"title": "Ikon",
+			"subTitle": "Over tittel til venstre",
+			"footer": "Bunntekstinformasjonen kommer her"
+		},
+		{
+			"language": "PT",
+			"title": "Ícone",
+			"subTitle": "Acima do título à esquerda",
+			"footer": "As informações do rodapé vão aqui"
+		},
+		{
+			"language": "RU",
+			"title": "Икона",
+			"subTitle": "Над заголовком слева",
+			"footer": "Информация нижнего колонтитула находится здесь"
+		},
+		{
+			"language": "SE",
+			"title": "Ikona",
+			"subTitle": "Ovddabealde namma olgešbealde",
+			"footer": "Vuolledieđut mannet dáppe"
+		},
+		{
+			"language": "SV",
+			"title": "Ikon",
+			"subTitle": "Ovan rubrik till vänster",
+			"footer": "Sidfotsinformationen kommer här"
+		},
+		{
+			"language": "TH",
+			"title": "ไอคอน",
+			"subTitle": "ด้านบนชื่อเรื่องด้านซ้าย",
+			"footer": "ข้อมูลส่วนท้ายอยู่ที่นี่"
+		},
+		{
+			"language": "TR",
+			"title": "Simge",
+			"subTitle": "Sol üstteki başlık",
+			"footer": "Altbilgi bilgisi buraya gelir"
+		},
+		{
+			"language": "UK",
+			"title": "значок",
+			"subTitle": "Над заголовком зліва",
+			"footer": "Інформація про нижній колонтитул міститься тут"
+		},
+		{
+			"language": "ZH",
+			"title": "图标",
+			"subTitle": "标题左上方",
+			"footer": "页脚信息在此处"
+		},
+		{
+			"language": "HU",
+			"title": "Ikon",
+			"subTitle": "A cím fent balra",
+			"footer": "A lábléc információk itt találhatók"
+		},
+		{
+			"language": "IS",
+			"title": "Táknmynd",
+			"subTitle": "Fyrir ofan titil til vinstri",
+			"footer": "Fótupplýsingarnar fara hér"
+		},
+		{
+			"language": "KO",
+			"title": "상",
+			"subTitle": "위 제목 왼쪽",
+			"footer": "바닥글 정보는 여기에 있습니다."
+		},
+		{
+			"language": "LT",
+			"title": "Piktograma",
+			"subTitle": "Virš pavadinimo kairėje",
+			"footer": "Poraštės informacija pateikiama čia"
+		},
+		{
+			"language": "LV",
+			"title": "Ikona",
+			"subTitle": "Virs virsraksta pa kreisi",
+			"footer": "Kājenes informācija ir pieejama šeit"
+		},
+		{
+			"language": "NL",
+			"title": "Icon",
+			"subTitle": "Boven titel links",
+			"footer": "De voettekstinfo komt hier"
+		},
+		{
+			"language": "PL",
+			"title": "Ikona",
+			"subTitle": "Powyżej tytułu po lewej stronie",
+			"footer": "Informacje stopki znajdują się tutaj"
+		},
+		{
+			"language": "RO",
+			"title": "Pictogramă",
+			"subTitle": "Deasupra titlului stânga",
+			"footer": "Informațiile de subsol ajung aici"
+		},
+		{
+			"language": "SH",
+			"title": "Икона",
+			"subTitle": "Изнад наслова лево",
+			"footer": "Информације у подножју иду овде"
+		},
+		{
+			"language": "SK",
+			"title": "Ikona",
+			"subTitle": "Nad nadpisom vľavo",
+			"footer": "Informácie v päte nájdete tu"
+		},
+		{
+			"language": "SL",
+			"title": "Ikona",
+			"subTitle": "Zgoraj naslov levo",
+			"footer": "Podatki o nogi so tukaj"
+		},
+		{
+			"language": "SR",
+			"title": "Икона",
+			"subTitle": "Изнад наслова лево",
+			"footer": "Информације у подножју иду овде"
+		},
+		{
+			"language": "ZF",
+			"title": "圖示",
+			"subTitle": "標題左上方",
+			"footer": "頁尾訊息在此處"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Icon",
@@ -83,7 +324,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

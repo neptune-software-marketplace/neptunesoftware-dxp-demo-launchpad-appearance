@@ -2,7 +2,248 @@
 	"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
 	"createdAt": "2024-09-14T23:44:48.750Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الثلج",
+			"subTitle": "بارد وأبيض",
+			"footer": "كل شتاء له ربيعه"
+		},
+		{
+			"language": "BG",
+			"title": "сняг",
+			"subTitle": "Студено и бяло",
+			"footer": "Всяка зима има своята пролет"
+		},
+		{
+			"language": "CS",
+			"title": "Sněžení",
+			"subTitle": "Studená a bílá",
+			"footer": "Každá zima má své jaro"
+		},
+		{
+			"language": "DA",
+			"title": "Sne",
+			"subTitle": "Kold & Hvid",
+			"footer": "Hver vinter har sit forår"
+		},
+		{
+			"language": "DE",
+			"title": "Schnee",
+			"subTitle": "Kalt & Weiß",
+			"footer": "Jeder Winter hat seinen Frühling"
+		},
+		{
+			"language": "EL",
+			"title": "Χιόνι",
+			"subTitle": "Ψυχρό & Λευκό",
+			"footer": "Κάθε χειμώνας έχει την άνοιξη του"
+		},
+		{
+			"language": "EN",
+			"title": "Snow",
+			"subTitle": "Cold & White",
+			"footer": "Every winter has its spring"
+		},
+		{
+			"language": "ES",
+			"title": "Nieve",
+			"subTitle": "Frío y blanco",
+			"footer": "Cada invierno tiene su primavera."
+		},
+		{
+			"language": "ET",
+			"title": "Lumi",
+			"subTitle": "Külm & Valge",
+			"footer": "Igal talvel on oma kevad"
+		},
+		{
+			"language": "FI",
+			"title": "Lumi",
+			"subTitle": "Kylmä & Valkoinen",
+			"footer": "Jokaisella talvella on kevät"
+		},
+		{
+			"language": "FR",
+			"title": "Neige",
+			"subTitle": "Froid et blanc",
+			"footer": "Chaque hiver a son printemps"
+		},
+		{
+			"language": "HE",
+			"title": "שֶׁלֶג",
+			"subTitle": "קר ולבן",
+			"footer": "לכל חורף יש את האביב שלו"
+		},
+		{
+			"language": "HR",
+			"title": "Snijeg",
+			"subTitle": "Hladno & bijelo",
+			"footer": "Svaka zima ima svoje proljeće"
+		},
+		{
+			"language": "HU",
+			"title": "Hó",
+			"subTitle": "Cold & White",
+			"footer": "Minden télnek megvan a maga tavasza"
+		},
+		{
+			"language": "ID",
+			"title": "Salju",
+			"subTitle": "Dingin & Putih",
+			"footer": "Setiap musim dingin memiliki musim seminya"
+		},
+		{
+			"language": "IS",
+			"title": "Snjór",
+			"subTitle": "Kalt & hvítt",
+			"footer": "Hver vetur hefur sitt vor"
+		},
+		{
+			"language": "IT",
+			"title": "Nevicare",
+			"subTitle": "Freddo e bianco",
+			"footer": "Ogni inverno ha la sua primavera"
+		},
+		{
+			"language": "JA",
+			"title": "雪",
+			"subTitle": "冷たくて白い",
+			"footer": "冬には必ず春が来る"
+		},
+		{
+			"language": "KO",
+			"title": "눈",
+			"subTitle": "콜드 앤 화이트",
+			"footer": "겨울마다 봄이 온다"
+		},
+		{
+			"language": "LT",
+			"title": "Sniegas",
+			"subTitle": "Šaltas ir baltas",
+			"footer": "Kiekviena žiema turi savo pavasarį"
+		},
+		{
+			"language": "LV",
+			"title": "Sniegs",
+			"subTitle": "Cold & White",
+			"footer": "Katrai ziemai ir savs pavasaris"
+		},
+		{
+			"language": "MS",
+			"title": "salji",
+			"subTitle": "Sejuk & Putih",
+			"footer": "Setiap musim sejuk ada musim bunganya"
+		},
+		{
+			"language": "NL",
+			"title": "Sneeuw",
+			"subTitle": "Koud & Wit",
+			"footer": "Elke winter heeft zijn lente"
+		},
+		{
+			"language": "NN",
+			"title": "Snø",
+			"subTitle": "Kaldt og hvitt",
+			"footer": "Hver vinter har sin vår"
+		},
+		{
+			"language": "NO",
+			"title": "Snø",
+			"subTitle": "Kaldt og hvitt",
+			"footer": "Hver vinter har sin vår"
+		},
+		{
+			"language": "SH",
+			"title": "Снег",
+			"subTitle": "Цолд & Вхите",
+			"footer": "Свака зима има своје пролеће"
+		},
+		{
+			"language": "SK",
+			"title": "Sneh",
+			"subTitle": "Cold & White",
+			"footer": "Každá zima má svoju jar"
+		},
+		{
+			"language": "SL",
+			"title": "sneg",
+			"subTitle": "Hladno & belo",
+			"footer": "Vsaka zima ima svojo pomlad"
+		},
+		{
+			"language": "SR",
+			"title": "Снег",
+			"subTitle": "Цолд & Вхите",
+			"footer": "Свака зима има своје пролеће"
+		},
+		{
+			"language": "TH",
+			"title": "หิมะ",
+			"subTitle": "เย็นและขาว",
+			"footer": "ทุกฤดูหนาวก็มีฤดูใบไม้ผลิ"
+		},
+		{
+			"language": "TR",
+			"title": "Kar",
+			"subTitle": "Soğuk ve Beyaz",
+			"footer": "Her kışın bir baharı vardır"
+		},
+		{
+			"language": "ZH",
+			"title": "雪",
+			"subTitle": "冷白",
+			"footer": "每个冬天都会有春天"
+		},
+		{
+			"language": "PL",
+			"title": "Śnieg",
+			"subTitle": "Zimno i biel",
+			"footer": "Każda zima ma swoją wiosnę"
+		},
+		{
+			"language": "PT",
+			"title": "Neve",
+			"subTitle": "Frio e Branco",
+			"footer": "Todo inverno tem sua primavera"
+		},
+		{
+			"language": "RO",
+			"title": "Zăpadă",
+			"subTitle": "Rece & Alb",
+			"footer": "Fiecare iarnă are primăvara ei"
+		},
+		{
+			"language": "RU",
+			"title": "Снег",
+			"subTitle": "Холодный и белый",
+			"footer": "У каждой зимы есть своя весна."
+		},
+		{
+			"language": "SE",
+			"title": "Muohta",
+			"subTitle": "Galbma ja vilges",
+			"footer": "Juohke dálvvis lea iežas giđđa"
+		},
+		{
+			"language": "SV",
+			"title": "Snö",
+			"subTitle": "Kall & Vit",
+			"footer": "Varje vinter har sin vår"
+		},
+		{
+			"language": "UK",
+			"title": "сніг",
+			"subTitle": "Холодний і білий",
+			"footer": "Кожна зима має свою весну"
+		},
+		{
+			"language": "ZF",
+			"title": "雪",
+			"subTitle": "冷白",
+			"footer": "每個冬天都會有春天"
+		}
+	],
 	"storeItem": {},
 	"settings": {
 		"adaptive": {
@@ -87,7 +328,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

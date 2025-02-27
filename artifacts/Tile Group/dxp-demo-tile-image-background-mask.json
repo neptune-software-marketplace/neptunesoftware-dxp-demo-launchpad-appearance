@@ -5,12 +5,12 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "صورة البلاط الخلفية مع قناع التصفية",
-			"subTitle": "صور خلفية مع قناع صورة من الأعلى إلى الأسفل"
+			"title": "قناع مرشح خلفية صورة البلاط",
+			"subTitle": "صور الخلفية مع قناع الصورة من الأعلى إلى الأسفل"
 		},
 		{
 			"language": "DE",
-			"title": "Kachelbild Hintergrund Filtermaske",
+			"title": "Kachelbild-Hintergrundfiltermaske",
 			"subTitle": "Hintergrundbilder mit Bildmaske von oben nach unten"
 		},
 		{
@@ -20,13 +20,13 @@
 		},
 		{
 			"language": "FR",
-			"title": "Image de tuile avec filtre de masque",
-			"subTitle": "Images d'arrière-plan avec un masque d'image de haut en bas"
+			"title": "Masque de filtre d'arrière-plan d'image en mosaïque",
+			"subTitle": "Images d'arrière-plan avec masque d'image de haut en bas"
 		},
 		{
 			"language": "NO",
-			"title": "Flisbilde Bakgrunn Filtermaske",
-			"subTitle": "Bakgrunnsbilder med topp til bunn bildefiltermaske"
+			"title": "Flisbilde Bakgrunnsfiltermaske",
+			"subTitle": "Bakgrunnsbilder med topp til bunn bildemaske"
 		},
 		{
 			"language": "ZH",
@@ -42,6 +42,181 @@
 			"language": "NN",
 			"title": "Flisbilde Bakgrunn Filtermaske",
 			"subTitle": "Bakgrunnsbilder med bildeoverlegg fra topp til bunn"
+		},
+		{
+			"language": "BG",
+			"title": "Филтърна маска за фоново изображение на плочки",
+			"subTitle": "Фонови изображения с маска на изображението отгоре надолу"
+		},
+		{
+			"language": "CS",
+			"title": "Dlaždice Obraz Pozadí Filtr Maska",
+			"subTitle": "Obrázky na pozadí s maskou obrázku shora dolů"
+		},
+		{
+			"language": "DA",
+			"title": "Flisebillede Baggrundsfiltermaske",
+			"subTitle": "Baggrundsbilleder med top til bund billedmaske"
+		},
+		{
+			"language": "EL",
+			"title": "Μάσκα φίλτρου φόντου εικόνας πλακιδίων",
+			"subTitle": "Εικόνες φόντου με μάσκα εικόνας από πάνω προς τα κάτω"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Background Filter Mask",
+			"subTitle": "Background images with top to bottom image mask"
+		},
+		{
+			"language": "ES",
+			"title": "Máscara de filtro de fondo de imagen de mosaico",
+			"subTitle": "Imágenes de fondo con máscara de imagen de arriba a abajo"
+		},
+		{
+			"language": "ET",
+			"title": "Paanipildi taustafiltri mask",
+			"subTitle": "Taustapildid ülalt alla pildimaskiga"
+		},
+		{
+			"language": "FI",
+			"title": "Tile Image Background Filter Mask",
+			"subTitle": "Taustakuvat ylhäältä alas kuvamaskiin"
+		},
+		{
+			"language": "HE",
+			"title": "מסכת מסנן רקע של תמונת אריח",
+			"subTitle": "תמונות רקע עם מסכת תמונה מלמעלה למטה"
+		},
+		{
+			"language": "HU",
+			"title": "Mozaik kép háttér szűrő maszk",
+			"subTitle": "Háttérképek felülről lefelé haladó képmaszkkal"
+		},
+		{
+			"language": "ID",
+			"title": "Filter Masker Latar Belakang Gambar Ubin",
+			"subTitle": "Gambar latar belakang dengan topeng gambar atas ke bawah"
+		},
+		{
+			"language": "IS",
+			"title": "Bakgrunnssíugríma fyrir flísarmyndir",
+			"subTitle": "Bakgrunnsmyndir með myndgrímu frá toppi til botns"
+		},
+		{
+			"language": "IT",
+			"title": "Maschera filtro sfondo immagine piastrellata",
+			"subTitle": "Immagini di sfondo con maschera dall'alto verso il basso"
+		},
+		{
+			"language": "JA",
+			"title": "タイル画像背景フィルターマスク",
+			"subTitle": "上から下への画像マスク付きの背景画像"
+		},
+		{
+			"language": "KO",
+			"title": "타일 이미지 배경 필터 마스크",
+			"subTitle": "위에서 아래로 이미지 마스크가 적용된 배경 이미지"
+		},
+		{
+			"language": "LT",
+			"title": "Plytelių vaizdo fono filtro kaukė",
+			"subTitle": "Fono vaizdai su vaizdo kauke iš viršaus į apačią"
+		},
+		{
+			"language": "LV",
+			"title": "Flīžu attēla fona filtra maska",
+			"subTitle": "Fona attēli ar attēla masku no augšas uz leju"
+		},
+		{
+			"language": "MS",
+			"title": "Topeng Penapis Latar Belakang Imej Jubin",
+			"subTitle": "Imej latar belakang dengan topeng imej atas ke bawah"
+		},
+		{
+			"language": "NL",
+			"title": "Achtergrondfiltermasker voor tegelafbeelding",
+			"subTitle": "Achtergrondafbeeldingen met een afbeeldingsmasker van boven naar beneden"
+		},
+		{
+			"language": "PL",
+			"title": "Maska filtra tła obrazu kafelkowego",
+			"subTitle": "Obrazy tła z maską obrazu od góry do dołu"
+		},
+		{
+			"language": "RO",
+			"title": "Mască de filtru de fundal pentru imaginea plăcilor",
+			"subTitle": "Imagini de fundal cu mască imagine de sus în jos"
+		},
+		{
+			"language": "RU",
+			"title": "Фильтр маски фонового изображения плитки",
+			"subTitle": "Фоновые изображения с маской изображения сверху вниз"
+		},
+		{
+			"language": "SR",
+			"title": "Маска филтера позадине слике плочице",
+			"subTitle": "Позадинске слике са маском слике од врха до дна"
+		},
+		{
+			"language": "SV",
+			"title": "Kakelbild Bakgrundsfiltermask",
+			"subTitle": "Bakgrundsbilder med bildmask uppifrån och ned"
+		},
+		{
+			"language": "TR",
+			"title": "Döşeme Görüntü Arkaplan Filtre Maskesi",
+			"subTitle": "Üstten alta görüntü maskesi olan arka plan görüntüleri"
+		},
+		{
+			"language": "UK",
+			"title": "Маска-фільтр тла плиткового зображення",
+			"subTitle": "Фонові зображення з маскою зверху вниз"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像背景濾鏡蒙版",
+			"subTitle": "帶有從上到下圖像遮罩的背景圖像"
+		},
+		{
+			"language": "HR",
+			"title": "Maska filtra pozadinske slike pločice",
+			"subTitle": "Pozadinske slike s maskom slike od vrha do dna"
+		},
+		{
+			"language": "PT",
+			"title": "Máscara de filtro de fundo de imagem de mosaico",
+			"subTitle": "Imagens de fundo com máscara de imagem de cima para baixo"
+		},
+		{
+			"language": "SE",
+			"title": "Tile Image Background Filter Mask",
+			"subTitle": "Duogášgovat main lea bajimusas vuolábeallái govvamáskka"
+		},
+		{
+			"language": "SH",
+			"title": "Маска филтера позадине слике плочице",
+			"subTitle": "Позадинске слике са маском слике од врха до дна"
+		},
+		{
+			"language": "SK",
+			"title": "Maska filtra pozadia s dlaždicami",
+			"subTitle": "Obrázky na pozadí s maskou obrázka zhora nadol"
+		},
+		{
+			"language": "SL",
+			"title": "Maska filtra za ozadje slike ploščice",
+			"subTitle": "Slike ozadja z masko slike od zgoraj navzdol"
+		},
+		{
+			"language": "TH",
+			"title": "หน้ากากฟิลเตอร์พื้นหลังภาพกระเบื้อง",
+			"subTitle": "ภาพพื้นหลังพร้อมหน้ากากภาพจากบนลงล่าง"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像背景过滤蒙版",
+			"subTitle": "带有从上到下图像遮罩的背景图像"
 		}
 	],
 	"tilesOrder": [
@@ -144,7 +319,7 @@
 		},
 		{
 			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
-			"ver": "24.11.19.2321"
+			"ver": "25.02.27.2013"
 		}
 	],
 	"darkTileLayouts": [],

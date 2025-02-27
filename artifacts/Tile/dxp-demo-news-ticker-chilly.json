@@ -2,7 +2,168 @@
 	"id": "5ac891cb-b9cd-477f-a232-500744db8761",
 	"createdAt": "2024-09-24T13:00:52.566Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "غدا سيكون باردا"
+		},
+		{
+			"language": "BG",
+			"title": "Утре ще бъде хладно"
+		},
+		{
+			"language": "CS",
+			"title": "Zítra bude sychravo"
+		},
+		{
+			"language": "DA",
+			"title": "I morgen bliver det køligt"
+		},
+		{
+			"language": "DE",
+			"title": "Morgen wird es kühl"
+		},
+		{
+			"language": "EL",
+			"title": "Αύριο θα έχει κρύο"
+		},
+		{
+			"language": "EN",
+			"title": "Tomorrow will be chilly"
+		},
+		{
+			"language": "ES",
+			"title": "Mañana hará frío"
+		},
+		{
+			"language": "ET",
+			"title": "Homme tuleb külm"
+		},
+		{
+			"language": "FI",
+			"title": "Huomenna on kylmä"
+		},
+		{
+			"language": "FR",
+			"title": "Demain il fera froid"
+		},
+		{
+			"language": "HE",
+			"title": "מחר יהיה קריר"
+		},
+		{
+			"language": "HR",
+			"title": "Sutra će biti prohladno"
+		},
+		{
+			"language": "ID",
+			"title": "Besok akan dingin"
+		},
+		{
+			"language": "IS",
+			"title": "Á morgun verður kalt"
+		},
+		{
+			"language": "IT",
+			"title": "Domani farà freddo"
+		},
+		{
+			"language": "JA",
+			"title": "明日は寒くなるだろう"
+		},
+		{
+			"language": "KO",
+			"title": "내일은 추울 것 같아요"
+		},
+		{
+			"language": "LV",
+			"title": "Rīt būs vēss"
+		},
+		{
+			"language": "NL",
+			"title": "Morgen wordt het koud"
+		},
+		{
+			"language": "NN",
+			"title": "I morgen blir det kjølig"
+		},
+		{
+			"language": "NO",
+			"title": "I morgen blir det kjølig"
+		},
+		{
+			"language": "RO",
+			"title": "Mâine va fi răcoare"
+		},
+		{
+			"language": "SE",
+			"title": "Ihttin šaddá galbma"
+		},
+		{
+			"language": "SH",
+			"title": "Сутра ће бити хладно"
+		},
+		{
+			"language": "SK",
+			"title": "Zajtra bude chladno"
+		},
+		{
+			"language": "SL",
+			"title": "Jutri bo hladno"
+		},
+		{
+			"language": "SR",
+			"title": "Сутра ће бити хладно"
+		},
+		{
+			"language": "SV",
+			"title": "Imorgon blir det kyligt"
+		},
+		{
+			"language": "TR",
+			"title": "Yarın hava soğuk olacak"
+		},
+		{
+			"language": "ZF",
+			"title": "明天寒冷"
+		},
+		{
+			"language": "ZH",
+			"title": "明天寒冷"
+		},
+		{
+			"language": "HU",
+			"title": "Holnap hideg lesz"
+		},
+		{
+			"language": "LT",
+			"title": "Rytoj bus vėsu"
+		},
+		{
+			"language": "MS",
+			"title": "Esok akan menjadi sejuk"
+		},
+		{
+			"language": "PL",
+			"title": "Jutro będzie chłodno"
+		},
+		{
+			"language": "PT",
+			"title": "Amanhã vai estar frio"
+		},
+		{
+			"language": "RU",
+			"title": "Завтра будет холодно"
+		},
+		{
+			"language": "TH",
+			"title": "พรุ่งนี้จะหนาว"
+		},
+		{
+			"language": "UK",
+			"title": "Завтра буде прохолодно"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Tomorrow will be chilly",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

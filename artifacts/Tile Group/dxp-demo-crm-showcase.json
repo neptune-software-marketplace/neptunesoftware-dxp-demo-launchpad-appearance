@@ -2,7 +2,168 @@
 	"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
 	"createdAt": "2025-01-08T19:53:39.958Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "التطبيقات"
+		},
+		{
+			"language": "BG",
+			"title": "Приложения"
+		},
+		{
+			"language": "CS",
+			"title": "Aplikace"
+		},
+		{
+			"language": "DA",
+			"title": "Ansøgninger"
+		},
+		{
+			"language": "DE",
+			"title": "Anwendungen"
+		},
+		{
+			"language": "EL",
+			"title": "Εφαρμογές"
+		},
+		{
+			"language": "EN",
+			"title": "Applications"
+		},
+		{
+			"language": "ES",
+			"title": "Aplicaciones"
+		},
+		{
+			"language": "ET",
+			"title": "Rakendused"
+		},
+		{
+			"language": "FI",
+			"title": "Sovellukset"
+		},
+		{
+			"language": "FR",
+			"title": "Applications"
+		},
+		{
+			"language": "HE",
+			"title": "יישומים"
+		},
+		{
+			"language": "HU",
+			"title": "Alkalmazások"
+		},
+		{
+			"language": "IT",
+			"title": "Applicazioni"
+		},
+		{
+			"language": "JA",
+			"title": "アプリケーション"
+		},
+		{
+			"language": "LT",
+			"title": "Programos"
+		},
+		{
+			"language": "LV",
+			"title": "Lietojumprogrammas"
+		},
+		{
+			"language": "MS",
+			"title": "Aplikasi"
+		},
+		{
+			"language": "NL",
+			"title": "Toepassingen"
+		},
+		{
+			"language": "PL",
+			"title": "Aplikacje"
+		},
+		{
+			"language": "PT",
+			"title": "Aplicações"
+		},
+		{
+			"language": "RO",
+			"title": "Aplicații"
+		},
+		{
+			"language": "SK",
+			"title": "Aplikácie"
+		},
+		{
+			"language": "SR",
+			"title": "Апликације"
+		},
+		{
+			"language": "TR",
+			"title": "Uygulamalar"
+		},
+		{
+			"language": "HR",
+			"title": "Prijave"
+		},
+		{
+			"language": "ID",
+			"title": "Aplikasi"
+		},
+		{
+			"language": "IS",
+			"title": "Umsóknir"
+		},
+		{
+			"language": "KO",
+			"title": "응용 프로그램"
+		},
+		{
+			"language": "NN",
+			"title": "Søknader"
+		},
+		{
+			"language": "NO",
+			"title": "Søknader"
+		},
+		{
+			"language": "RU",
+			"title": "Приложения"
+		},
+		{
+			"language": "SE",
+			"title": "Ohcamušat"
+		},
+		{
+			"language": "SH",
+			"title": "Апликације"
+		},
+		{
+			"language": "SL",
+			"title": "Aplikacije"
+		},
+		{
+			"language": "SV",
+			"title": "Ansökningar"
+		},
+		{
+			"language": "TH",
+			"title": "แอปพลิเคชั่น"
+		},
+		{
+			"language": "UK",
+			"title": "Додатки"
+		},
+		{
+			"language": "ZF",
+			"title": "應用"
+		},
+		{
+			"language": "ZH",
+			"title": "应用"
+		}
+	],
 	"tilesOrder": [
 		"4cfb9d5f-c760-eb11-a607-0003ff1e4706",
 		"f93afb05-9ab2-4deb-bc7d-9342fef19b03",

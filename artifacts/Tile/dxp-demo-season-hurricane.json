@@ -2,7 +2,208 @@
 	"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
 	"createdAt": "2024-09-24T12:32:19.785Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "عاصفة نوفمبر الثالثة",
+			"subTitle": "العاصفة الاستوائية سارا هي العاصفة الثالثة التي تحمل اسمًا والتي ظهرت في نوفمبر/تشرين الثاني، مما يذكرنا بأن موسم الأعاصير في المحيط الأطلسي لم ينته بعد"
+		},
+		{
+			"language": "BG",
+			"title": "Трета ноемврийска буря",
+			"subTitle": "Тропическата буря Сара е третата наречена буря, която се появява този ноември, като напомня, че сезонът на ураганите в Атлантическия океан не е приключил"
+		},
+		{
+			"language": "CS",
+			"title": "Třetí listopadová bouře",
+			"subTitle": "Tropická bouře Sara je třetí pojmenovanou bouří, která se objevila letos v listopadu a připomíná, že sezóna hurikánů v Atlantiku ještě neskončila."
+		},
+		{
+			"language": "DA",
+			"title": "En tredje novemberstorm",
+			"subTitle": "Den tropiske storm Sara er den tredje navngivne storm, der dukker op i november og tjener en påmindelse om, at orkansæsonen i Atlanterhavet ikke helt er forbi"
+		},
+		{
+			"language": "DE",
+			"title": "Ein dritter Novembersturm",
+			"subTitle": "Der tropische Sturm Sara ist der dritte benannte Sturm, der diesen November auftaucht, und erinnert daran, dass die Hurrikansaison im Atlantik noch nicht ganz vorbei ist."
+		},
+		{
+			"language": "EL",
+			"title": "Τρίτη καταιγίδα Νοεμβρίου",
+			"subTitle": "Η τροπική καταιγίδα Sara είναι η τρίτη ονομαζόμενη καταιγίδα που εμφανίζεται αυτόν τον Νοέμβριο, υπενθυμίζοντας ότι η εποχή των τυφώνων στον Ατλαντικό δεν έχει τελειώσει"
+		},
+		{
+			"language": "EN",
+			"title": "A third November storm",
+			"subTitle": "Tropical Storm Sara is the third named storm to emerge this November, serving up a reminder that the Atlantic hurricane season isn't quite over"
+		},
+		{
+			"language": "ES",
+			"title": "Una tercera tormenta de noviembre",
+			"subTitle": "La tormenta tropical Sara es la tercera tormenta con nombre que surge este noviembre y nos recuerda que la temporada de huracanes en el Atlántico aún no ha terminado"
+		},
+		{
+			"language": "ET",
+			"title": "Kolmas novembritorm",
+			"subTitle": "Troopiline torm Sara on tänavu novembris kolmas nimega torm, mis tuletab meelde, et Atlandi orkaanihooaeg pole veel päris läbi"
+		},
+		{
+			"language": "FI",
+			"title": "Marraskuun kolmas myrsky",
+			"subTitle": "Trooppinen myrsky Sara on kolmas nimetty myrsky, joka nousee tänä marraskuussa, ja se on muistutus siitä, että Atlantin hurrikaanikausi ei ole aivan ohi."
+		},
+		{
+			"language": "FR",
+			"title": "Une troisième tempête en novembre",
+			"subTitle": "La tempête tropicale Sara est la troisième tempête nommée à émerger en novembre, rappelant que la saison des ouragans dans l'Atlantique n'est pas tout à fait terminée"
+		},
+		{
+			"language": "HE",
+			"title": "סערה שלישית בנובמבר",
+			"subTitle": "הסערה הטרופית שרה היא הסופה השלישית שמופיעה בנובמבר הקרוב, והיא תזכורת לכך שעונת ההוריקנים האטלנטית עדיין לא הסתיימה"
+		},
+		{
+			"language": "HR",
+			"title": "Treća novembarska oluja",
+			"subTitle": "Tropska oluja Sara treća je imenovana oluja koja se pojavila ovog studenog, služeći kao podsjetnik da sezona uragana u Atlantiku još nije završila"
+		},
+		{
+			"language": "ID",
+			"title": "Badai ketiga di bulan November",
+			"subTitle": "Badai Tropis Sara adalah badai ketiga yang muncul pada bulan November ini, mengingatkan kita bahwa musim badai Atlantik belum berakhir."
+		},
+		{
+			"language": "IS",
+			"title": "Þriðji nóvember stormur",
+			"subTitle": "Hitabeltisstormurinn Sara er þriðji nafngreindi stormurinn sem kemur upp í nóvember og er áminning um að fellibyljatímabilið í Atlantshafi er ekki alveg búið"
+		},
+		{
+			"language": "IT",
+			"title": "Una terza tempesta di novembre",
+			"subTitle": "La tempesta tropicale Sara è la terza tempesta nominata a emergere questo novembre, ricordandoci che la stagione degli uragani nell'Atlantico non è ancora finita"
+		},
+		{
+			"language": "JA",
+			"title": "11月の3回目の嵐",
+			"subTitle": "熱帯暴風雨サラは、11月に発生した3番目の命名された暴風雨であり、大西洋のハリケーンシーズンがまだ終わっていないことを思い出させるものである。"
+		},
+		{
+			"language": "KO",
+			"title": "11월 세 번째 폭풍",
+			"subTitle": "열대성 폭풍 사라는 이번 11월에 발생한 세 번째 명명된 폭풍으로 대서양 허리케인 시즌이 아직 끝나지 않았다는 사실을 상기시켜줍니다."
+		},
+		{
+			"language": "LT",
+			"title": "Trečioji lapkričio audra",
+			"subTitle": "Tropinė audra Sara yra trečioji pavadinta audra, kilusi šį lapkritį, primenanti, kad Atlanto uraganų sezonas dar nesibaigė."
+		},
+		{
+			"language": "LV",
+			"title": "Trešā novembra vētra",
+			"subTitle": "Tropiskā vētra Sāra ir trešā nosauktā vētra, kas izceļas šī gada novembrī, atgādinot, ka Atlantijas okeāna viesuļvētru sezona vēl nav beigusies."
+		},
+		{
+			"language": "NL",
+			"title": "Een derde novemberstorm",
+			"subTitle": "Tropische storm Sara is de derde storm met een naam die in november opduikt, wat een herinnering is dat het Atlantische orkaanseizoen nog niet helemaal voorbij is"
+		},
+		{
+			"language": "NN",
+			"title": "En tredje novemberstorm",
+			"subTitle": "Tropical Storm Sara er den tredje navngitte stormen som dukker opp i november, og serverer en påminnelse om at orkansesongen i Atlanterhavet ikke helt er over"
+		},
+		{
+			"language": "NO",
+			"title": "En tredje novemberstorm",
+			"subTitle": "Tropical Storm Sara er den tredje navngitte stormen som dukker opp i november, og serverer en påminnelse om at orkansesongen i Atlanterhavet ikke helt er over"
+		},
+		{
+			"language": "RO",
+			"title": "A treia furtună din noiembrie",
+			"subTitle": "Furtuna tropicală Sara este a treia furtună numită care a apărut în luna noiembrie, reamintind că sezonul uraganelor din Atlantic nu s-a terminat."
+		},
+		{
+			"language": "RU",
+			"title": "Третий ноябрьский шторм",
+			"subTitle": "Тропический шторм Сара — третий получивший имя шторм, возникший в ноябре, и напоминание о том, что сезон ураганов в Атлантике еще не закончился."
+		},
+		{
+			"language": "SH",
+			"title": "Трећа новембарска олуја",
+			"subTitle": "Тропска олуја Сара је трећа по имену олуја која се појавила овог новембра, служећи подсетником да сезона урагана на Атлантику није сасвим готова"
+		},
+		{
+			"language": "SK",
+			"title": "Tretia novembrová búrka",
+			"subTitle": "Tropická búrka Sara je treťou pomenovanou búrkou, ktorá sa objavila tento november a pripomína, že sezóna hurikánov v Atlantiku sa ešte neskončila"
+		},
+		{
+			"language": "SL",
+			"title": "Tretja novembrska nevihta",
+			"subTitle": "Tropska nevihta Sara je tretja poimenovana nevihta, ki se bo pojavila novembra in opominja, da sezone orkanov v Atlantiku še ni konec"
+		},
+		{
+			"language": "SR",
+			"title": "Трећа новембарска олуја",
+			"subTitle": "Тропска олуја Сара је трећа по имену олуја која се појавила овог новембра, служећи подсетником да сезона урагана на Атлантику није сасвим готова"
+		},
+		{
+			"language": "SV",
+			"title": "En tredje novemberstorm",
+			"subTitle": "Den tropiska stormen Sara är den tredje namngivna stormen som dyker upp i november, som en påminnelse om att orkansäsongen i Atlanten inte riktigt är över"
+		},
+		{
+			"language": "TR",
+			"title": "Üçüncü Kasım fırtınası",
+			"subTitle": "Tropikal Fırtına Sara, bu Kasım ayında ortaya çıkan üçüncü adlandırılmış fırtına olup, Atlantik kasırga sezonunun henüz bitmediğini hatırlatıyor"
+		},
+		{
+			"language": "ZH",
+			"title": "十一月的第三场风暴",
+			"subTitle": "热带风暴萨拉是今年 11 月出现的第三个命名风暴，这提醒人们大西洋飓风季节尚未结束"
+		},
+		{
+			"language": "ZF",
+			"title": "十一月的第三場風暴",
+			"subTitle": "熱帶風暴薩拉是今年 11 月出現的第三個命名風暴，這提醒人們大西洋颶風季尚未結束"
+		},
+		{
+			"language": "HU",
+			"title": "Egy harmadik novemberi vihar",
+			"subTitle": "A Sara trópusi vihar a harmadik névre keresztelt vihar, amely idén novemberben tör ki, és emlékeztet arra, hogy az atlanti hurrikánszezon még nem ért véget."
+		},
+		{
+			"language": "MS",
+			"title": "Ribut November ketiga",
+			"subTitle": "Ribut Tropika Sara ialah ribut ketiga dinamakan yang muncul pada November ini, memberi peringatan bahawa musim taufan Atlantik masih belum berakhir"
+		},
+		{
+			"language": "PL",
+			"title": "Trzecia listopadowa burza",
+			"subTitle": "Tropikalna burza Sara to trzecia nazwana burza, która pojawiła się w listopadzie, przypominając, że sezon huraganów na Atlantyku jeszcze się nie skończył"
+		},
+		{
+			"language": "PT",
+			"title": "Uma terceira tempestade de novembro",
+			"subTitle": "A tempestade tropical Sara é a terceira tempestade com nome a surgir em novembro, servindo como um lembrete de que a temporada de furacões no Atlântico ainda não acabou"
+		},
+		{
+			"language": "SE",
+			"title": "Goalmmát njukčamánu uđas",
+			"subTitle": "Trohpalaš uđas Sara lea goalmmát nammaduvvon uđas mii čuožžila dán njukčamánus, ja muittuha ahte Atlántta uđasvárra ii leat áibbas nohkan"
+		},
+		{
+			"language": "TH",
+			"title": "พายุลูกที่สามเดือนพฤศจิกายน",
+			"subTitle": "พายุโซนร้อนซาราเป็นพายุลูกที่สามที่ก่อตัวขึ้นในเดือนพฤศจิกายนนี้ ซึ่งถือเป็นการเตือนใจว่าฤดูพายุเฮอริเคนที่มหาสมุทรแอตแลนติกยังไม่สิ้นสุดลง"
+		},
+		{
+			"language": "UK",
+			"title": "Третя листопадова гроза",
+			"subTitle": "Тропічний шторм «Сара» — третій названий шторм, який з’явився цього листопада, нагадуючи, що сезон ураганів в Атлантиці ще не закінчився"
+		}
+	],
 	"storeItem": {},
 	"settings": {
 		"adaptive": {
@@ -63,7 +264,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.24.1319",
+	"ver": "25.02.27.2014",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-hurricane",
 	"cardWidth": "Wider",
@@ -87,8 +288,8 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
-	"imageType": null,
+	"noInheritTileLayout": false,
+	"imageType": "B",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [

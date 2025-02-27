@@ -2,7 +2,208 @@
 	"id": "e4cdaefc-c4d6-44ab-983d-f0e526113acf",
 	"createdAt": "2024-10-08T10:15:49.745Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "فلترة لون الصورة وتدويرها",
+			"subTitle": "تم تطبيق تدوير اللون بمقدار 180 درجة"
+		},
+		{
+			"language": "BG",
+			"title": "Филтриране на нюанса на изображението Завъртане",
+			"subTitle": "Приложено е завъртане на нюанса на 180 градуса"
+		},
+		{
+			"language": "CS",
+			"title": "Filtr Otočit odstín obrazu",
+			"subTitle": "Použito otočení odstínu o 180 stupňů"
+		},
+		{
+			"language": "DA",
+			"title": "Filter Billednuance Roter",
+			"subTitle": "180 graders nuancerotation påført"
+		},
+		{
+			"language": "DE",
+			"title": "Filter Bild Farbton Drehen",
+			"subTitle": "180 Grad Farbtondrehung angewendet"
+		},
+		{
+			"language": "EL",
+			"title": "Περιστροφή απόχρωσης φίλτρου εικόνας",
+			"subTitle": "Εφαρμόστηκε περιστροφή απόχρωσης 180 μοιρών"
+		},
+		{
+			"language": "EN",
+			"title": "Filter Image Hue Rotate",
+			"subTitle": "180 degree hue rotate applied"
+		},
+		{
+			"language": "ES",
+			"title": "Filtrar imagen Tono Rotar",
+			"subTitle": "Se aplicó una rotación de tono de 180 grados"
+		},
+		{
+			"language": "ET",
+			"title": "Filter Pilt Toon Pööra",
+			"subTitle": "Rakendatud on 180-kraadine varjundi pööramine"
+		},
+		{
+			"language": "FI",
+			"title": "Suodata Kuva Sävy Kierrä",
+			"subTitle": "180 asteen sävykierto käytössä"
+		},
+		{
+			"language": "FR",
+			"title": "Filtrer l'image Teinte Rotation",
+			"subTitle": "Rotation de teinte à 180 degrés appliquée"
+		},
+		{
+			"language": "HE",
+			"title": "סיבוב גוון תמונה מסנן",
+			"subTitle": "סיבוב גוון 180 מעלות מוחל"
+		},
+		{
+			"language": "HR",
+			"title": "Filter Hue slike Rotate",
+			"subTitle": "Primijenjena je rotacija nijanse za 180 stupnjeva"
+		},
+		{
+			"language": "IT",
+			"title": "Filtro Immagine Tonalità Ruota",
+			"subTitle": "Applicata rotazione tonalità 180 gradi"
+		},
+		{
+			"language": "JA",
+			"title": "フィルター画像の色相回転",
+			"subTitle": "180度色相回転を適用"
+		},
+		{
+			"language": "NN",
+			"title": "Filtrer bildefarge Roter",
+			"subTitle": "180 graders nyanserotasjon påført"
+		},
+		{
+			"language": "NO",
+			"title": "Filtrer bildenyanse Roter",
+			"subTitle": "180 graders nyanserotasjon påført"
+		},
+		{
+			"language": "PT",
+			"title": "Filtrar Matiz da Imagem Girar",
+			"subTitle": "rotação de matiz de 180 graus aplicada"
+		},
+		{
+			"language": "RU",
+			"title": "Фильтр Изображение Оттенок Поворот",
+			"subTitle": "Применен поворот оттенка на 180 градусов"
+		},
+		{
+			"language": "SE",
+			"title": "Filter Govva Ivdni Rotere",
+			"subTitle": "180 gráda ivdnerotašuvdna geavahuvvon"
+		},
+		{
+			"language": "SV",
+			"title": "Filtrera bildnyans Rotera",
+			"subTitle": "180 graders nyansrotation applicerad"
+		},
+		{
+			"language": "TR",
+			"title": "Filtre Görüntü Ton Döndür",
+			"subTitle": "180 derece renk tonu döndürme uygulandı"
+		},
+		{
+			"language": "UK",
+			"title": "Фільтр Відтінок зображення Обертання",
+			"subTitle": "Застосовано обертання відтінку на 180 градусів"
+		},
+		{
+			"language": "ZH",
+			"title": "过滤图像色调旋转",
+			"subTitle": "已应用 180 度色调旋转"
+		},
+		{
+			"language": "HU",
+			"title": "Szűrő Kép Színárnyalat Forgatás",
+			"subTitle": "180 fokos színárnyalat elforgatása alkalmazott"
+		},
+		{
+			"language": "ID",
+			"title": "Filter Gambar Rona Putar",
+			"subTitle": "Rotasi rona 180 derajat diterapkan"
+		},
+		{
+			"language": "IS",
+			"title": "Sía Image Hue Snúa",
+			"subTitle": "180 gráðu litblær snúningur beitt"
+		},
+		{
+			"language": "KO",
+			"title": "필터 이미지 색조 회전",
+			"subTitle": "180도 색조 회전 적용됨"
+		},
+		{
+			"language": "LT",
+			"title": "Filtruoti vaizdą Atspalvis Pasukti",
+			"subTitle": "Taikomas 180 laipsnių atspalvio pasukimas"
+		},
+		{
+			"language": "LV",
+			"title": "Filtrs Attēls Nokrāsa Pagriezt",
+			"subTitle": "Tiek izmantots 180 grādu toņu pagriešana"
+		},
+		{
+			"language": "MS",
+			"title": "Putar Hue Imej Penapis",
+			"subTitle": "Putaran rona 180 darjah digunakan"
+		},
+		{
+			"language": "NL",
+			"title": "Filter Afbeelding Tint Roteren",
+			"subTitle": "180 graden tintrotatie toegepast"
+		},
+		{
+			"language": "PL",
+			"title": "Filtruj Odcień Obrazu Obróć",
+			"subTitle": "Zastosowano obrót odcienia o 180 stopni"
+		},
+		{
+			"language": "RO",
+			"title": "Filtru Nuanța imaginii Rotiți",
+			"subTitle": "Rotire de nuanță de 180 de grade aplicată"
+		},
+		{
+			"language": "SH",
+			"title": "Филтер Имаге Хуе Ротате",
+			"subTitle": "Примењено је ротирање нијансе за 180 степени"
+		},
+		{
+			"language": "SK",
+			"title": "Otočiť odtieň obrazu filtra",
+			"subTitle": "Použilo sa otočenie o 180 stupňov"
+		},
+		{
+			"language": "SL",
+			"title": "Filter Odtenek slike Zavrti",
+			"subTitle": "Uporabljeno je vrtenje odtenka za 180 stopinj"
+		},
+		{
+			"language": "SR",
+			"title": "Филтер Имаге Хуе Ротате",
+			"subTitle": "Примењено је ротирање нијансе за 180 степени"
+		},
+		{
+			"language": "TH",
+			"title": "ฟิลเตอร์ หมุนโทนสีภาพ",
+			"subTitle": "ใช้การหมุนเฉดสี 180 องศา"
+		},
+		{
+			"language": "ZF",
+			"title": "濾波影像色調旋轉",
+			"subTitle": "已應用 180 度色調旋轉"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Filter Image Hue Rotate",
@@ -83,7 +284,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

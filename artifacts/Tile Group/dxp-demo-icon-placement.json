@@ -2,7 +2,208 @@
 	"id": "084633a5-96d1-4e28-bc9f-f85c15021930",
 	"createdAt": "2024-09-22T15:41:56.590Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "وضع الأيقونات",
+			"subTitle": "أيقونات البلاط مع أماكن مختلفة في البلاط"
+		},
+		{
+			"language": "BG",
+			"title": "Поставяне на икони",
+			"subTitle": "Икони за плочки с различно разположение в плочки"
+		},
+		{
+			"language": "CS",
+			"title": "Umístění ikon",
+			"subTitle": "Dlaždice ikony s různým umístěním v dlaždici"
+		},
+		{
+			"language": "DA",
+			"title": "Ikonplacering",
+			"subTitle": "Fliser ikoner med forskellige placeringer i fliser"
+		},
+		{
+			"language": "DE",
+			"title": "Symbolplatzierung",
+			"subTitle": "Kachelsymbole mit unterschiedlicher Platzierung in der Kachel"
+		},
+		{
+			"language": "EL",
+			"title": "Τοποθέτηση εικονιδίων",
+			"subTitle": "Πλακάκια εικονίδια με διάφορες τοποθετήσεις σε πλακάκια"
+		},
+		{
+			"language": "EN",
+			"title": "Icon Placement",
+			"subTitle": "Tiles icons with various placement in tile"
+		},
+		{
+			"language": "ES",
+			"title": "Colocación de iconos",
+			"subTitle": "Iconos de mosaicos con varias ubicaciones en mosaico"
+		},
+		{
+			"language": "ET",
+			"title": "Ikoonide paigutus",
+			"subTitle": "Erineva paigutusega plaatide ikoonid"
+		},
+		{
+			"language": "FI",
+			"title": "Kuvakkeen sijoitus",
+			"subTitle": "Laattojen kuvakkeet eri sijoitteluilla laatoissa"
+		},
+		{
+			"language": "FR",
+			"title": "Placement des icônes",
+			"subTitle": "Icônes de tuiles avec divers placements dans la tuile"
+		},
+		{
+			"language": "HE",
+			"title": "מיקום אייקונים",
+			"subTitle": "סמלי אריחים עם מיקומים שונים באריח"
+		},
+		{
+			"language": "HU",
+			"title": "Ikon elhelyezése",
+			"subTitle": "Csempe ikonok különböző elhelyezéssel a csempe"
+		},
+		{
+			"language": "ID",
+			"title": "Penempatan Ikon",
+			"subTitle": "Ikon ubin dengan berbagai penempatan di ubin"
+		},
+		{
+			"language": "IS",
+			"title": "Staðsetning táknmynda",
+			"subTitle": "Flísartákn með mismunandi staðsetningu í flísum"
+		},
+		{
+			"language": "IT",
+			"title": "Posizionamento delle icone",
+			"subTitle": "Icone delle tessere con vari posizionamenti nelle tessere"
+		},
+		{
+			"language": "JA",
+			"title": "アイコンの配置",
+			"subTitle": "タイル内のさまざまな配置のタイルアイコン"
+		},
+		{
+			"language": "KO",
+			"title": "아이콘 배치",
+			"subTitle": "타일의 다양한 배치를 갖춘 타일 아이콘"
+		},
+		{
+			"language": "NL",
+			"title": "Plaatsing van pictogrammen",
+			"subTitle": "Tegelpictogrammen met verschillende plaatsingen in tegels"
+		},
+		{
+			"language": "NO",
+			"title": "Ikonplassering",
+			"subTitle": "Fliser ikoner med ulike plasseringer i fliser"
+		},
+		{
+			"language": "PL",
+			"title": "Umieszczenie ikony",
+			"subTitle": "Ikony kafelków o różnym rozmieszczeniu w kafelkach"
+		},
+		{
+			"language": "PT",
+			"title": "Posicionamento do ícone",
+			"subTitle": "Ícones de blocos com vários posicionamentos no bloco"
+		},
+		{
+			"language": "SE",
+			"title": "Ikonaid sajádat",
+			"subTitle": "Čáhcebohcciid ikonat main lea iešguđetlágan sajádat čáhcefápmorusttegis"
+		},
+		{
+			"language": "SH",
+			"title": "Ицон Плацемент",
+			"subTitle": "Иконе плочица са различитим постављањем у плочице"
+		},
+		{
+			"language": "TR",
+			"title": "Simge Yerleşimi",
+			"subTitle": "Fayanslarda çeşitli yerleşimlere sahip fayans simgeleri"
+		},
+		{
+			"language": "ZF",
+			"title": "圖示位置",
+			"subTitle": "瓷磚圖標在瓷磚中的各種位置"
+		},
+		{
+			"language": "HR",
+			"title": "Položaj ikona",
+			"subTitle": "Ikone pločica s različitim položajem u pločici"
+		},
+		{
+			"language": "LT",
+			"title": "Piktogramų išdėstymas",
+			"subTitle": "Plytelių piktogramos su įvairia vieta plytelėje"
+		},
+		{
+			"language": "LV",
+			"title": "Ikonu izvietojums",
+			"subTitle": "Flīžu ikonas ar dažādu izvietojumu flīzē"
+		},
+		{
+			"language": "MS",
+			"title": "Peletakan Ikon",
+			"subTitle": "Ikon jubin dengan pelbagai penempatan dalam jubin"
+		},
+		{
+			"language": "NN",
+			"title": "Ikonplassering",
+			"subTitle": "Fliser ikoner med ulike plasseringer i fliser"
+		},
+		{
+			"language": "RO",
+			"title": "Plasarea pictogramelor",
+			"subTitle": "Pictograme de plăci cu diferite poziții în plăci"
+		},
+		{
+			"language": "RU",
+			"title": "Размещение значка",
+			"subTitle": "Значки плиток с различным размещением на плитке"
+		},
+		{
+			"language": "SK",
+			"title": "Umiestnenie ikony",
+			"subTitle": "Dlaždice ikony s rôznym umiestnením v dlaždici"
+		},
+		{
+			"language": "SL",
+			"title": "Postavitev ikone",
+			"subTitle": "Ikone ploščic z različnimi postavitvami v ploščici"
+		},
+		{
+			"language": "SR",
+			"title": "Ицон Плацемент",
+			"subTitle": "Иконе плочица са различитим постављањем у плочице"
+		},
+		{
+			"language": "SV",
+			"title": "Ikonplacering",
+			"subTitle": "Kakel ikoner med olika placering i brickan"
+		},
+		{
+			"language": "TH",
+			"title": "การวางตำแหน่งไอคอน",
+			"subTitle": "ไอคอนกระเบื้องที่มีตำแหน่งต่างๆ ในกระเบื้อง"
+		},
+		{
+			"language": "UK",
+			"title": "Розміщення піктограм",
+			"subTitle": "Плитки іконки з різним розміщенням у плитці"
+		},
+		{
+			"language": "ZH",
+			"title": "图标位置",
+			"subTitle": "瓷砖图标在瓷砖中的各种位置"
+		}
+	],
 	"tilesOrder": [
 		"c4ad18f3-fd79-4c7d-b6fd-baafa481ecc0",
 		"61d2c2ec-0b82-4e89-8ea6-7d4259f382d0",
@@ -99,8 +300,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

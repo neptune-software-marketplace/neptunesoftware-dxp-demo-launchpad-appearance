@@ -2,7 +2,168 @@
 	"id": "22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
 	"createdAt": "2024-09-25T08:25:10.337Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "لكن قد تمطر غدًا، لذا سأتبع الشمس"
+		},
+		{
+			"language": "BG",
+			"title": "Но утре може да вали, така че ще следвам слънцето"
+		},
+		{
+			"language": "CS",
+			"title": "Ale zítra může pršet, takže půjdu za sluncem"
+		},
+		{
+			"language": "DA",
+			"title": "Men i morgen kan det regne, så jeg følger solen"
+		},
+		{
+			"language": "DE",
+			"title": "Aber morgen könnte es regnen, also folge ich der Sonne"
+		},
+		{
+			"language": "EL",
+			"title": "Αλλά αύριο μπορεί να βρέξει, οπότε θα ακολουθήσω τον ήλιο"
+		},
+		{
+			"language": "EN",
+			"title": "But tomorrow may rain, so I’ll follow the sun"
+		},
+		{
+			"language": "ES",
+			"title": "Pero mañana puede llover, así que seguiré al sol."
+		},
+		{
+			"language": "ET",
+			"title": "Aga homme võib vihma sadada, nii et ma jälgin päikest"
+		},
+		{
+			"language": "FI",
+			"title": "Mutta huomenna voi sataa, joten seuraan aurinkoa"
+		},
+		{
+			"language": "FR",
+			"title": "Mais demain il pourrait pleuvoir, alors je suivrai le soleil"
+		},
+		{
+			"language": "HE",
+			"title": "אבל מחר עלול לרדת גשם, אז אני אלך אחרי השמש"
+		},
+		{
+			"language": "HR",
+			"title": "Ali sutra bi mogla kišiti, pa ću slijediti sunce"
+		},
+		{
+			"language": "HU",
+			"title": "De holnap eshet az eső, úgyhogy követem a napot"
+		},
+		{
+			"language": "IS",
+			"title": "En á morgun gæti rigning, svo ég mun fylgja sólinni"
+		},
+		{
+			"language": "IT",
+			"title": "Ma domani potrebbe piovere, quindi seguirò il sole"
+		},
+		{
+			"language": "JA",
+			"title": "でも明日は雨が降るかもしれないから、太陽を追いかけよう"
+		},
+		{
+			"language": "KO",
+			"title": "하지만 내일은 비가 올지도 모르니 태양을 따라가겠습니다"
+		},
+		{
+			"language": "LT",
+			"title": "Bet rytoj gali lyti, todėl aš seksiu saulę"
+		},
+		{
+			"language": "NL",
+			"title": "Maar morgen kan het regenen, dus ik volg de zon"
+		},
+		{
+			"language": "NN",
+			"title": "Men i morgen kan det regne, så jeg følger solen"
+		},
+		{
+			"language": "NO",
+			"title": "Men i morgen kan det regne, så jeg følger solen"
+		},
+		{
+			"language": "PT",
+			"title": "Mas amanhã pode chover, então seguirei o sol"
+		},
+		{
+			"language": "RU",
+			"title": "Но завтра может пойти дождь, поэтому я последую за солнцем."
+		},
+		{
+			"language": "SH",
+			"title": "Али сутра може падати киша, па ћу пратити сунце"
+		},
+		{
+			"language": "SK",
+			"title": "Ale zajtra môže pršať, takže pôjdem za slnkom"
+		},
+		{
+			"language": "SL",
+			"title": "Jutri pa lahko dežuje, tako da bom sledil soncu"
+		},
+		{
+			"language": "ID",
+			"title": "Tapi besok mungkin hujan, jadi aku akan mengikuti matahari"
+		},
+		{
+			"language": "LV",
+			"title": "Bet rīt var līt, tāpēc es sekošu saulei"
+		},
+		{
+			"language": "MS",
+			"title": "Tetapi esok mungkin hujan, jadi saya akan mengikuti matahari"
+		},
+		{
+			"language": "PL",
+			"title": "Ale jutro może padać, więc pójdę za słońcem"
+		},
+		{
+			"language": "RO",
+			"title": "Dar mâine poate ploua, așa că voi urma soarele"
+		},
+		{
+			"language": "SE",
+			"title": "Muhto ihttin soaitá dulvat, nu ahte mun čuovun beaivváža"
+		},
+		{
+			"language": "SR",
+			"title": "Али сутра може падати киша, па ћу пратити сунце"
+		},
+		{
+			"language": "SV",
+			"title": "Men imorgon kan det regna, så jag följer solen"
+		},
+		{
+			"language": "TH",
+			"title": "แต่พรุ่งนี้ฝนอาจตก ฉันก็เลยจะตามพระอาทิตย์ไป"
+		},
+		{
+			"language": "TR",
+			"title": "Ama yarın yağmur yağabilir, bu yüzden güneşi takip edeceğim"
+		},
+		{
+			"language": "UK",
+			"title": "Але завтра може дощити, тому я піду за сонцем"
+		},
+		{
+			"language": "ZF",
+			"title": "但明天可能會下雨，所以我會跟著太陽走"
+		},
+		{
+			"language": "ZH",
+			"title": "但明天可能会下雨，所以我会跟着太阳走"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "But tomorrow may rain, so I’ll follow the sun",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

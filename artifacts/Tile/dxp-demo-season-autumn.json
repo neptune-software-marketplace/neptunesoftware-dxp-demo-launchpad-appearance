@@ -2,7 +2,168 @@
 	"id": "0bf25985-5375-4df4-96e1-1c555d9ed2ac",
 	"createdAt": "2024-09-25T08:29:08.999Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "سماء الخريف وفطائر اليقطين"
+		},
+		{
+			"language": "BG",
+			"title": "Есенно небе и тиквени пайове"
+		},
+		{
+			"language": "CS",
+			"title": "Podzimní nebe a dýňové koláče"
+		},
+		{
+			"language": "DA",
+			"title": "Efterårshimler og græskartærter"
+		},
+		{
+			"language": "DE",
+			"title": "Herbsthimmel und Kürbiskuchen"
+		},
+		{
+			"language": "EL",
+			"title": "Φθινοπωρινοί ουρανοί και κολοκυθόπιτες"
+		},
+		{
+			"language": "EN",
+			"title": "Autumn skies and pumpkin pies"
+		},
+		{
+			"language": "ES",
+			"title": "Cielos otoñales y pasteles de calabaza"
+		},
+		{
+			"language": "ET",
+			"title": "Sügis taevas ja kõrvitsapirukad"
+		},
+		{
+			"language": "FI",
+			"title": "Syksyinen taivas ja kurpitsapiirakkaa"
+		},
+		{
+			"language": "FR",
+			"title": "Ciel d'automne et tartes à la citrouille"
+		},
+		{
+			"language": "HE",
+			"title": "שמי סתיו ועוגות דלעת"
+		},
+		{
+			"language": "HR",
+			"title": "Jesenje nebo i pite od bundeve"
+		},
+		{
+			"language": "HU",
+			"title": "Őszi égbolt és sütőtökös piték"
+		},
+		{
+			"language": "IS",
+			"title": "Hausthiminn og graskersbökur"
+		},
+		{
+			"language": "IT",
+			"title": "Cieli autunnali e torte di zucca"
+		},
+		{
+			"language": "JA",
+			"title": "秋の空とパンプキンパイ"
+		},
+		{
+			"language": "KO",
+			"title": "가을 하늘과 호박 파이"
+		},
+		{
+			"language": "LT",
+			"title": "Rudens dangus ir moliūgų pyragai"
+		},
+		{
+			"language": "NL",
+			"title": "Herfstluchten en pompoentaarten"
+		},
+		{
+			"language": "NN",
+			"title": "Høst himmel og gresskar paier"
+		},
+		{
+			"language": "NO",
+			"title": "Høst himmel og gresskar paier"
+		},
+		{
+			"language": "PT",
+			"title": "Céus de outono e tortas de abóbora"
+		},
+		{
+			"language": "RU",
+			"title": "Осеннее небо и тыквенные пироги"
+		},
+		{
+			"language": "SH",
+			"title": "Јесење небо и пите од бундеве"
+		},
+		{
+			"language": "SK",
+			"title": "Jesenná obloha a tekvicové koláče"
+		},
+		{
+			"language": "SL",
+			"title": "Jesensko nebo in bučne pite"
+		},
+		{
+			"language": "TH",
+			"title": "ท้องฟ้าฤดูใบไม้ร่วงและพายฟักทอง"
+		},
+		{
+			"language": "ID",
+			"title": "Langit musim gugur dan pai labu"
+		},
+		{
+			"language": "LV",
+			"title": "Rudens debesis un ķirbju pīrāgi"
+		},
+		{
+			"language": "MS",
+			"title": "Langit musim luruh dan pai labu"
+		},
+		{
+			"language": "PL",
+			"title": "Jesienne niebo i dyniowe ciasta"
+		},
+		{
+			"language": "RO",
+			"title": "Ceruri de toamnă și plăcinte cu dovleac"
+		},
+		{
+			"language": "SE",
+			"title": "Giđđaalbmi ja gresskapáhkkat"
+		},
+		{
+			"language": "SR",
+			"title": "Јесење небо и пите од бундеве"
+		},
+		{
+			"language": "SV",
+			"title": "Hösthimlar och pumpapajer"
+		},
+		{
+			"language": "TR",
+			"title": "Sonbahar gökyüzü ve balkabağı turtaları"
+		},
+		{
+			"language": "UK",
+			"title": "Осіннє небо і гарбузові пироги"
+		},
+		{
+			"language": "ZF",
+			"title": "秋日的天空和南瓜派"
+		},
+		{
+			"language": "ZH",
+			"title": "秋日的天空和南瓜派"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Autumn skies and pumpkin pies",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

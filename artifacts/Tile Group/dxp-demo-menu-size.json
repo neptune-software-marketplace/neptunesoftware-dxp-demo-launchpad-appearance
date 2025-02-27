@@ -2,7 +2,168 @@
 	"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
 	"createdAt": "2024-11-19T19:27:29.160Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "حجم قائمة العرض التوضيحي dxp"
+		},
+		{
+			"language": "BG",
+			"title": "dxp-демо-размер на менюто"
+		},
+		{
+			"language": "CS",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "DA",
+			"title": "dxp-demo-menu-størrelse"
+		},
+		{
+			"language": "DE",
+			"title": "dxp-demo-menü-größe"
+		},
+		{
+			"language": "EL",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "EN",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "ES",
+			"title": "tamaño del menú de demostración de dxp"
+		},
+		{
+			"language": "ET",
+			"title": "dxp-demo-menüü suurus"
+		},
+		{
+			"language": "FI",
+			"title": "dxp-demo-valikon koko"
+		},
+		{
+			"language": "FR",
+			"title": "dxp-demo-menu-taille"
+		},
+		{
+			"language": "HE",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "HU",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "IT",
+			"title": "dimensione-menu-demo-dxp"
+		},
+		{
+			"language": "JA",
+			"title": "dxp デモ メニュー サイズ"
+		},
+		{
+			"language": "KO",
+			"title": "dxp-데모-메뉴-크기"
+		},
+		{
+			"language": "LT",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "LV",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "NL",
+			"title": "dxp-demo-menu-grootte"
+		},
+		{
+			"language": "PL",
+			"title": "dxp-demo-menu-rozmiar"
+		},
+		{
+			"language": "RO",
+			"title": "dxp-demo-meniu-dimensiune"
+		},
+		{
+			"language": "RU",
+			"title": "dxp-demo-меню-размер"
+		},
+		{
+			"language": "TH",
+			"title": "ขนาดเมนูสาธิต dxp"
+		},
+		{
+			"language": "TR",
+			"title": "dxp-demo-menü-boyutu"
+		},
+		{
+			"language": "HR",
+			"title": "dxp-demo-veličina-izbornika"
+		},
+		{
+			"language": "ID",
+			"title": "ukuran-menu-demo-dxp"
+		},
+		{
+			"language": "IS",
+			"title": "dxp-demo-valmynd-stærð"
+		},
+		{
+			"language": "MS",
+			"title": "dxp-demo-menu-saiz"
+		},
+		{
+			"language": "NN",
+			"title": "dxp-demo-meny-størrelse"
+		},
+		{
+			"language": "NO",
+			"title": "dxp-demo-meny-størrelse"
+		},
+		{
+			"language": "PT",
+			"title": "dxp-demo-menu-tamanho"
+		},
+		{
+			"language": "SE",
+			"title": "dxp-demo-menu-sturrodat"
+		},
+		{
+			"language": "SH",
+			"title": "дкп-демо-мену-сизе"
+		},
+		{
+			"language": "SK",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "SL",
+			"title": "velikost-demo-menija dxp"
+		},
+		{
+			"language": "SR",
+			"title": "дкп-демо-мену-сизе"
+		},
+		{
+			"language": "SV",
+			"title": "dxp-demo-meny-storlek"
+		},
+		{
+			"language": "UK",
+			"title": "dxp-demo-menu-size"
+		},
+		{
+			"language": "ZF",
+			"title": "dxp-演示選單大小"
+		},
+		{
+			"language": "ZH",
+			"title": "dxp-演示菜单大小"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"5e23413c-d854-4b90-b1a5-34aaa6462bc3",
@@ -86,8 +247,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

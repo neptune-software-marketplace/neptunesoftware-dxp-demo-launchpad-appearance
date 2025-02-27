@@ -2,7 +2,248 @@
 	"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 	"createdAt": "2024-09-14T22:39:57.931Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "رياح",
+			"subTitle": "إستمر في الوقوف",
+			"footer": "سأبقى حتى تتغير الرياح!"
+		},
+		{
+			"language": "BG",
+			"title": "Вятър",
+			"subTitle": "Продължете да стоите",
+			"footer": "Ще остана, докато вятърът се промени!"
+		},
+		{
+			"language": "CS",
+			"title": "Vítr",
+			"subTitle": "Zůstaňte stát",
+			"footer": "Zůstanu, dokud se nezmění vítr!"
+		},
+		{
+			"language": "DA",
+			"title": "Vind",
+			"subTitle": "Bliv stående",
+			"footer": "Jeg bliver, indtil vinden skifter!"
+		},
+		{
+			"language": "DE",
+			"title": "Wind",
+			"subTitle": "Bleiben Sie stehen",
+			"footer": "Ich bleibe, bis der Wind dreht!"
+		},
+		{
+			"language": "EL",
+			"title": "Ανεμος",
+			"subTitle": "Συνέχισε να στέκεσαι",
+			"footer": "Θα μείνω μέχρι να αλλάξει ο αέρας!"
+		},
+		{
+			"language": "EN",
+			"title": "Wind",
+			"subTitle": "Keep Standing",
+			"footer": "I’ll stay till the wind changes!"
+		},
+		{
+			"language": "ES",
+			"title": "Viento",
+			"subTitle": "Mantente de pie",
+			"footer": "¡Me quedaré hasta que cambie el viento!"
+		},
+		{
+			"language": "ET",
+			"title": "Tuul",
+			"subTitle": "Jätkake seismist",
+			"footer": "Jään, kuni tuul muutub!"
+		},
+		{
+			"language": "FI",
+			"title": "Tuuli",
+			"subTitle": "Pysy seisomassa",
+			"footer": "Pysyn, kunnes tuuli vaihtuu!"
+		},
+		{
+			"language": "FR",
+			"title": "Vent",
+			"subTitle": "Rester debout",
+			"footer": "Je resterai jusqu’à ce que le vent change !"
+		},
+		{
+			"language": "HE",
+			"title": "רוּחַ",
+			"subTitle": "תמשיך לעמוד",
+			"footer": "אני אשאר עד שהרוח תשתנה!"
+		},
+		{
+			"language": "HR",
+			"title": "Vjetar",
+			"subTitle": "Nastavi stajati",
+			"footer": "Ostat ću dok se vjetar ne promijeni!"
+		},
+		{
+			"language": "HU",
+			"title": "Szél",
+			"subTitle": "Álljon tovább",
+			"footer": "Addig maradok, amíg a szél fúj!"
+		},
+		{
+			"language": "IS",
+			"title": "Vindur",
+			"subTitle": "Haltu áfram að standa",
+			"footer": "Ég verð þar til vindurinn breytist!"
+		},
+		{
+			"language": "IT",
+			"title": "Vento",
+			"subTitle": "Rimani in piedi",
+			"footer": "Resterò finché non cambierà il vento!"
+		},
+		{
+			"language": "JA",
+			"title": "風",
+			"subTitle": "立ち続ける",
+			"footer": "風向きが変わるまでここにいます！"
+		},
+		{
+			"language": "KO",
+			"title": "바람",
+			"subTitle": "계속 서있어라",
+			"footer": "바람이 바뀔 때까지 머물겠어요!"
+		},
+		{
+			"language": "LT",
+			"title": "Vėjas",
+			"subTitle": "Stovėti toliau",
+			"footer": "Aš pasiliksiu, kol vėjas pasikeis!"
+		},
+		{
+			"language": "MS",
+			"title": "Angin",
+			"subTitle": "Terus Berdiri",
+			"footer": "Saya akan tinggal sehingga angin berubah!"
+		},
+		{
+			"language": "NN",
+			"title": "Vind",
+			"subTitle": "Fortsett å stå",
+			"footer": "Jeg blir til vinden endrer seg!"
+		},
+		{
+			"language": "NO",
+			"title": "Vind",
+			"subTitle": "Fortsett å stå",
+			"footer": "Jeg blir til vinden endrer seg!"
+		},
+		{
+			"language": "RU",
+			"title": "Ветер",
+			"subTitle": "Продолжайте стоять",
+			"footer": "Я останусь, пока ветер не переменится!"
+		},
+		{
+			"language": "SE",
+			"title": "Biegga",
+			"subTitle": "Bissot čuožžumin",
+			"footer": "Mun orun dassážii go biegga rievdá!"
+		},
+		{
+			"language": "SH",
+			"title": "Ветар",
+			"subTitle": "Наставите да стојите",
+			"footer": "Остаћу док се ветар не промени!"
+		},
+		{
+			"language": "SK",
+			"title": "Vietor",
+			"subTitle": "Zostaňte stáť",
+			"footer": "Ostanem, kým sa nezmení vietor!"
+		},
+		{
+			"language": "SL",
+			"title": "Veter",
+			"subTitle": "Stojte",
+			"footer": "Ostal bom, dokler se veter ne spremeni!"
+		},
+		{
+			"language": "SR",
+			"title": "Ветар",
+			"subTitle": "Наставите да стојите",
+			"footer": "Остаћу док се ветар не промени!"
+		},
+		{
+			"language": "TH",
+			"title": "ลม",
+			"subTitle": "ยืนต่อไป",
+			"footer": "ฉันจะอยู่จนกว่าลมจะเปลี่ยน!"
+		},
+		{
+			"language": "UK",
+			"title": "Вітер",
+			"subTitle": "Продовжуйте стояти",
+			"footer": "Я залишуся, поки не зміниться вітер!"
+		},
+		{
+			"language": "ID",
+			"title": "Angin",
+			"subTitle": "Tetap Berdiri",
+			"footer": "Aku akan bertahan sampai angin berubah!"
+		},
+		{
+			"language": "LV",
+			"title": "Vējš",
+			"subTitle": "Turpiniet stāvēt",
+			"footer": "Es palikšu, kamēr vējš mainīsies!"
+		},
+		{
+			"language": "NL",
+			"title": "Wind",
+			"subTitle": "Blijf staan",
+			"footer": "Ik blijf tot de wind draait!"
+		},
+		{
+			"language": "PL",
+			"title": "Wiatr",
+			"subTitle": "Utrzymuj pozycję stojącą",
+			"footer": "Zostanę, aż wiatr się zmieni!"
+		},
+		{
+			"language": "PT",
+			"title": "Vento",
+			"subTitle": "Continue de pé",
+			"footer": "Eu ficarei até o vento mudar!"
+		},
+		{
+			"language": "RO",
+			"title": "Vânt",
+			"subTitle": "Continuă în picioare",
+			"footer": "Voi sta până se schimbă vântul!"
+		},
+		{
+			"language": "SV",
+			"title": "Vind",
+			"subTitle": "Fortsätt stå",
+			"footer": "Jag stannar tills vinden ändrar sig!"
+		},
+		{
+			"language": "TR",
+			"title": "Rüzgâr",
+			"subTitle": "Ayakta Kalmaya Devam Et",
+			"footer": "Rüzgar değişene kadar kalacağım!"
+		},
+		{
+			"language": "ZF",
+			"title": "風",
+			"subTitle": "保持站立",
+			"footer": "我會一直待到風向改變！"
+		},
+		{
+			"language": "ZH",
+			"title": "风",
+			"subTitle": "保持站立",
+			"footer": "我会一直呆到风向改变！"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Wind",
@@ -83,7 +324,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

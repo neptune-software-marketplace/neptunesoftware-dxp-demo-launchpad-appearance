@@ -2,7 +2,168 @@
 	"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
 	"createdAt": "2024-09-21T16:47:33.190Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "ضيق وقصير (2x2)"
+		},
+		{
+			"language": "BG",
+			"title": "Тесен и къс (2x2)"
+		},
+		{
+			"language": "CS",
+			"title": "Úzké a krátké (2x2)"
+		},
+		{
+			"language": "DA",
+			"title": "Smal og kort (2x2)"
+		},
+		{
+			"language": "DE",
+			"title": "Schmal und kurz (2x2)"
+		},
+		{
+			"language": "EL",
+			"title": "Στενό & Κοντό (2x2)"
+		},
+		{
+			"language": "EN",
+			"title": "Narrow & Short (2x2)"
+		},
+		{
+			"language": "ES",
+			"title": "Estrecho y corto (2x2)"
+		},
+		{
+			"language": "ET",
+			"title": "Kitsas ja lühike (2x2)"
+		},
+		{
+			"language": "FI",
+			"title": "Kapea ja lyhyt (2x2)"
+		},
+		{
+			"language": "FR",
+			"title": "Étroit et court (2x2)"
+		},
+		{
+			"language": "HE",
+			"title": "צר וקצר (2x2)"
+		},
+		{
+			"language": "IT",
+			"title": "Stretto e corto (2x2)"
+		},
+		{
+			"language": "JA",
+			"title": "狭くて短い (2x2)"
+		},
+		{
+			"language": "LT",
+			"title": "Siauras ir trumpas (2x2)"
+		},
+		{
+			"language": "LV",
+			"title": "Šaurs un īss (2x2)"
+		},
+		{
+			"language": "MS",
+			"title": "Sempit & Pendek (2x2)"
+		},
+		{
+			"language": "NL",
+			"title": "Smal & Kort (2x2)"
+		},
+		{
+			"language": "PL",
+			"title": "Wąskie i krótkie (2x2)"
+		},
+		{
+			"language": "PT",
+			"title": "Estreito e curto (2x2)"
+		},
+		{
+			"language": "RO",
+			"title": "Îngust și scurt (2x2)"
+		},
+		{
+			"language": "SE",
+			"title": "Smávva ja oanehis (2x2)"
+		},
+		{
+			"language": "SK",
+			"title": "Úzke a krátke (2x2)"
+		},
+		{
+			"language": "SL",
+			"title": "Ozka in kratka (2x2)"
+		},
+		{
+			"language": "SR",
+			"title": "Уско и кратко (2к2)"
+		},
+		{
+			"language": "TR",
+			"title": "Dar ve Kısa (2x2)"
+		},
+		{
+			"language": "HR",
+			"title": "Uzak i kratak (2x2)"
+		},
+		{
+			"language": "HU",
+			"title": "Keskeny és rövid (2x2)"
+		},
+		{
+			"language": "ID",
+			"title": "Sempit & Pendek (2x2)"
+		},
+		{
+			"language": "IS",
+			"title": "Mjó og stutt (2x2)"
+		},
+		{
+			"language": "KO",
+			"title": "좁고 짧은 (2x2)"
+		},
+		{
+			"language": "NN",
+			"title": "Smal og kort (2x2)"
+		},
+		{
+			"language": "NO",
+			"title": "Smal og kort (2x2)"
+		},
+		{
+			"language": "RU",
+			"title": "Узкий и короткий (2x2)"
+		},
+		{
+			"language": "SH",
+			"title": "Уско и кратко (2к2)"
+		},
+		{
+			"language": "SV",
+			"title": "Smal och kort (2x2)"
+		},
+		{
+			"language": "TH",
+			"title": "แคบและสั้น (2x2)"
+		},
+		{
+			"language": "UK",
+			"title": "Вузький і короткий (2x2)"
+		},
+		{
+			"language": "ZF",
+			"title": "窄且短 (2x2)"
+		},
+		{
+			"language": "ZH",
+			"title": "窄且短 (2x2)"
+		}
+	],
 	"tilesOrder": [
 		"757ca572-4401-4e4f-8e7a-56309357a526",
 		"a658d165-847d-41ec-8b18-3a9d020f8421",
@@ -93,8 +254,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

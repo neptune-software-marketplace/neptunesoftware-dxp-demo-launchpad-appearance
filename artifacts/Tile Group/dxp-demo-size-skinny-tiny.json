@@ -2,7 +2,168 @@
 	"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 	"createdAt": "2024-09-14T22:42:03.459Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "نحيف وصغير (1 × 1)"
+		},
+		{
+			"language": "BG",
+			"title": "Кльощав и малък (1x1)"
+		},
+		{
+			"language": "CS",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "DA",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "DE",
+			"title": "Dünn und Winzig (1x1)"
+		},
+		{
+			"language": "EL",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "EN",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "ES",
+			"title": "Flaca y diminuta (1x1)"
+		},
+		{
+			"language": "ET",
+			"title": "Kõhn ja pisike (1x1)"
+		},
+		{
+			"language": "FI",
+			"title": "Laiha ja pieni (1x1)"
+		},
+		{
+			"language": "FR",
+			"title": "Maigre et minuscule (1x1)"
+		},
+		{
+			"language": "HE",
+			"title": "סקיני וקטנטן (1x1)"
+		},
+		{
+			"language": "IT",
+			"title": "Magro e minuscolo (1x1)"
+		},
+		{
+			"language": "JA",
+			"title": "スキニー＆タイニー（1x1）"
+		},
+		{
+			"language": "LT",
+			"title": "Liesas ir mažas (1x1)"
+		},
+		{
+			"language": "LV",
+			"title": "Izdilis un mazs (1x1)"
+		},
+		{
+			"language": "NL",
+			"title": "Mager & Klein (1x1)"
+		},
+		{
+			"language": "PL",
+			"title": "Chudy i Malutki (1x1)"
+		},
+		{
+			"language": "PT",
+			"title": "Magro e Minúsculo (1x1)"
+		},
+		{
+			"language": "SE",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "SK",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "SR",
+			"title": "Мршави и сићушни (1к1)"
+		},
+		{
+			"language": "TR",
+			"title": "Zayıf ve Minik (1x1)"
+		},
+		{
+			"language": "HR",
+			"title": "Mršavi i maleni (1x1)"
+		},
+		{
+			"language": "HU",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "ID",
+			"title": "Kurus & Mungil (1x1)"
+		},
+		{
+			"language": "IS",
+			"title": "Mjór og pínulítill (1x1)"
+		},
+		{
+			"language": "KO",
+			"title": "스키니 & 타이니 (1x1)"
+		},
+		{
+			"language": "MS",
+			"title": "Kurus & Kecil (1x1)"
+		},
+		{
+			"language": "NN",
+			"title": "Mager og bittesmå (1x1)"
+		},
+		{
+			"language": "NO",
+			"title": "Mager og bittesmå (1x1)"
+		},
+		{
+			"language": "RO",
+			"title": "Slab și mic (1x1)"
+		},
+		{
+			"language": "RU",
+			"title": "Худой и крошечный (1x1)"
+		},
+		{
+			"language": "SH",
+			"title": "Мршави и сићушни (1к1)"
+		},
+		{
+			"language": "SL",
+			"title": "Suh in majhen (1x1)"
+		},
+		{
+			"language": "SV",
+			"title": "Skinny & Tiny (1x1)"
+		},
+		{
+			"language": "TH",
+			"title": "ผอม & เล็ก (1x1)"
+		},
+		{
+			"language": "UK",
+			"title": "Тонкий і крихітний (1x1)"
+		},
+		{
+			"language": "ZF",
+			"title": "瘦小 (1x1)"
+		},
+		{
+			"language": "ZH",
+			"title": "瘦小 (1x1)"
+		}
+	],
 	"tilesOrder": [
 		"757ca572-4401-4e4f-8e7a-56309357a526",
 		"a658d165-847d-41ec-8b18-3a9d020f8421",
@@ -93,8 +254,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

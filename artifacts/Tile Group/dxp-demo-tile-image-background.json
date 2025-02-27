@@ -5,13 +5,13 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "صورة البلاط الخلفية",
-			"subTitle": "جميع البلاطات مع الصور المضافة كخلفية"
+			"title": "خلفية الصورة البلاطية",
+			"subTitle": "جميع البلاطات التي تحتوي على صور مضافة كخلفية"
 		},
 		{
 			"language": "DE",
-			"title": "Kachelbild Hintergrund",
-			"subTitle": "Alle Kacheln mit Bildern als Hintergrund hinzugefügt"
+			"title": "Kachelbild-Hintergrund",
+			"subTitle": "Alle Kacheln mit Bildern als Hintergrund"
 		},
 		{
 			"language": "EN",
@@ -20,13 +20,13 @@
 		},
 		{
 			"language": "FR",
-			"title": "Image de tuile en arrière-plan",
+			"title": "Image d'arrière-plan en mosaïque",
 			"subTitle": "Toutes les tuiles avec des images ajoutées en arrière-plan"
 		},
 		{
 			"language": "NO",
-			"title": "Flisbilde Bakgrunn",
-			"subTitle": "Alle fliser med bilder lagt som bakgrunn"
+			"title": "Tile Bilde Bakgrunn",
+			"subTitle": "Alle fliser med bilder lagt til som bakgrunn"
 		},
 		{
 			"language": "ZH",
@@ -42,6 +42,181 @@
 			"language": "NN",
 			"title": "Flisbilde Bakgrunn",
 			"subTitle": "Alle fliser med bilder lagt som bakgrunn"
+		},
+		{
+			"language": "BG",
+			"title": "Фон на изображение на плочки",
+			"subTitle": "Всички плочки с изображения, добавени като фон"
+		},
+		{
+			"language": "CS",
+			"title": "Dlaždice Obrázek Pozadí",
+			"subTitle": "Všechny dlaždice s obrázky přidanými jako pozadí"
+		},
+		{
+			"language": "DA",
+			"title": "Tile Billede Baggrund",
+			"subTitle": "Alle fliser med billeder tilføjet som baggrund"
+		},
+		{
+			"language": "EL",
+			"title": "Φόντο εικόνας πλακιδίων",
+			"subTitle": "Όλα τα πλακίδια με εικόνες που προστέθηκαν ως φόντο"
+		},
+		{
+			"language": "EN",
+			"title": "Tile Image Background",
+			"subTitle": "All tiles with images added as a background"
+		},
+		{
+			"language": "ES",
+			"title": "Fondo de imagen de mosaico",
+			"subTitle": "Todos los mosaicos con imágenes agregadas como fondo"
+		},
+		{
+			"language": "ET",
+			"title": "Paanipildi taust",
+			"subTitle": "Kõik plaadid, mille taustaks on lisatud pildid"
+		},
+		{
+			"language": "FI",
+			"title": "Laattakuvan tausta",
+			"subTitle": "Kaikki laatat, joiden taustaksi on lisätty kuvia"
+		},
+		{
+			"language": "HE",
+			"title": "רקע תמונת אריחים",
+			"subTitle": "כל האריחים עם תמונות שנוספו כרקע"
+		},
+		{
+			"language": "HU",
+			"title": "Csempe kép háttér",
+			"subTitle": "Minden csempe háttérként hozzáadott képekkel"
+		},
+		{
+			"language": "ID",
+			"title": "Latar Belakang Gambar Ubin",
+			"subTitle": "Semua ubin dengan gambar ditambahkan sebagai latar belakang"
+		},
+		{
+			"language": "IS",
+			"title": "Bakgrunnur fyrir flísar",
+			"subTitle": "Allar flísar með myndum bætt við sem bakgrunn"
+		},
+		{
+			"language": "IT",
+			"title": "Immagine di sfondo piastrellata",
+			"subTitle": "Tutte le tessere con immagini aggiunte come sfondo"
+		},
+		{
+			"language": "JA",
+			"title": "タイル画像の背景",
+			"subTitle": "背景として画像が追加されたすべてのタイル"
+		},
+		{
+			"language": "KO",
+			"title": "타일 이미지 배경",
+			"subTitle": "배경으로 이미지가 추가된 모든 타일"
+		},
+		{
+			"language": "LT",
+			"title": "Plytelių vaizdo fonas",
+			"subTitle": "Visos plytelės su vaizdais, pridėtais kaip fonas"
+		},
+		{
+			"language": "LV",
+			"title": "Flīžu attēla fons",
+			"subTitle": "Visas flīzes ar attēliem, kas pievienoti kā fons"
+		},
+		{
+			"language": "MS",
+			"title": "Latar Belakang Imej Jubin",
+			"subTitle": "Semua jubin dengan imej ditambah sebagai latar belakang"
+		},
+		{
+			"language": "NL",
+			"title": "Tegel Afbeelding Achtergrond",
+			"subTitle": "Alle tegels met afbeeldingen toegevoegd als achtergrond"
+		},
+		{
+			"language": "PL",
+			"title": "Tło obrazu kafelkowego",
+			"subTitle": "Wszystkie kafelki z obrazami dodanymi jako tło"
+		},
+		{
+			"language": "RO",
+			"title": "Imagine de fundal cu gresie",
+			"subTitle": "Toate plăcile cu imagini adăugate ca fundal"
+		},
+		{
+			"language": "RU",
+			"title": "Фоновое изображение плитки",
+			"subTitle": "Все плитки с изображениями, добавленными в качестве фона"
+		},
+		{
+			"language": "SE",
+			"title": "Fliisagovva duogáš",
+			"subTitle": "Buot távvalat main leat govat mat leat lasihuvvon duogážin"
+		},
+		{
+			"language": "SR",
+			"title": "Позадина слике плочица",
+			"subTitle": "Све плочице са доданим сликама као позадина"
+		},
+		{
+			"language": "SV",
+			"title": "Kakel Bild Bakgrund",
+			"subTitle": "Alla brickor med bilder tillagda som bakgrund"
+		},
+		{
+			"language": "TR",
+			"title": "Karo Görüntü Arkaplanı",
+			"subTitle": "Resimli tüm fayanslar arka plan olarak eklendi"
+		},
+		{
+			"language": "ZH",
+			"title": "平铺图像背景",
+			"subTitle": "所有添加了图片作为背景的图块"
+		},
+		{
+			"language": "HR",
+			"title": "Pozadinska slika pločice",
+			"subTitle": "Sve pločice sa slikama dodane kao pozadina"
+		},
+		{
+			"language": "PT",
+			"title": "Fundo de imagem de mosaico",
+			"subTitle": "Todos os blocos com imagens adicionadas como plano de fundo"
+		},
+		{
+			"language": "SH",
+			"title": "Позадина слике плочица",
+			"subTitle": "Све плочице са доданим сликама као позадина"
+		},
+		{
+			"language": "SK",
+			"title": "Dlaždice na pozadí obrázku",
+			"subTitle": "Všetky dlaždice s obrázkami pridanými ako pozadie"
+		},
+		{
+			"language": "SL",
+			"title": "Ozadje slike ploščice",
+			"subTitle": "Vse ploščice s slikami, dodanimi kot ozadje"
+		},
+		{
+			"language": "TH",
+			"title": "พื้นหลังภาพกระเบื้อง",
+			"subTitle": "กระเบื้องทั้งหมดพร้อมรูปภาพเพิ่มเป็นพื้นหลัง"
+		},
+		{
+			"language": "UK",
+			"title": "Плитка зображення фону",
+			"subTitle": "Усі плитки із зображеннями, доданими як фон"
+		},
+		{
+			"language": "ZF",
+			"title": "平鋪影像背景",
+			"subTitle": "所有添加了圖片作為背景的圖塊"
 		}
 	],
 	"tilesOrder": [
@@ -140,7 +315,7 @@
 	"lightTileLayouts": [
 		{
 			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
-			"ver": "24.11.19.2321"
+			"ver": "25.02.27.2013"
 		}
 	],
 	"darkTileLayouts": [],

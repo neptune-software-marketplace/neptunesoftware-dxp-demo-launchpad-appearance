@@ -2,7 +2,168 @@
 	"id": "2ecc027b-8814-4141-ad35-9cfe597aed4a",
 	"createdAt": "2024-09-25T07:42:34.228Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الجذور العميقة لا تشك أبدًا في أن الربيع سيأتي"
+		},
+		{
+			"language": "BG",
+			"title": "Дълбоките корени никога не се съмняват, че пролетта ще дойде"
+		},
+		{
+			"language": "CS",
+			"title": "Hluboké kořeny nikdy nepochybují o příchodu jara"
+		},
+		{
+			"language": "DA",
+			"title": "De dybe rødder tvivler aldrig på, at foråret kommer"
+		},
+		{
+			"language": "DE",
+			"title": "Die tiefen Wurzeln zweifeln nie daran, dass der Frühling kommt"
+		},
+		{
+			"language": "EL",
+			"title": "Οι βαθιές ρίζες δεν αμφιβάλλουν ποτέ ότι θα έρθει η άνοιξη"
+		},
+		{
+			"language": "EN",
+			"title": "The deep roots never doubt spring will come"
+		},
+		{
+			"language": "ES",
+			"title": "Las raíces profundas nunca dudan de que llegará la primavera."
+		},
+		{
+			"language": "ET",
+			"title": "Sügavad juured ei kahtle kunagi, et kevad tuleb"
+		},
+		{
+			"language": "FI",
+			"title": "Syvät juuret eivät epäile kevään tulevaa"
+		},
+		{
+			"language": "FR",
+			"title": "Les racines profondes ne doutent jamais que le printemps viendra"
+		},
+		{
+			"language": "HE",
+			"title": "השורשים העמוקים אינם מפקפקים בבוא האביב"
+		},
+		{
+			"language": "HR",
+			"title": "Duboki korijeni nikada ne sumnjaju da će proljeće doći"
+		},
+		{
+			"language": "HU",
+			"title": "A mély gyökerek soha nem kételkednek abban, hogy eljön a tavasz"
+		},
+		{
+			"language": "IS",
+			"title": "Djúpu ræturnar efast aldrei um að vorið komi"
+		},
+		{
+			"language": "IT",
+			"title": "Le radici profonde non dubitano mai che la primavera arriverà"
+		},
+		{
+			"language": "JA",
+			"title": "深い根は春が来ることを決して疑わない"
+		},
+		{
+			"language": "KO",
+			"title": "깊은 뿌리는 봄이 올 것을 결코 의심하지 않는다"
+		},
+		{
+			"language": "LT",
+			"title": "Gilios šaknys neabejoja, kad pavasaris ateis"
+		},
+		{
+			"language": "NN",
+			"title": "De dype røttene tviler aldri på at våren kommer"
+		},
+		{
+			"language": "NO",
+			"title": "De dype røttene tviler aldri på at våren kommer"
+		},
+		{
+			"language": "PT",
+			"title": "As raízes profundas nunca duvidam que a primavera chegará"
+		},
+		{
+			"language": "RU",
+			"title": "Глубокие корни никогда не сомневаются в приходе весны."
+		},
+		{
+			"language": "SH",
+			"title": "Дубоки корени никада не сумњају да ће пролеће доћи"
+		},
+		{
+			"language": "SK",
+			"title": "Hlboké korene nikdy nepochybujú o tom, že príde jar"
+		},
+		{
+			"language": "SL",
+			"title": "Globoke korenine nikoli ne dvomijo, da bo prišla pomlad"
+		},
+		{
+			"language": "ID",
+			"title": "Akar yang dalam tidak pernah meragukan musim semi akan datang"
+		},
+		{
+			"language": "LV",
+			"title": "Dziļās saknes nekad nešaubās, ka pienāks pavasaris"
+		},
+		{
+			"language": "MS",
+			"title": "Akar yang dalam tidak pernah meragui musim bunga akan datang"
+		},
+		{
+			"language": "NL",
+			"title": "De diepe wortels twijfelen er niet aan dat de lente zal komen"
+		},
+		{
+			"language": "PL",
+			"title": "Głębokie korzenie nigdy nie wątpią, że wiosna nadejdzie"
+		},
+		{
+			"language": "RO",
+			"title": "Rădăcinile adânci nu se îndoiesc niciodată că va veni primăvara"
+		},
+		{
+			"language": "SE",
+			"title": "Dievva ruotnasat eai goassege eahpit ahte giđđa boahtá"
+		},
+		{
+			"language": "SR",
+			"title": "Дубоки корени никада не сумњају да ће пролеће доћи"
+		},
+		{
+			"language": "SV",
+			"title": "De djupa rötterna tvivlar aldrig på att våren kommer"
+		},
+		{
+			"language": "TH",
+			"title": "รากที่ลึกไม่เคยสงสัยว่าฤดูใบไม้ผลิจะมาถึง"
+		},
+		{
+			"language": "TR",
+			"title": "Derin kökler baharın geleceğinden asla şüphe etmez"
+		},
+		{
+			"language": "UK",
+			"title": "Глибоке коріння ніколи не сумнівається, що весна прийде"
+		},
+		{
+			"language": "ZF",
+			"title": "深根不懷疑春天的到來"
+		},
+		{
+			"language": "ZH",
+			"title": "深根不怀疑春天的到来"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "The deep roots never doubt spring will come",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

@@ -2,7 +2,208 @@
 	"id": "ee78cb9e-9a54-4929-b73e-555e6a4b1c55",
 	"createdAt": "2024-10-08T10:28:20.038Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "فلتر عكس الصورة",
+			"subTitle": "لقد تم عكس الصورة بنسبة 100%"
+		},
+		{
+			"language": "BG",
+			"title": "Обръщане на филтърно изображение",
+			"subTitle": "Изображението е обърнато на 100%"
+		},
+		{
+			"language": "CS",
+			"title": "Filtr Invertovat obrázek",
+			"subTitle": "Obrázek byl převrácen o 100 %"
+		},
+		{
+			"language": "DA",
+			"title": "Inverter filterbillede",
+			"subTitle": "Billedet er blevet omvendt 100%"
+		},
+		{
+			"language": "DE",
+			"title": "Filterbild umkehren",
+			"subTitle": "Das Bild wurde 100% invertiert"
+		},
+		{
+			"language": "EL",
+			"title": "Αναστροφή εικόνας φίλτρου",
+			"subTitle": "Η εικόνα έχει αντιστραφεί 100%"
+		},
+		{
+			"language": "EN",
+			"title": "Filter Image Invert",
+			"subTitle": "The image has been inverted 100%"
+		},
+		{
+			"language": "ES",
+			"title": "Filtro Invertir imagen",
+			"subTitle": "La imagen ha sido invertida al 100%."
+		},
+		{
+			"language": "ET",
+			"title": "Filter Pilt Invert",
+			"subTitle": "Pilt on 100% ümberpööratud"
+		},
+		{
+			"language": "FI",
+			"title": "Suodata kuva Invert",
+			"subTitle": "Kuva on käännetty 100 %"
+		},
+		{
+			"language": "FR",
+			"title": "Filtrer l'image Inverser",
+			"subTitle": "L'image a été inversée à 100%"
+		},
+		{
+			"language": "HE",
+			"title": "סינון תמונה היפוך",
+			"subTitle": "התמונה התהפכה 100%"
+		},
+		{
+			"language": "HR",
+			"title": "Obrnuti sliku filtra",
+			"subTitle": "Slika je obrnuta 100%"
+		},
+		{
+			"language": "ID",
+			"title": "Filter Gambar Inversi",
+			"subTitle": "Gambarnya sudah dibalik 100%"
+		},
+		{
+			"language": "IT",
+			"title": "Filtro Immagine Inverti",
+			"subTitle": "L'immagine è stata invertita al 100%"
+		},
+		{
+			"language": "JA",
+			"title": "フィルター画像反転",
+			"subTitle": "画像は100%反転されています"
+		},
+		{
+			"language": "NN",
+			"title": "Inverter filterbilde",
+			"subTitle": "Bildet er snudd 100 %"
+		},
+		{
+			"language": "NO",
+			"title": "Inverter filterbilde",
+			"subTitle": "Bildet er snudd 100 %"
+		},
+		{
+			"language": "PT",
+			"title": "Filtrar Imagem Inverter",
+			"subTitle": "A imagem foi invertida 100%"
+		},
+		{
+			"language": "RU",
+			"title": "Фильтр Инвертировать Изображение",
+			"subTitle": "Изображение было инвертировано на 100%"
+		},
+		{
+			"language": "SE",
+			"title": "Filter gova nuppástuhttit",
+			"subTitle": "Govva lea jorgaluvvon 100%"
+		},
+		{
+			"language": "SV",
+			"title": "Filterbild invertera",
+			"subTitle": "Bilden har inverterats till 100 %"
+		},
+		{
+			"language": "TR",
+			"title": "Filtre Görüntü Ters Çevirme",
+			"subTitle": "Görüntü %100 ters çevrildi"
+		},
+		{
+			"language": "UK",
+			"title": "Інвертувати зображення фільтра",
+			"subTitle": "Зображення інвертовано на 100%"
+		},
+		{
+			"language": "ZH",
+			"title": "过滤图像反转",
+			"subTitle": "图像已反转 100%"
+		},
+		{
+			"language": "HU",
+			"title": "Képszűrés Invert",
+			"subTitle": "A kép 100%-ban meg van fordítva"
+		},
+		{
+			"language": "IS",
+			"title": "Sía Image Invert",
+			"subTitle": "Myndinni hefur verið snúið við 100%"
+		},
+		{
+			"language": "KO",
+			"title": "필터 이미지 반전",
+			"subTitle": "이미지가 100% 반전되었습니다."
+		},
+		{
+			"language": "LT",
+			"title": "Filtruoti vaizdą Invertuoti",
+			"subTitle": "Vaizdas buvo apverstas 100%"
+		},
+		{
+			"language": "LV",
+			"title": "Filtrēt attēlu Invertēt",
+			"subTitle": "Attēls ir apgriezts 100%"
+		},
+		{
+			"language": "MS",
+			"title": "Penapis Imej Songsang",
+			"subTitle": "Imej telah diterbalikkan 100%"
+		},
+		{
+			"language": "NL",
+			"title": "Filter Afbeelding Omkeren",
+			"subTitle": "De afbeelding is 100% omgekeerd"
+		},
+		{
+			"language": "PL",
+			"title": "Filtruj obraz Odwróć",
+			"subTitle": "Obraz został odwrócony w 100%"
+		},
+		{
+			"language": "RO",
+			"title": "Filtru inversare imagine",
+			"subTitle": "Imaginea a fost inversată 100%"
+		},
+		{
+			"language": "SH",
+			"title": "Филтер Имаге Инверт",
+			"subTitle": "Слика је обрнута 100%"
+		},
+		{
+			"language": "SK",
+			"title": "Filter Invertovať obrázok",
+			"subTitle": "Obrázok bol prevrátený o 100 %"
+		},
+		{
+			"language": "SL",
+			"title": "Obrni sliko filtra",
+			"subTitle": "Slika je bila obrnjena 100 %"
+		},
+		{
+			"language": "SR",
+			"title": "Филтер Имаге Инверт",
+			"subTitle": "Слика је обрнута 100%"
+		},
+		{
+			"language": "TH",
+			"title": "ตัวกรองภาพกลับด้าน",
+			"subTitle": "ภาพถูกกลับด้าน 100%"
+		},
+		{
+			"language": "ZF",
+			"title": "過濾影像反轉",
+			"subTitle": "影像已反轉 100%"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Filter Image Invert",
@@ -83,7 +284,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

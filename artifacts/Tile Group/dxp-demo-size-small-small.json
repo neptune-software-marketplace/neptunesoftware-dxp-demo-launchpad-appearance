@@ -2,7 +2,168 @@
 	"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
 	"createdAt": "2024-09-21T22:40:18.965Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "صغير صغير (4×4)"
+		},
+		{
+			"language": "BG",
+			"title": "Малък малък (4x4)"
+		},
+		{
+			"language": "CS",
+			"title": "Malý Malý (4x4)"
+		},
+		{
+			"language": "DA",
+			"title": "Lille Lille (4x4)"
+		},
+		{
+			"language": "DE",
+			"title": "Klein Klein (4x4)"
+		},
+		{
+			"language": "EL",
+			"title": "Μικρό Μικρό (4x4)"
+		},
+		{
+			"language": "EN",
+			"title": "Small Small (4x4)"
+		},
+		{
+			"language": "ES",
+			"title": "Pequeño Pequeño (4x4)"
+		},
+		{
+			"language": "ET",
+			"title": "Väike väike (4x4)"
+		},
+		{
+			"language": "FI",
+			"title": "Pieni Pieni (4x4)"
+		},
+		{
+			"language": "FR",
+			"title": "Petit Petit (4x4)"
+		},
+		{
+			"language": "HE",
+			"title": "קטן קטן (4x4)"
+		},
+		{
+			"language": "IT",
+			"title": "Piccolo Piccolo (4x4)"
+		},
+		{
+			"language": "JA",
+			"title": "スモール スモール (4x4)"
+		},
+		{
+			"language": "LT",
+			"title": "Mažas mažas (4x4)"
+		},
+		{
+			"language": "LV",
+			"title": "Mazs Mazs (4x4)"
+		},
+		{
+			"language": "MS",
+			"title": "Kecil Kecil (4x4)"
+		},
+		{
+			"language": "NL",
+			"title": "Klein Klein (4x4)"
+		},
+		{
+			"language": "PL",
+			"title": "Mały Mały (4x4)"
+		},
+		{
+			"language": "PT",
+			"title": "Pequeno Pequeno (4x4)"
+		},
+		{
+			"language": "SE",
+			"title": "Smávva Smávva (4x4)"
+		},
+		{
+			"language": "SK",
+			"title": "Malý Malý (4x4)"
+		},
+		{
+			"language": "SL",
+			"title": "Majhna Majhna (4x4)"
+		},
+		{
+			"language": "SR",
+			"title": "Мала мала (4к4)"
+		},
+		{
+			"language": "TR",
+			"title": "Küçük Küçük (4x4)"
+		},
+		{
+			"language": "UK",
+			"title": "Маленький Маленький (4x4)"
+		},
+		{
+			"language": "HR",
+			"title": "Mali Mali (4x4)"
+		},
+		{
+			"language": "HU",
+			"title": "Kicsi Kicsi (4x4)"
+		},
+		{
+			"language": "ID",
+			"title": "Kecil Kecil (4x4)"
+		},
+		{
+			"language": "IS",
+			"title": "Lítil Lítil (4x4)"
+		},
+		{
+			"language": "KO",
+			"title": "소형 소형 (4x4)"
+		},
+		{
+			"language": "NN",
+			"title": "Liten Liten (4x4)"
+		},
+		{
+			"language": "NO",
+			"title": "Liten Liten (4x4)"
+		},
+		{
+			"language": "RO",
+			"title": "Mic Mic (4x4)"
+		},
+		{
+			"language": "RU",
+			"title": "Маленький Маленький (4x4)"
+		},
+		{
+			"language": "SH",
+			"title": "Мала мала (4к4)"
+		},
+		{
+			"language": "SV",
+			"title": "Liten Liten (4x4)"
+		},
+		{
+			"language": "TH",
+			"title": "เล็กเล็ก (4x4)"
+		},
+		{
+			"language": "ZF",
+			"title": "小 小 (4x4)"
+		},
+		{
+			"language": "ZH",
+			"title": "小 小 (4x4)"
+		}
+	],
 	"tilesOrder": [
 		"757ca572-4401-4e4f-8e7a-56309357a526",
 		"a658d165-847d-41ec-8b18-3a9d020f8421",
@@ -91,8 +252,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

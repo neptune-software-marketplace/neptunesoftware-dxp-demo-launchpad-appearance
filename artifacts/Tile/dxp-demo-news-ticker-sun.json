@@ -2,7 +2,168 @@
 	"id": "57acc247-1be2-4ec4-a668-c20138e63427",
 	"createdAt": "2024-09-24T13:01:30.038Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"title": "الشمس مشرقة مرة أخرى"
+		},
+		{
+			"language": "BG",
+			"title": "Слънцето отново изгрява"
+		},
+		{
+			"language": "CS",
+			"title": "Slunce opět vychází"
+		},
+		{
+			"language": "DA",
+			"title": "Solen er op igen"
+		},
+		{
+			"language": "DE",
+			"title": "Die Sonne ist wieder aufgegangen"
+		},
+		{
+			"language": "EL",
+			"title": "Ο ήλιος ξανανέβει"
+		},
+		{
+			"language": "EN",
+			"title": "Sun is up again"
+		},
+		{
+			"language": "ES",
+			"title": "El sol ha vuelto a salir"
+		},
+		{
+			"language": "ET",
+			"title": "Päike on jälle tõusnud"
+		},
+		{
+			"language": "FI",
+			"title": "Aurinko on taas noussut"
+		},
+		{
+			"language": "FR",
+			"title": "Le soleil est à nouveau levé"
+		},
+		{
+			"language": "HE",
+			"title": "השמש שוב זורחת"
+		},
+		{
+			"language": "HR",
+			"title": "Sunce je opet izašlo"
+		},
+		{
+			"language": "ID",
+			"title": "Matahari sudah terbit lagi"
+		},
+		{
+			"language": "IS",
+			"title": "Sólin er komin upp aftur"
+		},
+		{
+			"language": "IT",
+			"title": "Il sole è di nuovo sorto"
+		},
+		{
+			"language": "JA",
+			"title": "太陽はまた昇った"
+		},
+		{
+			"language": "KO",
+			"title": "태양이 다시 떴다"
+		},
+		{
+			"language": "NL",
+			"title": "De zon schijnt weer"
+		},
+		{
+			"language": "NN",
+			"title": "Sola er oppe igjen"
+		},
+		{
+			"language": "NO",
+			"title": "Sola er oppe igjen"
+		},
+		{
+			"language": "RO",
+			"title": "Soarele a răsărit din nou"
+		},
+		{
+			"language": "SE",
+			"title": "Beaivváš lea fas bajás"
+		},
+		{
+			"language": "SH",
+			"title": "Сунце је поново изашло"
+		},
+		{
+			"language": "SK",
+			"title": "Slnko opäť vyšlo"
+		},
+		{
+			"language": "SL",
+			"title": "Sonce spet vzhaja"
+		},
+		{
+			"language": "SR",
+			"title": "Сунце је поново изашло"
+		},
+		{
+			"language": "SV",
+			"title": "Solen är uppe igen"
+		},
+		{
+			"language": "TR",
+			"title": "Güneş tekrar doğdu"
+		},
+		{
+			"language": "ZF",
+			"title": "太陽又升起來了"
+		},
+		{
+			"language": "HU",
+			"title": "Ismét felkelt a nap"
+		},
+		{
+			"language": "LT",
+			"title": "Saulė vėl pakilo"
+		},
+		{
+			"language": "LV",
+			"title": "Saule atkal ir uzlēkusi"
+		},
+		{
+			"language": "MS",
+			"title": "Matahari terbit semula"
+		},
+		{
+			"language": "PL",
+			"title": "Słońce znów wzeszło"
+		},
+		{
+			"language": "PT",
+			"title": "O sol nasceu novamente"
+		},
+		{
+			"language": "RU",
+			"title": "Солнце снова взошло"
+		},
+		{
+			"language": "TH",
+			"title": "ดวงอาทิตย์ขึ้นอีกแล้ว"
+		},
+		{
+			"language": "UK",
+			"title": "Знову сонце"
+		},
+		{
+			"language": "ZH",
+			"title": "太阳又升起来了"
+		}
+	],
 	"storeItem": {},
 	"settings": null,
 	"title": "Sun is up again",
@@ -83,7 +244,7 @@
 	"cockpitTile": false,
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
-	"noInheritTileLayout": null,
+	"noInheritTileLayout": false,
 	"imageType": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
