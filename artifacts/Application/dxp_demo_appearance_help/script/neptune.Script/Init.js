@@ -7,9 +7,11 @@ formattedTextHelp.setHtmlText(`
         <a href="/cockpit.html#run-launchpad&%7B%22id%22%3A%2271fa3d4e-280c-4752-9186-b18e13720e25%22%2C%22name%22%3A%22dxp-demo-appearance%22%7D">Open the demo launchpad configuration in the cockpit</a>
     </p>
     <p class="sapMText">
-        When the help is enabled, you'll find a text area with help information below each section, explaining the layout settings that have been applied to achieve the appearance in that section. A click on the action button in the top left corner of each helper, will open the section in the cockpit tile group cockpit tool. 
+        When the help is enabled, you'll find a text area with help information below each section, explaining the layout settings that have been applied to achieve the appearance in that section.
+        A click on the action button in the top left corner of each helper, will open the section in the cockpit tile group cockpit tool. 
     </p>
     <p class="sapMText">
-        Using the "Before Display" enhancement spot, the launchpad has been enhanced with the "Change Appearance" and "Enable Help" buttons as you'll see in the launchpad header. Check out the enhancement for inspiration.
+        The "Before Display" launchpad enhancement spot has been used to enhanced the launchpad with the "Change Appearance" and "Enable Help" buttons. You'll see them in right side of the launchpad header.
+        Check out the launchpad enhancement for inspiration.
     </p>
 `);

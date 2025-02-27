@@ -8,6 +8,7 @@
 			"fieldName": "appHelp",
 			"fieldParent": 0,
 			"fieldType": "sap.m.App",
+			"description": "20250227-1546",
 			"script": "",
 			"customComponent": false,
 			"request": [],
@@ -107,7 +108,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "24.11.21.2321",
+	"ver": "25.02.27.1546",
 	"application": "dxp_demo_appearance_help",
 	"title": "",
 	"description": "",

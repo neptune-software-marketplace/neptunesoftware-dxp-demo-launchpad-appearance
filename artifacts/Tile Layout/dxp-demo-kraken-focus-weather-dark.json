@@ -3,7 +3,7 @@
 	"createdAt": "2025-01-05T18:41:58.981Z",
 	"createdBy": "morten@neptune-software.com",
 	"NAME": "dxp-demo-kraken-focus-weather-dark",
-	"ver": "25.02.26.1148",
+	"ver": "25.02.27.1550",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
@@ -62,7 +62,7 @@
 	"LAYOUT_HIERARCHY": [
 		{
 			"id": "ed65c01e-7817-45de-a141-fa55c577a035",
-			"ver": "25.02.26.1149"
+			"ver": "25.02.27.1550"
 		}
 	]
 }

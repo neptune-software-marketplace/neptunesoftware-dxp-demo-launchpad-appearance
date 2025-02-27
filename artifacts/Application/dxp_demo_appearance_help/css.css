@@ -1,11 +1,14 @@
 .nepDxpDemoHelpPanel.sapMPanel {
     margin: 1rem;
-    background-color: var(--sapTile_Background);
-    border: 1px solid var(--sapTile_BorderColor);
+    background-color: var(--sapList_Background);
+    border: 1px solid var(--sapList_BorderColor);
+}
+.nepDxpDemoHelpPanel.sapMPanelBGSolid {
+    background-color: var(--sapList_Background);
 }
 .nepDxpDemoHelpPanel .sapMTitle {
-    color: var(--sapTile_TitleTextColor);
+    color: var(--sapList_GroupHeaderTextColor);
 }
 .nepDxpDemoHelpPanel .sapMText {
-    color: var(--sapTile_TextColor);
+    color: var(--sapList_TextColor);
 }
