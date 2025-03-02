@@ -2,7 +2,168 @@
 	"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
 	"createdAt": "2024-09-22T18:11:17.357Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "HR",
+			"menuText": "SLIKA PLOČICA"
+		},
+		{
+			"language": "BG",
+			"menuText": "ИЗОБРАЖЕНИЕ НА ПЛОЧКА"
+		},
+		{
+			"language": "AR",
+			"menuText": "صورة البلاط"
+		},
+		{
+			"language": "HU",
+			"menuText": "CSEMKEKÉP"
+		},
+		{
+			"language": "ID",
+			"menuText": "GAMBAR UBIN"
+		},
+		{
+			"language": "IT",
+			"menuText": "IMMAGINE TILE"
+		},
+		{
+			"language": "IS",
+			"menuText": "FLÍSAMYND"
+		},
+		{
+			"language": "JA",
+			"menuText": "タイル画像"
+		},
+		{
+			"language": "CS",
+			"menuText": "DLAŽDIČKOVÝ OBRÁZEK"
+		},
+		{
+			"language": "EN",
+			"menuText": "TILE IMAGE"
+		},
+		{
+			"language": "LT",
+			"menuText": "PLYTELĖS VAIZDAS"
+		},
+		{
+			"language": "LV",
+			"menuText": "Flīžu ATTĒLS"
+		},
+		{
+			"language": "KO",
+			"menuText": "타일 이미지"
+		},
+		{
+			"language": "DE",
+			"menuText": "KACHELBILD"
+		},
+		{
+			"language": "MS",
+			"menuText": "GAMBAR JUBIN"
+		},
+		{
+			"language": "NN",
+			"menuText": "FLISBILDE"
+		},
+		{
+			"language": "NL",
+			"menuText": "TEGEL AFBEELDING"
+		},
+		{
+			"language": "DA",
+			"menuText": "TILE BILLEDER"
+		},
+		{
+			"language": "EL",
+			"menuText": "ΕΙΚΟΝΑ ΚΕΡΑΜΙΔΙΟΥ"
+		},
+		{
+			"language": "NO",
+			"menuText": "TILE BILDE"
+		},
+		{
+			"language": "PT",
+			"menuText": "IMAGEM DE AZULEJO"
+		},
+		{
+			"language": "ES",
+			"menuText": "IMAGEN DE AZULEJO"
+		},
+		{
+			"language": "RO",
+			"menuText": "IMAGINE TILE"
+		},
+		{
+			"language": "ET",
+			"menuText": "PLAATIDE PILT"
+		},
+		{
+			"language": "RU",
+			"menuText": "ИЗОБРАЖЕНИЕ ПЛИТКИ"
+		},
+		{
+			"language": "SE",
+			"menuText": "TILE IMAGE"
+		},
+		{
+			"language": "SH",
+			"menuText": "ТИЛЕ ИМАГЕ"
+		},
+		{
+			"language": "SK",
+			"menuText": "DLAŽDIČKOVÝ OBRÁZOK"
+		},
+		{
+			"language": "PL",
+			"menuText": "OBRAZ KAFELKA"
+		},
+		{
+			"language": "FI",
+			"menuText": "LAATTAKUVA"
+		},
+		{
+			"language": "SL",
+			"menuText": "SLIKA PLOŠČICE"
+		},
+		{
+			"language": "SR",
+			"menuText": "ТИЛЕ ИМАГЕ"
+		},
+		{
+			"language": "FR",
+			"menuText": "IMAGE DE TUILE"
+		},
+		{
+			"language": "SV",
+			"menuText": "PLATTA BILD"
+		},
+		{
+			"language": "TH",
+			"menuText": "ภาพกระเบื้อง"
+		},
+		{
+			"language": "TR",
+			"menuText": "KİREMİT GÖRÜNTÜ"
+		},
+		{
+			"language": "HE",
+			"menuText": "תמונת אריח"
+		},
+		{
+			"language": "UK",
+			"menuText": "ЗОБРАЖЕННЯ ПЛИТКИ"
+		},
+		{
+			"language": "ZH",
+			"menuText": "平铺图像"
+		},
+		{
+			"language": "ZF",
+			"menuText": "平鋪影像"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"060018d3-7efe-4682-8ce4-30f4da0e7093",
@@ -12,8 +173,8 @@
 		"b1e6222a-7c59-4e61-b91f-20960d2981c9"
 	],
 	"configMessage": {},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE",
@@ -88,8 +249,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

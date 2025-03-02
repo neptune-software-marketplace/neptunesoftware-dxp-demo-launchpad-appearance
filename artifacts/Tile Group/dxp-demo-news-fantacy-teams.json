@@ -5,163 +5,359 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "فرق فانتازيا الطقس"
+			"title": "فرق فانتازيا الطقس",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"قسم مجموعة بلاطات قياسي بدون تخطيط لمجموعة بلاطات. 8 بلاطات بتخطيط بلاطات بحجم 2x2. تحتوي مجموعة البلاطات على تخطيط بلاطات بحجم 4x4 يحل محل تخطيط البلاطات بحجم 2x2 على البلاطات."
+			]
 		},
 		{
 			"language": "BG",
-			"title": "Weather Fantasy Teams"
+			"title": "Weather Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Стандартна секция за групи плочки без групово оформление. 8 плочки с оформление на плочки с размер 2x2. Групата плочки има оформление на плочки 4x4, което презаписва оформлението на плочки 2x2, зададено върху плочките."
+			]
 		},
 		{
 			"language": "CS",
-			"title": "Počasí Fantasy Teams"
+			"title": "Počasí Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-týmy</code><br>",
+				"Standardní sekce skupiny dlaždic bez rozvržení skupiny dlaždic. 8 dlaždic s rozložením dlaždic o velikosti 2x2. Skupina dlaždic má rozložení dlaždic 4x4, které přepisuje sadu rozložení dlaždic 2x2 na dlaždicích."
+			]
 		},
 		{
 			"language": "DA",
-			"title": "Vejr Fantasy Teams"
+			"title": "Vejr Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standard flisegruppesektion uden flisegruppelayout. 8 fliser med 2x2 størrelse fliselayout. Flisegruppen har et 4x4 fliselayout, der overskriver 2x2 fliselayoutet på fliserne."
+			]
 		},
 		{
 			"language": "DE",
-			"title": "Wetter Fantasy Teams"
+			"title": "Wetter Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standardkachelgruppenabschnitt ohne Kachelgruppenlayout. 8 Kacheln mit einem Kachellayout der Größe 2x2. Die Kachelgruppe hat ein 4x4-Kachellayout, das das auf den Kacheln festgelegte 2x2-Kachellayout überschreibt."
+			]
 		},
 		{
 			"language": "EL",
-			"title": "Ομάδες Φαντασίας Καιρού"
+			"title": "Ομάδες Φαντασίας Καιρού",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Τυπικό τμήμα ομάδας πλακιδίων χωρίς διάταξη ομάδας πλακιδίων. 8 πλακάκια με διάταξη πλακιδίων διαστάσεων 2x2. Η ομάδα πλακιδίων έχει μια διάταξη πλακιδίων 4x4 αντικαθιστώντας τη διάταξη πλακιδίων 2x2 που έχει οριστεί στα πλακίδια."
+			]
 		},
 		{
 			"language": "EN",
-			"title": "Weather Fantasy Teams"
+			"title": "Weather Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. The tile group has a 4x4 tile layout overwriting the 2x2 tile layout set on the tiles."
+			]
 		},
 		{
 			"language": "ES",
-			"title": "Equipos de fantasía del clima"
+			"title": "Equipos de fantasía del clima",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Sección de grupo de mosaicos estándar sin diseño de grupo de mosaicos. 8 mosaicos con un diseño de mosaicos de tamaño 2x2. El grupo de mosaicos tiene un diseño de mosaicos de 4x4 que sobrescribe el diseño de mosaicos de 2x2 establecido en los mosaicos."
+			]
 		},
 		{
 			"language": "ET",
-			"title": "Ilma fantaasia meeskonnad"
+			"title": "Ilma fantaasia meeskonnad",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantancy-teams</code><br>",
+				"Standardne paanide rühma sektsioon ilma paanide rühma paigutuseta. 8 plaati 2x2 suuruse plaatide paigutusega. Paanide rühmal on 4x4 plaatide paigutus, mis kirjutab üle plaatidele seatud 2x2 plaatide paigutuse."
+			]
 		},
 		{
 			"language": "FI",
-			"title": "Sää Fantasia joukkueet"
+			"title": "Sää Fantasia joukkueet",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantancy-teams</code><br>",
+				"Tavallinen laattaryhmäosa ilman laattaryhmäasettelua. 8 laattaa 2x2-koon laatta-asettelulla. Laattoryhmässä on 4x4-laatta-asettelu, joka korvaa laatoille asetetun 2x2-laatta-asettelun."
+			]
 		},
 		{
 			"language": "FR",
-			"title": "Équipes de fantasy météo"
+			"title": "Équipes de fantasy météo",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Section de groupe de tuiles standard sans disposition de groupe de tuiles. 8 tuiles avec une disposition de tuiles de taille 2x2. Le groupe de tuiles a une disposition de tuiles 4x4 écrasant la disposition de tuiles 2x2 définie sur les tuiles."
+			]
 		},
 		{
 			"language": "HE",
-			"title": "צוותי מזג אוויר"
+			"title": "צוותי מזג אוויר",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"מקטע קבוצת אריחים סטנדרטי ללא פריסת קבוצת אריחים. 8 אריחים עם פריסת אריחים בגודל 2x2. לקבוצת האריחים יש פריסת אריחים בגודל 4x4 המחליפה את פריסת האריחים בגודל 2x2 שהוגדרה על האריחים."
+			]
 		},
 		{
 			"language": "IT",
-			"title": "Squadre Fantasy Meteo"
+			"title": "Squadre Fantasy Meteo",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Sezione standard del gruppo tile senza layout del gruppo tile. 8 tile con un layout tile di dimensioni 2x2. Il gruppo tile ha un layout tile 4x4 che sovrascrive il layout tile 2x2 impostato sui tile."
+			]
 		},
 		{
 			"language": "JA",
-			"title": "天気ファンタジーチーム"
+			"title": "天気ファンタジーチーム",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"タイル グループ レイアウトのない標準のタイル グループ セクション。2x2 サイズのタイル レイアウトを持つ 8 つのタイル。タイル グループには、タイルに設定されている 2x2 タイル レイアウトを上書きする 4x4 タイル レイアウトがあります。"
+			]
 		},
 		{
 			"language": "LT",
-			"title": "Orų fantazijos komandos"
+			"title": "Orų fantazijos komandos",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantancy-teams</code><br>",
+				"Standartinė plytelių grupės dalis be plytelių grupės išdėstymo. 8 plytelės su 2x2 dydžio plytelių išdėstymu. Plytelių grupėje yra 4x4 plytelių išdėstymas, perrašantis 2x2 plytelių išdėstymą ant plytelių."
+			]
 		},
 		{
 			"language": "NL",
-			"title": "Weer Fantasy Teams"
+			"title": "Weer Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standaard tegelgroepsectie zonder tegelgroeplay-out. 8 tegels met een tegellay-out van 2x2. De tegelgroep heeft een tegellay-out van 4x4 die de 2x2 tegellay-out op de tegels overschrijft."
+			]
 		},
 		{
 			"language": "PL",
-			"title": "Zespoły fantasy pogodowe"
+			"title": "Zespoły fantasy pogodowe",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standardowa sekcja grupy kafelków bez układu grupy kafelków. 8 kafelków z układem kafelków o rozmiarze 2x2. Grupa kafelków ma układ kafelków 4x4 nadpisujący układ kafelków 2x2 ustawiony na kafelkach."
+			]
 		},
 		{
 			"language": "RO",
-			"title": "Echipe Fantezie Meteo"
+			"title": "Echipe Fantezie Meteo",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Secțiune standard de grup de plăci fără aspect de grup de plăci. 8 plăci cu aspect de plăci de dimensiune 2x2. Grupul de plăci are un aspect de plăci 4x4 care suprascrie aspectul de plăci de 2x2 setat pe plăci."
+			]
 		},
 		{
 			"language": "SK",
-			"title": "Fantasy tímy počasia"
+			"title": "Fantasy tímy počasia",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Štandardná sekcia skupiny dlaždíc bez rozloženia skupiny dlaždíc. 8 dlaždíc s rozložením dlaždíc 2x2. Skupina dlaždíc má rozloženie dlaždíc 4x4, ktoré prepisuje rozloženie dlaždíc 2x2 na dlaždiciach."
+			]
 		},
 		{
 			"language": "SL",
-			"title": "Vremenske fantazijske ekipe"
+			"title": "Vremenske fantazijske ekipe",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standardni razdelek skupine ploščic brez postavitve skupine ploščic. 8 ploščic s postavitvijo ploščic velikosti 2x2. Skupina ploščic ima postavitev ploščic 4x4, ki prepiše postavitev ploščic 2x2, nastavljeno na ploščicah."
+			]
 		},
 		{
 			"language": "TR",
-			"title": "Hava Durumu Fantezi Takımları"
+			"title": "Hava Durumu Fantezi Takımları",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Fayans grubu düzeni olmayan standart fayans grubu bölümü. 2x2 boyutunda fayans düzenine sahip 8 fayans. Fayans grubu, fayanslardaki 2x2 fayans düzenini geçersiz kılan 4x4 fayans düzenine sahiptir."
+			]
 		},
 		{
 			"language": "HR",
-			"title": "Weather Fantasy Timovi"
+			"title": "Weather Fantasy Timovi",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standardni odjeljak grupe pločica bez rasporeda grupe pločica. 8 pločica s rasporedom pločica veličine 2x2. Grupa pločica ima raspored pločica 4x4 koji prepisuje raspored pločica 2x2 postavljen na pločicama."
+			]
 		},
 		{
 			"language": "HU",
-			"title": "Időjárás Fantasy csapatok"
+			"title": "Időjárás Fantasy csapatok",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantancy-teams</code><br>",
+				"Szabványos csempecsoport-szakasz csempecsoport-elrendezés nélkül. 8 db 2x2 méretű csempe kiosztással. A csempecsoport 4x4-es elrendezésű, amely felülírja a csempéken beállított 2x2-es elrendezést."
+			]
 		},
 		{
 			"language": "ID",
-			"title": "Tim Fantasi Cuaca"
+			"title": "Tim Fantasi Cuaca",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Bagian grup ubin standar tanpa tata letak grup ubin. 8 ubin dengan tata letak ubin berukuran 2x2. Grup ubin memiliki tata letak ubin berukuran 4x4 yang menimpa tata letak ubin berukuran 2x2 yang ditetapkan pada ubin."
+			]
 		},
 		{
 			"language": "IS",
-			"title": "Veður Fantasy Teams"
+			"title": "Veður Fantasy Teams",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Venjulegur flísarhópur án flísahópaútlits. 8 flísar með 2x2 stærð flísum. Flísarhópurinn er með 4x4 flísarútlit sem skrifar yfir 2x2 flísaskipulagið sem sett er á flísarnar."
+			]
 		},
 		{
 			"language": "KO",
-			"title": "날씨 판타지 팀"
+			"title": "날씨 판타지 팀",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"타일 그룹 레이아웃이 없는 표준 타일 그룹 섹션. 2x2 크기 타일 레이아웃이 있는 8개 타일. 타일 그룹에는 타일에 설정된 2x2 타일 레이아웃을 덮어쓰는 4x4 타일 레이아웃이 있습니다."
+			]
 		},
 		{
 			"language": "LV",
-			"title": "Laikapstākļu fantāzijas komandas"
+			"title": "Laikapstākļu fantāzijas komandas",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantancy-teams</code><br>",
+				"Standarta flīžu grupas sadaļa bez flīžu grupas izkārtojuma. 8 flīzes ar 2x2 izmēra flīžu izkārtojumu. Flīžu grupai ir 4x4 flīžu izkārtojums, kas pārraksta uz flīzēm iestatīto 2x2 flīžu izkārtojumu."
+			]
 		},
 		{
 			"language": "MS",
-			"title": "Pasukan Fantasi Cuaca"
+			"title": "Pasukan Fantasi Cuaca",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-team</code><br>",
+				"Bahagian kumpulan jubin standard tanpa susun atur kumpulan jubin. 8 jubin dengan susun atur jubin saiz 2x2. Kumpulan jubin mempunyai susun atur jubin 4x4 yang menggantikan susun atur jubin 2x2 yang ditetapkan pada jubin."
+			]
 		},
 		{
 			"language": "NN",
-			"title": "Værfantasilag"
+			"title": "Værfantasilag",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standard flisgruppeseksjon uten flisgruppeoppsett. 8 fliser med fliser i størrelsen 2x2. Flisgruppen har et 4x4 flisoppsett som overskriver 2x2 flisoppsettet som er satt på flisene."
+			]
 		},
 		{
 			"language": "NO",
-			"title": "Værfantasilag"
+			"title": "Værfantasilag",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standard flisgruppeseksjon uten flisgruppeoppsett. 8 fliser med fliser i størrelsen 2x2. Flisgruppen har et 4x4 flisoppsett som overskriver 2x2 flisoppsettet som er satt på flisene."
+			]
 		},
 		{
 			"language": "PT",
-			"title": "Times de Fantasia do Tempo"
+			"title": "Times de Fantasia do Tempo",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Seção de grupo de tiles padrão sem layout de grupo de tiles. 8 tiles com um layout de tiles de tamanho 2x2. O grupo de tiles tem um layout de tiles 4x4 sobrescrevendo o layout de tiles 2x2 definido nos tiles."
+			]
 		},
 		{
 			"language": "RU",
-			"title": "Команды погодных фантазий"
+			"title": "Команды погодных фантазий",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Стандартный раздел группы плиток без макета группы плиток. 8 плиток с макетом плиток размером 2x2. Группа плиток имеет макет плиток 4x4, перезаписывающий макет плиток 2x2, установленный на плитках."
+			]
 		},
 		{
 			"language": "SE",
-			"title": "Dálkkádatfantasiijajoavkkut"
+			"title": "Dálkkádatfantasiijajoavkkut",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Dábálaš čáhcejoavkooassi mas ii leat čáhcejoavkoortnet. 8 čáhcefápmorusttega mas lea 2x2 sturrosaš čáhcefápmorusttet. Čáhcejoavkkus lea 4x4-čáhceortnet mii čállá badjel 2x2-čáhceortnega mii lea biddjon čáhcefápmorusttegiidda."
+			]
 		},
 		{
 			"language": "SH",
-			"title": "Веатхер Фантаси Теамс"
+			"title": "Веатхер Фантаси Теамс",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<цоде>дкп-демо-невс-фантаци-теамс</цоде><бр>",
+				"Стандардни одељак групе плочица без распореда групе плочица. 8 плочица са распоредом плочица величине 2к2. Група плочица има распоред плочица 4к4 који замењује распоред плочица 2к2 постављен на плочице."
+			]
 		},
 		{
 			"language": "SR",
-			"title": "Веатхер Фантаси Теамс"
+			"title": "Веатхер Фантаси Теамс",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<цоде>дкп-демо-невс-фантаци-теамс</цоде><бр>",
+				"Стандардни одељак групе плочица без распореда групе плочица. 8 плочица са распоредом плочица величине 2к2. Група плочица има распоред плочица 4к4 који замењује распоред плочица 2к2 постављен на плочице."
+			]
 		},
 		{
 			"language": "SV",
-			"title": "Väderfantasilag"
+			"title": "Väderfantasilag",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Standard brickgruppsektion utan brickgruppslayout. 8 brickor med en plattlayout i storleken 2x2. Brickgruppen har en 4x4-bricklayout som skriver över 2x2-bricklayouten som är inställd på brickorna."
+			]
 		},
 		{
 			"language": "TH",
-			"title": "ทีมแฟนตาซีสภาพอากาศ"
+			"title": "ทีมแฟนตาซีสภาพอากาศ",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"กลุ่มไทล์มาตรฐานที่ไม่มีเค้าโครงกลุ่มไทล์ ไทล์ 8 ตัวที่มีเค้าโครงไทล์ขนาด 2x2 กลุ่มไทล์มีเค้าโครงไทล์ขนาด 4x4 เขียนทับเค้าโครงไทล์ขนาด 2x2 ที่ตั้งไว้บนไทล์"
+			]
 		},
 		{
 			"language": "UK",
-			"title": "Команди Weather Fantasy"
+			"title": "Команди Weather Fantasy",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"Стандартний розділ групи плиток без макета групи плиток. 8 плиток розміром 2x2. Група плиток має макет плиток 4x4, який замінює макет плиток 2x2, встановлений на плитках."
+			]
 		},
 		{
 			"language": "ZF",
-			"title": "天氣幻想隊"
+			"title": "天氣幻想隊",
+			"messageText": "<code>dxp-demo-news-fantacy-teams</code><br> 沒有圖塊組佈局的標準圖塊組部分。 8 塊磁磚，採用 2x2 尺寸的磁磚佈局。圖塊組具有 4x4 圖塊佈局，覆蓋了圖塊上設定的 2x2 圖塊佈局。"
 		},
 		{
 			"language": "ZH",
-			"title": "天气幻想队"
+			"title": "天气幻想队",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-fantacy-teams</code><br>",
+				"标准图块组部分，无图块组布局。8 个图块，图块布局大小为 2x2。图块组具有 4x4 图块布局，覆盖图块上设置的 2x2 图块布局。"
+			]
 		}
 	],
 	"tilesOrder": [
@@ -187,8 +383,8 @@
 		"icon": "sap-icon://nep/adaptive-designer",
 		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"c07341a3-9c1d-412e-b034-e605cd49aa11\"%2C\"name\"%3A\"dxp-demo-news-fantacy-teams\"%7D"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Weather Fantasy Teams",
 	"subTitle": null,
 	"menuText": null,

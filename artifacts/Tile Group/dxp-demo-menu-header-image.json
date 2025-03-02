@@ -2,7 +2,168 @@
 	"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 	"createdAt": "2024-10-13T10:39:26.300Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "HR",
+			"menuText": "SLIKA ZAGLAVLJA"
+		},
+		{
+			"language": "BG",
+			"menuText": "ЗАГЛАВНО ИЗОБРАЖЕНИЕ"
+		},
+		{
+			"language": "AR",
+			"menuText": "صورة العنوان"
+		},
+		{
+			"language": "HU",
+			"menuText": "FEJLŐKÉP"
+		},
+		{
+			"language": "IS",
+			"menuText": "HÖFSMYND"
+		},
+		{
+			"language": "ID",
+			"menuText": "GAMBAR KEPALA"
+		},
+		{
+			"language": "JA",
+			"menuText": "ヘッダー画像"
+		},
+		{
+			"language": "IT",
+			"menuText": "IMMAGINE DI INTESTAZIONE"
+		},
+		{
+			"language": "CS",
+			"menuText": "OBRÁZEK HLAVY"
+		},
+		{
+			"language": "EN",
+			"menuText": "HEADER IMAGE"
+		},
+		{
+			"language": "LV",
+			"menuText": "GALVENES ATTĒLS"
+		},
+		{
+			"language": "LT",
+			"menuText": "ANTRAŠTĖS VAIZDAS"
+		},
+		{
+			"language": "DE",
+			"menuText": "KOPFBILD"
+		},
+		{
+			"language": "KO",
+			"menuText": "헤더 이미지"
+		},
+		{
+			"language": "MS",
+			"menuText": "IMEJ TAJUK"
+		},
+		{
+			"language": "NN",
+			"menuText": "HOVEDBILDE"
+		},
+		{
+			"language": "NL",
+			"menuText": "KOPAFBEELDING"
+		},
+		{
+			"language": "NO",
+			"menuText": "TOP BILDER"
+		},
+		{
+			"language": "DA",
+			"menuText": "TOP BILLEDER"
+		},
+		{
+			"language": "EL",
+			"menuText": "ΕΙΚΟΝΑ ΚΕΦΑΛΗΣ"
+		},
+		{
+			"language": "PT",
+			"menuText": "IMAGEM DE CABEÇALHO"
+		},
+		{
+			"language": "RO",
+			"menuText": "IMAGINE DE ANTET"
+		},
+		{
+			"language": "RU",
+			"menuText": "ИЗОБРАЖЕНИЕ ЗАГОЛОВКА"
+		},
+		{
+			"language": "ET",
+			"menuText": "PÄISE PILT"
+		},
+		{
+			"language": "ES",
+			"menuText": "IMAGEN DE ENCABEZADO"
+		},
+		{
+			"language": "SE",
+			"menuText": "OVDALGOVVA"
+		},
+		{
+			"language": "SH",
+			"menuText": "ХЕАДЕР ИМАГЕ"
+		},
+		{
+			"language": "PL",
+			"menuText": "OBRAZEK NAGŁÓWKOWY"
+		},
+		{
+			"language": "SK",
+			"menuText": "OBRÁZOK HLAVY"
+		},
+		{
+			"language": "FI",
+			"menuText": "OTSIKKUVA"
+		},
+		{
+			"language": "SL",
+			"menuText": "GLAVNA SLIKA"
+		},
+		{
+			"language": "SR",
+			"menuText": "ХЕАДЕР ИМАГЕ"
+		},
+		{
+			"language": "SV",
+			"menuText": "HUVUDBILD"
+		},
+		{
+			"language": "FR",
+			"menuText": "IMAGE D'EN-TÊTE"
+		},
+		{
+			"language": "TH",
+			"menuText": "ภาพส่วนหัว"
+		},
+		{
+			"language": "TR",
+			"menuText": "BAŞLIK GÖRÜNTÜSÜ"
+		},
+		{
+			"language": "HE",
+			"menuText": "תמונת כותרת"
+		},
+		{
+			"language": "UK",
+			"menuText": "ЗОБРАЖЕННЯ ЗАГОЛОВКУ"
+		},
+		{
+			"language": "ZF",
+			"menuText": "標題圖片"
+		},
+		{
+			"language": "ZH",
+			"menuText": "标题图片"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
@@ -12,8 +173,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": "",
 	"menuText": "HEADER IMAGE",
@@ -88,8 +249,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

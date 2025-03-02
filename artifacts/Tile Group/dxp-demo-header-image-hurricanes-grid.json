@@ -214,8 +214,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Different Images for Light & Dark Mode",
 	"subTitle": "Left to right header image mask applied",
 	"menuText": null,

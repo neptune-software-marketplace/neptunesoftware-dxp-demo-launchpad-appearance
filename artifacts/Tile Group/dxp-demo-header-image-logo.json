@@ -13,8 +13,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Single Logo with Transparent Background",
 	"subTitle": "Title left aligned. Image right aligned.",
 	"menuText": null,
@@ -89,8 +89,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

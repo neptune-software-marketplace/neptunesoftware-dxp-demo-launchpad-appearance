@@ -178,8 +178,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Skinny & Tiny (1x1)",
 	"subTitle": null,
 	"menuText": null,

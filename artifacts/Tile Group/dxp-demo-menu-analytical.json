@@ -2,7 +2,168 @@
 	"id": "15365a99-a77b-418e-b744-3eb51ad48b98",
 	"createdAt": "2025-01-06T00:08:50.285Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AR",
+			"menuText": "تحليلي"
+		},
+		{
+			"language": "HR",
+			"menuText": "ANALITIČKI"
+		},
+		{
+			"language": "ID",
+			"menuText": "ANALITIS"
+		},
+		{
+			"language": "BG",
+			"menuText": "АНАЛИТИЧЕН"
+		},
+		{
+			"language": "HU",
+			"menuText": "ELEMZŐ"
+		},
+		{
+			"language": "IT",
+			"menuText": "ANALITICO"
+		},
+		{
+			"language": "IS",
+			"menuText": "GREIÐANDI"
+		},
+		{
+			"language": "KO",
+			"menuText": "분석적"
+		},
+		{
+			"language": "LT",
+			"menuText": "ANALITINIS"
+		},
+		{
+			"language": "JA",
+			"menuText": "分析的"
+		},
+		{
+			"language": "EN",
+			"menuText": "ANALYTICAL"
+		},
+		{
+			"language": "LV",
+			"menuText": "ANALĪTISKI"
+		},
+		{
+			"language": "DE",
+			"menuText": "ANALYTISCH"
+		},
+		{
+			"language": "CS",
+			"menuText": "ANALYTICKÝ"
+		},
+		{
+			"language": "MS",
+			"menuText": "ANALITIK"
+		},
+		{
+			"language": "NO",
+			"menuText": "ANALYTISK"
+		},
+		{
+			"language": "NN",
+			"menuText": "ANALYTISK"
+		},
+		{
+			"language": "NL",
+			"menuText": "ANALYTISCH"
+		},
+		{
+			"language": "PL",
+			"menuText": "ANALITYCZNY"
+		},
+		{
+			"language": "DA",
+			"menuText": "ANALYTISK"
+		},
+		{
+			"language": "PT",
+			"menuText": "ANALÍTICO"
+		},
+		{
+			"language": "EL",
+			"menuText": "ΑΝΑΛΥΤΙΚΟΣ"
+		},
+		{
+			"language": "ES",
+			"menuText": "ANALÍTICO"
+		},
+		{
+			"language": "ET",
+			"menuText": "ANALÜÜTILINE"
+		},
+		{
+			"language": "RO",
+			"menuText": "ANALITIC"
+		},
+		{
+			"language": "RU",
+			"menuText": "АНАЛИТИЧЕСКИЙ"
+		},
+		{
+			"language": "SE",
+			"menuText": "ANALYTIHKALAŠ"
+		},
+		{
+			"language": "SH",
+			"menuText": "АНАЛИТИЧКИ"
+		},
+		{
+			"language": "FI",
+			"menuText": "ANALYYTTINEN"
+		},
+		{
+			"language": "SK",
+			"menuText": "ANALYTICKÝ"
+		},
+		{
+			"language": "SL",
+			"menuText": "ANALITIČNO"
+		},
+		{
+			"language": "SV",
+			"menuText": "ANALYTISK"
+		},
+		{
+			"language": "FR",
+			"menuText": "ANALYTIQUE"
+		},
+		{
+			"language": "TH",
+			"menuText": "การวิเคราะห์"
+		},
+		{
+			"language": "SR",
+			"menuText": "АНАЛИТИЧКИ"
+		},
+		{
+			"language": "TR",
+			"menuText": "ANALİTİK"
+		},
+		{
+			"language": "HE",
+			"menuText": "אנליטית"
+		},
+		{
+			"language": "UK",
+			"menuText": "АНАЛІТИЧНИЙ"
+		},
+		{
+			"language": "ZF",
+			"menuText": "分析"
+		},
+		{
+			"language": "ZH",
+			"menuText": "分析"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb"

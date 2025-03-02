@@ -178,8 +178,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "Narrow & Short (2x2)",
 	"subTitle": null,
 	"menuText": null,

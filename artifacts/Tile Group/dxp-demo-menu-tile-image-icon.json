@@ -2,7 +2,168 @@
 	"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
 	"createdAt": "2024-09-21T16:43:55.733Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "HR",
+			"menuText": "IKONA SLIKE PLOČICE"
+		},
+		{
+			"language": "BG",
+			"menuText": "ИКОНА НА ИЗОБРАЖЕНИЕ НА ПЛОЧКА"
+		},
+		{
+			"language": "AR",
+			"menuText": "أيقونة صورة البلاط"
+		},
+		{
+			"language": "HU",
+			"menuText": "CSEMKE KÉP IKON"
+		},
+		{
+			"language": "ID",
+			"menuText": "IKON GAMBAR UBIN"
+		},
+		{
+			"language": "IS",
+			"menuText": "FLÍSAMYNDATÁKN"
+		},
+		{
+			"language": "IT",
+			"menuText": "ICONA IMMAGINE TILE"
+		},
+		{
+			"language": "CS",
+			"menuText": "IKONA DLAŽDICE OBRÁZKU"
+		},
+		{
+			"language": "LT",
+			"menuText": "PLYTELĖS VAIZDO Piktograma"
+		},
+		{
+			"language": "JA",
+			"menuText": "タイル画像アイコン"
+		},
+		{
+			"language": "DE",
+			"menuText": "KACHELBILDSYMBOL"
+		},
+		{
+			"language": "KO",
+			"menuText": "타일 이미지 아이콘"
+		},
+		{
+			"language": "EN",
+			"menuText": "TILE IMAGE ICON"
+		},
+		{
+			"language": "LV",
+			"menuText": "Flīžu ATTĒLA IKONA"
+		},
+		{
+			"language": "MS",
+			"menuText": "IKON IMEJ JUBIN"
+		},
+		{
+			"language": "NL",
+			"menuText": "TEGEL AFBEELDING ICOON"
+		},
+		{
+			"language": "NN",
+			"menuText": "FLISBILDE-IKON"
+		},
+		{
+			"language": "NO",
+			"menuText": "TILE BILDE IKON"
+		},
+		{
+			"language": "DA",
+			"menuText": "FLISEBILLEDEIKON"
+		},
+		{
+			"language": "ES",
+			"menuText": "ICONO DE IMAGEN DE AZULEJO"
+		},
+		{
+			"language": "EL",
+			"menuText": "ΕΙΚΟΝΙΔΙΟ ΕΙΚΟΝΑΣ ΚΕΡΑΜΙΔΙΟΥ"
+		},
+		{
+			"language": "PT",
+			"menuText": "ÍCONE DE IMAGEM DE TELHA"
+		},
+		{
+			"language": "RO",
+			"menuText": "ICONA IMAGINĂ TIILE"
+		},
+		{
+			"language": "RU",
+			"menuText": "ЗНАЧОК ИЗОБРАЖЕНИЯ ПЛИТКИ"
+		},
+		{
+			"language": "SE",
+			"menuText": "TILE IMAGE IKONA"
+		},
+		{
+			"language": "SH",
+			"menuText": "ИКОНА СЛИКА ПЛОЧИЦА"
+		},
+		{
+			"language": "ET",
+			"menuText": "PLAATIDE PILTI Ikoon"
+		},
+		{
+			"language": "SL",
+			"menuText": "IKONA SLIKE PLOŠČICE"
+		},
+		{
+			"language": "SK",
+			"menuText": "IKONA DLAŽDICE OBRÁZKA"
+		},
+		{
+			"language": "PL",
+			"menuText": "IKONA OBRAZU KAFELKA"
+		},
+		{
+			"language": "FI",
+			"menuText": "LAATTAKUVAKUVAKE"
+		},
+		{
+			"language": "SR",
+			"menuText": "ИКОНА СЛИКА ПЛОЧИЦА"
+		},
+		{
+			"language": "SV",
+			"menuText": "BLADE BILDIKON"
+		},
+		{
+			"language": "TR",
+			"menuText": "KİREMİT RESİM SİMGESİ"
+		},
+		{
+			"language": "TH",
+			"menuText": "ไอคอนรูปกระเบื้อง"
+		},
+		{
+			"language": "HE",
+			"menuText": "סמל תמונת אריח"
+		},
+		{
+			"language": "FR",
+			"menuText": "ICÔNE D'IMAGE DE TUILE"
+		},
+		{
+			"language": "UK",
+			"menuText": "ЗНАЧОК ЗОБРАЖЕННЯ ПЛИТКИ"
+		},
+		{
+			"language": "ZH",
+			"menuText": "平铺图像图标"
+		},
+		{
+			"language": "ZF",
+			"menuText": "平鋪圖像圖標"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
@@ -12,8 +173,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": null,
 	"menuText": "TILE IMAGE ICON",
@@ -88,8 +249,8 @@
 	"imageDarkNone": false,
 	"imageTabletDarkNone": false,
 	"imageMobileDarkNone": false,
-	"noInheritGroupLayout": null,
-	"noInheritTileLayout": null,
+	"noInheritGroupLayout": false,
+	"noInheritTileLayout": false,
 	"navbarWidth": null,
 	"sidebarWidth": null,
 	"navbarFit": null,

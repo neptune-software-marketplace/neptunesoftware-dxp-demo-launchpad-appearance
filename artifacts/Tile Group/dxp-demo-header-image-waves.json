@@ -214,8 +214,8 @@
 	"configMessage": {
 		"type": "None"
 	},
-	"navbarGroupOrder": null,
-	"sidebarGroupOrder": null,
+	"navbarGroupOrder": [],
+	"sidebarGroupOrder": [],
 	"title": "One Image - Title Centered",
 	"subTitle": "Custom image mask: radial-gradient ellipse centered",
 	"menuText": null,
