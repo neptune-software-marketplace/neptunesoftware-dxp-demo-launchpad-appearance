@@ -460,7 +460,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.03.05.2000",
+	"ver": "25.03.06.0007",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -476,7 +476,7 @@
 	"passwordResetEmail": null,
 	"activationCodeEmail": null,
 	"noSubmenuHover": false,
-	"defaultLanguage": null,
+	"defaultLanguage": "EN",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"cat": [
 		{
