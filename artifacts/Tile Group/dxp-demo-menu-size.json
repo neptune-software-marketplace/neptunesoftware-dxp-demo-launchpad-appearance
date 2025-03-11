@@ -2,208 +2,7 @@
 	"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
 	"createdAt": "2024-11-19T19:27:29.160Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [
-		{
-			"language": "AR",
-			"title": "حجم قائمة العرض التوضيحي dxp",
-			"menuText": "مقاس"
-		},
-		{
-			"language": "BG",
-			"title": "dxp-демо-размер на менюто",
-			"menuText": "РАЗМЕР"
-		},
-		{
-			"language": "CS",
-			"title": "dxp-demo-menu-size",
-			"menuText": "VELIKOST"
-		},
-		{
-			"language": "DA",
-			"title": "dxp-demo-menu-størrelse",
-			"menuText": "STØRRELSE"
-		},
-		{
-			"language": "DE",
-			"title": "dxp-demo-menü-größe",
-			"menuText": "GRÖSSE"
-		},
-		{
-			"language": "EL",
-			"title": "dxp-demo-menu-size",
-			"menuText": "ΜΕΓΕΘΟΣ"
-		},
-		{
-			"language": "EN",
-			"title": "dxp-demo-menu-size",
-			"menuText": "SIZE"
-		},
-		{
-			"language": "ES",
-			"title": "tamaño del menú de demostración de dxp",
-			"menuText": "TAMAÑO"
-		},
-		{
-			"language": "ET",
-			"title": "dxp-demo-menüü suurus",
-			"menuText": "SUURUS"
-		},
-		{
-			"language": "FI",
-			"title": "dxp-demo-valikon koko",
-			"menuText": "KOKO"
-		},
-		{
-			"language": "FR",
-			"title": "dxp-demo-menu-taille",
-			"menuText": "TAILLE"
-		},
-		{
-			"language": "HE",
-			"title": "dxp-demo-menu-size",
-			"menuText": "גוֹדֶל"
-		},
-		{
-			"language": "HU",
-			"title": "dxp-demo-menu-size",
-			"menuText": "MÉRET"
-		},
-		{
-			"language": "IT",
-			"title": "dimensione-menu-demo-dxp",
-			"menuText": "MISURARE"
-		},
-		{
-			"language": "JA",
-			"title": "dxp デモ メニュー サイズ",
-			"menuText": "サイズ"
-		},
-		{
-			"language": "KO",
-			"title": "dxp-데모-메뉴-크기",
-			"menuText": "크기"
-		},
-		{
-			"language": "LT",
-			"title": "dxp-demo-menu-size",
-			"menuText": "DYDIS"
-		},
-		{
-			"language": "LV",
-			"title": "dxp-demo-menu-size",
-			"menuText": "IZMĒRS"
-		},
-		{
-			"language": "NL",
-			"title": "dxp-demo-menu-grootte",
-			"menuText": "MAAT"
-		},
-		{
-			"language": "PL",
-			"title": "dxp-demo-menu-rozmiar",
-			"menuText": "ROZMIAR"
-		},
-		{
-			"language": "RO",
-			"title": "dxp-demo-meniu-dimensiune",
-			"menuText": "DIMENSIUNE"
-		},
-		{
-			"language": "RU",
-			"title": "dxp-demo-меню-размер",
-			"menuText": "РАЗМЕР"
-		},
-		{
-			"language": "TH",
-			"title": "ขนาดเมนูสาธิต dxp",
-			"menuText": "ขนาด"
-		},
-		{
-			"language": "TR",
-			"title": "dxp-demo-menü-boyutu",
-			"menuText": "BOYUT"
-		},
-		{
-			"language": "HR",
-			"title": "dxp-demo-veličina-izbornika",
-			"menuText": "VELIČINA"
-		},
-		{
-			"language": "ID",
-			"title": "ukuran-menu-demo-dxp",
-			"menuText": "UKURAN"
-		},
-		{
-			"language": "IS",
-			"title": "dxp-demo-valmynd-stærð",
-			"menuText": "STÆRÐ"
-		},
-		{
-			"language": "MS",
-			"title": "dxp-demo-menu-saiz",
-			"menuText": "SAIZ"
-		},
-		{
-			"language": "NN",
-			"title": "dxp-demo-meny-størrelse",
-			"menuText": "STØRRELSE"
-		},
-		{
-			"language": "NO",
-			"title": "dxp-demo-meny-størrelse",
-			"menuText": "STØRRELSE"
-		},
-		{
-			"language": "PT",
-			"title": "dxp-demo-menu-tamanho",
-			"menuText": "TAMANHO"
-		},
-		{
-			"language": "SE",
-			"title": "dxp-demo-menu-sturrodat",
-			"menuText": "STURRODAT"
-		},
-		{
-			"language": "SH",
-			"title": "дкп-демо-мену-сизе",
-			"menuText": "СИЗЕ"
-		},
-		{
-			"language": "SK",
-			"title": "dxp-demo-menu-size",
-			"menuText": "VEĽKOSŤ"
-		},
-		{
-			"language": "SL",
-			"title": "velikost-demo-menija dxp",
-			"menuText": "VELIKOST"
-		},
-		{
-			"language": "SR",
-			"title": "дкп-демо-мену-сизе",
-			"menuText": "СИЗЕ"
-		},
-		{
-			"language": "SV",
-			"title": "dxp-demo-meny-storlek",
-			"menuText": "STORLEK"
-		},
-		{
-			"language": "UK",
-			"title": "dxp-demo-menu-size",
-			"menuText": "РОЗМІР"
-		},
-		{
-			"language": "ZF",
-			"title": "dxp-演示選單大小",
-			"menuText": "尺寸"
-		},
-		{
-			"language": "ZH",
-			"title": "dxp-演示菜单大小",
-			"menuText": "尺寸"
-		}
-	],
+	"translation": [],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"5e23413c-d854-4b90-b1a5-34aaa6462bc3",
@@ -213,7 +12,7 @@
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "dxp-demo-menu-size",
+	"title": "",
 	"subTitle": null,
 	"menuText": "SIZE",
 	"description": null,
@@ -232,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.01.04.1039",
+	"ver": "25.03.06.0747",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

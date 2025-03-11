@@ -5,170 +5,257 @@
 	"translation": [
 		{
 			"language": "AR",
-			"menuText": "تحليلي"
-		},
-		{
-			"language": "HR",
-			"menuText": "ANALITIČKI"
-		},
-		{
-			"language": "ID",
-			"menuText": "ANALITIS"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "BG",
-			"menuText": "АНАЛИТИЧЕН"
-		},
-		{
-			"language": "HU",
-			"menuText": "ELEMZŐ"
-		},
-		{
-			"language": "IT",
-			"menuText": "ANALITICO"
-		},
-		{
-			"language": "IS",
-			"menuText": "GREIÐANDI"
-		},
-		{
-			"language": "KO",
-			"menuText": "분석적"
-		},
-		{
-			"language": "LT",
-			"menuText": "ANALITINIS"
-		},
-		{
-			"language": "JA",
-			"menuText": "分析的"
-		},
-		{
-			"language": "EN",
-			"menuText": "ANALYTICAL"
-		},
-		{
-			"language": "LV",
-			"menuText": "ANALĪTISKI"
-		},
-		{
-			"language": "DE",
-			"menuText": "ANALYTISCH"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "CS",
-			"menuText": "ANALYTICKÝ"
-		},
-		{
-			"language": "MS",
-			"menuText": "ANALITIK"
-		},
-		{
-			"language": "NO",
-			"menuText": "ANALYTISK"
-		},
-		{
-			"language": "NN",
-			"menuText": "ANALYTISK"
-		},
-		{
-			"language": "NL",
-			"menuText": "ANALYTISCH"
-		},
-		{
-			"language": "PL",
-			"menuText": "ANALITYCZNY"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "DA",
-			"menuText": "ANALYTISK"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
-			"language": "PT",
-			"menuText": "ANALÍTICO"
+			"language": "DE",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "EL",
-			"menuText": "ΑΝΑΛΥΤΙΚΟΣ"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "EN",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "ES",
-			"menuText": "ANALÍTICO"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "ET",
-			"menuText": "ANALÜÜTILINE"
-		},
-		{
-			"language": "RO",
-			"menuText": "ANALITIC"
-		},
-		{
-			"language": "RU",
-			"menuText": "АНАЛИТИЧЕСКИЙ"
-		},
-		{
-			"language": "SE",
-			"menuText": "ANALYTIHKALAŠ"
-		},
-		{
-			"language": "SH",
-			"menuText": "АНАЛИТИЧКИ"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "FI",
-			"menuText": "ANALYYTTINEN"
-		},
-		{
-			"language": "SK",
-			"menuText": "ANALYTICKÝ"
-		},
-		{
-			"language": "SL",
-			"menuText": "ANALITIČNO"
-		},
-		{
-			"language": "SV",
-			"menuText": "ANALYTISK"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "FR",
-			"menuText": "ANALYTIQUE"
-		},
-		{
-			"language": "TH",
-			"menuText": "การวิเคราะห์"
-		},
-		{
-			"language": "SR",
-			"menuText": "АНАЛИТИЧКИ"
-		},
-		{
-			"language": "TR",
-			"menuText": "ANALİTİK"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "HE",
-			"menuText": "אנליטית"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "HR",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "HU",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "ID",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "IS",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "IT",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "JA",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "KO",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "LT",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "LV",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "MS",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "NL",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "NN",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "NO",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "PL",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "PT",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "RO",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "RU",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "SE",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "SH",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "SK",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "SL",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "SR",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "SV",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "TH",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		},
+		{
+			"language": "TR",
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "UK",
-			"menuText": "АНАЛІТИЧНИЙ"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "ZF",
-			"menuText": "分析"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		},
 		{
 			"language": "ZH",
-			"menuText": "分析"
+			"menuText": "",
+			"selected": true,
+			"messageText": "<code>dxp-demo-menu-analytical</code><br>Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		}
 	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb"
 	],
-	"configMessage": {},
+	"configMessage": {
+		"text": [
+			"==OBJECT STRING==",
+			"<code>dxp-demo-menu-analytical</code><br>",
+			"Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+		],
+		"action": "/cockpit.html?debug=true#run-group%7B\"id\"%3A\"15365a99-a77b-418e-b744-3eb51ad48b98\"%2C\"name\"%3A\"dxp-demo-menu-analytical\"%7D"
+	},
 	"navbarGroupOrder": [
 		"91264f58-cd2e-4b05-a2df-6223fdff2def",
 		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
@@ -194,8 +281,8 @@
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": false,
-	"ver": "25.02.27.1557",
+	"enableMessage": true,
+	"ver": "25.03.06.1135",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -272,7 +359,7 @@
 			"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
 			"name": "dxp-demo-crm-showcase",
 			"title": "Applications",
-			"ver": "25.02.27.1557"
+			"ver": "25.03.06.1133"
 		}
 	],
 	"navbarGroups": [
@@ -286,7 +373,7 @@
 			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
 			"name": "dxp-demo-navbar-favorites",
 			"title": "dxp-demo-navbar-favorites",
-			"ver": "25.01.06.0101"
+			"ver": "25.03.06.1142"
 		}
 	],
 	"sidebarGroups": [
@@ -294,7 +381,7 @@
 			"id": "f7812880-d88b-4797-b711-f3c6d7e25a67",
 			"name": "dxp-demo-sidebar-image-top",
 			"title": "Tile Image Top",
-			"ver": "25.01.08.2050"
+			"ver": "25.03.06.1142"
 		}
 	]
 }

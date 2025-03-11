@@ -4,204 +4,298 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [
 		{
+			"language": "AF",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
 			"language": "AR",
-			"title": "صورة البلاط في الأعلى",
-			"subTitle": "جميع البلاطات التي تحتوي على صور مضافة إلى الأعلى"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "BG",
-			"title": "Изображение отгоре",
-			"subTitle": "Всички плочки с изображения, добавени в горната част"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "CA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "CS",
-			"title": "Dlaždice Obrázek Top",
-			"subTitle": "Všechny dlaždice s obrázky přidány nahoru"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "DA",
-			"title": "Tile Image Top",
-			"subTitle": "Alle fliser med billeder tilføjet til toppen"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "DE",
-			"title": "Kachelbild oben",
-			"subTitle": "Alle Kacheln mit oben hinzugefügten Bildern"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "EL",
-			"title": "Πλακάκι Εικόνα Κορυφή",
-			"subTitle": "Όλα τα πλακίδια με εικόνες προστέθηκαν στην κορυφή"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "EN",
-			"title": "Tile Image Top",
-			"subTitle": "All tiles with images added to the top"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "ES",
-			"title": "Imagen de mosaico superior",
-			"subTitle": "Todos los mosaicos con imágenes agregadas en la parte superior"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "ET",
-			"title": "Tile Image Top",
-			"subTitle": "Kõik plaadid, mille ülaossa on lisatud pildid"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "FI",
-			"title": "Tile Image Top",
-			"subTitle": "Kaikki laatat, joiden yläosaan on lisätty kuvia"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "FR",
-			"title": "Image de tuile en haut",
-			"subTitle": "Toutes les tuiles avec des images ajoutées en haut"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "HE",
-			"title": "תמונת אריחים למעלה",
-			"subTitle": "כל האריחים עם תמונות שנוספו למעלה"
-		},
-		{
-			"language": "HU",
-			"title": "Csempe kép tetején",
-			"subTitle": "Minden csempe, amelynek tetejére kép került"
-		},
-		{
-			"language": "IT",
-			"title": "Immagine piastrellata in alto",
-			"subTitle": "Tutte le tessere con immagini aggiunte in alto"
-		},
-		{
-			"language": "JA",
-			"title": "タイル画像トップ",
-			"subTitle": "画像が上部に追加されたすべてのタイル"
-		},
-		{
-			"language": "LT",
-			"title": "Plytelių vaizdas Į viršų",
-			"subTitle": "Visos plytelės su viršuje pridėtais vaizdais"
-		},
-		{
-			"language": "LV",
-			"title": "Flīžu attēls Augšpusē",
-			"subTitle": "Visas flīzes ar attēliem, kas pievienoti augšpusē"
-		},
-		{
-			"language": "NL",
-			"title": "Tegelafbeelding Boven",
-			"subTitle": "Alle tegels met afbeeldingen bovenaan toegevoegd"
-		},
-		{
-			"language": "PL",
-			"title": "Obraz kafelka na górze",
-			"subTitle": "Wszystkie kafelki z obrazami dodanymi na górze"
-		},
-		{
-			"language": "PT",
-			"title": "Imagem em mosaico no topo",
-			"subTitle": "Todos os blocos com imagens adicionadas ao topo"
-		},
-		{
-			"language": "SK",
-			"title": "Dlaždice Obrázok hore",
-			"subTitle": "Všetky dlaždice s obrázkami pridané navrch"
-		},
-		{
-			"language": "SL",
-			"title": "Tile Image Top",
-			"subTitle": "Vse ploščice s slikami, dodane na vrh"
-		},
-		{
-			"language": "SR",
-			"title": "Тиле Имаге Врх",
-			"subTitle": "Све плочице са сликама додатим на врх"
-		},
-		{
-			"language": "SV",
-			"title": "Kakelbild Topp",
-			"subTitle": "Alla brickor med bilder lagt till överst"
-		},
-		{
-			"language": "TR",
-			"title": "Karo Görüntü Üst",
-			"subTitle": "Resimli tüm fayanslar üste eklendi"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "HR",
-			"title": "Vrh slike pločice",
-			"subTitle": "Sve pločice sa slikama dodane su na vrh"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "HU",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "ID",
-			"title": "Gambar Ubin Atas",
-			"subTitle": "Semua ubin dengan gambar ditambahkan ke atas"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "IS",
-			"title": "Flísamynd efst",
-			"subTitle": "Allar flísar með myndum bætt við efst"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "IT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "JA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "KO",
-			"title": "타일 이미지 상단",
-			"subTitle": "이미지가 맨 위에 추가된 모든 타일"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "LT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "LV",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "MS",
-			"title": "Atas Imej Jubin",
-			"subTitle": "Semua jubin dengan imej ditambahkan ke bahagian atas"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "NL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "NN",
-			"title": "Tile Image Topp",
-			"subTitle": "Alle fliser med bilder lagt til toppen"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "NO",
-			"title": "Tile Image Topp",
-			"subTitle": "Alle fliser med bilder lagt til toppen"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "PL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "PT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "RO",
-			"title": "Imagine Tile Top",
-			"subTitle": "Toate plăcile cu imagini adăugate în partea de sus"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "RU",
-			"title": "Изображение плитки сверху",
-			"subTitle": "Все плитки с изображениями добавлены наверх"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"subTitle": "",
+			"title": ""
 		},
 		{
 			"language": "SE",
-			"title": "Tile Image Top",
-			"subTitle": "Buot čáhcefápmorusttegat main leat govat mat leat lasihuvvon bajimussii"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "SH",
-			"title": "Тиле Имаге Врх",
-			"subTitle": "Све плочице са сликама додатим на врх"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "SK",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "SL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "SR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "SV",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "TH",
-			"title": "ภาพกระเบื้องด้านบน",
-			"subTitle": "เพิ่มกระเบื้องทั้งหมดพร้อมรูปภาพไว้ด้านบน"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
+		},
+		{
+			"language": "TR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "UK",
-			"title": "Плитка зображення зверху",
-			"subTitle": "Усі плитки із зображеннями додані вгору"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "ZF",
-			"title": "平鋪影像頂部",
-			"subTitle": "所有帶有圖片的圖塊都添加到頂部"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		},
 		{
 			"language": "ZH",
-			"title": "平铺图像顶部",
-			"subTitle": "所有带有图片的图块都添加到顶部"
+			"selected": true,
+			"messageText": "<code>dxp-demo-sidebar-image-top</code><br>This tile group is added as a sidebar in a multi column setup. ",
+			"title": "",
+			"subTitle": ""
 		}
 	],
 	"tilesOrder": [
@@ -211,7 +305,14 @@
 		"3c24032a-d234-4c07-9a63-9087cdbe3940"
 	],
 	"tilegroupsOrder": [],
-	"configMessage": {},
+	"configMessage": {
+		"text": [
+			"==OBJECT STRING==",
+			"<code>dxp-demo-sidebar-image-top</code><br>",
+			"This tile group is added as a sidebar in a multi column setup. "
+		],
+		"action": "/cockpit.html?debug=true#run-group%7B\"id\"%3A\"15365a99-a77b-418e-b744-3eb51ad48b98\"%2C\"name\"%3A\"dxp-demo-sidebar-image-top\"%7D"
+	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "Tile Image Top",
@@ -233,7 +334,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.01.08.2050",
+	"ver": "25.03.06.1142",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

@@ -4,169 +4,268 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [
 		{
+			"language": "AF",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
 			"language": "AR",
-			"title": "dxp-demo-navbar-favorites"
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
 		},
 		{
 			"language": "BG",
-			"title": "dxp-demo-navbar-favorites"
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
 		},
 		{
-			"language": "CS",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "DA",
-			"title": "dxp-demo-navbar-favoritter"
-		},
-		{
-			"language": "DE",
-			"title": "dxp-demo-navbar-favoriten"
-		},
-		{
-			"language": "EL",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "EN",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "ES",
-			"title": "barra de navegación de demostración de dxp favoritos"
-		},
-		{
-			"language": "ET",
-			"title": "dxp-demo-navbar-lemmikud"
-		},
-		{
-			"language": "FI",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "FR",
-			"title": "dxp-demo-navbar-favoris"
-		},
-		{
-			"language": "HE",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "HU",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "IT",
-			"title": "dxp-demo-navbar-preferiti"
-		},
-		{
-			"language": "JA",
-			"title": "dxp デモ ナビゲーション バーのお気に入り"
-		},
-		{
-			"language": "LT",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "NL",
-			"title": "dxp-demo-navbar-favorieten"
-		},
-		{
-			"language": "PL",
-			"title": "dxp-demo-pasek nawigacyjny-ulubione"
-		},
-		{
-			"language": "PT",
-			"title": "dxp-demo-navbar-favoritos"
-		},
-		{
-			"language": "RO",
-			"title": "dxp-demo-navbar-favorite"
-		},
-		{
-			"language": "SE",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "SR",
-			"title": "дкп-демо-навбар-фаворитес"
-		},
-		{
-			"language": "SV",
-			"title": "dxp-demo-navbar-favoriter"
-		},
-		{
-			"language": "TR",
-			"title": "dxp-demo-navbar-favoriler"
-		},
-		{
-			"language": "HR",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "ID",
-			"title": "dxp-demo-navbar-favorit"
-		},
-		{
-			"language": "IS",
-			"title": "dxp-demo-navbar-uppáhalds"
-		},
-		{
-			"language": "KO",
-			"title": "dxp-데모-네비바-즐겨찾기"
-		},
-		{
-			"language": "LV",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "MS",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "NN",
-			"title": "dxp-demo-navbar-favoritter"
-		},
-		{
-			"language": "NO",
-			"title": "dxp-demo-navbar-favoritter"
-		},
-		{
-			"language": "RU",
-			"title": "dxp-demo-navbar-избранное"
-		},
-		{
-			"language": "SH",
-			"title": "дкп-демо-навбар-фаворитес"
-		},
-		{
-			"language": "SK",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "SL",
-			"title": "dxp-demo-navbar-priljubljene"
-		},
-		{
-			"language": "TH",
-			"title": "dxp-demo-navbar-รายการโปรด"
-		},
-		{
-			"language": "UK",
-			"title": "dxp-demo-navbar-favorites"
-		},
-		{
-			"language": "ZF",
-			"title": "dxp-示範-導覽列-收藏夾"
+			"language": "CA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
 		},
 		{
 			"language": "ZH",
-			"title": "dxp-演示-导航栏-收藏夹"
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "ZF",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "HR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "CS",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "DA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "NL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "EN",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "ET",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "FI",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "FR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "DE",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "EL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "HE",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "HU",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "IS",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "ID",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "IT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "JA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "KO",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "LV",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "LT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "MS",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "NO",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "NN",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "PL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "PT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "RO",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "RU",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "SE",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "SR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "SH",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "SK",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "SL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "ES",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "SV",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "TH",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "TR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
+		},
+		{
+			"language": "UK",
+			"selected": true,
+			"messageText": "<code>dxp-demo-navbar-favorites</code><br>This tile group is added as a navbar in a multi column setup. ",
+			"title": ""
 		}
 	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [],
-	"configMessage": {},
+	"configMessage": {
+		"action": "/cockpit.html?debug=true#run-group%7B\"id\"%3A\"15365a99-a77b-418e-b744-3eb51ad48b98\"%2C\"name\"%3A\"dxp-demo-navbar-favorites\"%7D",
+		"text": [
+			"==OBJECT STRING==",
+			"<code>dxp-demo-navbar-favorites</code><br>",
+			"This tile group is added as a navbar in a multi column setup. "
+		]
+	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "dxp-demo-navbar-favorites",
@@ -182,13 +281,13 @@
 	"image": null,
 	"icon": null,
 	"sort": null,
-	"inclFav": true,
+	"inclFav": false,
 	"styleClass": null,
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.01.06.0101",
+	"ver": "25.03.06.1142",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
