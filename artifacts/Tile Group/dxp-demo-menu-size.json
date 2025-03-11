@@ -2,7 +2,218 @@
 	"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
 	"createdAt": "2024-11-19T19:27:29.160Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AF",
+			"selected": true,
+			"menuText": "GROOTTE"
+		},
+		{
+			"language": "AR",
+			"selected": true,
+			"menuText": "مقاس"
+		},
+		{
+			"language": "BG",
+			"selected": true,
+			"menuText": "РАЗМЕР"
+		},
+		{
+			"language": "CA",
+			"selected": true,
+			"menuText": "TALLA"
+		},
+		{
+			"language": "ZH",
+			"selected": true,
+			"menuText": "尺寸"
+		},
+		{
+			"language": "ZF",
+			"selected": true,
+			"menuText": "尺寸"
+		},
+		{
+			"language": "HR",
+			"selected": true,
+			"menuText": "VELIČINA"
+		},
+		{
+			"language": "CS",
+			"selected": true,
+			"menuText": "VELIKOST"
+		},
+		{
+			"language": "DA",
+			"selected": true,
+			"menuText": "STØRRELSE"
+		},
+		{
+			"language": "NL",
+			"selected": true,
+			"menuText": "MAAT"
+		},
+		{
+			"language": "EN",
+			"selected": true,
+			"menuText": "SIZE"
+		},
+		{
+			"language": "ET",
+			"selected": true,
+			"menuText": "SUURUS"
+		},
+		{
+			"language": "FI",
+			"selected": true,
+			"menuText": "KOKO"
+		},
+		{
+			"language": "FR",
+			"selected": true,
+			"menuText": "TAILLE"
+		},
+		{
+			"language": "DE",
+			"selected": true,
+			"menuText": "GRÖSSE"
+		},
+		{
+			"language": "EL",
+			"selected": true,
+			"menuText": "ΜΕΓΕΘΟΣ"
+		},
+		{
+			"language": "HE",
+			"selected": true,
+			"menuText": "גוֹדֶל"
+		},
+		{
+			"language": "HU",
+			"selected": true,
+			"menuText": "MÉRET"
+		},
+		{
+			"language": "IS",
+			"selected": true,
+			"menuText": "STÆRÐ"
+		},
+		{
+			"language": "ID",
+			"selected": true,
+			"menuText": "UKURAN"
+		},
+		{
+			"language": "IT",
+			"selected": true,
+			"menuText": "MISURARE"
+		},
+		{
+			"language": "JA",
+			"selected": true,
+			"menuText": "サイズ"
+		},
+		{
+			"language": "KO",
+			"selected": true,
+			"menuText": "크기"
+		},
+		{
+			"language": "LV",
+			"selected": true,
+			"menuText": "IZMĒRS"
+		},
+		{
+			"language": "LT",
+			"selected": true,
+			"menuText": "DYDIS"
+		},
+		{
+			"language": "MS",
+			"selected": true,
+			"menuText": "SAIZ"
+		},
+		{
+			"language": "NO",
+			"selected": true,
+			"menuText": "STØRRELSE"
+		},
+		{
+			"language": "NN",
+			"selected": true,
+			"menuText": "STØRRELSE"
+		},
+		{
+			"language": "PL",
+			"selected": true,
+			"menuText": "ROZMIAR"
+		},
+		{
+			"language": "PT",
+			"selected": true,
+			"menuText": "TAMANHO"
+		},
+		{
+			"language": "RO",
+			"selected": true,
+			"menuText": "DIMENSIUNE"
+		},
+		{
+			"language": "RU",
+			"selected": true,
+			"menuText": "РАЗМЕР"
+		},
+		{
+			"language": "SE",
+			"selected": true,
+			"menuText": "STURRODAT"
+		},
+		{
+			"language": "SR",
+			"selected": true,
+			"menuText": "СИЗЕ"
+		},
+		{
+			"language": "SH",
+			"selected": true,
+			"menuText": "СИЗЕ"
+		},
+		{
+			"language": "SK",
+			"selected": true,
+			"menuText": "VEĽKOSŤ"
+		},
+		{
+			"language": "SL",
+			"selected": true,
+			"menuText": "VELIKOST"
+		},
+		{
+			"language": "ES",
+			"selected": true,
+			"menuText": "TAMAÑO"
+		},
+		{
+			"language": "SV",
+			"selected": true,
+			"menuText": "STORLEK"
+		},
+		{
+			"language": "TH",
+			"selected": true,
+			"menuText": "ขนาด"
+		},
+		{
+			"language": "TR",
+			"selected": true,
+			"menuText": "BOYUT"
+		},
+		{
+			"language": "UK",
+			"selected": true,
+			"menuText": "РОЗМІР"
+		}
+	],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"5e23413c-d854-4b90-b1a5-34aaa6462bc3",
@@ -31,7 +242,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.03.06.0747",
+	"ver": "25.03.11.1130",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

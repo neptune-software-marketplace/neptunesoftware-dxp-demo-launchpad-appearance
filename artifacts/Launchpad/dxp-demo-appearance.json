@@ -506,8 +506,8 @@
 		{
 			"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
 			"name": "dxp-demo-menu-size",
-			"title": "dxp-demo-menu-size",
-			"ver": "25.01.04.1039"
+			"title": "",
+			"ver": "25.03.11.1130"
 		},
 		{
 			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
@@ -525,7 +525,7 @@
 			"id": "15365a99-a77b-418e-b744-3eb51ad48b98",
 			"name": "dxp-demo-menu-analytical",
 			"title": "",
-			"ver": "25.02.27.1557"
+			"ver": "25.03.11.1129"
 		}
 	]
 }
