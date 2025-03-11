@@ -52,8 +52,20 @@
 			"title": "יישומים"
 		},
 		{
+			"language": "HR",
+			"title": "Prijave"
+		},
+		{
 			"language": "HU",
 			"title": "Alkalmazások"
+		},
+		{
+			"language": "ID",
+			"title": "Aplikasi"
+		},
+		{
+			"language": "IS",
+			"title": "Umsóknir"
 		},
 		{
 			"language": "IT",
@@ -62,6 +74,10 @@
 		{
 			"language": "JA",
 			"title": "アプリケーション"
+		},
+		{
+			"language": "KO",
+			"title": "응용 프로그램"
 		},
 		{
 			"language": "LT",
@@ -80,6 +96,14 @@
 			"title": "Toepassingen"
 		},
 		{
+			"language": "NN",
+			"title": "Søknader"
+		},
+		{
+			"language": "NO",
+			"title": "Søknader"
+		},
+		{
 			"language": "PL",
 			"title": "Aplikacje"
 		},
@@ -90,42 +114,6 @@
 		{
 			"language": "RO",
 			"title": "Aplicații"
-		},
-		{
-			"language": "SK",
-			"title": "Aplikácie"
-		},
-		{
-			"language": "SR",
-			"title": "Апликације"
-		},
-		{
-			"language": "TR",
-			"title": "Uygulamalar"
-		},
-		{
-			"language": "HR",
-			"title": "Prijave"
-		},
-		{
-			"language": "ID",
-			"title": "Aplikasi"
-		},
-		{
-			"language": "IS",
-			"title": "Umsóknir"
-		},
-		{
-			"language": "KO",
-			"title": "응용 프로그램"
-		},
-		{
-			"language": "NN",
-			"title": "Søknader"
-		},
-		{
-			"language": "NO",
-			"title": "Søknader"
 		},
 		{
 			"language": "RU",
@@ -140,8 +128,16 @@
 			"title": "Апликације"
 		},
 		{
+			"language": "SK",
+			"title": "Aplikácie"
+		},
+		{
 			"language": "SL",
 			"title": "Aplikacije"
+		},
+		{
+			"language": "SR",
+			"title": "Апликације"
 		},
 		{
 			"language": "SV",
@@ -150,6 +146,10 @@
 		{
 			"language": "TH",
 			"title": "แอปพลิเคชั่น"
+		},
+		{
+			"language": "TR",
+			"title": "Uygulamalar"
 		},
 		{
 			"language": "UK",
@@ -171,7 +171,14 @@
 		"b89dfe9e-5272-48da-864f-dab4827b93c7"
 	],
 	"tilegroupsOrder": [],
-	"configMessage": {},
+	"configMessage": {
+		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb\"%2C\"name\"%3A\"dxp-demo-crm-showcase\"%7D",
+		"text": [
+			"==OBJECT STRING==",
+			"<code>dxp-demo-crm-showcase</code><br>",
+			"CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
+		]
+	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
 	"title": "Applications",
@@ -193,7 +200,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.02.27.1557",
+	"ver": "25.03.06.1133",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
