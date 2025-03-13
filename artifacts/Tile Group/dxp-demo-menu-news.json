@@ -4,6 +4,20 @@
 	"createdBy": "morten.prom@neptune-software.com",
 	"translation": [
 		{
+			"language": "AR",
+			"menuText": "أخبار",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"مجموعة بلاطات الشاشة برأس مخفي. 7 بلاطات، بلاطة كبيرة واحدة بحجم 12x8 و6 بلاطات صغيرة بحجم 4x1.",
+				"<ul>",
+				"<li>بلاطة بحجم 12x8: تمت إضافة فئة النمط <code>nepDxpDemoNewsMaster</code> إلى البلاطة، وهي تعكس اتجاه محتوى البطاقة، وتضع العنوان والعنوان الفرعي في أسفل البلاطة. يجعل تخطيط البلاطة مع قناع صورة من أسفل إلى أعلى عنوان البلاطة/العنوان الفرعي بارزًا على خلفية الصورة.</li>",
+				"<li>4x1: بلاطة تحتوي على عنوان وأيقونة. يتحكم تخطيط البلاطة بحجم 4x1 ووضع الأيقونة allign-with-title-left في مظهر البلاطة وملمسها</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
 			"language": "BG",
 			"menuText": "НОВИНИ",
 			"messageText": [
@@ -18,15 +32,141 @@
 			]
 		},
 		{
-			"language": "AR",
-			"menuText": "أخبار",
+			"language": "CS",
+			"menuText": "ZPRÁVY",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-news</code><br>",
-				"مجموعة بلاطات الشاشة برأس مخفي. 7 بلاطات، بلاطة كبيرة واحدة بحجم 12x8 و6 بلاطات صغيرة بحجم 4x1.",
+				"Skupina dlaždic obrazovky se skrytým záhlavím. 7 dlaždic, 1 velká dlaždice 12x8 a 6 malých dlaždic 4x1.",
 				"<ul>",
-				"<li>بلاطة بحجم 12x8: تمت إضافة فئة النمط <code>nepDxpDemoNewsMaster</code> إلى البلاطة، وهي تعكس اتجاه محتوى البطاقة، وتضع العنوان والعنوان الفرعي في أسفل البلاطة. يجعل تخطيط البلاطة مع قناع صورة من أسفل إلى أعلى عنوان البلاطة/العنوان الفرعي بارزًا على خلفية الصورة.</li>",
-				"<li>4x1: بلاطة تحتوي على عنوان وأيقونة. يتحكم تخطيط البلاطة بحجم 4x1 ووضع الأيقونة allign-with-title-left في مظهر البلاطة وملمسها</li>",
+				"<li>Dlaždice 12x8: Na dlaždici byla přidána třída stylu <code>nepDxpDemoNewsMaster</code>, která obrátí obsah karty ve směru ohybu a umístí název a podtitul do spodní části dlaždice. Rozložení dlaždic s maskou obrázku zdola nahoru umožňuje, aby název/podtitul dlaždice vynikl oproti obrázku na pozadí.</li>",
+				"<li>4x1: Dlaždice s názvem a ikonou. Rozložení dlaždic s velikostí 4x1 a umístěním ikon zarovnat-s-titulkem-doleva ovládá vzhled dlaždic</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "DA",
+			"menuText": "NYHEDER",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-nyheder</code><br>",
+				"Skærmflisegruppe med skjult overskrift. 7 fliser, 1 stor 12x8 flise og 6 små 4x1 fliser.",
+				"<ul>",
+				"<li>12x8 flise: Stilklassen <code>nepDxpDemoNewsMaster</code> er blevet tilføjet til flisen, den vender kortindholdet om i flexretningen, og placerer titlen og undertitlen i flisbunden. Et fliselayout med en bottom-up billedmaske får flisetitlen/undertitlen til at skille sig ud mod baggrundsbilledet.</li>",
+				"<li>4x1: Fliser med en titel og et ikon. Fliselayout med 4x1 størrelse og ikonplacering alllign-med-title-venstre har styrer fliselook'n'feel</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "DE",
+			"menuText": "NACHRICHT",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Bildschirmkachelgruppe mit versteckter Kopfzeile. 7 Kacheln, 1 große 12x8-Kachel und 6 kleine 4x1-Kacheln.",
+				"<ul>",
+				"<li>12x8-Kachel: Die Stilklasse <code>nepDxpDemoNewsMaster</code> wurde der Kachel hinzugefügt. Sie kehrt die Flexrichtung des Karteninhalts um und positioniert Titel und Untertitel unten an der Kachel. Ein Kachellayout mit einer von unten nach oben gerichteten Bildmaske lässt den Kacheltitel/Untertitel vom Hintergrundbild abheben.</li>",
+				"<li>4x1: Kacheln mit Titel und Symbol. Kachellayout mit 4x1-Größe und Symbolplatzierung allign-with-title-left steuert das Erscheinungsbild der Kachel</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "EL",
+			"menuText": "ΝΕΑ",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Ομάδα πλακιδίων οθόνης με κρυφή κεφαλίδα. 7 πλακάκια, 1 μεγάλο πλακάκι 12x8 και 6 μικρά πλακάκια 4x1.",
+				"<ul>",
+				"<li>Πλακίδιο 12x8: Η κλάση στυλ <code>nepDxpDemoNewsMaster</code> έχει προστεθεί στο πλακίδιο, αντιστρέφει το περιεχόμενο της κάρτας προς την ευέλικτη κατεύθυνση, τοποθετώντας τον τίτλο και τον δευτερεύοντα τίτλο στο κάτω μέρος του πλακιδίου. Μια διάταξη πλακιδίων με μάσκα εικόνας από κάτω προς τα πάνω, κάνει τον τίτλο/υποτίτλο του πλακιδίου να ξεχωρίζει σε σχέση με την εικόνα φόντου.</li>",
+				"<li>4x1: Πλακάκια με τίτλο και εικονίδιο. Η διάταξη πλακιδίων με μέγεθος 4x1 και τοποθέτηση εικονιδίων στοίχιση-με-τίτλος-αριστερά έχει ελέγχει την εμφάνιση'n'feel του πλακιδίου</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "EN",
+			"menuText": "NEWS",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Screen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles.",
+				"<ul>",
+				"<li>12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image.</li>",
+				"<li>4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "ES",
+			"menuText": "NOTICIAS",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Grupo de mosaicos de pantalla con encabezado oculto. 7 mosaicos, 1 mosaico grande de 12 x 8 y 6 mosaicos pequeños de 4 x 1.",
+				"<ul>",
+				"<li>Mosaico de 12 x 8: se agregó la clase de estilo <code>nepDxpDemoNewsMaster</code> al mosaico, que invierte el contenido de la tarjeta en la dirección de flexión y posiciona el título y el subtítulo en la parte inferior del mosaico. Un diseño de mosaico con una máscara de imagen de abajo hacia arriba hace que el título y el subtítulo del mosaico se destaquen sobre la imagen de fondo.</li>",
+				"<li>4 x 1: mosaicos con un título y un ícono. El diseño de mosaico con tamaño de 4 x 1 y la ubicación del ícono allign-with-title-left controla la apariencia del mosaico.</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "ET",
+			"menuText": "UUDISED",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Peidetud päisega ekraaniplaatide rühm. 7 paani, 1 suur 12x8 plaat ja 6 väikest 4x1 plaati.",
+				"<ul>",
+				"<li>12x8 paan: paanile on lisatud stiiliklass <code>nepDxpDemoNewsMaster</code>, mis muudab kaardi sisu painduva suuna ümber, asetades pealkirja ja alampealkirja paani põhja. Alt-üles pildimaskiga paani paigutus muudab paani pealkirja/alapealkirja taustpildi taustal silma paista.</li>",
+				"<li>4x1: pealkirja ja ikooniga plaadid. Paanide paigutus 4x1 suuruse ja ikoonide paigutusega joonda-pealkirjaga-vasakul reguleerib plaatide välimust ja tunnet</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "FI",
+			"menuText": "UUTISET",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Näytön ruuturyhmä piilotetulla otsikolla. 7 laattaa, 1 iso 12x8 laatta ja 6 pientä 4x1 laattaa.",
+				"<ul>",
+				"<li>12x8-ruutu: Tyyliluokka <code>nepDxpDemoNewsMaster</code> on lisätty ruutuun, se kääntää kortin sisällön joustavaan suuntaan ja sijoittaa otsikon ja alaotsikon ruudun alaosaan. Laattojen asettelu, jossa on alhaalta ylös -kuvamaski, saa ruudun otsikon/alaotsikon erottumaan taustakuvasta.</li>",
+				"<li>4x1: Laatat, joissa on otsikko ja kuvake. Laattojen asettelu 4x1-koolla ja kuvakkeiden sijoittelulla kohdista-otsikon kanssa-vasemmalle ohjaa laatan ulkoasua.</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "FR",
+			"menuText": "NOUVELLES",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"Groupe de tuiles d'écran avec en-tête caché. 7 tuiles, 1 grande tuile 12x8 et 6 petites tuiles 4x1.",
+				"<ul>",
+				"<li>Tuile 12x8 : la classe de style <code>nepDxpDemoNewsMaster</code> a été ajoutée à la tuile, elle inverse le contenu de la carte dans le sens flexible, en positionnant le titre et le sous-titre en bas de la tuile. Une disposition de tuile avec un masque d'image de bas en haut permet au titre/sous-titre de la tuile de se démarquer de l'image d'arrière-plan.</li>",
+				"<li>4x1 : tuiles avec un titre et une icône. La disposition des tuiles avec une taille de 4x1 et le placement des icônes allign-with-title-left contrôle l'apparence de la tuile</li>",
+				"</ul>",
+				""
+			]
+		},
+		{
+			"language": "HE",
+			"menuText": "חֲדָשׁוֹת",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-news</code><br>",
+				"קבוצת אריחי מסך עם כותרת נסתרת. 7 אריחים, אריח גדול 12x8 ו-6 אריחים קטנים 4x1.",
+				"<ul>",
+				"<li>אריח 12x8: מחלקת הסגנון <code>nepDxpDemoNewsMaster</code> נוספה לאריח, היא הופכת את תוכן הכרטיס לכיוון הגמיש, וממקמת את הכותרת וכותרת המשנה בתחתית האריח. פריסת אריח עם מסיכת תמונה מלמטה למעלה, גורם לכותרת/כותרת המשנה לבלוט על רקע תמונת הרקע.</li>",
+				"<li>4x1: אריחים עם כותרת וסמל. פריסת אריחים בגודל 4x1 ומיקום אייקונים יישור-עם-כותרת-שמאלה שולטת במראה והרגש של האריחים</li>",
 				"</ul>",
 				""
 			]
@@ -115,34 +255,6 @@
 			]
 		},
 		{
-			"language": "CS",
-			"menuText": "ZPRÁVY",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Skupina dlaždic obrazovky se skrytým záhlavím. 7 dlaždic, 1 velká dlaždice 12x8 a 6 malých dlaždic 4x1.",
-				"<ul>",
-				"<li>Dlaždice 12x8: Na dlaždici byla přidána třída stylu <code>nepDxpDemoNewsMaster</code>, která obrátí obsah karty ve směru ohybu a umístí název a podtitul do spodní části dlaždice. Rozložení dlaždic s maskou obrázku zdola nahoru umožňuje, aby název/podtitul dlaždice vynikl oproti obrázku na pozadí.</li>",
-				"<li>4x1: Dlaždice s názvem a ikonou. Rozložení dlaždic s velikostí 4x1 a umístěním ikon zarovnat-s-titulkem-doleva ovládá vzhled dlaždic</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
-			"language": "DE",
-			"menuText": "NACHRICHT",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Bildschirmkachelgruppe mit versteckter Kopfzeile. 7 Kacheln, 1 große 12x8-Kachel und 6 kleine 4x1-Kacheln.",
-				"<ul>",
-				"<li>12x8-Kachel: Die Stilklasse <code>nepDxpDemoNewsMaster</code> wurde der Kachel hinzugefügt. Sie kehrt die Flexrichtung des Karteninhalts um und positioniert Titel und Untertitel unten an der Kachel. Ein Kachellayout mit einer von unten nach oben gerichteten Bildmaske lässt den Kacheltitel/Untertitel vom Hintergrundbild abheben.</li>",
-				"<li>4x1: Kacheln mit Titel und Symbol. Kachellayout mit 4x1-Größe und Symbolplatzierung allign-with-title-left steuert das Erscheinungsbild der Kachel</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
 			"language": "KO",
 			"menuText": "소식",
 			"messageText": [
@@ -185,15 +297,15 @@
 			]
 		},
 		{
-			"language": "EN",
-			"menuText": "NEWS",
+			"language": "MS",
+			"menuText": "BERITA",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-news</code><br>",
-				"Screen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles.",
+				"Kumpulan jubin skrin dengan pengepala tersembunyi. 7 jubin, 1 jubin 12x8 besar dan 6 jubin 4x1 kecil.",
 				"<ul>",
-				"<li>12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image.</li>",
-				"<li>4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel</li>",
+				"<li>Jubin 12x8: Kelas gaya <code>nepDxpDemoNewsMaster</code> telah ditambahkan pada jubin, ia membalikkan kandungan kad arah flex, meletakkan tajuk & sub tajuk di bahagian bawah jubin. Reka letak jubin dengan topeng imej bawah ke atas, menjadikan tajuk jubin/sub tajuk menonjol berbanding imej latar belakang.</li>",
+				"<li>4x1: Jubin dengan tajuk dan ikon. Reka letak jubin dengan saiz 4x1 dan peletakan ikon sejajar-dengan-tajuk-kiri mempunyai mengawal rupa jubin</li>",
 				"</ul>",
 				""
 			]
@@ -213,20 +325,6 @@
 			]
 		},
 		{
-			"language": "DA",
-			"menuText": "NYHEDER",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-nyheder</code><br>",
-				"Skærmflisegruppe med skjult overskrift. 7 fliser, 1 stor 12x8 flise og 6 små 4x1 fliser.",
-				"<ul>",
-				"<li>12x8 flise: Stilklassen <code>nepDxpDemoNewsMaster</code> er blevet tilføjet til flisen, den vender kortindholdet om i flexretningen, og placerer titlen og undertitlen i flisbunden. Et fliselayout med en bottom-up billedmaske får flisetitlen/undertitlen til at skille sig ud mod baggrundsbilledet.</li>",
-				"<li>4x1: Fliser med en titel og et ikon. Fliselayout med 4x1 størrelse og ikonplacering alllign-med-title-venstre har styrer fliselook'n'feel</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
 			"language": "NN",
 			"menuText": "NYHETER",
 			"messageText": [
@@ -236,20 +334,6 @@
 				"<ul>",
 				"<li>12x8 flis: Stilklassen <code>nepDxpDemoNewsMaster</code> er lagt til flisen, den snur kortinnholdet i flexretningen, og plasserer tittelen og undertittelen nederst. Et flisoppsett med en bildemaske nedenfra og opp gjør at flistittelen/undertittelen skiller seg ut mot bakgrunnsbildet.</li>",
 				"<li>4x1: Fliser med tittel og ikon. Flislayout med 4x1-størrelse og ikonplassering alllign-with-title-venstre har kontrollerer flisens utseende</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
-			"language": "MS",
-			"menuText": "BERITA",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Kumpulan jubin skrin dengan pengepala tersembunyi. 7 jubin, 1 jubin 12x8 besar dan 6 jubin 4x1 kecil.",
-				"<ul>",
-				"<li>Jubin 12x8: Kelas gaya <code>nepDxpDemoNewsMaster</code> telah ditambahkan pada jubin, ia membalikkan kandungan kad arah flex, meletakkan tajuk & sub tajuk di bahagian bawah jubin. Reka letak jubin dengan topeng imej bawah ke atas, menjadikan tajuk jubin/sub tajuk menonjol berbanding imej latar belakang.</li>",
-				"<li>4x1: Jubin dengan tajuk dan ikon. Reka letak jubin dengan saiz 4x1 dan peletakan ikon sejajar-dengan-tajuk-kiri mempunyai mengawal rupa jubin</li>",
 				"</ul>",
 				""
 			]
@@ -297,34 +381,6 @@
 			]
 		},
 		{
-			"language": "EL",
-			"menuText": "ΝΕΑ",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Ομάδα πλακιδίων οθόνης με κρυφή κεφαλίδα. 7 πλακάκια, 1 μεγάλο πλακάκι 12x8 και 6 μικρά πλακάκια 4x1.",
-				"<ul>",
-				"<li>Πλακίδιο 12x8: Η κλάση στυλ <code>nepDxpDemoNewsMaster</code> έχει προστεθεί στο πλακίδιο, αντιστρέφει το περιεχόμενο της κάρτας προς την ευέλικτη κατεύθυνση, τοποθετώντας τον τίτλο και τον δευτερεύοντα τίτλο στο κάτω μέρος του πλακιδίου. Μια διάταξη πλακιδίων με μάσκα εικόνας από κάτω προς τα πάνω, κάνει τον τίτλο/υποτίτλο του πλακιδίου να ξεχωρίζει σε σχέση με την εικόνα φόντου.</li>",
-				"<li>4x1: Πλακάκια με τίτλο και εικονίδιο. Η διάταξη πλακιδίων με μέγεθος 4x1 και τοποθέτηση εικονιδίων στοίχιση-με-τίτλος-αριστερά έχει ελέγχει την εμφάνιση'n'feel του πλακιδίου</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
-			"language": "ES",
-			"menuText": "NOTICIAS",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Grupo de mosaicos de pantalla con encabezado oculto. 7 mosaicos, 1 mosaico grande de 12 x 8 y 6 mosaicos pequeños de 4 x 1.",
-				"<ul>",
-				"<li>Mosaico de 12 x 8: se agregó la clase de estilo <code>nepDxpDemoNewsMaster</code> al mosaico, que invierte el contenido de la tarjeta en la dirección de flexión y posiciona el título y el subtítulo en la parte inferior del mosaico. Un diseño de mosaico con una máscara de imagen de abajo hacia arriba hace que el título y el subtítulo del mosaico se destaquen sobre la imagen de fondo.</li>",
-				"<li>4 x 1: mosaicos con un título y un ícono. El diseño de mosaico con tamaño de 4 x 1 y la ubicación del ícono allign-with-title-left controla la apariencia del mosaico.</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
 			"language": "RO",
 			"menuText": "ŞTIRI",
 			"messageText": [
@@ -334,20 +390,6 @@
 				"<ul>",
 				"<li>Placă 12x8: clasa de stil <code>nepDxpDemoNewsMaster</code> a fost adăugată la piese, aceasta inversează conținutul cardului în direcția flexibilă, poziționând titlul și subtitlul în partea de jos a piesei. Un aspect de plăci cu o mască de imagine de jos în sus, face ca titlul plăcii/subtitlul să iasă în evidență față de imaginea de fundal.</li>",
 				"<li>4x1: plăci cu titlu și pictogramă. Aspectul plăcilor cu dimensiunea 4x1 și plasarea pictogramei align-with-title-left are controale aspectul și senzația plăcii</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
-			"language": "ET",
-			"menuText": "UUDISED",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Peidetud päisega ekraaniplaatide rühm. 7 paani, 1 suur 12x8 plaat ja 6 väikest 4x1 plaati.",
-				"<ul>",
-				"<li>12x8 paan: paanile on lisatud stiiliklass <code>nepDxpDemoNewsMaster</code>, mis muudab kaardi sisu painduva suuna ümber, asetades pealkirja ja alampealkirja paani põhja. Alt-üles pildimaskiga paani paigutus muudab paani pealkirja/alapealkirja taustpildi taustal silma paista.</li>",
-				"<li>4x1: pealkirja ja ikooniga plaadid. Paanide paigutus 4x1 suuruse ja ikoonide paigutusega joonda-pealkirjaga-vasakul reguleerib plaatide välimust ja tunnet</li>",
 				"</ul>",
 				""
 			]
@@ -409,20 +451,6 @@
 			]
 		},
 		{
-			"language": "FI",
-			"menuText": "UUTISET",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Näytön ruuturyhmä piilotetulla otsikolla. 7 laattaa, 1 iso 12x8 laatta ja 6 pientä 4x1 laattaa.",
-				"<ul>",
-				"<li>12x8-ruutu: Tyyliluokka <code>nepDxpDemoNewsMaster</code> on lisätty ruutuun, se kääntää kortin sisällön joustavaan suuntaan ja sijoittaa otsikon ja alaotsikon ruudun alaosaan. Laattojen asettelu, jossa on alhaalta ylös -kuvamaski, saa ruudun otsikon/alaotsikon erottumaan taustakuvasta.</li>",
-				"<li>4x1: Laatat, joissa on otsikko ja kuvake. Laattojen asettelu 4x1-koolla ja kuvakkeiden sijoittelulla kohdista-otsikon kanssa-vasemmalle ohjaa laatan ulkoasua.</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
 			"language": "SL",
 			"menuText": "NOVICE",
 			"messageText": [
@@ -465,20 +493,6 @@
 			]
 		},
 		{
-			"language": "FR",
-			"menuText": "NOUVELLES",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"Groupe de tuiles d'écran avec en-tête caché. 7 tuiles, 1 grande tuile 12x8 et 6 petites tuiles 4x1.",
-				"<ul>",
-				"<li>Tuile 12x8 : la classe de style <code>nepDxpDemoNewsMaster</code> a été ajoutée à la tuile, elle inverse le contenu de la carte dans le sens flexible, en positionnant le titre et le sous-titre en bas de la tuile. Une disposition de tuile avec un masque d'image de bas en haut permet au titre/sous-titre de la tuile de se démarquer de l'image d'arrière-plan.</li>",
-				"<li>4x1 : tuiles avec un titre et une icône. La disposition des tuiles avec une taille de 4x1 et le placement des icônes allign-with-title-left contrôle l'apparence de la tuile</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
 			"language": "TH",
 			"menuText": "ข่าว",
 			"messageText": [
@@ -516,20 +530,6 @@
 				"<ul>",
 				"<li>Плитка 12x8: до плитки додано клас стилю <code>nepDxpDemoNewsMaster</code>, він змінює напрямок згинання вмісту картки, розташовуючи заголовок і підзаголовок внизу плитки. Завдяки мозаїчному макету з маскою зображення знизу вгору заголовок/підзаголовок мозаїки виділяється на фоні зображення.</li>",
 				"<li>4x1: плитки із заголовком і значком. Макет плитки розміром 4x1 і розміщення піктограм, вирівнювання з заголовком-ліворуч, керує виглядом і відчуттям плитки</li>",
-				"</ul>",
-				""
-			]
-		},
-		{
-			"language": "HE",
-			"menuText": "חֲדָשׁוֹת",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-news</code><br>",
-				"קבוצת אריחי מסך עם כותרת נסתרת. 7 אריחים, אריח גדול 12x8 ו-6 אריחים קטנים 4x1.",
-				"<ul>",
-				"<li>אריח 12x8: מחלקת הסגנון <code>nepDxpDemoNewsMaster</code> נוספה לאריח, היא הופכת את תוכן הכרטיס לכיוון הגמיש, וממקמת את הכותרת וכותרת המשנה בתחתית האריח. פריסת אריח עם מסיכת תמונה מלמטה למעלה, גורם לכותרת/כותרת המשנה לבלוט על רקע תמונת הרקע.</li>",
-				"<li>4x1: אריחים עם כותרת וסמל. פריסת אריחים בגודל 4x1 ומיקום אייקונים יישור-עם-כותרת-שמאלה שולטת במראה והרגש של האריחים</li>",
 				"</ul>",
 				""
 			]
@@ -607,7 +607,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.02.26.0123",
+	"ver": "25.03.13.2345",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -727,13 +727,13 @@
 			"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
 			"name": "dxp-demo-news-fantacy-teams",
 			"title": "Weather Fantasy Teams",
-			"ver": "25.03.06.0744"
+			"ver": "25.03.14.0008"
 		},
 		{
 			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
 			"name": "dxp-demo-news-stories",
 			"title": "News Stories",
-			"ver": "25.01.05.1928"
+			"ver": "25.03.13.2346"
 		}
 	],
 	"navbarGroups": [],

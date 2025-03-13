@@ -112,111 +112,21 @@
 			]
 		},
 		{
-			"language": "HU",
-			"title": "Hírek",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Csempecsoport szakasz rejtett csempecsoport fejléccel. 4 csempe tetején igazított képpel."
-			]
-		},
-		{
-			"language": "IT",
-			"title": "Notizie Storie",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sezione del gruppo tile con intestazione del gruppo tile nascosta. 4 tile con un'immagine tile allineata in alto."
-			]
-		},
-		{
-			"language": "JA",
-			"title": "ニュース記事",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"タイル グループ ヘッダーが非表示のタイル グループ セクション。上部にタイル画像が配置された 4 つのタイル。"
-			]
-		},
-		{
-			"language": "LT",
-			"title": "Naujienų istorijos",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Plytelių grupės skyrius su paslėpta plytelių grupės antrašte. 4 plytelės su viršuje išlygiuotu plytelės vaizdu."
-			]
-		},
-		{
-			"language": "LV",
-			"title": "Ziņu stāsti",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Flīžu grupas sadaļa ar slēptu flīžu grupas galveni. 4 flīzes ar flīzes attēlu, kas līdzināts augšpusē."
-			]
-		},
-		{
-			"language": "NL",
-			"title": "Nieuwsverhalen",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Tegelgroepsectie met verborgen tegelgroepheader. 4 tegels met een tegelafbeelding bovenaan uitgelijnd."
-			]
-		},
-		{
-			"language": "PL",
-			"title": "Wiadomości",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sekcja grupy kafelków z ukrytym nagłówkiem grupy kafelków. 4 kafelki z obrazem kafelka wyrównanym do góry."
-			]
-		},
-		{
-			"language": "RO",
-			"title": "Stiri",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Secțiune de grup de plăci cu antet de grup de plăci ascuns. 4 plăci cu o imagine de plăci aliniată în partea de sus."
-			]
-		},
-		{
-			"language": "SK",
-			"title": "Novinky",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sekcia skupiny dlaždíc so skrytou hlavičkou skupiny dlaždíc. 4 dlaždice s obrázkom dlaždíc zarovnaným navrchu."
-			]
-		},
-		{
-			"language": "SL",
-			"title": "Novice",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-novice-zgodbe</code><br>",
-				"Razdelek skupine ploščic s skrito glavo skupine ploščic. 4 ploščice s sliko ploščice, poravnano na vrhu."
-			]
-		},
-		{
-			"language": "TR",
-			"title": "Haber Hikayeleri",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Gizli kiremit grubu başlığına sahip kiremit grubu bölümü. Üstte hizalanmış bir kiremit görüntüsüne sahip 4 kiremit."
-			]
-		},
-		{
 			"language": "HR",
 			"title": "Vijesti",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-vijesti-priče</code><br>",
 				"Odjeljak grupe pločica sa skrivenim zaglavljem grupe pločica. 4 pločice sa slikom pločice poravnatom na vrhu."
+			]
+		},
+		{
+			"language": "HU",
+			"title": "Hírek",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Csempecsoport szakasz rejtett csempecsoport fejléccel. 4 csempe tetején igazított képpel."
 			]
 		},
 		{
@@ -238,6 +148,24 @@
 			]
 		},
 		{
+			"language": "IT",
+			"title": "Notizie Storie",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Sezione del gruppo tile con intestazione del gruppo tile nascosta. 4 tile con un'immagine tile allineata in alto."
+			]
+		},
+		{
+			"language": "JA",
+			"title": "ニュース記事",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"タイル グループ ヘッダーが非表示のタイル グループ セクション。上部にタイル画像が配置された 4 つのタイル。"
+			]
+		},
+		{
 			"language": "KO",
 			"title": "뉴스기사",
 			"messageText": [
@@ -247,12 +175,39 @@
 			]
 		},
 		{
+			"language": "LT",
+			"title": "Naujienų istorijos",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Plytelių grupės skyrius su paslėpta plytelių grupės antrašte. 4 plytelės su viršuje išlygiuotu plytelės vaizdu."
+			]
+		},
+		{
+			"language": "LV",
+			"title": "Ziņu stāsti",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Flīžu grupas sadaļa ar slēptu flīžu grupas galveni. 4 flīzes ar flīzes attēlu, kas līdzināts augšpusē."
+			]
+		},
+		{
 			"language": "MS",
 			"title": "Berita Berita",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-news-stories</code><br>",
 				"Bahagian kumpulan jubin dengan pengepala kumpulan jubin tersembunyi. 4 jubin dengan imej jubin dijajarkan di bahagian atas."
+			]
+		},
+		{
+			"language": "NL",
+			"title": "Nieuwsverhalen",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Tegelgroepsectie met verborgen tegelgroepheader. 4 tegels met een tegelafbeelding bovenaan uitgelijnd."
 			]
 		},
 		{
@@ -274,12 +229,30 @@
 			]
 		},
 		{
+			"language": "PL",
+			"title": "Wiadomości",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Sekcja grupy kafelków z ukrytym nagłówkiem grupy kafelków. 4 kafelki z obrazem kafelka wyrównanym do góry."
+			]
+		},
+		{
 			"language": "PT",
 			"title": "Notícias",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-news-stories</code><br>",
 				"Seção de grupo de tiles com cabeçalho de grupo de tiles oculto. 4 tiles com uma imagem de tile alinhada na parte superior."
+			]
+		},
+		{
+			"language": "RO",
+			"title": "Stiri",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Secțiune de grup de plăci cu antet de grup de plăci ascuns. 4 plăci cu o imagine de plăci aliniată în partea de sus."
 			]
 		},
 		{
@@ -310,6 +283,24 @@
 			]
 		},
 		{
+			"language": "SK",
+			"title": "Novinky",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Sekcia skupiny dlaždíc so skrytou hlavičkou skupiny dlaždíc. 4 dlaždice s obrázkom dlaždíc zarovnaným navrchu."
+			]
+		},
+		{
+			"language": "SL",
+			"title": "Novice",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-novice-zgodbe</code><br>",
+				"Razdelek skupine ploščic s skrito glavo skupine ploščic. 4 ploščice s sliko ploščice, poravnano na vrhu."
+			]
+		},
+		{
 			"language": "SR",
 			"title": "Вести",
 			"messageText": [
@@ -334,6 +325,15 @@
 				"==OBJECT STRING==",
 				"<code>dxp-demo-news-stories</code><br>",
 				"ส่วนกลุ่มไทล์ที่มีส่วนหัวของกลุ่มไทล์ที่ซ่อนอยู่ ไทล์ 4 อันพร้อมรูปภาพไทล์ที่จัดตำแหน่งไว้ที่ด้านบน"
+			]
+		},
+		{
+			"language": "TR",
+			"title": "Haber Hikayeleri",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-news-stories</code><br>",
+				"Gizli kiremit grubu başlığına sahip kiremit grubu bölümü. Üstte hizalanmış bir kiremit görüntüsüne sahip 4 kiremit."
 			]
 		},
 		{
@@ -396,7 +396,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.01.05.1928",
+	"ver": "25.03.13.2346",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

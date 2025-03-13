@@ -359,7 +359,7 @@
 			"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
 			"name": "dxp-demo-crm-showcase",
 			"title": "Applications",
-			"ver": "25.03.06.1133"
+			"ver": "25.03.13.2314"
 		}
 	],
 	"navbarGroups": [
@@ -372,8 +372,8 @@
 		{
 			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
 			"name": "dxp-demo-navbar-favorites",
-			"title": "dxp-demo-navbar-favorites",
-			"ver": "25.03.06.1142"
+			"title": "",
+			"ver": "25.03.13.2322"
 		}
 	],
 	"sidebarGroups": [
@@ -381,7 +381,7 @@
 			"id": "f7812880-d88b-4797-b711-f3c6d7e25a67",
 			"name": "dxp-demo-sidebar-image-top",
 			"title": "Tile Image Top",
-			"ver": "25.03.06.1142"
+			"ver": "25.03.13.2315"
 		}
 	]
 }

@@ -4,22 +4,22 @@
 	"createdBy": "morten.prom@neptune-software.com",
 	"translation": [
 		{
-			"language": "HR",
-			"menuText": "IKONA I NASLOV FONTA PLOČICE",
+			"language": "AR",
+			"menuText": "أيقونة الخط والعنوان",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Grupa pločica zaslona sa skrivenim zaglavljem. Grupa pločica zaslona ne uključuje pločice već 3 grupe pločica odjeljaka.",
+				"مجموعة بلاطات الشاشة ذات رأس مخفي. لا تتضمن مجموعة بلاطات الشاشة أي بلاطات ولكنها تتضمن مجموعات بلاطات مكونة من 3 أقسام.",
 				""
 			]
 		},
 		{
-			"language": "HE",
-			"menuText": "סמל וכותרת של גופן אריח",
+			"language": "BG",
+			"menuText": "ИКОНА И ЗАГЛАВИЕ НА ШРИФТ НА ПЛОЧКА",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"קבוצת אריחי מסך עם כותרת נסתרת. קבוצת אריחי המסך אינה כוללת אריחים אלא 3 קבוצות אריחי מקטעים.",
+				"Група екранни плочки със скрита заглавка. Групата плочки на екрана не включва плочки, а 3 групи плочки на секции.",
 				""
 			]
 		},
@@ -34,22 +34,112 @@
 			]
 		},
 		{
+			"language": "DA",
+			"menuText": "TILE FONT IKON & TITEL",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Skærmflisegruppe med skjult overskrift. Skærmflisegruppen inkluderer ingen fliser, men 3 sektionsflisegrupper.",
+				""
+			]
+		},
+		{
+			"language": "DE",
+			"menuText": "Symbol und Titel der Kachelschriftart",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Bildschirmkachelgruppe mit versteckter Kopfzeile. Die Bildschirmkachelgruppe enthält keine Kacheln, sondern 3 Abschnittskachelgruppen.",
+				""
+			]
+		},
+		{
+			"language": "EL",
+			"menuText": "TILE FONT ICON & TITLE",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Ομάδα πλακιδίων οθόνης με κρυφή κεφαλίδα. Η ομάδα πλακιδίων οθόνης δεν περιλαμβάνει πλακίδια αλλά ομάδες πλακιδίων 3 τμημάτων.",
+				""
+			]
+		},
+		{
+			"language": "EN",
+			"menuText": "TILE FONT ICON & TITLE",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Screen tile group with hidden header. The screen tile group includes no tiles but 3 section tile groups.",
+				""
+			]
+		},
+		{
+			"language": "ES",
+			"menuText": "ICONO Y TÍTULO DE FUENTE DE AZULEJO",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Grupo de mosaicos de pantalla con encabezado oculto. El grupo de mosaicos de pantalla no incluye mosaicos, sino tres grupos de mosaicos de sección.",
+				""
+			]
+		},
+		{
+			"language": "ET",
+			"menuText": "PLAATIDE FONDI IKON JA PEALKIRI",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Peidetud päisega ekraaniplaatide rühm. Ekraani paanide rühm ei sisalda paane, vaid 3 sektsiooni paanide rühma.",
+				""
+			]
+		},
+		{
+			"language": "FI",
+			"menuText": "LAATTOFONTTIKUVAKE & OTSIKKO",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Näytön ruuturyhmä piilotetulla otsikolla. Näytön ruuturyhmä ei sisällä ruutuja, vaan 3 osioruuturyhmää.",
+				""
+			]
+		},
+		{
+			"language": "FR",
+			"menuText": "ICÔNE ET TITRE DE POLICE DE TUILE",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Groupe de tuiles d'écran avec en-tête masqué. Le groupe de tuiles d'écran ne comprend aucune tuile mais 3 groupes de tuiles de section.",
+				""
+			]
+		},
+		{
+			"language": "HE",
+			"menuText": "סמל וכותרת של גופן אריח",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"קבוצת אריחי מסך עם כותרת נסתרת. קבוצת אריחי המסך אינה כוללת אריחים אלא 3 קבוצות אריחי מקטעים.",
+				""
+			]
+		},
+		{
+			"language": "HR",
+			"menuText": "IKONA I NASLOV FONTA PLOČICE",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
+				"Grupa pločica zaslona sa skrivenim zaglavljem. Grupa pločica zaslona ne uključuje pločice već 3 grupe pločica odjeljaka.",
+				""
+			]
+		},
+		{
 			"language": "HU",
 			"menuText": "CSEMKE BETŰTŰ IKON ÉS CÍM",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
 				"Képernyőcsempék csoport rejtett fejléccel. A képernyő csempe csoport nem tartalmaz csempéket, csak 3 szakasz csempe csoportot.",
-				""
-			]
-		},
-		{
-			"language": "IS",
-			"menuText": "FLÍSALETTÁKN OG TITILL",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Skjáflísarhópur með földum haus. Skjáflísahópurinn inniheldur engar flísar heldur 3 hluta flísahópa.",
 				""
 			]
 		},
@@ -63,12 +153,12 @@
 			]
 		},
 		{
-			"language": "AR",
-			"menuText": "أيقونة الخط والعنوان",
+			"language": "IS",
+			"menuText": "FLÍSALETTÁKN OG TITILL",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"مجموعة بلاطات الشاشة ذات رأس مخفي. لا تتضمن مجموعة بلاطات الشاشة أي بلاطات ولكنها تتضمن مجموعات بلاطات مكونة من 3 أقسام.",
+				"Skjáflísarhópur með földum haus. Skjáflísahópurinn inniheldur engar flísar heldur 3 hluta flísahópa.",
 				""
 			]
 		},
@@ -92,12 +182,12 @@
 			]
 		},
 		{
-			"language": "BG",
-			"menuText": "ИКОНА И ЗАГЛАВИЕ НА ШРИФТ НА ПЛОЧКА",
+			"language": "KO",
+			"menuText": "타일 글꼴 아이콘 및 제목",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Група екранни плочки със скрита заглавка. Групата плочки на екрана не включва плочки, а 3 групи плочки на секции.",
+				"숨겨진 헤더가 있는 화면 타일 그룹. 화면 타일 그룹에는 타일이 없지만 3개의 섹션 타일 그룹이 있습니다.",
 				""
 			]
 		},
@@ -122,52 +212,12 @@
 			]
 		},
 		{
-			"language": "DE",
-			"menuText": "Symbol und Titel der Kachelschriftart",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Bildschirmkachelgruppe mit versteckter Kopfzeile. Die Bildschirmkachelgruppe enthält keine Kacheln, sondern 3 Abschnittskachelgruppen.",
-				""
-			]
-		},
-		{
-			"language": "KO",
-			"menuText": "타일 글꼴 아이콘 및 제목",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"숨겨진 헤더가 있는 화면 타일 그룹. 화면 타일 그룹에는 타일이 없지만 3개의 섹션 타일 그룹이 있습니다.",
-				""
-			]
-		},
-		{
-			"language": "EN",
-			"menuText": "TILE FONT ICON & TITLE",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Screen tile group with hidden header. The screen tile group includes no tiles but 3 section tile groups.",
-				""
-			]
-		},
-		{
 			"language": "MS",
 			"menuText": "IKON & TAJUK FONT JUBIN",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
 				"Kumpulan jubin skrin dengan pengepala tersembunyi. Kumpulan jubin skrin tidak termasuk jubin tetapi 3 kumpulan jubin bahagian.",
-				""
-			]
-		},
-		{
-			"language": "NN",
-			"menuText": "FLISSKRIFT IKONET OG TITTEL",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Skjermflisgruppe med skjult overskrift. Skjermflisgruppen inkluderer ingen fliser, men 3 seksjonsflisgrupper.",
 				""
 			]
 		},
@@ -182,8 +232,8 @@
 			]
 		},
 		{
-			"language": "NO",
-			"menuText": "TILE FONT IKON & TITTEL",
+			"language": "NN",
+			"menuText": "FLISSKRIFT IKONET OG TITTEL",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
@@ -192,12 +242,12 @@
 			]
 		},
 		{
-			"language": "DA",
-			"menuText": "TILE FONT IKON & TITEL",
+			"language": "NO",
+			"menuText": "TILE FONT IKON & TITTEL",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Skærmflisegruppe med skjult overskrift. Skærmflisegruppen inkluderer ingen fliser, men 3 sektionsflisegrupper.",
+				"Skjermflisgruppe med skjult overskrift. Skjermflisgruppen inkluderer ingen fliser, men 3 seksjonsflisgrupper.",
 				""
 			]
 		},
@@ -212,42 +262,12 @@
 			]
 		},
 		{
-			"language": "ES",
-			"menuText": "ICONO Y TÍTULO DE FUENTE DE AZULEJO",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Grupo de mosaicos de pantalla con encabezado oculto. El grupo de mosaicos de pantalla no incluye mosaicos, sino tres grupos de mosaicos de sección.",
-				""
-			]
-		},
-		{
 			"language": "PT",
 			"menuText": "ÍCONE E TÍTULO DA FONTE TILE",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
 				"Grupo de blocos de tela com cabeçalho oculto. O grupo de blocos de tela não inclui blocos, mas 3 grupos de blocos de seção.",
-				""
-			]
-		},
-		{
-			"language": "EL",
-			"menuText": "TILE FONT ICON & TITLE",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Ομάδα πλακιδίων οθόνης με κρυφή κεφαλίδα. Η ομάδα πλακιδίων οθόνης δεν περιλαμβάνει πλακίδια αλλά ομάδες πλακιδίων 3 τμημάτων.",
-				""
-			]
-		},
-		{
-			"language": "RU",
-			"menuText": "Значок и заголовок шрифта TILE",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Группа плиток экрана со скрытым заголовком. Группа плиток экрана не включает плитки, но содержит 3 группы плиток раздела.",
 				""
 			]
 		},
@@ -262,22 +282,12 @@
 			]
 		},
 		{
-			"language": "ET",
-			"menuText": "PLAATIDE FONDI IKON JA PEALKIRI",
+			"language": "RU",
+			"menuText": "Значок и заголовок шрифта TILE",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Peidetud päisega ekraaniplaatide rühm. Ekraani paanide rühm ei sisalda paane, vaid 3 sektsiooni paanide rühma.",
-				""
-			]
-		},
-		{
-			"language": "SH",
-			"menuText": "ИКОНА И НАСЛОВ ПЛОЧИЦА",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<цоде>дкп-демо-мену-тиле-фонт-ицон-титле</цоде><бр>",
-				"Група плочица екрана са скривеним заглављем. Група плочица екрана не укључује плочице већ групе плочица од 3 секције.",
+				"Группа плиток экрана со скрытым заголовком. Группа плиток экрана не включает плитки, но содержит 3 группы плиток раздела.",
 				""
 			]
 		},
@@ -292,22 +302,22 @@
 			]
 		},
 		{
+			"language": "SH",
+			"menuText": "ИКОНА И НАСЛОВ ПЛОЧИЦА",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<цоде>дкп-демо-мену-тиле-фонт-ицон-титле</цоде><бр>",
+				"Група плочица екрана са скривеним заглављем. Група плочица екрана не укључује плочице већ групе плочица од 3 секције.",
+				""
+			]
+		},
+		{
 			"language": "SK",
 			"menuText": "IKONA A NÁZOV PÍSMA DLAŽDICE",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
 				"Skupina dlaždíc obrazovky so skrytou hlavičkou. Skupina dlaždíc obrazovky neobsahuje žiadne dlaždice, ale 3 skupiny dlaždíc sekcií.",
-				""
-			]
-		},
-		{
-			"language": "FI",
-			"menuText": "LAATTOFONTTIKUVAKE & OTSIKKO",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Näytön ruuturyhmä piilotetulla otsikolla. Näytön ruuturyhmä ei sisällä ruutuja, vaan 3 osioruuturyhmää.",
 				""
 			]
 		},
@@ -342,16 +352,6 @@
 			]
 		},
 		{
-			"language": "FR",
-			"menuText": "ICÔNE ET TITRE DE POLICE DE TUILE",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
-				"Groupe de tuiles d'écran avec en-tête masqué. Le groupe de tuiles d'écran ne comprend aucune tuile mais 3 groupes de tuiles de section.",
-				""
-			]
-		},
-		{
 			"language": "TH",
 			"menuText": "ไอคอนแบบอักษรไทล์และชื่อเรื่อง",
 			"messageText": [
@@ -380,21 +380,21 @@
 			]
 		},
 		{
+			"language": "ZF",
+			"menuText": "平鋪字體圖示和標題",
+			"messageText": [
+				"==OBJECT STRING==",
+				"<code>dxp-demo-menu-tile-font-icon-title</code><br> 隱藏標題的螢幕圖塊組。螢幕圖塊組不包含圖塊，但包含 3 個部分圖塊組。",
+				""
+			]
+		},
+		{
 			"language": "ZH",
 			"menuText": "平铺字体图标和标题",
 			"messageText": [
 				"==OBJECT STRING==",
 				"<code>dxp-demo-menu-tile-font-icon-title</code><br>",
 				"带有隐藏标题的屏幕图块组。屏幕图块组不包含图块，但包含 3 个部分图块组。",
-				""
-			]
-		},
-		{
-			"language": "ZF",
-			"menuText": "平鋪字體圖示和標題",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-menu-tile-font-icon-title</code><br> 隱藏標題的螢幕圖塊組。螢幕圖塊組不包含圖塊，但包含 3 個部分圖塊組。",
 				""
 			]
 		}
@@ -435,7 +435,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "24.11.19.1945",
+	"ver": "25.03.13.2344",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

@@ -2,7 +2,266 @@
 	"id": "c07341a3-9c1d-412e-b034-e605cd49aa11",
 	"createdAt": "2024-10-14T07:10:37.129Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [],
+	"translation": [
+		{
+			"language": "AF",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standaard teëlgroepafdeling met geen teëlgroepuitleg nie. 8 teëls met 'n 2x2-grootte teëluitleg. Elke teël bevat 'n teël-ikoonbeeld, die beeldgrootte soos gemanipuleer in die globale styl wat aan die lanseerbord geheg is.",
+			"title": "Weer Fantasiespanne",
+			"text": ""
+		},
+		{
+			"language": "AR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>قسم مجموعات بلاطات قياسي بدون تصميم مجموعات بلاطات. 8 بلاطات بتصميم بلاطات 2×2. كل بلاطة تحتوي على صورة أيقونة بلاطة، وقد تم تعديل حجم الصورة بالنمط العام المرفق بلوحة التشغيل.",
+			"title": "فرق الطقس الخيالية",
+			"text": "",
+			"subTitle": "",
+			"menuText": ""
+		},
+		{
+			"language": "BG",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Стандартен раздел за група плочки без групово оформление. 8 плочки с оформление на плочки с размер 2x2. Всяка плочка включва изображение на икона на плочка, размерът на изображението, както е манипулиран в глобалния стил, прикрепен към панела за стартиране.",
+			"title": "Weather Fantasy Teams",
+			"subTitle": "",
+			"menuText": ""
+		},
+		{
+			"language": "CA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Secció de grup de fitxes estàndard sense disseny de grup de fitxes. 8 fitxes amb una disposició de rajoles de mida 2x2. Cada rajola inclou una imatge d'icona de rajola, la mida de la imatge s'ha manipulat a l'estil global adjunt a la plataforma de llançament.",
+			"title": "Equips de fantasia meteorològica"
+		},
+		{
+			"language": "CS",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standardní sekce skupin dlaždic bez rozvržení skupin dlaždic. 8 dlaždic s rozložením dlaždic o velikosti 2x2. Každá dlaždice obsahuje obrázek ikony dlaždice, jehož velikost byla upravena v globálním stylu připojeném k příručnímu panelu.",
+			"title": "Počasí Fantasy Teams"
+		},
+		{
+			"language": "DA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard flisegruppesektion uden flisegruppelayout. 8 fliser med 2x2 størrelse fliselayout. Hver flise indeholder et fliseikonbillede, billedstørrelsen som er blevet manipuleret i den globale stil knyttet til startpanelet.",
+			"title": "Vejr Fantasy Teams"
+		},
+		{
+			"language": "DE",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard-Kachelgruppenbereich ohne Kachelgruppenlayout. 8 Kacheln im 2x2-Kachellayout. Jede Kachel enthält ein Kachelsymbolbild. Die Bildgröße wurde im globalen Stil des Launchpads angepasst.",
+			"title": "Wetter-Fantasy-Teams"
+		},
+		{
+			"language": "EL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Τυπική ενότητα ομάδας πλακιδίων χωρίς διάταξη ομάδας πλακιδίων. 8 πλακάκια με διάταξη πλακιδίων διαστάσεων 2x2. Κάθε πλακίδιο περιλαμβάνει μια εικόνα εικονιδίου πλακιδίου, το μέγεθος της εικόνας όπως τροποποιήθηκε με το καθολικό στυλ που επισυνάπτεται στην επιφάνεια εκκίνησης.",
+			"title": "Ομάδες Φαντασίας Καιρού"
+		},
+		{
+			"language": "EN",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. Each tile includes a tile icon image, the image size as been manipulated in the global style attached to the launchpad.",
+			"title": "Weather Fantasy Teams"
+		},
+		{
+			"language": "ES",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Sección de grupo de mosaicos estándar sin diseño de grupo. 8 mosaicos con un diseño de mosaicos de 2x2. Cada mosaico incluye una imagen de icono, cuyo tamaño se ha modificado según el estilo global del panel de lanzamiento.",
+			"title": "Equipos de fantasía meteorológica"
+		},
+		{
+			"language": "ET",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standardne paanirühma jaotis ilma paanirühma paigutuseta. 8 plaati 2x2 suuruse plaatide paigutusega. Iga paan sisaldab paaniikooni kujutist, pildi suurust on muudetud käivitusplaadile lisatud globaalses stiilis.",
+			"title": "Ilma fantaasia meeskonnad"
+		},
+		{
+			"language": "FI",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Vakioruuturyhmäosio ilman laattaryhmän asettelua. 8 laattaa 2x2-kokoisella laatta-asetelmalla. Jokainen ruutu sisältää ruudun kuvakkeen kuvan, jonka kuvan koko on käsitelty yleisellä tyylillä, joka on liitetty käynnistysalustaan.",
+			"title": "Sää Fantasia joukkueet"
+		},
+		{
+			"language": "FR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Section de groupe de tuiles standard sans disposition de groupe de tuiles. 8 tuiles avec une disposition de taille 2x2. Chaque tuile comprend une image d'icône de tuile, la taille de l'image ayant été manipulée dans le style global attaché au launchpad.",
+			"title": "Équipes de fantasy météo"
+		},
+		{
+			"language": "HE",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>מקטע קבוצת אריחים סטנדרטי ללא פריסת קבוצת אריחים. 8 אריחים עם פריסת אריחים בגודל 2x2. כל אריח כולל תמונת סמל אריח, גודל התמונה כפי שתופעל בסגנון הגלובלי המצורף ללוח השיגור.",
+			"title": "קבוצות פנטזיה של מזג אוויר"
+		},
+		{
+			"language": "HR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standardni odjeljak grupe pločica bez rasporeda grupe pločica. 8 pločica s rasporedom pločica veličine 2x2. Svaka pločica uključuje sliku ikone pločice, veličinu slike kojom se manipuliralo u globalnom stilu priloženu podlozi za pokretanje.",
+			"title": "Weather Fantasy Timovi"
+		},
+		{
+			"language": "HU",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Szabványos csempecsoport-szakasz csempecsoport-elrendezés nélkül. 8 db 2x2 méretű csempe kiosztással. Minden csempe tartalmaz egy csempék ikonképet, a képméretet az indítópulthoz csatolt globális stílusban módosította.",
+			"title": "Időjárás Fantasy csapatok"
+		},
+		{
+			"language": "ID",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Bagian grup petak standar tanpa tata letak grup petak. 8 petak dengan tata letak petak berukuran 2x2. Setiap petak menyertakan gambar ikon petak, ukuran gambar telah dimanipulasi dalam gaya global yang dilampirkan ke launchpad.",
+			"title": "Tim Fantasi Cuaca"
+		},
+		{
+			"language": "IS",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Staðlað flísahópahluti án flísahópaútlits. 8 flísar með 2x2 stærð flísum. Hver flís inniheldur táknmynd með flísum, myndstærð eins og hún hefur verið meðhöndluð í alþjóðlegum stíl sem er fest við ræsipallinn.",
+			"title": "Veður Fantasy Teams"
+		},
+		{
+			"language": "IT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Sezione standard del gruppo tile senza layout del gruppo tile. 8 tile con un layout tile di dimensioni 2x2. Ogni tile include un'immagine icona tile, la dimensione dell'immagine è stata manipolata nello stile globale allegato al launchpad.",
+			"title": "Squadre Fantasy Meteo"
+		},
+		{
+			"language": "JA",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>タイル グループ レイアウトのない標準のタイル グループ セクション。2x2 サイズのタイル レイアウトを持つ 8 つのタイル。各タイルにはタイル アイコン イメージが含まれており、イメージ サイズは Launchpad に添付されたグローバル スタイルで操作されています。",
+			"title": "天気ファンタジーチーム"
+		},
+		{
+			"language": "KO",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>타일 그룹 레이아웃이 없는 표준 타일 그룹 섹션. 2x2 크기의 타일 레이아웃이 있는 8개의 타일. 각 타일에는 타일 아이콘 이미지가 포함되어 있으며, 이미지 크기는 런치패드에 첨부된 글로벌 스타일로 조작되었습니다.",
+			"title": "날씨 판타지 팀"
+		},
+		{
+			"language": "LT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standartinė plytelių grupės skiltis be plytelių grupės išdėstymo. 8 plytelės su 2x2 dydžio plytelių išdėstymu. Kiekvienoje plytelėje yra plytelės piktogramos vaizdas, o vaizdo dydis buvo pakeistas visuotiniu stiliumi, pridėtu prie paleidimo srities.",
+			"title": "Orų fantazijos komandos"
+		},
+		{
+			"language": "LV",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standarta flīžu grupas sadaļa bez flīžu grupas izkārtojuma. 8 flīzes ar 2x2 izmēra flīžu izkārtojumu. Katrā elementā ir iekļauts elementa ikonas attēls, kura izmērs ir mainīts globālajā stilā, kas pievienots palaišanas panelim.",
+			"title": "Laikapstākļu fantāzijas komandas"
+		},
+		{
+			"language": "MS",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-team</code><br>Bahagian kumpulan jubin standard tanpa susun atur kumpulan jubin. 8 jubin dengan susun atur jubin saiz 2x2. Setiap jubin termasuk imej ikon jubin, saiz imej yang telah dimanipulasi dalam gaya global yang dilampirkan pada pad pelancaran.",
+			"title": "Pasukan Fantasi Cuaca"
+		},
+		{
+			"language": "NL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standaard tegelgroepsectie zonder tegelgroeplay-out. 8 tegels met een tegellay-out van 2x2. Elke tegel bevat een tegelpictogramafbeelding, de afbeeldingsgrootte is gemanipuleerd in de globale stijl die is gekoppeld aan het startplatform.",
+			"title": "Weer Fantasy Teams"
+		},
+		{
+			"language": "NN",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard flisegruppeseksjon uten flisgruppeoppsett. 8 fliser med fliser i størrelsen 2x2. Hver flis inkluderer et flisikonbilde, bildestørrelsen som er manipulert i den globale stilen knyttet til startrampen.",
+			"title": "Værfantasilag"
+		},
+		{
+			"language": "NO",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard flisegruppeseksjon uten flisgruppeoppsett. 8 fliser med fliser i størrelsen 2x2. Hver flis inkluderer et flisikonbilde, bildestørrelsen som er manipulert i den globale stilen knyttet til startrampen.",
+			"title": "Værfantasilag"
+		},
+		{
+			"language": "PL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standardowa sekcja grupy kafelków bez układu grupy kafelków. 8 kafelków z układem kafelków o rozmiarze 2x2. Każdy kafelek zawiera obraz ikony kafelka, rozmiar obrazu został zmieniony w globalnym stylu dołączonym do launchpadu.",
+			"title": "Zespoły fantasy pogodowe"
+		},
+		{
+			"language": "PT",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Seção de grupo de tiles padrão sem layout de grupo de tiles. 8 tiles com um layout de tiles de tamanho 2x2. Cada tile inclui uma imagem de ícone de tile, o tamanho da imagem foi manipulado no estilo global anexado ao launchpad.",
+			"title": "Times de Fantasia do Tempo"
+		},
+		{
+			"language": "RO",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Secțiune standard de grup de piese fără aspect de grup de piese. 8 plăci cu aspect de plăci de dimensiune 2x2. Fiecare țiglă include o imagine pictogramă țiglă, dimensiunea imaginii a fost manipulată în stilul global atașat la launchpad.",
+			"title": "Echipe Fantezie Meteo"
+		},
+		{
+			"language": "RU",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Стандартный раздел группы плиток без макета группы плиток. 8 плиток с макетом плиток размером 2x2. Каждая плитка включает изображение значка плитки, размер изображения был изменен в глобальном стиле, прикрепленном к панели запуска.",
+			"title": "Команды погодных фантазий"
+		},
+		{
+			"language": "SE",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard távvala joavkooassi mas ii leat távvala joavkoortnet. 8 čáhcefápmorusttega mas lea 2x2 sturrosaš čáhcefápmorusttet. Juohke čáhcefápmorusttegis lea čáhcefápmorusttetgovva, gova sturrodat lea manipulerejuvvon globála stiillain mii lea čadnojuvvon álggahanbáikái.",
+			"title": "Dálkkádatfantasiijajoavkkut"
+		},
+		{
+			"language": "SH",
+			"selected": true,
+			"messageText": "<цоде>дкп-демо-невс-фантаси-теамс</цоде><бр>Стандардни одељак групе плочица без распореда групе плочица. 8 плочица са распоредом плочица величине 2к2. Свака плочица укључује слику иконе плочице, величину слике како је манипулисано у глобалном стилу прикаченом на лансирну таблу.",
+			"title": "Веатхер Фантаси Теамс"
+		},
+		{
+			"language": "SK",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Štandardná sekcia skupiny dlaždíc bez rozloženia skupín dlaždíc. 8 dlaždíc s rozložením dlaždíc 2x2. Každá dlaždica obsahuje obrázok ikony dlaždice, pričom veľkosť obrazu bola upravená v globálnom štýle pripojenom k spúšťaciemu panelu.",
+			"title": "Fantasy tímy počasia"
+		},
+		{
+			"language": "SL",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standardni razdelek skupine ploščic brez postavitve skupine ploščic. 8 ploščic s postavitvijo ploščic velikosti 2x2. Vsaka ploščica vključuje sliko ikone ploščice, velikost slike, kot je bila spremenjena v globalnem slogu, ki je pritrjena na lansirno ploščico.",
+			"title": "Vremenske fantazijske ekipe"
+		},
+		{
+			"language": "SR",
+			"selected": true,
+			"messageText": "<цоде>дкп-демо-невс-фантаси-теамс</цоде><бр>Стандардни одељак групе плочица без распореда групе плочица. 8 плочица са распоредом плочица величине 2к2. Свака плочица укључује слику иконе плочице, величину слике како је манипулисано у глобалном стилу прикаченом на лансирну таблу.",
+			"title": "Веатхер Фантаси Теамс"
+		},
+		{
+			"language": "SV",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Standard gruppsektion utan brickgruppslayout. 8 brickor med en plattlayout i storleken 2x2. Varje bricka innehåller en ikonbild, bildstorleken som har manipulerats i den globala stilen som är kopplad till startplattan.",
+			"title": "Väderfantasilag"
+		},
+		{
+			"language": "TH",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>ส่วนกลุ่มไทล์มาตรฐานที่ไม่มีเค้าโครงกลุ่มไทล์ ไทล์ 8 ตัวที่มีเค้าโครงไทล์ขนาด 2x2 ไทล์แต่ละอันมีภาพไอคอนไทล์ โดยขนาดของภาพได้รับการปรับเปลี่ยนตามสไตล์ทั่วไปที่แนบมากับแท่นเปิดตัว",
+			"title": "ทีมแฟนตาซีสภาพอากาศ"
+		},
+		{
+			"language": "TR",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Fayans grubu düzeni olmayan standart fayans grubu bölümü. 2x2 boyutunda fayans düzenine sahip 8 fayans. Her fayans bir fayans simgesi resmi içerir, resim boyutu başlatma paneline eklenen küresel stilde düzenlenmiştir.",
+			"title": "Hava Durumu Fantezi Takımları"
+		},
+		{
+			"language": "UK",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>Стандартний розділ групи плиток без макета групи плиток. 8 плиток розміром 2x2. Кожна плитка містить зображення піктограми плитки, розмір зображення, як було змінено в глобальному стилі, доданому до панелі запуску.",
+			"title": "Команди Weather Fantasy"
+		},
+		{
+			"language": "ZF",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>沒有圖塊組佈局的標準圖塊組部分。 8 塊磁磚，採用 2x2 尺寸的磁磚佈局。每個圖塊均包含一個圖塊圖示影像，其影像大小已在附加到啟動板的全域樣式中處理。",
+			"title": "天氣幻想隊"
+		},
+		{
+			"language": "ZH",
+			"selected": true,
+			"messageText": "<code>dxp-demo-news-fantasy-teams</code><br>标准图块组部分，无图块组布局。8 个图块，图块布局大小为 2x2。每个图块包含一个图块图标图像，图像大小已在附加到启动板的全局样式中进行了处理。",
+			"title": "天气幻想队"
+		}
+	],
 	"tilesOrder": [
 		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
 		"757ca572-4401-4e4f-8e7a-56309357a526",
@@ -18,7 +277,7 @@
 		"type": "None",
 		"text": [
 			"==OBJECT STRING==",
-			"<code>dxp-demo-news-fantacy-teams</code><br>",
+			"<code>dxp-demo-news-fantasy-teams</code><br>",
 			"Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. Each tile includes a tile icon image, the image size as been manipulated in the global style attached to the launchpad."
 		],
 		"showCloseButton": false,
@@ -47,7 +306,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.03.06.0744",
+	"ver": "25.03.14.0008",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
