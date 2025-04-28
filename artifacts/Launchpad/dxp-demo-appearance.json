@@ -208,6 +208,213 @@
 			"TH",
 			"TR",
 			"UK"
+		],
+		"locales": [
+			{
+				"ISOCODE": "AR",
+				"LOCALE": "ar,ar-SA",
+				"NAME": "Arabic"
+			},
+			{
+				"ISOCODE": "BG",
+				"LOCALE": "bg",
+				"NAME": "Bulgarian"
+			},
+			{
+				"ISOCODE": "CS",
+				"LOCALE": "cs",
+				"NAME": "Czech"
+			},
+			{
+				"ISOCODE": "DA",
+				"LOCALE": "da",
+				"NAME": "Danish"
+			},
+			{
+				"ISOCODE": "DE",
+				"LOCALE": "de,de-DE",
+				"NAME": "German"
+			},
+			{
+				"ISOCODE": "EL",
+				"LOCALE": "el",
+				"NAME": "Greek"
+			},
+			{
+				"ISOCODE": "EN",
+				"LOCALE": "en,en-US",
+				"NAME": "English"
+			},
+			{
+				"ISOCODE": "ES",
+				"LOCALE": "es,es-ES",
+				"NAME": "Spanish"
+			},
+			{
+				"ISOCODE": "ET",
+				"LOCALE": "et",
+				"NAME": "Estonian"
+			},
+			{
+				"ISOCODE": "FI",
+				"LOCALE": "fi",
+				"NAME": "Finnish"
+			},
+			{
+				"ISOCODE": "FR",
+				"LOCALE": "fr,fr-FR",
+				"NAME": "French"
+			},
+			{
+				"ISOCODE": "HE",
+				"LOCALE": "he",
+				"NAME": "Hebrew"
+			},
+			{
+				"ISOCODE": "HR",
+				"LOCALE": "hr",
+				"NAME": "Croatian"
+			},
+			{
+				"ISOCODE": "HU",
+				"LOCALE": "hu",
+				"NAME": "Hungarian"
+			},
+			{
+				"ISOCODE": "ID",
+				"LOCALE": "id",
+				"NAME": "Indonesian"
+			},
+			{
+				"ISOCODE": "IS",
+				"LOCALE": "is",
+				"NAME": "Icelandic"
+			},
+			{
+				"ISOCODE": "IT",
+				"LOCALE": "it,it-IT",
+				"NAME": "Italian"
+			},
+			{
+				"ISOCODE": "JA",
+				"LOCALE": "ja",
+				"NAME": "Japanese"
+			},
+			{
+				"ISOCODE": "KO",
+				"LOCALE": "ko,ko-KR",
+				"NAME": "Korean"
+			},
+			{
+				"ISOCODE": "LT",
+				"LOCALE": "lt",
+				"NAME": "Lithuanian"
+			},
+			{
+				"ISOCODE": "LV",
+				"LOCALE": "lv",
+				"NAME": "Latvian"
+			},
+			{
+				"ISOCODE": "MS",
+				"LOCALE": "ms,ms-MY",
+				"NAME": "Malaysian"
+			},
+			{
+				"ISOCODE": "NL",
+				"LOCALE": "nl,nl-NL",
+				"NAME": "Dutch"
+			},
+			{
+				"ISOCODE": "NN",
+				"LOCALE": "nn,nn-NO",
+				"NAME": "Nynorsk"
+			},
+			{
+				"ISOCODE": "NO",
+				"LOCALE": "no,no-NO,nb,nb-NO",
+				"NAME": "Norwegian"
+			},
+			{
+				"ISOCODE": "PL",
+				"LOCALE": "pl",
+				"NAME": "Polish"
+			},
+			{
+				"ISOCODE": "PT",
+				"LOCALE": "pt,pt-BR",
+				"NAME": "Portuguese"
+			},
+			{
+				"ISOCODE": "RO",
+				"LOCALE": "ro,ro-RO",
+				"NAME": "Romanian"
+			},
+			{
+				"ISOCODE": "RU",
+				"LOCALE": "ru",
+				"NAME": "Russian"
+			},
+			{
+				"ISOCODE": "RU",
+				"LOCALE": "ru-RU",
+				"NAME": "Russian Russia"
+			},
+			{
+				"ISOCODE": "SE",
+				"LOCALE": "se,se-NO,se-SV,se-FI",
+				"NAME": "Northern Sami"
+			},
+			{
+				"ISOCODE": "SK",
+				"LOCALE": "sk",
+				"NAME": "Slovak"
+			},
+			{
+				"ISOCODE": "SL",
+				"LOCALE": "sl",
+				"NAME": "Slovenian"
+			},
+			{
+				"ISOCODE": "SR",
+				"LOCALE": "sr,sr-Cyrl",
+				"NAME": "Serbian (Cyrillic)"
+			},
+			{
+				"ISOCODE": "SH",
+				"LOCALE": "sh,sr-Latn",
+				"NAME": "Serbian (Latin)"
+			},
+			{
+				"ISOCODE": "SV",
+				"LOCALE": "sv",
+				"NAME": "Swedish"
+			},
+			{
+				"ISOCODE": "TH",
+				"LOCALE": "th",
+				"NAME": "Thai"
+			},
+			{
+				"ISOCODE": "TR",
+				"LOCALE": "tr",
+				"NAME": "Turkish"
+			},
+			{
+				"ISOCODE": "UK",
+				"LOCALE": "uk",
+				"NAME": "Ukrainian"
+			},
+			{
+				"ISOCODE": "ZF",
+				"LOCALE": "zh-TW,zh-Hant,zh-Hant-TW",
+				"NAME": "Chinese (Traditional)"
+			},
+			{
+				"ISOCODE": "ZH",
+				"LOCALE": "zh,zh-CN,zh-Hans,zh-Hans-CN",
+				"NAME": "Chinese"
+			}
 		]
 	},
 	"enhancement": [
@@ -460,7 +667,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.03.06.0007",
+	"ver": "25.04.28.1214",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -476,7 +683,6 @@
 	"passwordResetEmail": null,
 	"activationCodeEmail": null,
 	"noSubmenuHover": false,
-	"defaultLanguage": "EN",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"cat": [
 		{
