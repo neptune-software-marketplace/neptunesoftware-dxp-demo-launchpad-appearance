@@ -350,27 +350,27 @@
 	"tiles": [
 		{
 			"id": "f93afb05-9ab2-4deb-bc7d-9342fef19b03",
-			"name": "Sales Account",
+			"name": "neptune-adaptivecrm-sales-account",
 			"title": "Account",
-			"ver": "23.2.15.1216"
+			"ver": "25.02.07.1534"
 		},
 		{
 			"id": "b89dfe9e-5272-48da-864f-dab4827b93c7",
-			"name": "Sales Contact",
+			"name": "neptune-adaptivecrm-sales-contact",
 			"title": "Contact",
-			"ver": "23.2.15.1216"
+			"ver": "25.02.07.1308"
 		},
 		{
 			"id": "b6c73ba2-5ad8-424a-baa3-95c8f8da99bf",
-			"name": "Sales Opportunity",
+			"name": "neptune-adaptivecrm-sales-opportunity",
 			"title": "Opportunity",
-			"ver": "23.2.15.1216"
+			"ver": "25.02.07.1309"
 		},
 		{
 			"id": "4cfb9d5f-c760-eb11-a607-0003ff1e4706",
-			"name": "Sales Orders",
+			"name": "neptune-adaptivecrm-sales-orders",
 			"title": "Sales Orders",
-			"ver": "24.05.23.1341"
+			"ver": "25.02.07.1310"
 		}
 	],
 	"tilegroups": [],

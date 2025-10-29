@@ -4,7 +4,7 @@
 	"createdBy": "morten.prom@neptune-software.com",
 	"git": {
 		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-demo-launchpad-appearance.git",
-		"branch": "24.11.0"
+		"branch": "24.14.0"
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
@@ -51,6 +51,28 @@
 			"id": "b7e03218-bec2-40c8-a58a-52098978235d",
 			"name": "dxp-demo-global-style",
 			"description": "Neptune DXP Demo Global Style"
+		}
+	],
+	"theme_generator": [
+		{
+			"id": "9978c3ba-7b39-4390-bbbc-766f6be02cee",
+			"name": "dxp-demo-kraken-light",
+			"description": null
+		},
+		{
+			"id": "92112784-104f-4751-8d24-8a75b69cf35a",
+			"name": "dxp-demo-kraken-dark",
+			"description": null
+		},
+		{
+			"id": "55e20b0f-7995-4f60-9b5e-3bcfb1dda1c2",
+			"name": "dxp-demo-hurricanes-dark",
+			"description": null
+		},
+		{
+			"id": "29ac2947-86ef-42b8-80d0-fca8bfb72f0b",
+			"name": "dxp-demo-hurricanes-light",
+			"description": null
 		}
 	],
 	"pdf": [],
@@ -762,10 +784,18 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
+	"i18n": [],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
 	"theme_ui5": [],
-	"webapp": []
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": []
 }

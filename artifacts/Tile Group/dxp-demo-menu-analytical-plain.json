@@ -148,9 +148,9 @@
 	"sidebarGroups": [
 		{
 			"id": "f1c81d87-3424-4d08-afbe-56e3ad69982f",
-			"name": "CRM Showcase",
+			"name": "neptune-adaptivecrm-showcase",
 			"title": "Applications",
-			"ver": "24.05.30.1247"
+			"ver": "25.02.07.1320"
 		}
 	]
 }

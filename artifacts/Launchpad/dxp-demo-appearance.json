@@ -642,7 +642,7 @@
 	"customLogo": "",
 	"launchpadApp": "",
 	"hideSidemenu": false,
-	"ui5Version": "1.120",
+	"ui5Version": "1.136",
 	"ui5Url": null,
 	"ui5Theme": "sap_fiori_3",
 	"header": "<!--  -->",
@@ -667,7 +667,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.04.28.1214",
+	"ver": "25.10.29.1754",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -684,6 +684,7 @@
 	"activationCodeEmail": null,
 	"noSubmenuHover": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"agentId": null,
 	"cat": [
 		{
 			"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
@@ -733,5 +734,6 @@
 			"title": "",
 			"ver": "25.03.11.1129"
 		}
-	]
+	],
+	"roles": []
 }
