@@ -1,6 +1,6 @@
 {
-	"id": "e1b3e8ab-67bd-46c1-a010-6d5734c821ab",
-	"createdAt": "2025-10-30T19:22:18.788Z",
+	"id": "8d0efe7b-d83d-49cb-b238-4ea51a2d3d53",
+	"createdAt": "2025-10-31T13:55:30.806Z",
 	"createdBy": "morten@neptune-software.com",
 	"extUserRoles": [],
 	"extUserDepartments": [],
@@ -25,7 +25,7 @@
 		"enhancement": ""
 	},
 	"enhancement": [],
-	"name": "dxp-demo-space",
+	"name": "dxp-demo-space-light",
 	"title": "Space",
 	"description": null,
 	"startApp": null,
@@ -59,7 +59,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.10.30.2056",
+	"ver": "25.10.31.1455",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -68,9 +68,9 @@
 	"pwa_desktopScreenshotNarrow": null,
 	"pwa_displayMode": null,
 	"pwa_themeColor": null,
-	"layout_light": null,
+	"layout_light": "aba240b1-4d57-4d15-ad72-8e2567939707",
 	"layout_dark": "b517214f-0da8-4dd6-9155-f75f5978fd16",
-	"layout_preference": 0,
+	"layout_preference": 3,
 	"pwa_backgroundColor": null,
 	"passwordResetEmail": null,
 	"activationCodeEmail": null,
@@ -82,7 +82,7 @@
 			"id": "5ceee3d7-d22f-470c-a440-66acd0d08449",
 			"name": "dxp-demo-space",
 			"title": "Space",
-			"ver": "25.10.31.0033"
+			"ver": "25.10.31.1457"
 		}
 	],
 	"roles": []

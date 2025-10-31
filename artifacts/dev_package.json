@@ -778,7 +778,12 @@
 	"launchpad": [
 		{
 			"id": "e1b3e8ab-67bd-46c1-a010-6d5734c821ab",
-			"name": "dxp-demo-space",
+			"name": "dxp-demo-space-dark",
+			"description": null
+		},
+		{
+			"id": "8d0efe7b-d83d-49cb-b238-4ea51a2d3d53",
+			"name": "dxp-demo-space-light",
 			"description": null
 		},
 		{
@@ -791,6 +796,11 @@
 		{
 			"id": "b517214f-0da8-4dd6-9155-f75f5978fd16",
 			"NAME": "dxp-demo-space-dark",
+			"DESCR": null
+		},
+		{
+			"id": "aba240b1-4d57-4d15-ad72-8e2567939707",
+			"NAME": "dxp-demo-space-light",
 			"DESCR": null
 		},
 		{
