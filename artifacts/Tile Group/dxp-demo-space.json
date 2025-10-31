@@ -1,28 +1,27 @@
 {
-	"id": "6a7b6a15-d3e5-4188-8c32-57986656e48f",
-	"createdAt": "2025-01-10T14:43:31.157Z",
+	"id": "5ceee3d7-d22f-470c-a440-66acd0d08449",
+	"createdAt": "2025-10-30T19:33:26.373Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"4702fde2-7129-401a-8ca5-c261e7b8225e",
-		"a658d165-847d-41ec-8b18-3a9d020f8421",
-		"b1a7b690-7570-4da8-a6c4-9fb909f3f669",
-		"44826820-fab7-4d35-b4e2-84b6453903cf",
-		"f1f38d9a-80ff-4f7d-98a4-1e756a215369",
-		"757ca572-4401-4e4f-8e7a-56309357a526",
-		"8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
-		"2ef0a021-120b-47bf-9347-523fe8e1264c"
+		"4f5b2752-ed92-4ec7-a6fc-d30446b33939",
+		"f29d8323-484c-47b2-bb77-99698adf76b4",
+		"3c24032a-d234-4c07-9a63-9087cdbe3940",
+		"e02842e6-42a7-49c9-95aa-8252a9884b2c"
 	],
 	"tilegroupsOrder": [],
-	"configMessage": {},
+	"configMessage": {
+		"type": "Information",
+		"text": "Check how this is used..."
+	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "dxp-demo-navbar-anlytical",
+	"title": "Space",
 	"subTitle": null,
-	"menuText": null,
+	"menuText": "SPACE",
 	"description": null,
 	"enableFullScreen": false,
-	"hideHeader": true,
+	"hideHeader": false,
 	"backgroundType": "cards",
 	"backgroundColor": "",
 	"backgroundShade": null,
@@ -30,13 +29,13 @@
 	"image": null,
 	"icon": null,
 	"sort": null,
-	"inclFav": true,
+	"inclFav": false,
 	"styleClass": null,
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
-	"enableMessage": false,
-	"ver": "25.01.10.1543",
+	"enableMessage": true,
+	"ver": "25.10.31.0033",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -50,7 +49,7 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "dxp-demo-navbar-1x",
+	"name": "dxp-demo-space",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
@@ -74,8 +73,8 @@
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
 	"tileLayoutDark": null,
-	"cardWidth": "Skinny",
-	"cardHeight": "Tiny",
+	"cardWidth": null,
+	"cardHeight": null,
 	"tileBackgroundHeight": null,
 	"imageHeightMedia": null,
 	"imageTabletHeightMedia": null,
@@ -101,56 +100,37 @@
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "79531e0c-a313-4254-807d-e71a212904ae",
+			"ver": "24.11.15.1210"
+		}
+	],
 	"darkTileLayouts": [],
 	"tiles": [
 		{
-			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
-			"name": "dxp-demo-weather-thunder",
-			"title": "Thunder",
-			"ver": "25.10.30.0949"
+			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
+			"name": "dxp-demo-image-spacewalk",
+			"title": "Spacewalk",
+			"ver": "24.11.19.2319"
 		},
 		{
-			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
-			"name": "dxp-demo-weather-snow",
-			"title": "Snow",
-			"ver": "25.01.05.2011"
+			"id": "e02842e6-42a7-49c9-95aa-8252a9884b2c",
+			"name": "dxp-demo-space-widget",
+			"title": "SpaceX Launches",
+			"ver": "25.10.31.0042"
 		},
 		{
-			"id": "a658d165-847d-41ec-8b18-3a9d020f8421",
-			"name": "dxp-demo-weather-rain",
-			"title": "Rain",
-			"ver": "25.01.05.2011"
+			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
+			"name": "dxp-demo-image-crew",
+			"title": "Crew",
+			"ver": "24.11.19.2324"
 		},
 		{
-			"id": "8f61fdb7-a067-4330-97f3-3a2bcc559cbb",
-			"name": "dxp-demo-weather-fog",
-			"title": "Fog",
-			"ver": "25.01.05.2011"
-		},
-		{
-			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
-			"name": "dxp-demo-weather-wind",
-			"title": "Wind",
-			"ver": "25.01.05.2011"
-		},
-		{
-			"id": "4702fde2-7129-401a-8ca5-c261e7b8225e",
-			"name": "dxp-demo-weather-hail",
-			"title": "Hail",
-			"ver": "25.01.05.2011"
-		},
-		{
-			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
-			"name": "dxp-demo-weather-sun",
-			"title": "Sun",
-			"ver": "25.10.30.1046"
-		},
-		{
-			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
-			"name": "dxp-demo-weather-overcast",
-			"title": "Overcast",
-			"ver": "25.10.30.1046"
+			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
+			"name": "dxp-demo-image-suit",
+			"title": "Suit",
+			"ver": "24.11.19.2323"
 		}
 	],
 	"tilegroups": [],

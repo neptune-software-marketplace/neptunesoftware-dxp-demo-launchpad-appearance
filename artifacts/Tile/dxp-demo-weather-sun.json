@@ -6,242 +6,282 @@
 		{
 			"language": "AR",
 			"title": "شمس",
-			"subTitle": "دافئ ولطيف",
-			"footer": "إذا كنت تريد رؤية أشعة الشمس، عليك أن تتغلب على العاصفة"
+			"subTitle": "إنه دافئ",
+			"footer": "إذا كنت تريد رؤية أشعة الشمس، عليك أن تتغلب على العاصفة",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "слънце",
-			"subTitle": "Топла и нежна",
-			"footer": "Ако искате да видите слънцето, трябва да издържите бурята"
+			"title": "Слънце",
+			"subTitle": "Топло е",
+			"footer": "Ако искаш да видиш слънцето, трябва да преживееш бурята",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Slunce",
-			"subTitle": "Teplé a jemné",
-			"footer": "Pokud chcete vidět sluneční svit, musíte přečkat bouři"
+			"subTitle": "Je teplo",
+			"footer": "Chceš-li vidět slunce, musíš přečkat bouři",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Sol",
-			"subTitle": "Varm & blid",
-			"footer": "Hvis du vil se solskin, skal du klare stormen"
+			"subTitle": "Det er varmt",
+			"footer": "Hvis du vil se solskinnet, må du ride stormen af",
+			"selected": false
 		},
 		{
 			"language": "DE",
 			"title": "Sonne",
-			"subTitle": "Warm & Sanft",
-			"footer": "Wer die Sonne sehen will, muss den Sturm überstehen"
+			"subTitle": "Es ist warm.",
+			"footer": "Wer die Sonne sehen will, muss den Sturm überstehen.",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Ήλιος",
-			"subTitle": "Ζεστό & Απαλό",
-			"footer": "Αν θέλετε να δείτε τον ήλιο, πρέπει να αντιμετωπίσετε την καταιγίδα"
+			"subTitle": "Είναι ζεστό",
+			"footer": "Αν θέλεις να δεις τον ήλιο, πρέπει να αντέξεις την καταιγίδα",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Sun",
-			"subTitle": "Warm & Gentle",
-			"footer": "If you want to see the sunshine, you have to weather the storm"
+			"subTitle": "Warm it is",
+			"footer": "If you want to see the sunshine, you have to weather the storm",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Sol",
-			"subTitle": "Cálido y suave",
-			"footer": "Si quieres ver el sol, tienes que capear el temporal"
+			"subTitle": "Hace calor",
+			"footer": "Si quieres ver el sol, tienes que capear el temporal.",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Päike",
-			"subTitle": "Soe & Õrn",
-			"footer": "Kui tahad päikest näha, pead tormi vastu pidama"
+			"subTitle": "Soe on",
+			"footer": "Kui tahad päikest näha, pead tormi üle elama",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Aurinko",
-			"subTitle": "Lämmin & Hellävarainen",
-			"footer": "Jos haluat nähdä auringonpaisteen, sinun on kestettävä myrsky"
+			"subTitle": "Lämmintä on",
+			"footer": "Jos haluat nähdä auringonpaisteen, sinun on kestettävä myrsky",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Soleil",
-			"subTitle": "Chaleureux et doux",
-			"footer": "Si vous voulez voir le soleil, vous devez affronter la tempête"
+			"subTitle": "Il fait chaud",
+			"footer": "Si tu veux voir le soleil, tu dois traverser la tempête.",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "שֶׁמֶש",
-			"subTitle": "חם ועדין",
-			"footer": "אם אתה רוצה לראות את השמש, אתה צריך לעבור את הסערה"
+			"subTitle": "חם זה",
+			"footer": "אם אתה רוצה לראות את אור השמש, אתה צריך לעמוד בסערה",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Sunce",
-			"subTitle": "Toplo i nježno",
-			"footer": "Ako želite vidjeti sunce, morate prebroditi oluju"
-		},
-		{
-			"language": "ID",
-			"title": "Matahari",
-			"subTitle": "Hangat & Lembut",
-			"footer": "Jika Anda ingin melihat sinar matahari, Anda harus melewati badai"
-		},
-		{
-			"language": "IS",
-			"title": "Sun",
-			"subTitle": "Hlýtt & blíður",
-			"footer": "Ef þú vilt sjá sólskinið þarftu að standa af þér storminn"
-		},
-		{
-			"language": "IT",
-			"title": "Sole",
-			"subTitle": "Caldo e delicato",
-			"footer": "Se vuoi vedere il sole, devi resistere alla tempesta"
-		},
-		{
-			"language": "JA",
-			"title": "太陽",
-			"subTitle": "温かくて優しい",
-			"footer": "太陽の光を見たければ、嵐を乗り越えなければならない"
-		},
-		{
-			"language": "KO",
-			"title": "해",
-			"subTitle": "따뜻하고 부드럽다",
-			"footer": "햇빛을 보고 싶다면 폭풍을 이겨내야 한다"
-		},
-		{
-			"language": "LT",
-			"title": "Saulė",
-			"subTitle": "Šiltas ir švelnus",
-			"footer": "Jei norite pamatyti saulės spindulius, turite atlaikyti audrą"
-		},
-		{
-			"language": "LV",
-			"title": "Sv",
-			"subTitle": "Silts & Maigs",
-			"footer": "Ja vēlaties redzēt sauli, jums ir jāpārvar vētra"
-		},
-		{
-			"language": "NL",
-			"title": "Zon",
-			"subTitle": "Warm en zacht",
-			"footer": "Als je de zon wilt zien, moet je de storm doorstaan"
-		},
-		{
-			"language": "NN",
-			"title": "Sol",
-			"subTitle": "Varm og skånsom",
-			"footer": "Hvis du vil se solskinnet, må du klare stormen"
-		},
-		{
-			"language": "NO",
-			"title": "Sol",
-			"subTitle": "Varm og skånsom",
-			"footer": "Hvis du vil se solskinnet, må du klare stormen"
-		},
-		{
-			"language": "RO",
-			"title": "Soare",
-			"subTitle": "Cald & Bland",
-			"footer": "Dacă vrei să vezi soarele, trebuie să înfrunți furtuna"
-		},
-		{
-			"language": "SE",
-			"title": "Beaivváš",
-			"subTitle": "Liekkus ja čáppa",
-			"footer": "Jus áiggut oaidnit beaivváža, de fertet gierdat uđasvára"
-		},
-		{
-			"language": "RU",
-			"title": "Солнце",
-			"subTitle": "Теплый и нежный",
-			"footer": "Если хочешь увидеть солнце, придется пережить бурю."
-		},
-		{
-			"language": "SH",
-			"title": "Сун",
-			"subTitle": "Топло и нежно",
-			"footer": "Ако желите да видите сунце, морате пребродити олују"
-		},
-		{
-			"language": "SK",
-			"title": "Slnko",
-			"subTitle": "Teplé a jemné",
-			"footer": "Ak chcete vidieť slnečné lúče, musíte prečkať búrku"
-		},
-		{
-			"language": "SL",
-			"title": "sonce",
-			"subTitle": "Toplo in nežno",
-			"footer": "Če hočeš videti sonce, moraš prebroditi nevihto"
-		},
-		{
-			"language": "SR",
-			"title": "Сун",
-			"subTitle": "Топло и нежно",
-			"footer": "Ако желите да видите сунце, морате пребродити олују"
-		},
-		{
-			"language": "SV",
-			"title": "Sol",
-			"subTitle": "Varm & skonsam",
-			"footer": "Om du vill se solskenet måste du klara stormen"
-		},
-		{
-			"language": "TR",
-			"title": "Güneş",
-			"subTitle": "Sıcak ve Yumuşak",
-			"footer": "Güneşi görmek istiyorsan fırtınaya göğüs germelisin"
-		},
-		{
-			"language": "ZF",
-			"title": "太陽",
-			"subTitle": "溫暖而柔和",
-			"footer": "如果你想看到陽光，你必須經得起風雨"
-		},
-		{
-			"language": "ZH",
-			"title": "太阳",
-			"subTitle": "温暖而柔和",
-			"footer": "如果你想看到阳光，你必须经受住风雨"
+			"subTitle": "Toplo je",
+			"footer": "Ako želiš vidjeti sunce, moraš prebroditi oluju",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Nap",
-			"subTitle": "Meleg & Gyengéd",
-			"footer": "Ha látni akarod a napsütést, el kell viselned a vihart"
+			"subTitle": "Meleg van",
+			"footer": "Ha látni akarod a napsütést, át kell vészelned a vihart",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Matahari",
+			"subTitle": "Hangat itu",
+			"footer": "Jika Anda ingin melihat sinar matahari, Anda harus melewati badai",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Sól",
+			"subTitle": "Hlýtt er það",
+			"footer": "Ef þú vilt sjá sólskinið verður þú að standast storminn",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Sole",
+			"subTitle": "Fa caldo",
+			"footer": "Se vuoi vedere il sole, devi resistere alla tempesta",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "太陽",
+			"subTitle": "暖かいですね",
+			"footer": "太陽の光を見たければ、嵐を乗り越えなければならない",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "해",
+			"subTitle": "따뜻해요",
+			"footer": "햇살을 보고 싶다면 폭풍을 이겨내야 합니다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Saulė",
+			"subTitle": "Šilta yra",
+			"footer": "Jei nori pamatyti saulės šviesą, turi atlaikyti audrą",
+			"selected": false
+		},
+		{
+			"language": "LV",
+			"title": "Saule",
+			"subTitle": "Silts ir",
+			"footer": "Ja vēlies redzēt sauli, tev jāpārvar vētra",
+			"selected": false
 		},
 		{
 			"language": "MS",
 			"title": "Matahari",
-			"subTitle": "Hangat & Lembut",
-			"footer": "Jika anda ingin melihat cahaya matahari, anda perlu mengharungi ribut"
+			"subTitle": "Panas je",
+			"footer": "Jika anda ingin melihat cahaya matahari, anda perlu mengharungi ribut",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Zon",
+			"subTitle": "Het is warm",
+			"footer": "Als je de zon wilt zien, moet je de storm trotseren",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Sol",
+			"subTitle": "Det er varmt",
+			"footer": "Hvis du vil se solskinnet, må du ri av stormen",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Sol",
+			"subTitle": "Det er varmt",
+			"footer": "Hvis du vil se solskinnet, må du ri av stormen",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Słoneczny",
-			"subTitle": "Ciepły i delikatny",
-			"footer": "Jeśli chcesz zobaczyć słońce, musisz przetrwać burzę"
+			"subTitle": "Ciepło jest",
+			"footer": "Jeśli chcesz zobaczyć słońce, musisz przetrwać burzę",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Sol",
-			"subTitle": "Quente e suave",
-			"footer": "Se você quer ver o sol, você tem que resistir à tempestade"
+			"subTitle": "Está quente.",
+			"footer": "Se você quer ver o sol brilhar, precisa enfrentar a tempestade.",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Soare",
+			"subTitle": "Este cald",
+			"footer": "Dacă vrei să vezi soarele, trebuie să înfrunți furtuna",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Солнце",
+			"subTitle": "Тепло.",
+			"footer": "Если хочешь увидеть солнце, придется пережить бурю.",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Beaivváš",
+			"subTitle": "Dat lea liegga",
+			"footer": "Jus áiggut oaidnit beaivváža, de fertet gierdat uđasvára",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Сунце",
+			"subTitle": "Топло је",
+			"footer": "Ако желиш да видиш сунце, мораш да преживиш олују",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Slnko",
+			"subTitle": "Je teplo",
+			"footer": "Ak chceš vidieť slnko, musíš prečkať búrku",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Sonce",
+			"subTitle": "Toplo je",
+			"footer": "Če želiš videti sonce, moraš preživeti nevihto",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Сунце",
+			"subTitle": "Топло је",
+			"footer": "Ако желиш да видиш сунце, мораш да преживиш олују",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Solen",
+			"subTitle": "Varmt är det",
+			"footer": "Om du vill se solskenet måste du rida ut stormen",
+			"selected": false
 		},
 		{
 			"language": "TH",
 			"title": "ดวงอาทิตย์",
-			"subTitle": "อบอุ่นและอ่อนโยน",
-			"footer": "ถ้าอยากเห็นแสงแดดก็ต้องฝ่าพายุไปให้ได้"
+			"subTitle": "มันอบอุ่น",
+			"footer": "ถ้าอยากเห็นแสงแดดก็ต้องฝ่าพายุไปให้ได้",
+			"selected": false
+		},
+		{
+			"language": "TR",
+			"title": "Güneş",
+			"subTitle": "Sıcak",
+			"footer": "Güneşi görmek istiyorsan fırtınaya göğüs germelisin",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "сонце",
-			"subTitle": "Теплий і ніжний",
-			"footer": "Якщо ви хочете побачити сонячне світло, ви повинні пережити шторм"
+			"title": "Сонце",
+			"subTitle": "Тепло ж.",
+			"footer": "Якщо хочеш побачити сонце, мусиш пережити бурю",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "太陽",
+			"subTitle": "天氣溫暖",
+			"footer": "想要見到陽光，就必須經歷風暴。",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "太阳",
+			"subTitle": "天气温暖",
+			"footer": "想要见到阳光，就必须经历风暴。",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -251,7 +291,7 @@
 		}
 	},
 	"title": "Sun",
-	"subTitle": "Warm & Gentle",
+	"subTitle": "Warm it is",
 	"description": null,
 	"categoryID": null,
 	"sort": null,
@@ -304,7 +344,7 @@
 	"helpText": "<p><br></p>",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.01.05.2011",
+	"ver": "25.10.30.1046",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-sun",
 	"cardWidth": "",

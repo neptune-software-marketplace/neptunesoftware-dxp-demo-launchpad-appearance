@@ -11,13 +11,19 @@
 	"ver": "25.04.28.1221",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.11.0-rc.2",
+	"oeVersion": "24.14.0-rc.3",
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
 		{
 			"id": "ff1e71e2-4069-4430-9750-741c8e515bed",
 			"application": "dxp_demo_appearance_image",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "cc19bb66-9e2e-4880-a3ff-21722ca56139",
+			"application": "dxp_demo_space_widget",
 			"title": "",
 			"description": ""
 		},
@@ -30,6 +36,12 @@
 		{
 			"id": "8d6be92d-6068-482a-821e-d27c547bb9ae",
 			"application": "dxp_demo_appearance_footer",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "36515d29-7b40-470d-8e7d-c7f9e8450510",
+			"application": "dxp_demo_space",
 			"title": "",
 			"description": ""
 		},
@@ -110,6 +122,11 @@
 			"id": "e4cdaefc-c4d6-44ab-983d-f0e526113acf",
 			"description": null,
 			"name": "dxp-demo-image-filter-huerotate"
+		},
+		{
+			"id": "e02842e6-42a7-49c9-95aa-8252a9884b2c",
+			"description": null,
+			"name": "dxp-demo-space-widget"
 		},
 		{
 			"id": "de1ec056-62ce-4985-9e08-3bec46f2ba8c",
@@ -328,19 +345,19 @@
 		},
 		{
 			"id": "ed65c01e-7817-45de-a141-fa55c577a035",
-			"NAME": "dxp-demo-kraken-focus-ticker-dark"
+			"NAME": "dxp-demo-kraken-ticker-dark-focus"
 		},
 		{
 			"id": "eb5bce3d-6a54-47aa-94ec-c7b2fe03eb90",
 			"NAME": "dxp-demo-mask-right-left"
 		},
 		{
-			"id": "e9ece497-9aba-48a2-a808-ad590d54b240",
-			"NAME": "dxp-demo-mask-bottom-up"
+			"id": "ead8e39c-0337-43c5-b473-50e30f2b08d4",
+			"NAME": "dxp-demo-weather-thunder-dark"
 		},
 		{
-			"id": "e70f5586-80fa-4a11-adb8-13395bac03a0",
-			"NAME": "dxp-demo-hurricanes-focus-weather-dark"
+			"id": "e9ece497-9aba-48a2-a808-ad590d54b240",
+			"NAME": "dxp-demo-mask-bottom-up"
 		},
 		{
 			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
@@ -388,7 +405,7 @@
 		},
 		{
 			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
-			"NAME": "dxp-demo-hurricanes-focus-ticker-light"
+			"NAME": "dxp-demo-hurricanes-ticker-light-focus"
 		},
 		{
 			"id": "b3883aab-6c40-41b4-9d18-7d2a2841c15c",
@@ -401,6 +418,10 @@
 		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
 			"NAME": "dxp-demo-hurricanes-light"
+		},
+		{
+			"id": "8dfa9533-c97c-46a6-9b8d-2bc4cda97685",
+			"NAME": "dxp-demo-weather-thunder-light"
 		},
 		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
@@ -432,7 +453,7 @@
 		},
 		{
 			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
-			"NAME": "dxp-demo-hurricanes-focus-ticker-dark"
+			"NAME": "dxp-demo-hurricanes-ticker-dark-focus"
 		},
 		{
 			"id": "65801d8e-f7fc-4c38-b5a2-30eba9a6a7e5",
@@ -444,7 +465,7 @@
 		},
 		{
 			"id": "61a972e5-cab9-4d7e-9c7c-32243fc2798d",
-			"NAME": "dxp-demo-kraken-focus-ticker-light"
+			"NAME": "dxp-demo-kraken-ticker-light-focus"
 		},
 		{
 			"id": "5cb2acd7-2c6c-4244-8c22-f6808686f9cf",
@@ -464,7 +485,7 @@
 		},
 		{
 			"id": "5341781c-4b24-4e0f-b8a7-5bd5565e1862",
-			"NAME": "dxp-demo-kraken-focus-weather-dark"
+			"NAME": "dxp-demo-kraken-weather-dark-focus"
 		},
 		{
 			"id": "4d5a75f1-4387-40c4-a835-7b4a8ac93977",
@@ -475,12 +496,20 @@
 			"NAME": "dxp-demo-mask-left-right"
 		},
 		{
+			"id": "4477e7d7-981a-4b57-837b-af5da996d6f6",
+			"NAME": "dxp-demo-hurricanes-weather-dark-focus"
+		},
+		{
 			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
 			"NAME": "dxp-demo-hurricanes-dark"
 		},
 		{
 			"id": "3bd0a8d0-159d-4ada-b2c1-04fe490b0952",
-			"NAME": "dxp-demo-hurricanes-focus-weather-light"
+			"NAME": "dxp-demo-hurricanes-weather-light-focus"
+		},
+		{
+			"id": "3624fe3b-776a-45d2-9d49-90500a9ca309",
+			"NAME": "dxp-demo-space-widget"
 		},
 		{
 			"id": "2f6b8f51-b428-4f15-9c69-b47195684645",
@@ -488,7 +517,7 @@
 		},
 		{
 			"id": "2a1c38aa-9345-46ce-87e7-f975a56227f7",
-			"NAME": "dxp-demo-kraken-focus-weather-light"
+			"NAME": "dxp-demo-kraken-weather-light-focus"
 		},
 		{
 			"id": "1ec0811e-d1f0-4951-ba94-2aec21813c8c",
@@ -629,6 +658,11 @@
 			"name": "dxp-demo-size-many"
 		},
 		{
+			"id": "5ceee3d7-d22f-470c-a440-66acd0d08449",
+			"description": null,
+			"name": "dxp-demo-space"
+		},
+		{
 			"id": "525c070f-8e6c-436b-85ac-0a1e88ce95a7",
 			"description": null,
 			"name": "dxp-demo-header-image-logo"
@@ -743,12 +777,22 @@
 	],
 	"launchpad": [
 		{
+			"id": "e1b3e8ab-67bd-46c1-a010-6d5734c821ab",
+			"name": "dxp-demo-space",
+			"description": null
+		},
+		{
 			"id": "71fa3d4e-280c-4752-9186-b18e13720e25",
 			"name": "dxp-demo-appearance",
 			"description": "Neptune DXP Appearance Demo"
 		}
 	],
 	"launchpad_layout": [
+		{
+			"id": "b517214f-0da8-4dd6-9155-f75f5978fd16",
+			"NAME": "dxp-demo-space-dark",
+			"DESCR": null
+		},
 		{
 			"id": "6b3256f9-0ed7-4c45-aa34-32f31d0fe844",
 			"NAME": "dxp-demo-kraken-light",
@@ -784,7 +828,18 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"i18n": [],
+	"i18n": [
+		{
+			"id": "83e31659-c7ba-4637-9524-4a182da443d0",
+			"name": "dxp_demo_space",
+			"description": null
+		},
+		{
+			"id": "407b8030-8f02-4ed4-a4ac-414b10326b98",
+			"name": "dxp_demo_space_widget",
+			"description": null
+		}
+	],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],

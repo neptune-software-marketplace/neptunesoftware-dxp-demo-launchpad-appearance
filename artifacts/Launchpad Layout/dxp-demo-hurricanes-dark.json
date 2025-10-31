@@ -4,7 +4,7 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "25.10.29.1749",
+	"ver": "25.10.30.1106",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
 		":root {\r",
@@ -166,20 +166,20 @@
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"TILE_LAYOUTS": [
 		{
-			"id": "e70f5586-80fa-4a11-adb8-13395bac03a0",
-			"ver": "25.02.26.0115"
-		},
-		{
 			"id": "8cebf2f4-bf00-4865-8b23-a30b6988db06",
 			"ver": "24.11.24.1319"
 		},
 		{
 			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
-			"ver": "25.02.26.0116"
+			"ver": "25.10.30.1054"
+		},
+		{
+			"id": "4477e7d7-981a-4b57-837b-af5da996d6f6",
+			"ver": "25.10.30.1105"
 		},
 		{
 			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
-			"ver": "25.02.26.0113"
+			"ver": "25.10.30.1059"
 		}
 	],
 	"GROUP_LAYOUTS": [

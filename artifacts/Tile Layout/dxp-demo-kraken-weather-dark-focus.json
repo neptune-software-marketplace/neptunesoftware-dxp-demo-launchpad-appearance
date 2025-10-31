@@ -2,8 +2,8 @@
 	"id": "5341781c-4b24-4e0f-b8a7-5bd5565e1862",
 	"createdAt": "2025-01-05T18:41:58.981Z",
 	"createdBy": "morten@neptune-software.com",
-	"NAME": "dxp-demo-kraken-focus-weather-dark",
-	"ver": "25.02.27.1550",
+	"NAME": "dxp-demo-kraken-weather-dark-focus",
+	"ver": "25.10.30.1043",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
@@ -49,7 +49,7 @@
 	"TILE_BACK_REPEAT": null,
 	"TILE_BACK_SIZE": null,
 	"TILE_IMAGE_SIZE": null,
-	"PLAIN_BACKGROUND": "-",
+	"PLAIN_BACKGROUND": "",
 	"ICON_PLACEMENT": null,
 	"IMG_SHAPE_CIRCLE": null,
 	"TILE_ICON_SHAPE": null,
@@ -100,7 +100,7 @@
 	"LAYOUT_HIERARCHY": [
 		{
 			"id": "ed65c01e-7817-45de-a141-fa55c577a035",
-			"ver": "25.02.27.1550"
+			"ver": "25.10.30.1054"
 		}
 	]
 }

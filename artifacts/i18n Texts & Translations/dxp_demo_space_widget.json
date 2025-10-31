@@ -1,0 +1,23 @@
+{
+	"id": "407b8030-8f02-4ed4-a4ac-414b10326b98",
+	"createdAt": "2025-10-30T23:30:57.403Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "dxp_demo_space_widget",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "dxp_demo_space_widget",
+	"ver": "25.10.31.0046",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}

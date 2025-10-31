@@ -6,242 +6,282 @@
 		{
 			"language": "AR",
 			"title": "غائم",
-			"subTitle": "رمادي وضغط",
-			"footer": "السماء الرمادية تغطي العالم بغطاء من الغموض"
+			"subTitle": "إنه رمادي",
+			"footer": "السماء الرمادية تغطي العالم بغطاء من الغموض",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "Облачно",
-			"subTitle": "Сиво и натискане",
-			"footer": "Сивите небеса обвиват света в пелена от мистика"
+			"subTitle": "Сиво е",
+			"footer": "Сивото небе обгръща света в одеяло от мистика",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Zatažený",
-			"subTitle": "Šedá a lisování",
-			"footer": "Šedá obloha zahaluje svět do přikrývky mystiky"
+			"subTitle": "Je to šedé",
+			"footer": "Šedá obloha zahaluje svět do závoje mystiky",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Overskyet",
-			"subTitle": "Grå & pressende",
-			"footer": "Grå himmel svøber verden i et tæppe af mystik"
+			"subTitle": "Grå er den",
+			"footer": "Grå himmel indhyller verden i et tæppe af mystik",
+			"selected": false
 		},
 		{
 			"language": "DE",
 			"title": "Bedeckt",
-			"subTitle": "Grau & Pressen",
-			"footer": "Grauer Himmel hüllt die Welt in eine Decke der Mystik"
+			"subTitle": "Grau ist es.",
+			"footer": "Graue Himmel hüllen die Welt in einen Schleier des Geheimnisvollen.",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Νεφελώδης",
-			"subTitle": "Γκρι & Πρεσάρισμα",
-			"footer": "Οι γκρίζοι ουρανοί τυλίγουν τον κόσμο σε μια κουβέρτα μυστηρίου"
+			"subTitle": "Γκρι είναι",
+			"footer": "Γκρίζοι ουρανοί τυλίγουν τον κόσμο σε ένα πέπλο μυστηρίου",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Overcast",
-			"subTitle": "Gray & Pressing",
-			"footer": "Gray skies wrap the world in a blanket of mystique"
+			"subTitle": "Grey it is",
+			"footer": "Gray skies wrap the world in a blanket of mystique",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Nublado",
-			"subTitle": "Gris y prensado",
-			"footer": "Los cielos grises envuelven al mundo en un manto de misticismo."
+			"subTitle": "Gris es",
+			"footer": "Los cielos grises envuelven al mundo en un manto de misterio.",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Pilves ilm",
-			"subTitle": "Hall ja pressimine",
-			"footer": "Hall taevas mähib maailma müstikavaibasse"
+			"title": "Pilvine",
+			"subTitle": "Hall see on",
+			"footer": "Hallid taevas mässivad maailma müstika tekki",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Pilvinen",
-			"subTitle": "Harmaa & puristus",
-			"footer": "Harmaa taivas kääri maailman mystiikan peittoon"
+			"subTitle": "Harmaa se on",
+			"footer": "Harmaat taivaat kietovat maailman mystiikan peittoon",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Couvert",
-			"subTitle": "Gris et pressage",
-			"footer": "Le ciel gris enveloppe le monde d'une couverture mystique"
+			"subTitle": "C'est gris",
+			"footer": "Un ciel gris enveloppe le monde d'un voile de mystère.",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "מְעוּנָן",
-			"subTitle": "אפור ולחיצה",
-			"footer": "שמיים אפורים עוטפים את העולם בשמיכה של מיסטיקה"
+			"subTitle": "אפור זה",
+			"footer": "שמיים אפורים עוטפים את העולם בשמיכה של מסתורין",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Oblačan",
-			"subTitle": "Sivo i prešanje",
-			"footer": "Sivo nebo obavija svijet pokrivačem mističnosti"
+			"subTitle": "Sivo je",
+			"footer": "Sivo nebo obavija svijet pokrivačem mistike",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Felhős",
-			"subTitle": "Szürke és préselés",
-			"footer": "Szürke égbolt burkolja be a világot a misztikum takarójába"
-		},
-		{
-			"language": "IS",
-			"title": "Skýjað",
-			"subTitle": "Grátt og pressað",
-			"footer": "Grár himinn sveipar heiminn í dulúðarteppi"
-		},
-		{
-			"language": "IT",
-			"title": "Nuvoloso",
-			"subTitle": "Grigio e pressatura",
-			"footer": "I cieli grigi avvolgono il mondo in una coltre di misticismo"
-		},
-		{
-			"language": "JA",
-			"title": "曇り",
-			"subTitle": "グレー＆プレス",
-			"footer": "灰色の空が世界を神秘の毛布で包む"
-		},
-		{
-			"language": "KO",
-			"title": "흐린",
-			"subTitle": "그레이 & 프레싱",
-			"footer": "회색 하늘은 신비로움의 담요로 세상을 감싼다"
-		},
-		{
-			"language": "LT",
-			"title": "Debesuota",
-			"subTitle": "Pilka ir presuojama",
-			"footer": "Pilkas dangus apgaubia pasaulį mistikos antklode"
-		},
-		{
-			"language": "MS",
-			"title": "mendung",
-			"subTitle": "Kelabu & Menekan",
-			"footer": "Langit kelabu membalut dunia dalam selimut mistik"
-		},
-		{
-			"language": "NL",
-			"title": "Bewolkt",
-			"subTitle": "Grijs & Persen",
-			"footer": "Grijze luchten wikkelen de wereld in een deken van mystiek"
-		},
-		{
-			"language": "NN",
-			"title": "Overskyet",
-			"subTitle": "Grå og pressende",
-			"footer": "Grå himmel pakker verden inn i et teppe av mystikk"
-		},
-		{
-			"language": "NO",
-			"title": "Overskyet",
-			"subTitle": "Grå og pressende",
-			"footer": "Grå himmel pakker verden inn i et teppe av mystikk"
-		},
-		{
-			"language": "RU",
-			"title": "Пасмурно",
-			"subTitle": "Серый и прессованный",
-			"footer": "Серое небо окутывает мир покровом таинственности."
-		},
-		{
-			"language": "SH",
-			"title": "Облачно",
-			"subTitle": "Греи & Прессинг",
-			"footer": "Сиво небо обавија свет у ћебе мистичности"
-		},
-		{
-			"language": "SE",
-			"title": "Duovvi",
-			"subTitle": "Grána ja čuohppan",
-			"footer": "Grána albmi gokčá máilmmi mystihka čiŋain"
-		},
-		{
-			"language": "SK",
-			"title": "Zamračené",
-			"subTitle": "Sivá a lisovanie",
-			"footer": "Sivá obloha zahaľuje svet do prikrývky mystiky"
-		},
-		{
-			"language": "SL",
-			"title": "Oblačno",
-			"subTitle": "Siva in stiskanje",
-			"footer": "Sivo nebo ovije svet v odejo mističnosti"
-		},
-		{
-			"language": "SR",
-			"title": "Облачно",
-			"subTitle": "Греи & Прессинг",
-			"footer": "Сиво небо обавија свет у ћебе мистичности"
-		},
-		{
-			"language": "TH",
-			"title": "มีเมฆมาก",
-			"subTitle": "สีเทา & รีด",
-			"footer": "ท้องฟ้าสีเทาปกคลุมโลกด้วยผ้าห่มแห่งความลึกลับ"
-		},
-		{
-			"language": "UK",
-			"title": "Похмуро",
-			"subTitle": "Сірий і пресування",
-			"footer": "Сіре небо огортає світ ковдрою містики"
-		},
-		{
-			"language": "ZH",
-			"title": "灰蒙蒙",
-			"subTitle": "灰色与紧迫",
-			"footer": "灰色的天空给世界披上了一层神秘的面纱"
+			"subTitle": "Szürke az",
+			"footer": "Szürke égbolt borítja a világot misztikum takarójába",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Mendung",
-			"subTitle": "Abu-abu & Menekan",
-			"footer": "Langit kelabu menyelimuti dunia dengan selimut mistik"
+			"subTitle": "Itu abu-abu",
+			"footer": "Langit kelabu menyelimuti dunia dengan selimut mistik",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Skýjað",
+			"subTitle": "Grátt er það",
+			"footer": "Grár himinn huldi heiminn dulúð",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Nuvoloso",
+			"subTitle": "È grigio",
+			"footer": "I cieli grigi avvolgono il mondo in una coltre di misticismo",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "曇り",
+			"subTitle": "灰色だ",
+			"footer": "灰色の空が世界を神秘の毛布で包み込む",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "흐린",
+			"subTitle": "회색이에요",
+			"footer": "회색 하늘은 세상을 신비로운 담요로 감싼다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Apsiniaukusi",
+			"subTitle": "Pilka ji",
+			"footer": "Pilkas dangus apgaubia pasaulį mistikos antklode",
+			"selected": false
 		},
 		{
 			"language": "LV",
 			"title": "Apmācies",
-			"subTitle": "Pelēks un spiedošs",
-			"footer": "Pelēkas debesis apvij pasauli mistikas segā"
+			"subTitle": "Pelēks tas ir",
+			"footer": "Pelēkas debesis ietin pasauli mistikas segā",
+			"selected": false
+		},
+		{
+			"language": "MS",
+			"title": "mendung",
+			"subTitle": "Kelabu itu",
+			"footer": "Langit kelabu membalut dunia dalam selimut mistik",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Bewolkt",
+			"subTitle": "Het is grijs",
+			"footer": "Grijze luchten wikkelen de wereld in een deken van mystiek",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Overskyet",
+			"subTitle": "Grått er det",
+			"footer": "Grå himmel svøper verden i et teppe av mystikk",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Overskyet",
+			"subTitle": "Grått er det",
+			"footer": "Grå himmel svøper verden i et teppe av mystikk",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Pochmurny",
-			"subTitle": "Szary i prasowany",
-			"footer": "Szare niebo otula świat kocem tajemniczości"
+			"subTitle": "Szary jest",
+			"footer": "Szare niebo otula świat kocem tajemniczości",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "Nublado",
-			"subTitle": "Cinza e Pressionando",
-			"footer": "Céus cinzentos envolvem o mundo em um manto de mistério"
+			"title": "Céu nublado",
+			"subTitle": "É cinza.",
+			"footer": "Céus cinzentos envolvem o mundo num manto de mistério.",
+			"selected": false
 		},
 		{
 			"language": "RO",
 			"title": "Acoperit de nori",
-			"subTitle": "Gri și apăsat",
-			"footer": "Cerul gri învăluie lumea într-o pătură de mistică"
+			"subTitle": "Gri este",
+			"footer": "Cerul gri învăluie lumea într-o pătură de mister",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Пасмурно",
+			"subTitle": "Серый это",
+			"footer": "Серое небо окутывает мир покровом таинственности.",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Duovvi",
+			"subTitle": "Dat lea ruškes",
+			"footer": "Grána albmi gokčá máilmmi mystihka čiŋain",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Облачно",
+			"subTitle": "Сиво је",
+			"footer": "Сиво небо обавија свет покривачем мистике",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Zamračené",
+			"subTitle": "Je sivá",
+			"footer": "Sivá obloha zahaľuje svet do prikrývky mystiky",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Oblačno",
+			"subTitle": "Siva je",
+			"footer": "Sivo nebo zavija svet v odejo mistike",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Облачно",
+			"subTitle": "Сиво је",
+			"footer": "Сиво небо обавија свет покривачем мистике",
+			"selected": false
 		},
 		{
 			"language": "SV",
 			"title": "Mulen",
-			"subTitle": "Grå & pressande",
-			"footer": "Grå himmel sveper in världen i en filt av mystik"
+			"subTitle": "Grått är det",
+			"footer": "Grå himmel sveper världen i ett täcke av mystik",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "มีเมฆมาก",
+			"subTitle": "มันเป็นสีเทา",
+			"footer": "ท้องฟ้าสีเทาโอบล้อมโลกด้วยผ้าห่มแห่งความลึกลับ",
+			"selected": false
 		},
 		{
 			"language": "TR",
 			"title": "Kapalı",
-			"subTitle": "Gri ve Presleme",
-			"footer": "Gri gökyüzü dünyayı gizemli bir battaniyeye sarıyor"
+			"subTitle": "Gridir",
+			"footer": "Gri gökyüzü dünyayı gizemli bir battaniyeye sarıyor",
+			"selected": false
+		},
+		{
+			"language": "UK",
+			"title": "Хмарно",
+			"subTitle": "Сірий він.",
+			"footer": "Сіре небо огортає світ ковдрою містики",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "灰濛濛",
-			"subTitle": "灰色與緊迫",
-			"footer": "灰色的天空為世界披上了一層神秘的面紗"
+			"subTitle": "它是灰色的",
+			"footer": "灰濛濛的天空為世界蒙上了一層神秘的面紗。",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "灰蒙蒙",
+			"subTitle": "它是灰色的",
+			"footer": "灰蒙蒙的天空给世界蒙上了一层神秘的面纱。",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -251,7 +291,7 @@
 		}
 	},
 	"title": "Overcast",
-	"subTitle": "Gray & Pressing",
+	"subTitle": "Grey it is",
 	"description": null,
 	"categoryID": null,
 	"sort": null,
@@ -304,7 +344,7 @@
 	"helpText": "",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.01.05.2011",
+	"ver": "25.10.30.1046",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-overcast",
 	"cardWidth": "",

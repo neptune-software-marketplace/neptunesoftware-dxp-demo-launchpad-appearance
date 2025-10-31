@@ -7,241 +7,281 @@
 			"language": "AR",
 			"title": "رعد",
 			"subTitle": "صاخب و لامع",
-			"footer": "أذهب إلى حيث صوت الرعد."
+			"footer": "أذهب إلى حيث صوت الرعد.",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "гръм",
 			"subTitle": "Силно и крещящо",
-			"footer": "Отивам там, където е звукът на гръмотевиците."
+			"footer": "Отивам там, където е звукът на гръмотевиците.",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Hrom",
 			"subTitle": "Hlasitý a okázalý",
-			"footer": "Jdu tam, kde je zvuk hromu."
+			"footer": "Jdu tam, kde je zvuk hromu.",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Torden",
 			"subTitle": "Højt og prangende",
-			"footer": "Jeg går, hvor lyden af torden er."
+			"footer": "Jeg går, hvor lyden af torden er.",
+			"selected": false
 		},
 		{
 			"language": "DE",
 			"title": "Donner",
 			"subTitle": "Laut und auffällig",
-			"footer": "Ich gehe dorthin, wo es donnert."
+			"footer": "Ich gehe dorthin, wo es donnert.",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Βροντή",
 			"subTitle": "Δυνατό & φανταχτερό",
-			"footer": "Πάω εκεί που ακούγεται ο ήχος της βροντής."
+			"footer": "Πάω εκεί που ακούγεται ο ήχος της βροντής.",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Thunder",
 			"subTitle": "Loud & Flashy",
-			"footer": "I go where the sound of thunder is."
+			"footer": "I go where the sound of thunder is.",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Trueno",
 			"subTitle": "Ruidoso y llamativo",
-			"footer": "Voy donde está el sonido del trueno."
+			"footer": "Voy donde está el sonido del trueno.",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Äike",
 			"subTitle": "Valju ja toretsev",
-			"footer": "Ma lähen sinna, kus kostab äikest."
+			"footer": "Ma lähen sinna, kus kostab äikest.",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Ukkonen",
 			"subTitle": "Kova ja vilkas",
-			"footer": "Menen sinne, missä ukkonen ääni kuuluu."
+			"footer": "Menen sinne, missä ukkonen ääni kuuluu.",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Tonnerre",
 			"subTitle": "Fort et clinquant",
-			"footer": "Je vais là où le bruit du tonnerre se fait entendre."
+			"footer": "Je vais là où le bruit du tonnerre se fait entendre.",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "רַעַם",
 			"subTitle": "רועש & נוצץ",
-			"footer": "אני הולך למקום שבו נשמע קול הרעם."
+			"footer": "אני הולך למקום שבו נשמע קול הרעם.",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Grmljavina",
 			"subTitle": "Glasno i blještavo",
-			"footer": "Idem tamo gdje je zvuk grmljavine."
+			"footer": "Idem tamo gdje je zvuk grmljavine.",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Mennydörgés",
 			"subTitle": "Hangos és ragyogó",
-			"footer": "Oda megyek, ahol mennydörgés hallatszik."
+			"footer": "Oda megyek, ahol mennydörgés hallatszik.",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Guruh",
 			"subTitle": "Berisik & Mencolok",
-			"footer": "Aku pergi ke tempat di mana suara guntur berada."
+			"footer": "Aku pergi ke tempat di mana suara guntur berada.",
+			"selected": false
 		},
 		{
 			"language": "IS",
 			"title": "Þruma",
 			"subTitle": "Hávær og áberandi",
-			"footer": "Ég fer þangað sem þrumuhljóðið er."
+			"footer": "Ég fer þangað sem þrumuhljóðið er.",
+			"selected": false
 		},
 		{
 			"language": "IT",
 			"title": "Tuono",
 			"subTitle": "Forte e appariscente",
-			"footer": "Vado dove c'è il rumore del tuono."
+			"footer": "Vado dove c'è il rumore del tuono.",
+			"selected": false
 		},
 		{
 			"language": "JA",
 			"title": "雷",
 			"subTitle": "派手で派手",
-			"footer": "雷の音がするところへ行きます。"
+			"footer": "雷の音がするところへ行きます。",
+			"selected": false
 		},
 		{
 			"language": "KO",
 			"title": "우뢰",
 			"subTitle": "시끄럽고 화려하다",
-			"footer": "나는 천둥소리가 나는 곳으로 간다."
+			"footer": "나는 천둥소리가 나는 곳으로 간다.",
+			"selected": false
 		},
 		{
 			"language": "LT",
 			"title": "Perkūnas",
 			"subTitle": "Garsiai ir blyksniai",
-			"footer": "Einu ten, kur griaustinis."
+			"footer": "Einu ten, kur griaustinis.",
+			"selected": false
 		},
 		{
 			"language": "LV",
 			"title": "Pērkons",
 			"subTitle": "Skaļi un bezgaumīgi",
-			"footer": "Es eju tur, kur skan pērkons."
+			"footer": "Es eju tur, kur skan pērkons.",
+			"selected": false
 		},
 		{
 			"language": "MS",
 			"title": "Guruh",
 			"subTitle": "Kuat & Berkelip",
-			"footer": "Saya pergi ke mana bunyi guruh."
-		},
-		{
-			"language": "NN",
-			"title": "Torden",
-			"subTitle": "Høyt og prangende",
-			"footer": "Jeg går der lyden av torden er."
-		},
-		{
-			"language": "NO",
-			"title": "Torden",
-			"subTitle": "Høyt og prangende",
-			"footer": "Jeg går der lyden av torden er."
-		},
-		{
-			"language": "RU",
-			"title": "Гром",
-			"subTitle": "Громкий и кричащий",
-			"footer": "Я иду туда, где слышен звук грома."
-		},
-		{
-			"language": "SH",
-			"title": "Тхундер",
-			"subTitle": "Лоуд & Фласхи",
-			"footer": "Идем тамо где је звук грмљавине."
-		},
-		{
-			"language": "SK",
-			"title": "Hrom",
-			"subTitle": "Hlasný a okázalý",
-			"footer": "Idem tam, kde je zvuk hromu."
-		},
-		{
-			"language": "SL",
-			"title": "grom",
-			"subTitle": "Glasno in bliskovito",
-			"footer": "Grem tja, kjer grmi."
-		},
-		{
-			"language": "SR",
-			"title": "Тхундер",
-			"subTitle": "Лоуд & Фласхи",
-			"footer": "Идем тамо где је звук грмљавине."
-		},
-		{
-			"language": "TH",
-			"title": "ฟ้าร้อง",
-			"subTitle": "เสียงดังและฉูดฉาด",
-			"footer": "ฉันไปที่ที่มีเสียงฟ้าร้อง"
-		},
-		{
-			"language": "ZH",
-			"title": "雷",
-			"subTitle": "喧闹与浮华",
-			"footer": "我去有雷声的地方。"
+			"footer": "Saya pergi ke mana bunyi guruh.",
+			"selected": false
 		},
 		{
 			"language": "NL",
 			"title": "Donder",
 			"subTitle": "Luid & Flitsend",
-			"footer": "Ik ga waar het geluid van de donder is."
+			"footer": "Ik ga waar het geluid van de donder is.",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Torden",
+			"subTitle": "Høyt og prangende",
+			"footer": "Jeg går der lyden av torden er.",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Torden",
+			"subTitle": "Høyt og prangende",
+			"footer": "Jeg går der lyden av torden er.",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Grzmot",
 			"subTitle": "Głośno i jaskrawo",
-			"footer": "Idę tam, gdzie słychać grzmoty."
+			"footer": "Idę tam, gdzie słychać grzmoty.",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Trovão",
 			"subTitle": "Alto e chamativo",
-			"footer": "Eu vou onde há som de trovão."
+			"footer": "Eu vou onde há som de trovão.",
+			"selected": false
 		},
 		{
 			"language": "RO",
 			"title": "Tunet",
 			"subTitle": "Tare și strălucitor",
-			"footer": "Mă duc unde este sunetul tunetului."
+			"footer": "Mă duc unde este sunetul tunetului.",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Гром",
+			"subTitle": "Громкий и кричащий",
+			"footer": "Я иду туда, где слышен звук грома.",
+			"selected": false
 		},
 		{
 			"language": "SE",
 			"title": "Baján",
 			"subTitle": "Garra ja čáppa",
-			"footer": "Mun manan dohko gos dulvi lea."
+			"footer": "Mun manan dohko gos dulvi lea.",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Тхундер",
+			"subTitle": "Лоуд & Фласхи",
+			"footer": "Идем тамо где је звук грмљавине.",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Hrom",
+			"subTitle": "Hlasný a okázalý",
+			"footer": "Idem tam, kde je zvuk hromu.",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "grom",
+			"subTitle": "Glasno in bliskovito",
+			"footer": "Grem tja, kjer grmi.",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Тхундер",
+			"subTitle": "Лоуд & Фласхи",
+			"footer": "Идем тамо где је звук грмљавине.",
+			"selected": false
 		},
 		{
 			"language": "SV",
 			"title": "Åska",
 			"subTitle": "Högt & flashigt",
-			"footer": "Jag går dit ljudet av åskan är."
+			"footer": "Jag går dit ljudet av åskan är.",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ฟ้าร้อง",
+			"subTitle": "เสียงดังและฉูดฉาด",
+			"footer": "ฉันไปที่ที่มีเสียงฟ้าร้อง",
+			"selected": false
 		},
 		{
 			"language": "TR",
 			"title": "Gök gürültüsü",
 			"subTitle": "Gürültülü ve Gösterişli",
-			"footer": "Gök gürültüsünün olduğu yere giderim."
+			"footer": "Gök gürültüsünün olduğu yere giderim.",
+			"selected": false
 		},
 		{
 			"language": "UK",
 			"title": "Грім",
 			"subTitle": "Голосно та яскраво",
-			"footer": "Я йду туди, де гримить грім."
+			"footer": "Я йду туди, де гримить грім.",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "雷",
 			"subTitle": "喧鬧與浮華",
-			"footer": "我去有雷聲的地方。"
+			"footer": "我去有雷聲的地方。",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "雷",
+			"subTitle": "喧闹与浮华",
+			"footer": "我去有雷声的地方。",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -300,14 +340,14 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.01.05.2011",
+	"ver": "25.10.30.0949",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-thunder",
 	"cardWidth": "",
 	"cardHeight": "",
 	"cardHeightFit": false,
-	"cardImage": "/media/root/dxp-demo-appearance-icon-light/thunder.svg",
-	"cardImageDark": "/media/root/dxp-demo-appearance-icon-dark/thunder.svg",
+	"cardImage": "",
+	"cardImageDark": "",
 	"cardButtonIcon": null,
 	"cardButtonIconOnly": false,
 	"imagePlacement": null,
@@ -329,6 +369,16 @@
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"lightTileLayouts": [
+		{
+			"id": "8dfa9533-c97c-46a6-9b8d-2bc4cda97685",
+			"ver": "25.10.30.0949"
+		}
+	],
+	"darkTileLayouts": [
+		{
+			"id": "ead8e39c-0337-43c5-b473-50e30f2b08d4",
+			"ver": "25.10.30.0949"
+		}
+	]
 }

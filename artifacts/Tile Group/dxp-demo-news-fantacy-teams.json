@@ -378,7 +378,7 @@
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"name": "dxp-demo-weather-thunder",
 			"title": "Thunder",
-			"ver": "25.01.05.2011"
+			"ver": "25.10.30.0949"
 		},
 		{
 			"id": "b1a7b690-7570-4da8-a6c4-9fb909f3f669",
@@ -414,13 +414,13 @@
 			"id": "44826820-fab7-4d35-b4e2-84b6453903cf",
 			"name": "dxp-demo-weather-sun",
 			"title": "Sun",
-			"ver": "25.01.05.2011"
+			"ver": "25.10.30.1046"
 		},
 		{
 			"id": "2ef0a021-120b-47bf-9347-523fe8e1264c",
 			"name": "dxp-demo-weather-overcast",
 			"title": "Overcast",
-			"ver": "25.01.05.2011"
+			"ver": "25.10.30.1046"
 		}
 	],
 	"tilegroups": [],

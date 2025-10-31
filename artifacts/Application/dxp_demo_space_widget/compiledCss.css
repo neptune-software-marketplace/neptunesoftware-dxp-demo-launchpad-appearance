@@ -1,0 +1,15 @@
+:root .dxpDemoSpace {
+  --sapFontHeader5Size: .875rem;
+}
+
+.dxpDemoSpace .sapMObjectNumber {
+  font-size: 0.75rem;
+}
+
+.dxpDemoSpace .sapMLIB.sapMObjLItem {
+  padding: 0.5rem 1rem;
+}
+
+.dxpDemoSpace .sapMObjLIntro {
+  padding-bottom: 0.25rem;
+}
