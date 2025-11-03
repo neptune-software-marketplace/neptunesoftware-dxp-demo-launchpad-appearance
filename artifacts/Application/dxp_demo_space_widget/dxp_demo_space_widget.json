@@ -91,9 +91,9 @@
 									"translation": []
 								},
 								{
-									"attribute": "styleClassMargin",
+									"attribute": "styleClass",
 									"grouping": "Properties",
-									"value": "sapUiTinyMarginTopBottom",
+									"value": "dxpDemoSpaceHeader",
 									"script": "",
 									"translation": []
 								}
@@ -136,7 +136,7 @@
 												{
 													"attribute": "src",
 													"grouping": "Properties",
-													"value": "sap-icon://nep/api-factory",
+													"value": "sap-icon://nep/neptune-connect",
 													"script": "",
 													"translation": []
 												},
@@ -169,7 +169,7 @@
 												{
 													"attribute": "text",
 													"grouping": "Properties",
-													"value": "{SpaceX>/name}",
+													"value": "{SpaceA>/name}",
 													"script": "",
 													"translation": []
 												},
@@ -255,7 +255,7 @@
 												{
 													"attribute": "text",
 													"grouping": "Properties",
-													"value": "{SpaceX>/founded}",
+													"value": "{SpaceA>/founded}",
 													"script": "",
 													"translation": []
 												},
@@ -341,7 +341,7 @@
 												{
 													"attribute": "text",
 													"grouping": "Properties",
-													"value": "{SpaceX>/employees}",
+													"value": "{SpaceA>/employees}",
 													"script": "",
 													"translation": []
 												},
@@ -401,7 +401,7 @@
 												{
 													"attribute": "src",
 													"grouping": "Properties",
-													"value": "sap-icon://fas/sitemap",
+													"value": "sap-icon://nep/app-builder",
 													"script": "",
 													"translation": []
 												},
@@ -434,7 +434,7 @@
 												{
 													"attribute": "text",
 													"grouping": "Properties",
-													"value": "{SpaceX>/launch_sites}",
+													"value": "{SpaceA>/launch_sites}",
 													"script": "",
 													"translation": []
 												},
@@ -562,7 +562,7 @@
 													"bindingType": "h",
 													"bindingSource": "DataModel",
 													"bindingParentID": "2e36dced-efee-4bc1-b3ff-019d2f0cfdf8",
-													"modelPath": "SpaceX>/launches",
+													"modelPath": "SpaceA>/launches",
 													"request": [],
 													"response": [],
 													"attributes": [
@@ -615,14 +615,14 @@
 																{
 																	"attribute": "title",
 																	"grouping": "Properties",
-																	"value": "{SpaceX>flight_number}",
+																	"value": "{SpaceA>flight_number}",
 																	"script": "",
 																	"translation": []
 																},
 																{
 																	"attribute": "number",
 																	"grouping": "Properties",
-																	"value": "{SpaceX>ships}",
+																	"value": "{SpaceA>ships}",
 																	"script": "",
 																	"translation": []
 																},
@@ -636,7 +636,7 @@
 																{
 																	"attribute": "intro",
 																	"grouping": "Properties",
-																	"value": "{SpaceX>name}",
+																	"value": "{SpaceA>name}",
 																	"script": "",
 																	"translation": []
 																},
@@ -650,14 +650,14 @@
 																{
 																	"attribute": "numberState",
 																	"grouping": "Properties",
-																	"value": "{SpaceX>ships}",
+																	"value": "{SpaceA>ships}",
 																	"script": "",
 																	"translation": []
 																},
 																{
 																	"attribute": "highlight",
 																	"grouping": "Properties",
-																	"value": "{SpaceX>ships}",
+																	"value": "{SpaceA>ships}",
 																	"script": "",
 																	"translation": []
 																},
@@ -746,6 +746,52 @@
 												}
 											],
 											"data": []
+										},
+										{
+											"fieldNo": "4854bbe3-13cb-4354-ceee-1dfa43110864",
+											"fieldName": "VBox4",
+											"fieldParent": "928a6257-2949-4b91-a219-66f14ef86cd9",
+											"fieldType": "sap.m.VBox",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "renderType",
+													"grouping": "Properties",
+													"value": "Bare",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "styleClass",
+													"grouping": "Properties",
+													"value": "dxpDemoSpaceTitle",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": [
+												{
+													"fieldNo": "7ff3330f-5748-490d-a63f-ac1aebce6518",
+													"fieldName": "Title1",
+													"fieldParent": "4854bbe3-13cb-4354-ceee-1dfa43110864",
+													"fieldType": "sap.m.Title",
+													"script": "",
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "text",
+															"grouping": "Properties",
+															"value": "Launch Information",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												}
+											]
 										},
 										{
 											"fieldNo": "0a5da035-317a-40a0-fbe5-3cab88a236a3",
@@ -1087,40 +1133,6 @@
 													]
 												}
 											]
-										},
-										{
-											"fieldNo": "e9434324-99d0-4dcc-92c1-82b2e410956c",
-											"fieldName": "scrollLaunch",
-											"fieldParent": "928a6257-2949-4b91-a219-66f14ef86cd9",
-											"fieldType": "sap.m.ScrollContainer",
-											"script": "",
-											"disabled": true,
-											"request": [],
-											"response": [],
-											"attributes": [
-												{
-													"attribute": "height",
-													"grouping": "Properties",
-													"value": "440px",
-													"script": "",
-													"translation": []
-												},
-												{
-													"attribute": "horizontal",
-													"grouping": "Properties",
-													"value": "false",
-													"script": "",
-													"translation": []
-												},
-												{
-													"attribute": "vertical",
-													"grouping": "Properties",
-													"value": "true",
-													"script": "",
-													"translation": []
-												}
-											],
-											"data": []
 										}
 									]
 								},
@@ -1273,143 +1285,6 @@
 											]
 										}
 									]
-								},
-								{
-									"fieldNo": "0ac4c1f2-53d0-4f5c-9340-b3e427da44f2",
-									"fieldName": "VBox",
-									"fieldParent": "116c1a3e-f730-4e9b-80cb-29cdbe471ddb",
-									"fieldType": "sap.m.VBox",
-									"script": "",
-									"disabled": true,
-									"request": [],
-									"response": [],
-									"attributes": [
-										{
-											"attribute": "renderType",
-											"grouping": "Properties",
-											"value": "Bare",
-											"script": "",
-											"translation": []
-										}
-									],
-									"data": [
-										{
-											"fieldNo": "32a9aafc-5975-449a-a883-bc2b78d52217",
-											"fieldName": "Title",
-											"fieldParent": "0ac4c1f2-53d0-4f5c-9340-b3e427da44f2",
-											"fieldType": "sap.m.Title",
-											"script": "",
-											"disabled": true,
-											"request": [],
-											"response": [],
-											"attributes": [
-												{
-													"attribute": "text",
-													"grouping": "Properties",
-													"value": "Launches",
-													"script": "",
-													"translation": []
-												},
-												{
-													"attribute": "textAlign",
-													"grouping": "Properties",
-													"value": "Center",
-													"script": "",
-													"translation": []
-												},
-												{
-													"attribute": "styleClassMargin",
-													"grouping": "Properties",
-													"value": "sapUiTinyMarginBottom",
-													"script": "",
-													"translation": []
-												}
-											],
-											"data": []
-										}
-									]
-								},
-								{
-									"fieldNo": "f06bc81b-8c21-4ece-e9c0-b16e11c74302",
-									"fieldName": "canvasSpace",
-									"fieldParent": "116c1a3e-f730-4e9b-80cb-29cdbe471ddb",
-									"fieldType": "sap.m.FlexBox",
-									"script": "",
-									"disabled": true,
-									"request": [],
-									"response": [],
-									"attributes": [
-										{
-											"attribute": "width",
-											"grouping": "Properties",
-											"value": "100%",
-											"script": "",
-											"translation": []
-										},
-										{
-											"attribute": "direction",
-											"grouping": "Properties",
-											"value": "Column",
-											"script": "",
-											"translation": []
-										},
-										{
-											"attribute": "renderType",
-											"grouping": "Properties",
-											"value": "Bare",
-											"script": "",
-											"translation": []
-										}
-									],
-									"data": [
-										{
-											"fieldNo": "9fee479f-6dde-44c1-b60f-e87a950e1941",
-											"fieldName": "boxSpaceCompany",
-											"fieldParent": "f06bc81b-8c21-4ece-e9c0-b16e11c74302",
-											"fieldType": "sap.m.HBox",
-											"script": "",
-											"disabled": true,
-											"request": [],
-											"response": [],
-											"attributes": [
-												{
-													"attribute": "width",
-													"grouping": "Properties",
-													"value": "100%",
-													"script": "",
-													"translation": []
-												},
-												{
-													"attribute": "renderType",
-													"grouping": "Properties",
-													"value": "Bare",
-													"script": "",
-													"translation": []
-												}
-											],
-											"data": []
-										}
-									]
-								},
-								{
-									"fieldNo": "66df981e-569b-49e6-b8c5-442cb9aede4d",
-									"fieldName": "boxLaunches",
-									"fieldParent": "116c1a3e-f730-4e9b-80cb-29cdbe471ddb",
-									"fieldType": "sap.m.VBox",
-									"script": "",
-									"disabled": true,
-									"request": [],
-									"response": [],
-									"attributes": [
-										{
-											"attribute": "renderType",
-											"grouping": "Properties",
-											"value": "Bare",
-											"script": "",
-											"translation": []
-										}
-									],
-									"data": []
 								}
 							]
 						}
@@ -1421,8 +1296,19 @@
 			"fieldNo": 99999,
 			"data": [
 				{
+					"fieldNo": "9a7989c6-7a9d-4ec8-d51d-14244eee7b80",
+					"fieldName": "SpaceNepData",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/SpaceNepData.ts",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
 					"fieldNo": "2e36dced-efee-4bc1-b3ff-019d2f0cfdf8",
-					"fieldName": "SpaceX",
+					"fieldName": "SpaceA",
 					"fieldParent": 99999,
 					"fieldType": "neptune.model",
 					"script": "",
@@ -1445,6 +1331,17 @@
 					"response": [],
 					"attributes": [],
 					"data": []
+				},
+				{
+					"fieldNo": "a0ddce4d-ab53-4f34-c5bf-e451840c66a7",
+					"fieldName": "API",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/API.ts",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
 				}
 			]
 		},
@@ -1454,7 +1351,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.02.1403",
+	"ver": "25.11.03.0113",
 	"application": "dxp_demo_space_widget",
 	"title": "",
 	"description": "",

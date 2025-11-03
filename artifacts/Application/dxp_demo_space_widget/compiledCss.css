@@ -13,3 +13,17 @@
 .dxpDemoSpace .sapMObjLIntro {
   padding-bottom: 0.25rem;
 }
+
+.dxpDemoSpaceHeader,
+.dxpDemoSpaceTitle {
+  width: 100%;
+  border-bottom: 1px solid var(--sapGroup_TitleBorderColor);
+}
+
+.dxpDemoSpaceTitle .sapMTitle {
+  margin: 0.8175rem 1rem;
+}
+
+.dxpDemoSpaceHeader {
+  padding: 0.5rem 0 1rem;
+}
