@@ -5,163 +5,203 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "الرعد في ارتفاع"
+			"title": "الرعد في ارتفاع",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Гръмотевици във възход"
+			"title": "Гръмотевици във възход",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Hrom na vzestupu"
+			"title": "Hrom na vzestupu",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Torden stiger"
+			"title": "Torden stiger",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Donner im Aufwind"
+			"title": "Donner im Aufwind",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Βροντές σε άνοδο"
+			"title": "Βροντές σε άνοδο",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Thunder on the rise"
+			"title": "Thunder on the rise",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "Truenos en aumento"
+			"title": "Truenos en aumento",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Äike tõusuteel"
+			"title": "Äike tõusuteel",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Ukkonen nousussa"
+			"title": "Ukkonen nousussa",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Le tonnerre s'élève"
+			"title": "Le tonnerre s'élève",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "הרעם מתגבר"
+			"title": "הרעם מתגבר",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Grmljavina u porastu"
-		},
-		{
-			"language": "ID",
-			"title": "Guntur sedang meningkat"
-		},
-		{
-			"language": "IS",
-			"title": "Þruma á uppleið"
-		},
-		{
-			"language": "IT",
-			"title": "Il tuono si avvicina"
-		},
-		{
-			"language": "JA",
-			"title": "雷鳴が上がる"
-		},
-		{
-			"language": "KO",
-			"title": "천둥이 치솟다"
-		},
-		{
-			"language": "LT",
-			"title": "Perkūnija kyla"
-		},
-		{
-			"language": "LV",
-			"title": "Pērkons pieaug"
-		},
-		{
-			"language": "NL",
-			"title": "Donder op komst"
-		},
-		{
-			"language": "NN",
-			"title": "Torden øker"
-		},
-		{
-			"language": "NO",
-			"title": "Torden øker"
-		},
-		{
-			"language": "RO",
-			"title": "Tunetul în creștere"
-		},
-		{
-			"language": "SH",
-			"title": "Грмљавина у порасту"
-		},
-		{
-			"language": "SK",
-			"title": "Hrom na vzostupe"
-		},
-		{
-			"language": "SL",
-			"title": "Grmenje v porastu"
-		},
-		{
-			"language": "SR",
-			"title": "Грмљавина у порасту"
-		},
-		{
-			"language": "SV",
-			"title": "Åskan på väg upp"
-		},
-		{
-			"language": "ZF",
-			"title": "雷霆崛起"
-		},
-		{
-			"language": "ZH",
-			"title": "雷霆崛起"
+			"title": "Grmljavina u porastu",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "Emelkedő mennydörgés"
+			"title": "Emelkedő mennydörgés",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Guntur sedang meningkat",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Þruma á uppleið",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Il tuono si avvicina",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "雷鳴が上がる",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "천둥이 치솟다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Perkūnija kyla",
+			"selected": false
+		},
+		{
+			"language": "LV",
+			"title": "Pērkons pieaug",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Guruh semakin meningkat"
+			"title": "Guruh semakin meningkat",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Donder op komst",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Torden øker",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Torden øker",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Grzmot narasta"
+			"title": "Grzmot narasta",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "Trovão em ascensão"
+			"title": "Trovão em ascensão",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Tunetul în creștere",
+			"selected": false
 		},
 		{
 			"language": "RU",
-			"title": "Гром на подъеме"
+			"title": "Гром на подъеме",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Duolva lea loktanan"
+			"title": "Duolva lea loktanan",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Грмљавина у порасту",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Hrom na vzostupe",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Grmenje v porastu",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Грмљавина у порасту",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Åskan på väg upp",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "ฟ้าร้องกำลังขึ้น"
+			"title": "ฟ้าร้องกำลังขึ้น",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Yükselişte gök gürültüsü"
+			"title": "Yükselişte gök gürültüsü",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Грім на підйомі"
+			"title": "Грім на підйомі",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "雷霆崛起",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "雷霆崛起",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -219,8 +259,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "25.01.03.2037",
+	"openClickTile": false,
+	"ver": "25.11.06.0039",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-thunder",
 	"cardWidth": null,
@@ -246,14 +286,27 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
+		{
+			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
+			"ver": "25.10.30.1054"
+		},
 		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
+			"ver": "25.10.30.1054"
+		},
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+			"ver": "24.11.15.1424"
+		}
+	]
 }

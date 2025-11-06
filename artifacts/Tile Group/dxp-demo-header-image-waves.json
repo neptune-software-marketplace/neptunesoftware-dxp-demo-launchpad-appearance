@@ -64,9 +64,19 @@
 			"subTitle": "מסכת תמונה מותאמת אישית: אליפסה בשיפוע רדיאלי במרכז"
 		},
 		{
+			"language": "HR",
+			"title": "Jedna slika - naslov centriran",
+			"subTitle": "Prilagođena maska slike: elipsa radijalnog gradijenta centrirana"
+		},
+		{
 			"language": "HU",
 			"title": "Egy kép – Cím középen",
 			"subTitle": "Egyedi képmaszk: radiális gradiens ellipszis közepén"
+		},
+		{
+			"language": "ID",
+			"title": "Satu Gambar - Judul Ditengah",
+			"subTitle": "Masker gambar kustom: elips gradien radial yang berpusat"
 		},
 		{
 			"language": "IS",
@@ -84,6 +94,16 @@
 			"subTitle": "カスタム画像マスク: 放射状グラデーション楕円中心"
 		},
 		{
+			"language": "KO",
+			"title": "한 이미지 - 제목 중앙 정렬",
+			"subTitle": "사용자 정의 이미지 마스크: 중심 방사형 그래디언트 타원"
+		},
+		{
+			"language": "LT",
+			"title": "Vienas vaizdas – pavadinimas centre",
+			"subTitle": "Pasirinktinė vaizdo kaukė: radialinio gradiento elipsės centre"
+		},
+		{
 			"language": "LV",
 			"title": "Viens attēls — virsraksts centrā",
 			"subTitle": "Pielāgota attēla maska: radiālā gradienta elipses centrā"
@@ -97,6 +117,11 @@
 			"language": "NL",
 			"title": "Eén afbeelding - titel gecentreerd",
 			"subTitle": "Aangepast afbeeldingsmasker: radiale gradiënt ellips gecentreerd"
+		},
+		{
+			"language": "NN",
+			"title": "Ett bilde - tittel sentrert",
+			"subTitle": "Egendefinert bildemaske: radiell gradient ellipse sentrert"
 		},
 		{
 			"language": "NO",
@@ -114,54 +139,14 @@
 			"subTitle": "Máscara de imagem personalizada: elipse de gradiente radial centralizada"
 		},
 		{
-			"language": "RU",
-			"title": "Одно изображение - заголовок по центру",
-			"subTitle": "Пользовательская маска изображения: эллипс с радиальным градиентом, центрированный"
-		},
-		{
-			"language": "SL",
-			"title": "Ena slika – naslov na sredini",
-			"subTitle": "Maska slike po meri: elipsa radialnega gradienta na sredini"
-		},
-		{
-			"language": "SR",
-			"title": "Једна слика – центрирано у наслову",
-			"subTitle": "Прилагођена маска слике: центрирана елипсе радијалног градијента"
-		},
-		{
-			"language": "ZF",
-			"title": "一張圖片 - 標題居中",
-			"subTitle": "自訂影像遮罩：以徑向漸層橢圓居中"
-		},
-		{
-			"language": "HR",
-			"title": "Jedna slika - naslov centriran",
-			"subTitle": "Prilagođena maska slike: elipsa radijalnog gradijenta centrirana"
-		},
-		{
-			"language": "ID",
-			"title": "Satu Gambar - Judul Ditengah",
-			"subTitle": "Masker gambar kustom: elips gradien radial yang berpusat"
-		},
-		{
-			"language": "KO",
-			"title": "한 이미지 - 제목 중앙 정렬",
-			"subTitle": "사용자 정의 이미지 마스크: 중심 방사형 그래디언트 타원"
-		},
-		{
-			"language": "LT",
-			"title": "Vienas vaizdas – pavadinimas centre",
-			"subTitle": "Pasirinktinė vaizdo kaukė: radialinio gradiento elipsės centre"
-		},
-		{
-			"language": "NN",
-			"title": "Ett bilde - tittel sentrert",
-			"subTitle": "Egendefinert bildemaske: radiell gradient ellipse sentrert"
-		},
-		{
 			"language": "RO",
 			"title": "O imagine - Centrat pe titlu",
 			"subTitle": "Mască de imagine personalizată: elipsă cu gradient radial centrat"
+		},
+		{
+			"language": "RU",
+			"title": "Одно изображение - заголовок по центру",
+			"subTitle": "Пользовательская маска изображения: эллипс с радиальным градиентом, центрированный"
 		},
 		{
 			"language": "SE",
@@ -177,6 +162,16 @@
 			"language": "SK",
 			"title": "Jeden obrázok – názov na stred",
 			"subTitle": "Vlastná maska obrazu: elipsa s radiálnym gradientom v strede"
+		},
+		{
+			"language": "SL",
+			"title": "Ena slika – naslov na sredini",
+			"subTitle": "Maska slike po meri: elipsa radialnega gradienta na sredini"
+		},
+		{
+			"language": "SR",
+			"title": "Једна слика – центрирано у наслову",
+			"subTitle": "Прилагођена маска слике: центрирана елипсе радијалног градијента"
 		},
 		{
 			"language": "SV",
@@ -197,6 +192,11 @@
 			"language": "UK",
 			"title": "Одне зображення – заголовок по центру",
 			"subTitle": "Спеціальна маска зображення: радіально-градієнтний еліпс по центру"
+		},
+		{
+			"language": "ZF",
+			"title": "一張圖片 - 標題居中",
+			"subTitle": "自訂影像遮罩：以徑向漸層橢圓居中"
 		},
 		{
 			"language": "ZH",
@@ -235,7 +235,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.11.17.1634",
+	"ver": "25.11.06.0115",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -268,7 +268,7 @@
 	"roleTag": null,
 	"cockpitTileGroup": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"openClickTile": true,
+	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
@@ -279,10 +279,10 @@
 	"imageHeightMedia": "462",
 	"imageTabletHeightMedia": "160",
 	"imageMobileHeightMedia": "160",
-	"imageDark": "",
+	"imageDark": "/media/root/dxp-demo-appearance-header/waves.jpg",
 	"imageTabletDark": null,
 	"imageMobileDark": null,
-	"imageDarkHeightMedia": "180",
+	"imageDarkHeightMedia": "462",
 	"imageTabletDarkHeightMedia": null,
 	"imageMobileDarkHeightMedia": null,
 	"forceTileAttributes": false,
@@ -296,15 +296,28 @@
 	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"roles": [],
 	"lightGroupLayouts": [
 		{
 			"id": "ed05a705-32a3-4aa6-8a44-54166d198660",
 			"ver": "24.11.17.1358"
+		},
+		{
+			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
+			"ver": "24.10.12.2216"
 		}
 	],
-	"darkGroupLayouts": [],
+	"darkGroupLayouts": [
+		{
+			"id": "ed05a705-32a3-4aa6-8a44-54166d198660",
+			"ver": "24.11.17.1358"
+		},
+		{
+			"id": "731eba12-cf37-41f8-943e-ee198b213b66",
+			"ver": "24.10.12.2216"
+		}
+	],
 	"lightTileLayouts": [
 		{
 			"id": "dc9e06ca-24b4-4ab0-8a1e-6980525bbf10",
@@ -321,25 +334,25 @@
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
 			"name": "dxp-demo-news-ticker-tornado",
 			"title": "Tornado season is here",
-			"ver": "24.11.17.2037"
+			"ver": "25.11.06.0039"
 		},
 		{
 			"id": "84cbd15f-e771-48e4-838c-be029385e05f",
 			"name": "dxp-demo-news-ticker-thunder",
 			"title": "Thunder on the rise",
-			"ver": "25.01.03.2037"
+			"ver": "25.11.06.0039"
 		},
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
 			"name": "dxp-demo-news-ticker-chilly",
 			"title": "Tomorrow will be chilly",
-			"ver": "24.11.17.2037"
+			"ver": "25.11.06.0038"
 		},
 		{
 			"id": "3af17eb9-bb8b-42b9-97b3-a38c5fa1703e",
 			"name": "dxp-demo-news-ticker-smog",
 			"title": "Smog is clearing!",
-			"ver": "24.11.17.2037"
+			"ver": "25.11.06.0038"
 		}
 	],
 	"tilegroups": [],

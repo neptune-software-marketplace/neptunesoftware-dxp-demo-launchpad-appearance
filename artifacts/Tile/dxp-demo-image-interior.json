@@ -7,265 +7,309 @@
 			"language": "AR",
 			"title": "الداخلية",
 			"subTitle": "كل ما تحتاجه...",
-			"footer": "طالما أننا نعيش ونتنفس..."
-		},
-		{
-			"language": "DE",
-			"title": "Innere",
-			"subTitle": "Alles was Sie brauchen...",
-			"footer": "Solange wir leben und atmen …"
-		},
-		{
-			"language": "EN",
-			"title": "Interior",
-			"subTitle": "Everything you need...",
-			"footer": "As long as we’re living and breathing..."
-		},
-		{
-			"language": "FR",
-			"title": "Intérieur",
-			"subTitle": "Tout ce dont vous avez besoin...",
-			"footer": "Tant que nous vivons et respirons..."
-		},
-		{
-			"language": "NO",
-			"title": "Interiør",
-			"subTitle": "Alt du trenger...",
-			"footer": "Så lenge vi lever og puster..."
-		},
-		{
-			"language": "ZF",
-			"title": "內部的",
-			"subTitle": "您所需要的一切...",
-			"footer": "只要我們還活著、還在呼吸…"
-		},
-		{
-			"language": "ZH",
-			"title": "内部的",
-			"subTitle": "您所需要的一切...",
-			"footer": "只要我们还活着、还在呼吸……"
-		},
-		{
-			"language": "NN",
-			"title": "Interiør",
-			"subTitle": "Alt du trenger...",
-			"footer": "Så lenge vi lever og puster..."
+			"footer": "طالما أننا نعيش ونتنفس...",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "Интериор",
 			"subTitle": "Всичко необходимо...",
-			"footer": "Докато сме живи и дишаме..."
+			"footer": "Докато сме живи и дишаме...",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Interiér",
 			"subTitle": "Vše co potřebujete...",
-			"footer": "Dokud žijeme a dýcháme..."
+			"footer": "Dokud žijeme a dýcháme...",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Indre",
 			"subTitle": "Alt hvad du behøver...",
-			"footer": "Så længe vi lever og ånder..."
+			"footer": "Så længe vi lever og ånder...",
+			"selected": false
+		},
+		{
+			"language": "DE",
+			"title": "Innere",
+			"subTitle": "Alles was Sie brauchen...",
+			"footer": "Solange wir leben und atmen …",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Εσωτερικό",
 			"subTitle": "Όλα όσα χρειάζεστε...",
-			"footer": "Όσο ζούμε και αναπνέουμε…"
+			"footer": "Όσο ζούμε και αναπνέουμε…",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Interior",
 			"subTitle": "Everything you need...",
-			"footer": "As long as we’re living and breathing..."
+			"footer": "As long as we’re living and breathing...",
+			"selected": false
+		},
+		{
+			"language": "EN",
+			"title": "Interior",
+			"subTitle": "Everything you need...",
+			"footer": "As long as we’re living and breathing...",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Interior",
 			"subTitle": "Todo lo que necesitas...",
-			"footer": "Mientras vivamos y respiremos..."
+			"footer": "Mientras vivamos y respiremos...",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Interjöör",
 			"subTitle": "Kõik, mida vajate...",
-			"footer": "Kuni me elame ja hingame..."
+			"footer": "Kuni me elame ja hingame...",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Sisustus",
 			"subTitle": "Kaikki mitä tarvitset...",
-			"footer": "Niin kauan kuin elämme ja hengitämme..."
+			"footer": "Niin kauan kuin elämme ja hengitämme...",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Intérieur",
 			"subTitle": "Tout ce dont vous avez besoin...",
-			"footer": "Tant que nous vivons et respirons..."
+			"footer": "Tant que nous vivons et respirons...",
+			"selected": false
+		},
+		{
+			"language": "FR",
+			"title": "Intérieur",
+			"subTitle": "Tout ce dont vous avez besoin...",
+			"footer": "Tant que nous vivons et respirons...",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "פְּנִים",
 			"subTitle": "כל מה שאתה צריך...",
-			"footer": "כל עוד אנחנו חיים ונושמים..."
+			"footer": "כל עוד אנחנו חיים ונושמים...",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Interijer",
 			"subTitle": "Sve što trebate...",
-			"footer": "Dok živimo i dišemo..."
-		},
-		{
-			"language": "ID",
-			"title": "Pedalaman",
-			"subTitle": "Semua yang Anda butuhkan...",
-			"footer": "Selama kita masih hidup dan bernafas..."
-		},
-		{
-			"language": "IS",
-			"title": "Innrétting",
-			"subTitle": "Allt sem þú þarft...",
-			"footer": "Svo lengi sem við lifum og öndum..."
-		},
-		{
-			"language": "JA",
-			"title": "インテリア",
-			"subTitle": "必要なものはすべて...",
-			"footer": "私たちが生き、呼吸している限り..."
-		},
-		{
-			"language": "KO",
-			"title": "내부",
-			"subTitle": "필요한 모든 것이 있습니다...",
-			"footer": "우리가 살아 숨쉬는 한..."
-		},
-		{
-			"language": "LV",
-			"title": "Interjers",
-			"subTitle": "Viss nepieciešamais...",
-			"footer": "Kamēr dzīvojam un elpojam..."
-		},
-		{
-			"language": "MS",
-			"title": "Dalaman",
-			"subTitle": "Semua yang anda perlukan...",
-			"footer": "Selagi kita masih hidup dan bernafas..."
-		},
-		{
-			"language": "NL",
-			"title": "Interieur",
-			"subTitle": "Alles wat je nodig hebt...",
-			"footer": "Zolang we leven en ademen..."
-		},
-		{
-			"language": "RO",
-			"title": "Interior",
-			"subTitle": "Tot ce ai nevoie...",
-			"footer": "Atâta timp cât trăim și respirăm..."
-		},
-		{
-			"language": "SH",
-			"title": "Ентеријер",
-			"subTitle": "Све што вам треба...",
-			"footer": "Докле год живимо и дишемо..."
-		},
-		{
-			"language": "SK",
-			"title": "Interiér",
-			"subTitle": "Všetko, čo potrebujete...",
-			"footer": "Kým žijeme a dýchame..."
-		},
-		{
-			"language": "SL",
-			"title": "Notranjost",
-			"subTitle": "Vse kar potrebujete...",
-			"footer": "Dokler živimo in dihamo ..."
-		},
-		{
-			"language": "SR",
-			"title": "Ентеријер",
-			"subTitle": "Све што вам треба...",
-			"footer": "Докле год живимо и дишемо..."
-		},
-		{
-			"language": "SV",
-			"title": "Interiör",
-			"subTitle": "Allt du behöver...",
-			"footer": "Så länge vi lever och andas..."
-		},
-		{
-			"language": "TH",
-			"title": "ภายใน",
-			"subTitle": "ทุกสิ่งที่คุณต้องการ...",
-			"footer": "ตราบใดที่เรายังมีชีวิตและหายใจ..."
-		},
-		{
-			"language": "TR",
-			"title": "İç mekan",
-			"subTitle": "İhtiyacınız olan her şey...",
-			"footer": "Yaşadığımız ve nefes aldığımız sürece..."
-		},
-		{
-			"language": "UK",
-			"title": "Інтер'єр",
-			"subTitle": "Все, що вам потрібно...",
-			"footer": "Поки ми живі і дихаємо..."
-		},
-		{
-			"language": "ZH",
-			"title": "内部的",
-			"subTitle": "您所需要的一切...",
-			"footer": "只要我们还活着、还在呼吸……"
+			"footer": "Dok živimo i dišemo...",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Belső",
 			"subTitle": "Minden ami kell...",
-			"footer": "Amíg élünk és lélegzünk..."
+			"footer": "Amíg élünk és lélegzünk...",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Pedalaman",
+			"subTitle": "Semua yang Anda butuhkan...",
+			"footer": "Selama kita masih hidup dan bernafas...",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Innrétting",
+			"subTitle": "Allt sem þú þarft...",
+			"footer": "Svo lengi sem við lifum og öndum...",
+			"selected": false
 		},
 		{
 			"language": "IT",
 			"title": "Interno",
 			"subTitle": "Tutto ciò di cui hai bisogno...",
-			"footer": "Finché saremo vivi e respireremo..."
+			"footer": "Finché saremo vivi e respireremo...",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "インテリア",
+			"subTitle": "必要なものはすべて...",
+			"footer": "私たちが生き、呼吸している限り...",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "내부",
+			"subTitle": "필요한 모든 것이 있습니다...",
+			"footer": "우리가 살아 숨쉬는 한...",
+			"selected": false
 		},
 		{
 			"language": "LT",
 			"title": "Interjeras",
 			"subTitle": "Viskas ko reikia...",
-			"footer": "Kol gyvename ir kvėpuojame..."
+			"footer": "Kol gyvename ir kvėpuojame...",
+			"selected": false
+		},
+		{
+			"language": "LV",
+			"title": "Interjers",
+			"subTitle": "Viss nepieciešamais...",
+			"footer": "Kamēr dzīvojam un elpojam...",
+			"selected": false
+		},
+		{
+			"language": "MS",
+			"title": "Dalaman",
+			"subTitle": "Semua yang anda perlukan...",
+			"footer": "Selagi kita masih hidup dan bernafas...",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Interieur",
+			"subTitle": "Alles wat je nodig hebt...",
+			"footer": "Zolang we leven en ademen...",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Interiør",
+			"subTitle": "Alt du trenger...",
+			"footer": "Så lenge vi lever og puster...",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Interiør",
+			"subTitle": "Alt du trenger...",
+			"footer": "Så lenge vi lever og puster...",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Wnętrze",
 			"subTitle": "Wszystko czego potrzebujesz...",
-			"footer": "Dopóki żyjemy i oddychamy..."
+			"footer": "Dopóki żyjemy i oddychamy...",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Interior",
 			"subTitle": "Tudo o que você precisa...",
-			"footer": "Enquanto estivermos vivos e respirando..."
+			"footer": "Enquanto estivermos vivos e respirando...",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Interior",
+			"subTitle": "Tot ce ai nevoie...",
+			"footer": "Atâta timp cât trăim și respirăm...",
+			"selected": false
 		},
 		{
 			"language": "RU",
 			"title": "Интерьер",
 			"subTitle": "Все, что вам нужно...",
-			"footer": "Пока мы живем и дышим..."
+			"footer": "Пока мы живем и дышим...",
+			"selected": false
 		},
 		{
 			"language": "SE",
 			"title": "Sisáibmu",
 			"subTitle": "Buot maid dárbbašat...",
-			"footer": "Nu guhká go mii eallit ja vuoiŋŋastit..."
+			"footer": "Nu guhká go mii eallit ja vuoiŋŋastit...",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Ентеријер",
+			"subTitle": "Све што вам треба...",
+			"footer": "Докле год живимо и дишемо...",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Interiér",
+			"subTitle": "Všetko, čo potrebujete...",
+			"footer": "Kým žijeme a dýchame...",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Notranjost",
+			"subTitle": "Vse kar potrebujete...",
+			"footer": "Dokler živimo in dihamo ...",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Ентеријер",
+			"subTitle": "Све што вам треба...",
+			"footer": "Докле год живимо и дишемо...",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Interiör",
+			"subTitle": "Allt du behöver...",
+			"footer": "Så länge vi lever och andas...",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ภายใน",
+			"subTitle": "ทุกสิ่งที่คุณต้องการ...",
+			"footer": "ตราบใดที่เรายังมีชีวิตและหายใจ...",
+			"selected": false
+		},
+		{
+			"language": "TR",
+			"title": "İç mekan",
+			"subTitle": "İhtiyacınız olan her şey...",
+			"footer": "Yaşadığımız ve nefes aldığımız sürece...",
+			"selected": false
+		},
+		{
+			"language": "UK",
+			"title": "Інтер'єр",
+			"subTitle": "Все, що вам потрібно...",
+			"footer": "Поки ми живі і дихаємо...",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "內部的",
 			"subTitle": "您所需要的一切...",
-			"footer": "只要我們還活著、還在呼吸…"
+			"footer": "只要我們還活著、還在呼吸…",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "內部的",
+			"subTitle": "您所需要的一切...",
+			"footer": "只要我們還活著、還在呼吸…",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "内部的",
+			"subTitle": "您所需要的一切...",
+			"footer": "只要我们还活着、还在呼吸……",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "内部的",
+			"subTitle": "您所需要的一切...",
+			"footer": "只要我们还活着、还在呼吸……",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -324,7 +368,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.19.2323",
+	"ver": "25.11.06.0010",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-interior",
 	"cardWidth": null,
@@ -349,7 +393,7 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
+	"imageType": "T",
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

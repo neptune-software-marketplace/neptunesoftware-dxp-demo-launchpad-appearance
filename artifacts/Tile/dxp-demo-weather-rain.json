@@ -7,241 +7,281 @@
 			"language": "AR",
 			"title": "مطر",
 			"subTitle": "مبلل ورطب",
-			"footer": "سيتوقف المطر، وسينتهي الليل، وسيتلاشى الألم"
+			"footer": "سيتوقف المطر، وسينتهي الليل، وسيتلاشى الألم",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "дъжд",
 			"subTitle": "Мокро и мокро",
-			"footer": "Дъждът ще спре, нощта ще свърши, болката ще избледнее"
+			"footer": "Дъждът ще спре, нощта ще свърши, болката ще избледнее",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Déšť",
 			"subTitle": "Mokré a mokré",
-			"footer": "Déšť ustane, noc skončí, bolest zmizí"
+			"footer": "Déšť ustane, noc skončí, bolest zmizí",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Regn",
 			"subTitle": "Våd & Soggy",
-			"footer": "Regnen vil stoppe, natten vil ende, smerten forsvinder"
+			"footer": "Regnen vil stoppe, natten vil ende, smerten forsvinder",
+			"selected": false
 		},
 		{
 			"language": "DE",
 			"title": "Regen",
 			"subTitle": "Nass und matschig",
-			"footer": "Der Regen wird aufhören, die Nacht wird enden, der Schmerz wird verblassen"
+			"footer": "Der Regen wird aufhören, die Nacht wird enden, der Schmerz wird verblassen",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Βροχή",
 			"subTitle": "Wet & Soggy",
-			"footer": "Η βροχή θα σταματήσει, η νύχτα θα τελειώσει, η πληγή θα σβήσει"
+			"footer": "Η βροχή θα σταματήσει, η νύχτα θα τελειώσει, η πληγή θα σβήσει",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Rain",
 			"subTitle": "Wet & Soggy",
-			"footer": "The rain will stop, the night will end, the hurt will fade"
+			"footer": "The rain will stop, the night will end, the hurt will fade",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Lluvia",
 			"subTitle": "Mojado y empapado",
-			"footer": "La lluvia parará, la noche terminará, el dolor se desvanecerá."
+			"footer": "La lluvia parará, la noche terminará, el dolor se desvanecerá.",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Vihma",
 			"subTitle": "Märg ja niiske",
-			"footer": "Vihm lakkab, öö saab läbi, valu kaob"
+			"footer": "Vihm lakkab, öö saab läbi, valu kaob",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Sade",
 			"subTitle": "Märkä & märkä",
-			"footer": "Sade lakkaa, yö loppuu, kipu häviää"
+			"footer": "Sade lakkaa, yö loppuu, kipu häviää",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Pluie",
 			"subTitle": "Mouillé et détrempé",
-			"footer": "La pluie cessera, la nuit prendra fin, la douleur s'estompera"
+			"footer": "La pluie cessera, la nuit prendra fin, la douleur s'estompera",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "גֶשֶׁם",
 			"subTitle": "רטוב וספוג",
-			"footer": "הגשם ייפסק, הלילה יסתיים, הפגיעה תימוג"
+			"footer": "הגשם ייפסק, הלילה יסתיים, הפגיעה תימוג",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Kiša",
 			"subTitle": "Mokro i mokro",
-			"footer": "Kiša će prestati, noć će završiti, bol će izblijediti"
+			"footer": "Kiša će prestati, noć će završiti, bol će izblijediti",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Eső",
 			"subTitle": "Wet & Soggy",
-			"footer": "Az eső eláll, az éjszaka véget ér, a fájdalom elmúlik"
-		},
-		{
-			"language": "IS",
-			"title": "Rigning",
-			"subTitle": "Blautt og blautt",
-			"footer": "Rigningin mun hætta, nóttin mun enda, sárið mun hverfa"
-		},
-		{
-			"language": "IT",
-			"title": "Piovere",
-			"subTitle": "Bagnato e inzuppato",
-			"footer": "La pioggia cesserà, la notte finirà, il dolore svanirà"
-		},
-		{
-			"language": "JA",
-			"title": "雨",
-			"subTitle": "濡れてふやけている",
-			"footer": "雨は止み、夜は明け、傷は消える"
-		},
-		{
-			"language": "KO",
-			"title": "비",
-			"subTitle": "젖고 축축하다",
-			"footer": "비는 그치고, 밤은 끝나고, 상처는 사라질 거야"
-		},
-		{
-			"language": "LT",
-			"title": "Lietus",
-			"subTitle": "Šlapias ir šlapias",
-			"footer": "Lietus nustos, naktis baigsis, nuoskauda išblės"
-		},
-		{
-			"language": "MS",
-			"title": "hujan",
-			"subTitle": "Basah & Lembap",
-			"footer": "Hujan akan berhenti, malam akan berakhir, sakit akan pudar"
-		},
-		{
-			"language": "NL",
-			"title": "Regen",
-			"subTitle": "Nat en drassig",
-			"footer": "De regen zal stoppen, de nacht zal eindigen, de pijn zal vervagen"
-		},
-		{
-			"language": "NN",
-			"title": "Regn",
-			"subTitle": "Våt og fuktig",
-			"footer": "Regnet vil stoppe, natten vil ta slutt, det vonde vil forsvinne"
-		},
-		{
-			"language": "NO",
-			"title": "Regn",
-			"subTitle": "Våt og fuktig",
-			"footer": "Regnet vil stoppe, natten vil ta slutt, det vonde vil forsvinne"
-		},
-		{
-			"language": "RU",
-			"title": "Дождь",
-			"subTitle": "Мокрый и сырой",
-			"footer": "Дождь прекратится, ночь закончится, боль утихнет."
-		},
-		{
-			"language": "SE",
-			"title": "Arvi",
-			"subTitle": "Čáhce ja čáhppes",
-			"footer": "Duollet dálle nohká, idja nohká, váttut jávket"
-		},
-		{
-			"language": "SH",
-			"title": "Киша",
-			"subTitle": "Вет & Согги",
-			"footer": "Киша ће престати, ноћ ће престати, бол ће избледети"
-		},
-		{
-			"language": "SK",
-			"title": "Dážď",
-			"subTitle": "Mokré a mokré",
-			"footer": "Dážď prestane, noc sa skončí, bolesť zmizne"
-		},
-		{
-			"language": "SL",
-			"title": "dež",
-			"subTitle": "Mokro in razmočeno",
-			"footer": "Dež bo prenehal, noč bo konec, bolečina bo zbledela"
-		},
-		{
-			"language": "SR",
-			"title": "Киша",
-			"subTitle": "Вет & Согги",
-			"footer": "Киша ће престати, ноћ ће престати, бол ће избледети"
-		},
-		{
-			"language": "TH",
-			"title": "ฝน",
-			"subTitle": "เปียกและแฉะ",
-			"footer": "ฝนจะหยุดตก ราตรีจะสิ้นสุด ความเจ็บปวดจะจางหาย"
-		},
-		{
-			"language": "UK",
-			"title": "Дощ",
-			"subTitle": "Вологий і мокрий",
-			"footer": "Дощ припиниться, ніч закінчиться, біль згасне"
-		},
-		{
-			"language": "ZH",
-			"title": "雨",
-			"subTitle": "潮湿",
-			"footer": "雨会停，夜会过去，伤痛也会淡去"
+			"footer": "Az eső eláll, az éjszaka véget ér, a fájdalom elmúlik",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Hujan",
 			"subTitle": "Basah & Lembap",
-			"footer": "Hujan akan berhenti, malam akan berakhir, rasa sakit akan memudar"
+			"footer": "Hujan akan berhenti, malam akan berakhir, rasa sakit akan memudar",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Rigning",
+			"subTitle": "Blautt og blautt",
+			"footer": "Rigningin mun hætta, nóttin mun enda, sárið mun hverfa",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Piovere",
+			"subTitle": "Bagnato e inzuppato",
+			"footer": "La pioggia cesserà, la notte finirà, il dolore svanirà",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "雨",
+			"subTitle": "濡れてふやけている",
+			"footer": "雨は止み、夜は明け、傷は消える",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "비",
+			"subTitle": "젖고 축축하다",
+			"footer": "비는 그치고, 밤은 끝나고, 상처는 사라질 거야",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Lietus",
+			"subTitle": "Šlapias ir šlapias",
+			"footer": "Lietus nustos, naktis baigsis, nuoskauda išblės",
+			"selected": false
 		},
 		{
 			"language": "LV",
 			"title": "Lietus",
 			"subTitle": "Slapjš un slapjš",
-			"footer": "Lietus mitēsies, nakts beigsies, sāpe izgaisīs"
+			"footer": "Lietus mitēsies, nakts beigsies, sāpe izgaisīs",
+			"selected": false
+		},
+		{
+			"language": "MS",
+			"title": "hujan",
+			"subTitle": "Basah & Lembap",
+			"footer": "Hujan akan berhenti, malam akan berakhir, sakit akan pudar",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Regen",
+			"subTitle": "Nat en drassig",
+			"footer": "De regen zal stoppen, de nacht zal eindigen, de pijn zal vervagen",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Regn",
+			"subTitle": "Våt og fuktig",
+			"footer": "Regnet vil stoppe, natten vil ta slutt, det vonde vil forsvinne",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Regn",
+			"subTitle": "Våt og fuktig",
+			"footer": "Regnet vil stoppe, natten vil ta slutt, det vonde vil forsvinne",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Deszcz",
 			"subTitle": "Mokro i rozmiękło",
-			"footer": "Deszcz przestanie, noc się skończy, ból zniknie"
+			"footer": "Deszcz przestanie, noc się skończy, ból zniknie",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Chuva",
 			"subTitle": "Molhado e encharcado",
-			"footer": "A chuva vai parar, a noite vai acabar, a dor vai desaparecer"
+			"footer": "A chuva vai parar, a noite vai acabar, a dor vai desaparecer",
+			"selected": false
 		},
 		{
 			"language": "RO",
 			"title": "Ploaie",
 			"subTitle": "Umed și Umed",
-			"footer": "Ploaia se va opri, noaptea se va termina, durerea se va estompa"
+			"footer": "Ploaia se va opri, noaptea se va termina, durerea se va estompa",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Дождь",
+			"subTitle": "Мокрый и сырой",
+			"footer": "Дождь прекратится, ночь закончится, боль утихнет.",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Arvi",
+			"subTitle": "Čáhce ja čáhppes",
+			"footer": "Duollet dálle nohká, idja nohká, váttut jávket",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Киша",
+			"subTitle": "Вет & Согги",
+			"footer": "Киша ће престати, ноћ ће престати, бол ће избледети",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Dážď",
+			"subTitle": "Mokré a mokré",
+			"footer": "Dážď prestane, noc sa skončí, bolesť zmizne",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "dež",
+			"subTitle": "Mokro in razmočeno",
+			"footer": "Dež bo prenehal, noč bo konec, bolečina bo zbledela",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Киша",
+			"subTitle": "Вет & Согги",
+			"footer": "Киша ће престати, ноћ ће престати, бол ће избледети",
+			"selected": false
 		},
 		{
 			"language": "SV",
 			"title": "Regn",
 			"subTitle": "Blöt & fuktigt",
-			"footer": "Regnet kommer att sluta, natten kommer att sluta, smärtan kommer att blekna"
+			"footer": "Regnet kommer att sluta, natten kommer att sluta, smärtan kommer att blekna",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ฝน",
+			"subTitle": "เปียกและแฉะ",
+			"footer": "ฝนจะหยุดตก ราตรีจะสิ้นสุด ความเจ็บปวดจะจางหาย",
+			"selected": false
 		},
 		{
 			"language": "TR",
 			"title": "Yağmur",
 			"subTitle": "Islak ve Islak",
-			"footer": "Yağmur duracak, gece bitecek, acılar dinecek."
+			"footer": "Yağmur duracak, gece bitecek, acılar dinecek.",
+			"selected": false
+		},
+		{
+			"language": "UK",
+			"title": "Дощ",
+			"subTitle": "Вологий і мокрий",
+			"footer": "Дощ припиниться, ніч закінчиться, біль згасне",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "雨",
 			"subTitle": "潮濕",
-			"footer": "雨會停，夜會過去，傷痛也會淡去"
+			"footer": "雨會停，夜會過去，傷痛也會淡去",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "雨",
+			"subTitle": "潮湿",
+			"footer": "雨会停，夜会过去，伤痛也会淡去",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -267,7 +307,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": null,
+	"icon": "sap-icon://fas/cloud-rain",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -303,12 +343,12 @@
 	"blackoutDescription": null,
 	"helpText": "<p><br></p>",
 	"helpEnabled": false,
-	"openClickTile": false,
-	"ver": "25.01.05.2011",
+	"openClickTile": true,
+	"ver": "25.11.06.0056",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-rain",
-	"cardWidth": "",
-	"cardHeight": "",
+	"cardWidth": "Narrow",
+	"cardHeight": "Short",
 	"cardHeightFit": false,
 	"cardImage": "/media/root/dxp-demo-appearance-icon-light/rain.svg",
 	"cardImageDark": "/media/root/dxp-demo-appearance-icon-dark/rain.svg",
@@ -333,6 +373,16 @@
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		}
+	],
+	"darkTileLayouts": [
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

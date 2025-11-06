@@ -285,7 +285,18 @@
 		}
 	],
 	"storeItem": {},
-	"settings": null,
+	"settings": {
+		"metric": {
+			"cardImage": {
+				"width": "64",
+				"height": "64"
+			},
+			"cardImageDark": {
+				"width": "64",
+				"height": "64"
+			}
+		}
+	},
 	"title": "Thunder",
 	"subTitle": "Loud & Flashy",
 	"description": null,
@@ -303,7 +314,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": null,
+	"icon": "sap-icon://fas/bolt",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -326,7 +337,7 @@
 	"sidepanelTitle": null,
 	"tags": "",
 	"actiongroup": null,
-	"styleClass": "dxp-demo-focus-weather",
+	"styleClass": "",
 	"titleAlignment": null,
 	"titleLevel": null,
 	"dataUrl": null,
@@ -340,14 +351,14 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.10.30.0949",
+	"ver": "25.11.06.0100",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-thunder",
-	"cardWidth": "",
-	"cardHeight": "",
+	"cardWidth": "Narrow",
+	"cardHeight": "Short",
 	"cardHeightFit": false,
-	"cardImage": "",
-	"cardImageDark": "",
+	"cardImage": "/media/root/dxp-demo-appearance-icon-focus/focus-thunder-hurricanes-light.svg",
+	"cardImageDark": "/media/root/dxp-demo-appearance-icon-focus/focus-thunder-hurricanes-dark.svg",
 	"cardButtonIcon": null,
 	"cardButtonIconOnly": false,
 	"imagePlacement": null,
@@ -366,19 +377,19 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
 		{
-			"id": "8dfa9533-c97c-46a6-9b8d-2bc4cda97685",
-			"ver": "25.10.30.0949"
+			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
+			"ver": "25.10.30.1054"
 		}
 	],
 	"darkTileLayouts": [
 		{
-			"id": "ead8e39c-0337-43c5-b473-50e30f2b08d4",
-			"ver": "25.10.30.0949"
+			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
+			"ver": "25.10.30.1054"
 		}
 	]
 }

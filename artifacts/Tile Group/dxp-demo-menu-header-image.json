@@ -4,84 +4,108 @@
 	"createdBy": "morten.prom@neptune-software.com",
 	"translation": [
 		{
-			"language": "HR",
-			"menuText": "SLIKA ZAGLAVLJA"
+			"language": "AR",
+			"menuText": "صورة العنوان"
 		},
 		{
 			"language": "BG",
 			"menuText": "ЗАГЛАВНО ИЗОБРАЖЕНИЕ"
 		},
 		{
-			"language": "AR",
-			"menuText": "صورة العنوان"
-		},
-		{
-			"language": "HU",
-			"menuText": "FEJLŐKÉP"
-		},
-		{
-			"language": "IS",
-			"menuText": "HÖFSMYND"
-		},
-		{
-			"language": "ID",
-			"menuText": "GAMBAR KEPALA"
-		},
-		{
-			"language": "JA",
-			"menuText": "ヘッダー画像"
-		},
-		{
-			"language": "IT",
-			"menuText": "IMMAGINE DI INTESTAZIONE"
-		},
-		{
 			"language": "CS",
 			"menuText": "OBRÁZEK HLAVY"
-		},
-		{
-			"language": "EN",
-			"menuText": "HEADER IMAGE"
-		},
-		{
-			"language": "LV",
-			"menuText": "GALVENES ATTĒLS"
-		},
-		{
-			"language": "LT",
-			"menuText": "ANTRAŠTĖS VAIZDAS"
-		},
-		{
-			"language": "DE",
-			"menuText": "KOPFBILD"
-		},
-		{
-			"language": "KO",
-			"menuText": "헤더 이미지"
-		},
-		{
-			"language": "MS",
-			"menuText": "IMEJ TAJUK"
-		},
-		{
-			"language": "NN",
-			"menuText": "HOVEDBILDE"
-		},
-		{
-			"language": "NL",
-			"menuText": "KOPAFBEELDING"
-		},
-		{
-			"language": "NO",
-			"menuText": "TOP BILDER"
 		},
 		{
 			"language": "DA",
 			"menuText": "TOP BILLEDER"
 		},
 		{
+			"language": "DE",
+			"menuText": "KOPFBILD"
+		},
+		{
 			"language": "EL",
 			"menuText": "ΕΙΚΟΝΑ ΚΕΦΑΛΗΣ"
+		},
+		{
+			"language": "EN",
+			"menuText": "HEADER IMAGE"
+		},
+		{
+			"language": "ES",
+			"menuText": "IMAGEN DE ENCABEZADO"
+		},
+		{
+			"language": "ET",
+			"menuText": "PÄISE PILT"
+		},
+		{
+			"language": "FI",
+			"menuText": "OTSIKKUVA"
+		},
+		{
+			"language": "FR",
+			"menuText": "IMAGE D'EN-TÊTE"
+		},
+		{
+			"language": "HE",
+			"menuText": "תמונת כותרת"
+		},
+		{
+			"language": "HR",
+			"menuText": "SLIKA ZAGLAVLJA"
+		},
+		{
+			"language": "HU",
+			"menuText": "FEJLŐKÉP"
+		},
+		{
+			"language": "ID",
+			"menuText": "GAMBAR KEPALA"
+		},
+		{
+			"language": "IS",
+			"menuText": "HÖFSMYND"
+		},
+		{
+			"language": "IT",
+			"menuText": "IMMAGINE DI INTESTAZIONE"
+		},
+		{
+			"language": "JA",
+			"menuText": "ヘッダー画像"
+		},
+		{
+			"language": "KO",
+			"menuText": "헤더 이미지"
+		},
+		{
+			"language": "LT",
+			"menuText": "ANTRAŠTĖS VAIZDAS"
+		},
+		{
+			"language": "LV",
+			"menuText": "GALVENES ATTĒLS"
+		},
+		{
+			"language": "MS",
+			"menuText": "IMEJ TAJUK"
+		},
+		{
+			"language": "NL",
+			"menuText": "KOPAFBEELDING"
+		},
+		{
+			"language": "NN",
+			"menuText": "HOVEDBILDE"
+		},
+		{
+			"language": "NO",
+			"menuText": "TOP BILDER"
+		},
+		{
+			"language": "PL",
+			"menuText": "OBRAZEK NAGŁÓWKOWY"
 		},
 		{
 			"language": "PT",
@@ -96,14 +120,6 @@
 			"menuText": "ИЗОБРАЖЕНИЕ ЗАГОЛОВКА"
 		},
 		{
-			"language": "ET",
-			"menuText": "PÄISE PILT"
-		},
-		{
-			"language": "ES",
-			"menuText": "IMAGEN DE ENCABEZADO"
-		},
-		{
 			"language": "SE",
 			"menuText": "OVDALGOVVA"
 		},
@@ -112,16 +128,8 @@
 			"menuText": "ХЕАДЕР ИМАГЕ"
 		},
 		{
-			"language": "PL",
-			"menuText": "OBRAZEK NAGŁÓWKOWY"
-		},
-		{
 			"language": "SK",
 			"menuText": "OBRÁZOK HLAVY"
-		},
-		{
-			"language": "FI",
-			"menuText": "OTSIKKUVA"
 		},
 		{
 			"language": "SL",
@@ -136,20 +144,12 @@
 			"menuText": "HUVUDBILD"
 		},
 		{
-			"language": "FR",
-			"menuText": "IMAGE D'EN-TÊTE"
-		},
-		{
 			"language": "TH",
 			"menuText": "ภาพส่วนหัว"
 		},
 		{
 			"language": "TR",
 			"menuText": "BAŞLIK GÖRÜNTÜSÜ"
-		},
-		{
-			"language": "HE",
-			"menuText": "תמונת כותרת"
 		},
 		{
 			"language": "UK",
@@ -194,7 +194,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.01.10.1543",
+	"ver": "25.11.06.0113",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -227,7 +227,7 @@
 	"roleTag": null,
 	"cockpitTileGroup": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"openClickTile": true,
+	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
@@ -255,7 +255,7 @@
 	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"roles": [],
 	"lightGroupLayouts": [
 		{
@@ -263,7 +263,12 @@
 			"ver": "24.11.20.0029"
 		}
 	],
-	"darkGroupLayouts": [],
+	"darkGroupLayouts": [
+		{
+			"id": "9978d489-f4a5-4882-a613-39ee0cf48b2c",
+			"ver": "24.11.20.0029"
+		}
+	],
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"tiles": [],
@@ -272,28 +277,21 @@
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"name": "dxp-demo-header-image-storm",
 			"title": "One Image - Title Right Alligened",
-			"ver": "24.11.21.1112"
+			"ver": "25.11.06.0115"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
 			"name": "dxp-demo-header-image-hurricanes-grid",
 			"title": "Different Images for Light & Dark Mode",
-			"ver": "25.01.05.0151"
+			"ver": "25.11.06.0114"
 		},
 		{
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"name": "dxp-demo-header-image-waves",
 			"title": "One Image - Title Centered",
-			"ver": "24.11.17.1634"
+			"ver": "25.11.06.0115"
 		}
 	],
-	"navbarGroups": [
-		{
-			"id": "6a7b6a15-d3e5-4188-8c32-57986656e48f",
-			"name": "dxp-demo-navbar-1x",
-			"title": "dxp-demo-navbar-anlytical",
-			"ver": "25.01.10.1543"
-		}
-	],
+	"navbarGroups": [],
 	"sidebarGroups": []
 }

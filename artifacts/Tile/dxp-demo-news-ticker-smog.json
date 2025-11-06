@@ -5,163 +5,203 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "الضباب الدخاني يتلاشى!"
+			"title": "الضباب الدخاني يتلاشى!",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Смогът се разчиства!"
+			"title": "Смогът се разчиства!",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Smog se čistí!"
+			"title": "Smog se čistí!",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Smog renser!"
+			"title": "Smog renser!",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Der Smog lichtet sich!"
+			"title": "Der Smog lichtet sich!",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Η αιθαλομίχλη καθαρίζεται!"
+			"title": "Η αιθαλομίχλη καθαρίζεται!",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Smog is clearing!"
+			"title": "Smog is clearing!",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "¡El smog se está despejando!"
+			"title": "¡El smog se está despejando!",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Sudu puhastub!"
+			"title": "Sudu puhastub!",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Sumu puhdistuu!"
+			"title": "Sumu puhdistuu!",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Le smog se dissipe !"
+			"title": "Le smog se dissipe !",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "הערפיח מתנקה!"
+			"title": "הערפיח מתנקה!",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Smog se čisti!"
-		},
-		{
-			"language": "ID",
-			"title": "Kabut asap mulai hilang!"
-		},
-		{
-			"language": "IS",
-			"title": "Smoggurinn er að hreinsa!"
-		},
-		{
-			"language": "IT",
-			"title": "Lo smog si sta diradando!"
-		},
-		{
-			"language": "JA",
-			"title": "スモッグが晴れてきました！"
-		},
-		{
-			"language": "KO",
-			"title": "스모그가 걷히고 있습니다!"
-		},
-		{
-			"language": "NL",
-			"title": "De smog trekt op!"
-		},
-		{
-			"language": "NN",
-			"title": "Smog renser!"
-		},
-		{
-			"language": "NO",
-			"title": "Smog renser!"
-		},
-		{
-			"language": "RO",
-			"title": "Smogul se curățește!"
-		},
-		{
-			"language": "SH",
-			"title": "Смог се чисти!"
-		},
-		{
-			"language": "SK",
-			"title": "Smog sa čistí!"
-		},
-		{
-			"language": "SL",
-			"title": "Smog se čisti!"
-		},
-		{
-			"language": "SR",
-			"title": "Смог се чисти!"
-		},
-		{
-			"language": "SV",
-			"title": "Smogen håller på att rensa!"
-		},
-		{
-			"language": "ZF",
-			"title": "霧霾正在消散！"
-		},
-		{
-			"language": "ZH",
-			"title": "雾霾正在消散！"
+			"title": "Smog se čisti!",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "Tisztul a szmog!"
+			"title": "Tisztul a szmog!",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Kabut asap mulai hilang!",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Smoggurinn er að hreinsa!",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Lo smog si sta diradando!",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "スモッグが晴れてきました！",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "스모그가 걷히고 있습니다!",
+			"selected": false
 		},
 		{
 			"language": "LT",
-			"title": "Smogas išsivalo!"
+			"title": "Smogas išsivalo!",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Smogs skaidrojas!"
+			"title": "Smogs skaidrojas!",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Asap semakin hilang!"
+			"title": "Asap semakin hilang!",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "De smog trekt op!",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Smog renser!",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Smog renser!",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Smog się rozwiewa!"
+			"title": "Smog się rozwiewa!",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "A poluição está se dissipando!"
+			"title": "A poluição está se dissipando!",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Smogul se curățește!",
+			"selected": false
 		},
 		{
 			"language": "RU",
-			"title": "Смог рассеивается!"
+			"title": "Смог рассеивается!",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Smog lea jávkame!"
+			"title": "Smog lea jávkame!",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Смог се чисти!",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Smog sa čistí!",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Smog se čisti!",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Смог се чисти!",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Smogen håller på att rensa!",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "หมอกควันเริ่มจางลงแล้ว!"
+			"title": "หมอกควันเริ่มจางลงแล้ว!",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Sis dağılıyor!"
+			"title": "Sis dağılıyor!",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Смог розсіюється!"
+			"title": "Смог розсіюється!",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "霧霾正在消散！",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "雾霾正在消散！",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -219,8 +259,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "24.11.17.2037",
+	"openClickTile": false,
+	"ver": "25.11.06.0038",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-smog",
 	"cardWidth": null,
@@ -246,14 +286,27 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		},
 		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+			"ver": "24.11.15.1424"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

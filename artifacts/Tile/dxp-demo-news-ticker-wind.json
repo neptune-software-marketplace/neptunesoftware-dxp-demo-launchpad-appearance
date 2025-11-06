@@ -5,163 +5,203 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "الرياح تشتد"
+			"title": "الرياح تشتد",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Вятърът се усилва"
+			"title": "Вятърът се усилва",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Vítr se zvedá"
+			"title": "Vítr se zvedá",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Vinden tager til"
+			"title": "Vinden tager til",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Wind nimmt zu"
+			"title": "Wind nimmt zu",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Ο άνεμος δυναμώνει"
+			"title": "Ο άνεμος δυναμώνει",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Wind is picking up"
+			"title": "Wind is picking up",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "El viento se está levantando"
+			"title": "El viento se está levantando",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Tuul tõuseb"
+			"title": "Tuul tõuseb",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Tuuli voimistuu"
+			"title": "Tuuli voimistuu",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Le vent se lève"
+			"title": "Le vent se lève",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "הרוח מתגברת"
+			"title": "הרוח מתגברת",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Vjetar se pojačava"
-		},
-		{
-			"language": "ID",
-			"title": "Angin mulai bertiup kencang"
-		},
-		{
-			"language": "IS",
-			"title": "Vindur er að aukast"
-		},
-		{
-			"language": "IT",
-			"title": "Il vento sta aumentando"
-		},
-		{
-			"language": "JA",
-			"title": "風が強くなってきた"
-		},
-		{
-			"language": "KO",
-			"title": "바람이 불기 시작하다"
-		},
-		{
-			"language": "LT",
-			"title": "Pakyla vėjas"
-		},
-		{
-			"language": "NL",
-			"title": "De wind neemt toe"
-		},
-		{
-			"language": "NN",
-			"title": "Vinden tar seg opp"
-		},
-		{
-			"language": "NO",
-			"title": "Vinden tar seg opp"
-		},
-		{
-			"language": "RO",
-			"title": "Vântul se ridică"
-		},
-		{
-			"language": "RU",
-			"title": "Ветер усиливается."
-		},
-		{
-			"language": "SH",
-			"title": "Ветар се појачава"
-		},
-		{
-			"language": "SK",
-			"title": "Vietor sa zdvíha"
-		},
-		{
-			"language": "SL",
-			"title": "Veter se krepi"
-		},
-		{
-			"language": "SV",
-			"title": "Vinden tilltar"
-		},
-		{
-			"language": "SR",
-			"title": "Ветар се појачава"
-		},
-		{
-			"language": "ZF",
-			"title": "風力增強"
-		},
-		{
-			"language": "ZH",
-			"title": "风力增强"
+			"title": "Vjetar se pojačava",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "A szél megélénkül"
+			"title": "A szél megélénkül",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Angin mulai bertiup kencang",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Vindur er að aukast",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Il vento sta aumentando",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "風が強くなってきた",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "바람이 불기 시작하다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Pakyla vėjas",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Vējš pieņemas spēkā"
+			"title": "Vējš pieņemas spēkā",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Angin semakin kencang"
+			"title": "Angin semakin kencang",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "De wind neemt toe",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Vinden tar seg opp",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Vinden tar seg opp",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Wiatr się wzmaga"
+			"title": "Wiatr się wzmaga",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "O vento está aumentando"
+			"title": "O vento está aumentando",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Vântul se ridică",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Ветер усиливается.",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Biegga lea njiedjan"
+			"title": "Biegga lea njiedjan",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Ветар се појачава",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Vietor sa zdvíha",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Veter se krepi",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Ветар се појачава",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Vinden tilltar",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "ลมเริ่มแรงขึ้น"
+			"title": "ลมเริ่มแรงขึ้น",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Rüzgar artıyor"
+			"title": "Rüzgar artıyor",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Вітер посилюється"
+			"title": "Вітер посилюється",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "風力增強",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "风力增强",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -219,8 +259,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "24.11.22.0924",
+	"openClickTile": false,
+	"ver": "25.11.06.0039",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-wind",
 	"cardWidth": null,
@@ -246,14 +286,27 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		},
 		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+			"ver": "24.11.15.1424"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

@@ -5,163 +5,203 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "الشمس مشرقة مرة أخرى"
+			"title": "الشمس مشرقة مرة أخرى",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Слънцето отново изгрява"
+			"title": "Слънцето отново изгрява",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Slunce opět vychází"
+			"title": "Slunce opět vychází",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Solen er op igen"
+			"title": "Solen er op igen",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Die Sonne ist wieder aufgegangen"
+			"title": "Die Sonne ist wieder aufgegangen",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Ο ήλιος ξανανέβει"
+			"title": "Ο ήλιος ξανανέβει",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Sun is up again"
+			"title": "Sun is up again",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "El sol ha vuelto a salir"
+			"title": "El sol ha vuelto a salir",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Päike on jälle tõusnud"
+			"title": "Päike on jälle tõusnud",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Aurinko on taas noussut"
+			"title": "Aurinko on taas noussut",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Le soleil est à nouveau levé"
+			"title": "Le soleil est à nouveau levé",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "השמש שוב זורחת"
+			"title": "השמש שוב זורחת",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Sunce je opet izašlo"
-		},
-		{
-			"language": "ID",
-			"title": "Matahari sudah terbit lagi"
-		},
-		{
-			"language": "IS",
-			"title": "Sólin er komin upp aftur"
-		},
-		{
-			"language": "IT",
-			"title": "Il sole è di nuovo sorto"
-		},
-		{
-			"language": "JA",
-			"title": "太陽はまた昇った"
-		},
-		{
-			"language": "KO",
-			"title": "태양이 다시 떴다"
-		},
-		{
-			"language": "NL",
-			"title": "De zon schijnt weer"
-		},
-		{
-			"language": "NN",
-			"title": "Sola er oppe igjen"
-		},
-		{
-			"language": "NO",
-			"title": "Sola er oppe igjen"
-		},
-		{
-			"language": "RO",
-			"title": "Soarele a răsărit din nou"
-		},
-		{
-			"language": "SE",
-			"title": "Beaivváš lea fas bajás"
-		},
-		{
-			"language": "SH",
-			"title": "Сунце је поново изашло"
-		},
-		{
-			"language": "SK",
-			"title": "Slnko opäť vyšlo"
-		},
-		{
-			"language": "SL",
-			"title": "Sonce spet vzhaja"
-		},
-		{
-			"language": "SR",
-			"title": "Сунце је поново изашло"
-		},
-		{
-			"language": "SV",
-			"title": "Solen är uppe igen"
-		},
-		{
-			"language": "TR",
-			"title": "Güneş tekrar doğdu"
-		},
-		{
-			"language": "ZF",
-			"title": "太陽又升起來了"
+			"title": "Sunce je opet izašlo",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "Ismét felkelt a nap"
+			"title": "Ismét felkelt a nap",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Matahari sudah terbit lagi",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Sólin er komin upp aftur",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Il sole è di nuovo sorto",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "太陽はまた昇った",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "태양이 다시 떴다",
+			"selected": false
 		},
 		{
 			"language": "LT",
-			"title": "Saulė vėl pakilo"
+			"title": "Saulė vėl pakilo",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Saule atkal ir uzlēkusi"
+			"title": "Saule atkal ir uzlēkusi",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Matahari terbit semula"
+			"title": "Matahari terbit semula",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "De zon schijnt weer",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Sola er oppe igjen",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Sola er oppe igjen",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Słońce znów wzeszło"
+			"title": "Słońce znów wzeszło",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "O sol nasceu novamente"
+			"title": "O sol nasceu novamente",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Soarele a răsărit din nou",
+			"selected": false
 		},
 		{
 			"language": "RU",
-			"title": "Солнце снова взошло"
+			"title": "Солнце снова взошло",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Beaivváš lea fas bajás",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Сунце је поново изашло",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Slnko opäť vyšlo",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Sonce spet vzhaja",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Сунце је поново изашло",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Solen är uppe igen",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "ดวงอาทิตย์ขึ้นอีกแล้ว"
+			"title": "ดวงอาทิตย์ขึ้นอีกแล้ว",
+			"selected": false
+		},
+		{
+			"language": "TR",
+			"title": "Güneş tekrar doğdu",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Знову сонце"
+			"title": "Знову сонце",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "太陽又升起來了",
+			"selected": false
 		},
 		{
 			"language": "ZH",
-			"title": "太阳又升起来了"
+			"title": "太阳又升起来了",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -219,8 +259,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "24.11.17.2036",
+	"openClickTile": false,
+	"ver": "25.11.06.0038",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-sun",
 	"cardWidth": null,
@@ -246,14 +286,27 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		},
 		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+			"ver": "24.11.15.1424"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

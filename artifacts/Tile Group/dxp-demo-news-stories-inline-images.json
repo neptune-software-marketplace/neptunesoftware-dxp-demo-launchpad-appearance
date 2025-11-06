@@ -104,25 +104,25 @@
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
 			"name": "dxp-demo-season-winter",
 			"title": "Summer is for surrendering; winter is for wondering",
-			"ver": "25.01.05.1929"
+			"ver": "25.11.06.0047"
 		},
 		{
 			"id": "2ecc027b-8814-4141-ad35-9cfe597aed4a",
 			"name": "dxp-demo-season-spring",
 			"title": "The deep roots never doubt spring will come",
-			"ver": "25.01.05.1928"
+			"ver": "25.11.06.0046"
 		},
 		{
 			"id": "22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
 			"name": "dxp-demo-season-sun",
 			"title": "But tomorrow may rain, so I’ll follow the sun",
-			"ver": "25.01.05.1928"
+			"ver": "25.11.06.0047"
 		},
 		{
 			"id": "0bf25985-5375-4df4-96e1-1c555d9ed2ac",
 			"name": "dxp-demo-season-autumn",
 			"title": "Autumn skies and pumpkin pies",
-			"ver": "25.01.05.1937"
+			"ver": "25.11.06.0047"
 		}
 	],
 	"tilegroups": [],

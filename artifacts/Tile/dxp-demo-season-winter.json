@@ -5,167 +5,214 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "الصيف هو للاستسلام، والشتاء هو للتساؤل"
+			"title": "الصيف هو للاستسلام، والشتاء هو للتساؤل",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Лятото е за предаване; зимата е за чудене"
+			"title": "Лятото е за предаване; зимата е за чудене",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Léto je k odevzdání; zima je k zamyšlení"
+			"title": "Léto je k odevzdání; zima je k zamyšlení",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Sommeren er til at overgive sig; vinteren er til undren"
+			"title": "Sommeren er til at overgive sig; vinteren er til undren",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Der Sommer ist zum Aufgeben da, der Winter zum Staunen"
+			"title": "Der Sommer ist zum Aufgeben da, der Winter zum Staunen",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Το καλοκαίρι είναι για παράδοση. ο χειμώνας είναι για να αναρωτιέστε"
+			"title": "Το καλοκαίρι είναι για παράδοση. ο χειμώνας είναι για να αναρωτιέστε",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Summer is for surrendering; winter is for wondering"
+			"title": "Summer is for surrendering; winter is for wondering",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "El verano es para entregarse; el invierno es para preguntarse."
+			"title": "El verano es para entregarse; el invierno es para preguntarse.",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Suvi on alistumise jaoks; talv on imestamiseks"
+			"title": "Suvi on alistumise jaoks; talv on imestamiseks",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Kesä on antautumista varten; talvi on ihmettelyä varten"
+			"title": "Kesä on antautumista varten; talvi on ihmettelyä varten",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "L'été est fait pour se rendre, l'hiver est fait pour s'interroger"
+			"title": "L'été est fait pour se rendre, l'hiver est fait pour s'interroger",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "הקיץ נועד לכניעה; החורף הוא לתהיות"
+			"title": "הקיץ נועד לכניעה; החורף הוא לתהיות",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Ljeto je za predaje; zima je za čuđenje"
+			"title": "Ljeto je za predaje; zima je za čuđenje",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "A nyár a megadásé; a tél a csodálkozásé"
-		},
-		{
-			"language": "IS",
-			"title": "Sumarið er til að gefast upp; vetur er til að spá í"
-		},
-		{
-			"language": "IT",
-			"title": "L'estate è per arrendersi; l'inverno è per meravigliarsi"
-		},
-		{
-			"language": "JA",
-			"title": "夏は諦める季節、冬は疑問に思う季節"
-		},
-		{
-			"language": "KO",
-			"title": "여름은 항복하는 계절이고, 겨울은 방황하는 계절이다"
-		},
-		{
-			"language": "LT",
-			"title": "Vasara skirta pasidavimui; žiema skirta stebėtis"
-		},
-		{
-			"language": "NN",
-			"title": "Sommeren er for å overgi seg; vinteren er til å undre seg over"
-		},
-		{
-			"language": "NO",
-			"title": "Sommeren er for å overgi seg; vinteren er til å undre seg over"
-		},
-		{
-			"language": "RU",
-			"title": "Лето — для сдачи, зима — для размышлений."
-		},
-		{
-			"language": "SH",
-			"title": "Лето је за предају; зима је за чуђење"
-		},
-		{
-			"language": "SK",
-			"title": "Leto je na odovzdanie sa; zima je na zamyslenie"
-		},
-		{
-			"language": "SL",
-			"title": "Poletje je za predajanje; zima je za spraševanje"
-		},
-		{
-			"language": "TH",
-			"title": "ฤดูร้อนคือเวลาแห่งการยอมแพ้ ฤดูหนาวคือเวลาแห่งการสงสัย"
+			"title": "A nyár a megadásé; a tél a csodálkozásé",
+			"selected": false
 		},
 		{
 			"language": "ID",
-			"title": "Musim panas adalah untuk menyerah; musim dingin adalah untuk bertanya-tanya"
+			"title": "Musim panas adalah untuk menyerah; musim dingin adalah untuk bertanya-tanya",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Sumarið er til að gefast upp; vetur er til að spá í",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "L'estate è per arrendersi; l'inverno è per meravigliarsi",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "夏は諦める季節、冬は疑問に思う季節",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "여름은 항복하는 계절이고, 겨울은 방황하는 계절이다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Vasara skirta pasidavimui; žiema skirta stebėtis",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Vasara ir padošanai; ziema ir domāta brīnumam"
+			"title": "Vasara ir padošanai; ziema ir domāta brīnumam",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Musim panas adalah untuk menyerah diri; musim sejuk adalah untuk tertanya-tanya"
+			"title": "Musim panas adalah untuk menyerah diri; musim sejuk adalah untuk tertanya-tanya",
+			"selected": false
 		},
 		{
 			"language": "NL",
-			"title": "De zomer is voor overgave; de winter is voor verwondering"
+			"title": "De zomer is voor overgave; de winter is voor verwondering",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Sommeren er for å overgi seg; vinteren er til å undre seg over",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Sommeren er for å overgi seg; vinteren er til å undre seg over",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Lato jest po to, by się poddać, zima po to, by się zastanawiać"
+			"title": "Lato jest po to, by się poddać, zima po to, by się zastanawiać",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "O verão é para se render; o inverno é para se perguntar"
+			"title": "O verão é para se render; o inverno é para se perguntar",
+			"selected": false
 		},
 		{
 			"language": "RO",
-			"title": "Vara este pentru predare; iarna este de mirare"
+			"title": "Vara este pentru predare; iarna este de mirare",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Лето — для сдачи, зима — для размышлений.",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Geassi lea vuolláneapmái; dálvi lea imaštallat"
+			"title": "Geassi lea vuolláneapmái; dálvi lea imaštallat",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Лето је за предају; зима је за чуђење",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Leto je na odovzdanie sa; zima je na zamyslenie",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Poletje je za predajanje; zima je za spraševanje",
+			"selected": false
 		},
 		{
 			"language": "SR",
-			"title": "Лето је за предају; зима је за чуђење"
+			"title": "Лето је за предају; зима је за чуђење",
+			"selected": false
 		},
 		{
 			"language": "SV",
-			"title": "Sommaren är till för att kapitulera; vintern är för att undra"
+			"title": "Sommaren är till för att kapitulera; vintern är för att undra",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ฤดูร้อนคือเวลาแห่งการยอมแพ้ ฤดูหนาวคือเวลาแห่งการสงสัย",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Yaz teslim olmak içindir; kış ise merak etmek içindir"
+			"title": "Yaz teslim olmak içindir; kış ise merak etmek içindir",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Літо для капітуляції; зима для того, щоб дивуватися"
+			"title": "Літо для капітуляції; зима для того, щоб дивуватися",
+			"selected": false
 		},
 		{
 			"language": "ZF",
-			"title": "夏天是投降的；冬天是用來思考的"
+			"title": "夏天是投降的；冬天是用來思考的",
+			"selected": false
 		},
 		{
 			"language": "ZH",
-			"title": "夏天是屈服的，冬天是疑惑的"
+			"title": "夏天是屈服的，冬天是疑惑的",
+			"selected": false
 		}
 	],
 	"storeItem": {},
-	"settings": null,
+	"settings": {
+		"metric": {
+			"": {
+				"width": "416",
+				"height": "234"
+			}
+		}
+	},
 	"title": "Summer is for surrendering; winter is for wondering",
 	"subTitle": null,
 	"description": null,
@@ -182,8 +229,8 @@
 	"frameType": null,
 	"type": null,
 	"image": "/media/root/dxp-demo-appearance-tile/winter.jpg",
-	"imageDark": null,
-	"icon": "",
+	"imageDark": "/media/root/dxp-demo-appearance-tile/winter.jpg",
+	"icon": "sap-icon://nep/value-help",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -220,7 +267,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": true,
-	"ver": "25.01.05.1929",
+	"ver": "25.11.06.0047",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-winter",
 	"cardWidth": null,
@@ -245,15 +292,28 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
-	"FIORI_STYLE": null,
+	"imageType": "T",
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
 		{
 			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
 			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
+			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

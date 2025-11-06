@@ -7,241 +7,281 @@
 			"language": "AR",
 			"title": "ضباب",
 			"subTitle": "كثيفة ورطبة",
-			"footer": "للعثور على الحقيقة، يجب علينا أن نسافر في ضباب كثيف!"
+			"footer": "للعثور على الحقيقة، يجب علينا أن نسافر في ضباب كثيف!",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "мъгла",
 			"subTitle": "Плътно и мокро",
-			"footer": "За да намери истината, човек трябва да пътува през гъста мъгла!"
+			"footer": "За да намери истината, човек трябва да пътува през гъста мъгла!",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Mlha",
 			"subTitle": "Husté a mokré",
-			"footer": "Chcete-li najít pravdu, musíte cestovat hustou mlhou!"
+			"footer": "Chcete-li najít pravdu, musíte cestovat hustou mlhou!",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Tåge",
 			"subTitle": "Tæt & våd",
-			"footer": "For at finde sandheden skal man rejse en tæt tåge!"
+			"footer": "For at finde sandheden skal man rejse en tæt tåge!",
+			"selected": false
 		},
 		{
 			"language": "DE",
 			"title": "Nebel",
 			"subTitle": "Dicht und nass",
-			"footer": "Um die Wahrheit zu finden, muss man durch dichten Nebel reisen!"
+			"footer": "Um die Wahrheit zu finden, muss man durch dichten Nebel reisen!",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Ομίχλη",
 			"subTitle": "Πυκνό & Υγρό",
-			"footer": "Για να βρει κανείς την αλήθεια, πρέπει να ταξιδέψει σε μια πυκνή ομίχλη!"
+			"footer": "Για να βρει κανείς την αλήθεια, πρέπει να ταξιδέψει σε μια πυκνή ομίχλη!",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Fog",
 			"subTitle": "Dense & Wet",
-			"footer": "To find truth, one must travel a dense fog!"
+			"footer": "To find truth, one must travel a dense fog!",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Niebla",
 			"subTitle": "Denso y húmedo",
-			"footer": "¡Para encontrar la verdad hay que viajar por una densa niebla!"
+			"footer": "¡Para encontrar la verdad hay que viajar por una densa niebla!",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Udu",
 			"subTitle": "Tihe ja märg",
-			"footer": "Tõe leidmiseks tuleb rännata tihedas udus!"
+			"footer": "Tõe leidmiseks tuleb rännata tihedas udus!",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Sumu",
 			"subTitle": "Tiheä & Märkä",
-			"footer": "Totuuden löytämiseksi täytyy matkustaa tiheässä sumussa!"
+			"footer": "Totuuden löytämiseksi täytyy matkustaa tiheässä sumussa!",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Brouillard",
 			"subTitle": "Dense et humide",
-			"footer": "Pour trouver la vérité, il faut traverser un brouillard dense !"
+			"footer": "Pour trouver la vérité, il faut traverser un brouillard dense !",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "עֲרָפֶל",
 			"subTitle": "צפוף ורטוב",
-			"footer": "כדי למצוא את האמת, צריך לנסוע בערפל צפוף!"
+			"footer": "כדי למצוא את האמת, צריך לנסוע בערפל צפוף!",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Magla",
 			"subTitle": "Gusta i mokra",
-			"footer": "Da bi se pronašla istina, mora se proći kroz gustu maglu!"
+			"footer": "Da bi se pronašla istina, mora se proći kroz gustu maglu!",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Köd",
 			"subTitle": "Sűrű és nedves",
-			"footer": "Az igazság megtalálásához sűrű ködben kell utazni!"
-		},
-		{
-			"language": "IS",
-			"title": "Þoka",
-			"subTitle": "Þétt & blautt",
-			"footer": "Til að finna sannleikann verður maður að ferðast um þétta þoku!"
-		},
-		{
-			"language": "IT",
-			"title": "Nebbia",
-			"subTitle": "Denso e umido",
-			"footer": "Per trovare la verità, bisogna attraversare una fitta nebbia!"
-		},
-		{
-			"language": "JA",
-			"title": "霧",
-			"subTitle": "濃密で湿った",
-			"footer": "真実を見つけるには、濃い霧の中を旅しなければなりません!"
-		},
-		{
-			"language": "KO",
-			"title": "안개",
-			"subTitle": "조밀하고 습함",
-			"footer": "진실을 찾으려면 짙은 안개 속을 여행해야 합니다!"
-		},
-		{
-			"language": "LT",
-			"title": "Rūkas",
-			"subTitle": "Tankus ir šlapias",
-			"footer": "Norint rasti tiesą, reikia keliauti po tankų rūką!"
-		},
-		{
-			"language": "NN",
-			"title": "Tåke",
-			"subTitle": "Tett og våt",
-			"footer": "For å finne sannheten må man reise en tett tåke!"
-		},
-		{
-			"language": "NO",
-			"title": "Tåke",
-			"subTitle": "Tett og våt",
-			"footer": "For å finne sannheten må man reise en tett tåke!"
-		},
-		{
-			"language": "RU",
-			"title": "Туман",
-			"subTitle": "Плотный и влажный",
-			"footer": "Чтобы найти истину, нужно пройти сквозь густой туман!"
-		},
-		{
-			"language": "SH",
-			"title": "Магла",
-			"subTitle": "Густо и влажно",
-			"footer": "Да бисте пронашли истину, морате путовати густом маглом!"
-		},
-		{
-			"language": "SE",
-			"title": "Mierká",
-			"subTitle": "Divrras ja čáhppes",
-			"footer": "Vai gávdná duohtavuođa, de ferte mátkkoštit garra muohttagis!"
-		},
-		{
-			"language": "SK",
-			"title": "Hmla",
-			"subTitle": "Husté a mokré",
-			"footer": "Ak chcete nájsť pravdu, musíte cestovať hustou hmlou!"
-		},
-		{
-			"language": "SL",
-			"title": "megla",
-			"subTitle": "Gosto in mokro",
-			"footer": "Če želite najti resnico, morate prepotovati gosto meglo!"
-		},
-		{
-			"language": "TH",
-			"title": "หมอก",
-			"subTitle": "หนาแน่นและเปียก",
-			"footer": "หากต้องการค้นหาความจริง จะต้องเดินทางผ่านหมอกหนา!"
+			"footer": "Az igazság megtalálásához sűrű ködben kell utazni!",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Kabut",
 			"subTitle": "Padat & Basah",
-			"footer": "Untuk menemukan kebenaran, seseorang harus melewati kabut tebal!"
+			"footer": "Untuk menemukan kebenaran, seseorang harus melewati kabut tebal!",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Þoka",
+			"subTitle": "Þétt & blautt",
+			"footer": "Til að finna sannleikann verður maður að ferðast um þétta þoku!",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Nebbia",
+			"subTitle": "Denso e umido",
+			"footer": "Per trovare la verità, bisogna attraversare una fitta nebbia!",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "霧",
+			"subTitle": "濃密で湿った",
+			"footer": "真実を見つけるには、濃い霧の中を旅しなければなりません!",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "안개",
+			"subTitle": "조밀하고 습함",
+			"footer": "진실을 찾으려면 짙은 안개 속을 여행해야 합니다!",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Rūkas",
+			"subTitle": "Tankus ir šlapias",
+			"footer": "Norint rasti tiesą, reikia keliauti po tankų rūką!",
+			"selected": false
 		},
 		{
 			"language": "LV",
 			"title": "Migla",
 			"subTitle": "Blīvs un mitrs",
-			"footer": "Lai atrastu patiesību, jābrauc pa blīvu miglu!"
+			"footer": "Lai atrastu patiesību, jābrauc pa blīvu miglu!",
+			"selected": false
 		},
 		{
 			"language": "MS",
 			"title": "kabut",
 			"subTitle": "Padat & Basah",
-			"footer": "Untuk mencari kebenaran, seseorang mesti melalui kabus tebal!"
+			"footer": "Untuk mencari kebenaran, seseorang mesti melalui kabus tebal!",
+			"selected": false
 		},
 		{
 			"language": "NL",
 			"title": "Mist",
 			"subTitle": "Dicht en nat",
-			"footer": "Om de waarheid te vinden, moet je door dichte mist reizen!"
+			"footer": "Om de waarheid te vinden, moet je door dichte mist reizen!",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Tåke",
+			"subTitle": "Tett og våt",
+			"footer": "For å finne sannheten må man reise en tett tåke!",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Tåke",
+			"subTitle": "Tett og våt",
+			"footer": "For å finne sannheten må man reise en tett tåke!",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Mgła",
 			"subTitle": "Gęsty i wilgotny",
-			"footer": "Aby znaleźć prawdę, trzeba przemierzyć gęstą mgłę!"
+			"footer": "Aby znaleźć prawdę, trzeba przemierzyć gęstą mgłę!",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Névoa",
 			"subTitle": "Denso e Molhado",
-			"footer": "Para encontrar a verdade, é preciso viajar por uma névoa densa!"
+			"footer": "Para encontrar a verdade, é preciso viajar por uma névoa densa!",
+			"selected": false
 		},
 		{
 			"language": "RO",
 			"title": "Ceaţă",
 			"subTitle": "Dens & Umed",
-			"footer": "Pentru a afla adevărul, trebuie să călătorești într-o ceață densă!"
+			"footer": "Pentru a afla adevărul, trebuie să călătorești într-o ceață densă!",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Туман",
+			"subTitle": "Плотный и влажный",
+			"footer": "Чтобы найти истину, нужно пройти сквозь густой туман!",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Mierká",
+			"subTitle": "Divrras ja čáhppes",
+			"footer": "Vai gávdná duohtavuođa, de ferte mátkkoštit garra muohttagis!",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Магла",
+			"subTitle": "Густо и влажно",
+			"footer": "Да бисте пронашли истину, морате путовати густом маглом!",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Hmla",
+			"subTitle": "Husté a mokré",
+			"footer": "Ak chcete nájsť pravdu, musíte cestovať hustou hmlou!",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "megla",
+			"subTitle": "Gosto in mokro",
+			"footer": "Če želite najti resnico, morate prepotovati gosto meglo!",
+			"selected": false
 		},
 		{
 			"language": "SR",
 			"title": "Магла",
 			"subTitle": "Густо и влажно",
-			"footer": "Да бисте пронашли истину, морате путовати густом маглом!"
+			"footer": "Да бисте пронашли истину, морате путовати густом маглом!",
+			"selected": false
 		},
 		{
 			"language": "SV",
 			"title": "Dimma",
 			"subTitle": "Tät & blöt",
-			"footer": "För att hitta sanningen måste man resa en tät dimma!"
+			"footer": "För att hitta sanningen måste man resa en tät dimma!",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "หมอก",
+			"subTitle": "หนาแน่นและเปียก",
+			"footer": "หากต้องการค้นหาความจริง จะต้องเดินทางผ่านหมอกหนา!",
+			"selected": false
 		},
 		{
 			"language": "TR",
 			"title": "Sis",
 			"subTitle": "Yoğun ve Islak",
-			"footer": "Gerçeği bulmak için yoğun bir sisin içinde yolculuk etmek gerekir!"
+			"footer": "Gerçeği bulmak için yoğun bir sisin içinde yolculuk etmek gerekir!",
+			"selected": false
 		},
 		{
 			"language": "UK",
 			"title": "Туман",
 			"subTitle": "Щільний і вологий",
-			"footer": "Щоб знайти істину, треба пройти через густий туман!"
+			"footer": "Щоб знайти істину, треба пройти через густий туман!",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "多霧路段",
 			"subTitle": "濃密而潮濕",
-			"footer": "要尋找真理，就必須穿越濃霧！"
+			"footer": "要尋找真理，就必須穿越濃霧！",
+			"selected": false
 		},
 		{
 			"language": "ZH",
 			"title": "多雾路段",
 			"subTitle": "浓密而潮湿",
-			"footer": "要寻找真理，就必须穿越浓雾！"
+			"footer": "要寻找真理，就必须穿越浓雾！",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -263,7 +303,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": null,
+	"icon": "sap-icon://fas/smog",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -299,12 +339,12 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": false,
-	"ver": "25.01.05.2011",
+	"openClickTile": true,
+	"ver": "25.11.06.0057",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-fog",
-	"cardWidth": "",
-	"cardHeight": "",
+	"cardWidth": "Narrow",
+	"cardHeight": "Short",
 	"cardHeightFit": false,
 	"cardImage": "/media/root/dxp-demo-appearance-icon-light/fog.svg",
 	"cardImageDark": "/media/root/dxp-demo-appearance-icon-dark/fog.svg",
@@ -329,6 +369,16 @@
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		}
+	],
+	"darkTileLayouts": [
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

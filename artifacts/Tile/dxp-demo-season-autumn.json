@@ -5,167 +5,214 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "سماء الخريف وفطائر اليقطين"
+			"title": "سماء الخريف وفطائر اليقطين",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Есенно небе и тиквени пайове"
+			"title": "Есенно небе и тиквени пайове",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Podzimní nebe a dýňové koláče"
+			"title": "Podzimní nebe a dýňové koláče",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Efterårshimler og græskartærter"
+			"title": "Efterårshimler og græskartærter",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Herbsthimmel und Kürbiskuchen"
+			"title": "Herbsthimmel und Kürbiskuchen",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Φθινοπωρινοί ουρανοί και κολοκυθόπιτες"
+			"title": "Φθινοπωρινοί ουρανοί και κολοκυθόπιτες",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Autumn skies and pumpkin pies"
+			"title": "Autumn skies and pumpkin pies",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "Cielos otoñales y pasteles de calabaza"
+			"title": "Cielos otoñales y pasteles de calabaza",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Sügis taevas ja kõrvitsapirukad"
+			"title": "Sügis taevas ja kõrvitsapirukad",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Syksyinen taivas ja kurpitsapiirakkaa"
+			"title": "Syksyinen taivas ja kurpitsapiirakkaa",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Ciel d'automne et tartes à la citrouille"
+			"title": "Ciel d'automne et tartes à la citrouille",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "שמי סתיו ועוגות דלעת"
+			"title": "שמי סתיו ועוגות דלעת",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Jesenje nebo i pite od bundeve"
+			"title": "Jesenje nebo i pite od bundeve",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "Őszi égbolt és sütőtökös piték"
-		},
-		{
-			"language": "IS",
-			"title": "Hausthiminn og graskersbökur"
-		},
-		{
-			"language": "IT",
-			"title": "Cieli autunnali e torte di zucca"
-		},
-		{
-			"language": "JA",
-			"title": "秋の空とパンプキンパイ"
-		},
-		{
-			"language": "KO",
-			"title": "가을 하늘과 호박 파이"
-		},
-		{
-			"language": "LT",
-			"title": "Rudens dangus ir moliūgų pyragai"
-		},
-		{
-			"language": "NL",
-			"title": "Herfstluchten en pompoentaarten"
-		},
-		{
-			"language": "NN",
-			"title": "Høst himmel og gresskar paier"
-		},
-		{
-			"language": "NO",
-			"title": "Høst himmel og gresskar paier"
-		},
-		{
-			"language": "PT",
-			"title": "Céus de outono e tortas de abóbora"
-		},
-		{
-			"language": "RU",
-			"title": "Осеннее небо и тыквенные пироги"
-		},
-		{
-			"language": "SH",
-			"title": "Јесење небо и пите од бундеве"
-		},
-		{
-			"language": "SK",
-			"title": "Jesenná obloha a tekvicové koláče"
-		},
-		{
-			"language": "SL",
-			"title": "Jesensko nebo in bučne pite"
-		},
-		{
-			"language": "TH",
-			"title": "ท้องฟ้าฤดูใบไม้ร่วงและพายฟักทอง"
+			"title": "Őszi égbolt és sütőtökös piték",
+			"selected": false
 		},
 		{
 			"language": "ID",
-			"title": "Langit musim gugur dan pai labu"
+			"title": "Langit musim gugur dan pai labu",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Hausthiminn og graskersbökur",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Cieli autunnali e torte di zucca",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "秋の空とパンプキンパイ",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "가을 하늘과 호박 파이",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Rudens dangus ir moliūgų pyragai",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Rudens debesis un ķirbju pīrāgi"
+			"title": "Rudens debesis un ķirbju pīrāgi",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Langit musim luruh dan pai labu"
+			"title": "Langit musim luruh dan pai labu",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Herfstluchten en pompoentaarten",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Høst himmel og gresskar paier",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Høst himmel og gresskar paier",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Jesienne niebo i dyniowe ciasta"
+			"title": "Jesienne niebo i dyniowe ciasta",
+			"selected": false
+		},
+		{
+			"language": "PT",
+			"title": "Céus de outono e tortas de abóbora",
+			"selected": false
 		},
 		{
 			"language": "RO",
-			"title": "Ceruri de toamnă și plăcinte cu dovleac"
+			"title": "Ceruri de toamnă și plăcinte cu dovleac",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Осеннее небо и тыквенные пироги",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Giđđaalbmi ja gresskapáhkkat"
+			"title": "Giđđaalbmi ja gresskapáhkkat",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Јесење небо и пите од бундеве",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Jesenná obloha a tekvicové koláče",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Jesensko nebo in bučne pite",
+			"selected": false
 		},
 		{
 			"language": "SR",
-			"title": "Јесење небо и пите од бундеве"
+			"title": "Јесење небо и пите од бундеве",
+			"selected": false
 		},
 		{
 			"language": "SV",
-			"title": "Hösthimlar och pumpapajer"
+			"title": "Hösthimlar och pumpapajer",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ท้องฟ้าฤดูใบไม้ร่วงและพายฟักทอง",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Sonbahar gökyüzü ve balkabağı turtaları"
+			"title": "Sonbahar gökyüzü ve balkabağı turtaları",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Осіннє небо і гарбузові пироги"
+			"title": "Осіннє небо і гарбузові пироги",
+			"selected": false
 		},
 		{
 			"language": "ZF",
-			"title": "秋日的天空和南瓜派"
+			"title": "秋日的天空和南瓜派",
+			"selected": false
 		},
 		{
 			"language": "ZH",
-			"title": "秋日的天空和南瓜派"
+			"title": "秋日的天空和南瓜派",
+			"selected": false
 		}
 	],
 	"storeItem": {},
-	"settings": null,
+	"settings": {
+		"metric": {
+			"": {
+				"width": "416",
+				"height": "234"
+			}
+		}
+	},
 	"title": "Autumn skies and pumpkin pies",
 	"subTitle": null,
 	"description": null,
@@ -182,8 +229,8 @@
 	"frameType": null,
 	"type": null,
 	"image": "/media/root/dxp-demo-appearance-tile/autumn.jpg",
-	"imageDark": null,
-	"icon": "",
+	"imageDark": "/media/root/dxp-demo-appearance-tile/autumn.jpg",
+	"icon": "sap-icon://nep/value-help",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -220,7 +267,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": true,
-	"ver": "25.01.05.1937",
+	"ver": "25.11.06.0047",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-autumn",
 	"cardWidth": null,
@@ -245,15 +292,28 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
-	"FIORI_STYLE": null,
+	"imageType": "T",
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
 		{
 			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
 			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
+			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

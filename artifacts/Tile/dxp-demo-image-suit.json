@@ -7,259 +7,302 @@
 			"language": "AR",
 			"title": "بدلة",
 			"subTitle": "بدلات الفضاء ذات التقنية العالية",
-			"footer": "الذنب مثل الملح"
-		},
-		{
-			"language": "DE",
-			"title": "Anzug",
-			"subTitle": "Hochtechnologische Raumanzüge",
-			"footer": "Schuld ist wie Salz ..."
-		},
-		{
-			"language": "EN",
-			"title": "Suit",
-			"subTitle": "Top tech space suits",
-			"footer": "Guilt is like salt..."
-		},
-		{
-			"language": "FR",
-			"title": "Costume",
-			"subTitle": "Combinaisons spatiales de pointe",
-			"footer": "La culpabilité est comme le sel..."
-		},
-		{
-			"language": "NO",
-			"title": "Drakt",
-			"subTitle": "Topp tekniske romdrakter",
-			"footer": "Skyld er som salt..."
-		},
-		{
-			"language": "ZH",
-			"title": "套装",
-			"subTitle": "顶级科技太空服",
-			"footer": "内疚就像盐……"
-		},
-		{
-			"language": "ZF",
-			"title": "套裝",
-			"subTitle": "頂級科技太空服",
-			"footer": "內疚就像鹽…"
-		},
-		{
-			"language": "NN",
-			"title": "Dress",
-			"subTitle": "Topp tekniske romdrakter",
-			"footer": "Skyldfølelse er som salt..."
+			"footer": "الذنب مثل الملح",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "Костюм",
 			"subTitle": "Най-технологичните космически костюми",
-			"footer": "Вината е като сол..."
+			"footer": "Вината е като сол...",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Oblek",
 			"subTitle": "Špičkové technologické skafandry",
-			"footer": "Vina je jako sůl..."
+			"footer": "Vina je jako sůl...",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Dragt",
 			"subTitle": "Top tech rumdragter",
-			"footer": "Skyldfølelse er som salt..."
+			"footer": "Skyldfølelse er som salt...",
+			"selected": false
+		},
+		{
+			"language": "DE",
+			"title": "Anzug",
+			"subTitle": "Hochtechnologische Raumanzüge",
+			"footer": "Schuld ist wie Salz ...",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Κοστούμι",
 			"subTitle": "Διαστημικές στολές κορυφαίας τεχνολογίας",
-			"footer": "Οι ενοχές είναι σαν το αλάτι..."
+			"footer": "Οι ενοχές είναι σαν το αλάτι...",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Suit",
 			"subTitle": "Top tech space suits",
-			"footer": "Guilt is like salt..."
+			"footer": "Guilt is like salt...",
+			"selected": false
+		},
+		{
+			"language": "EN",
+			"title": "Suit",
+			"subTitle": "Top tech space suits",
+			"footer": "Guilt is like salt...",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Traje",
 			"subTitle": "Trajes espaciales de alta tecnología",
-			"footer": "La culpa es como la sal..."
+			"footer": "La culpa es como la sal...",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Ülikond",
 			"subTitle": "Tipptehnoloogilised kosmoseülikonnad",
-			"footer": "Süütunne on nagu sool..."
+			"footer": "Süütunne on nagu sool...",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Puku",
 			"subTitle": "Huipputekniikan avaruuspuvut",
-			"footer": "Syyllisyys on kuin suola..."
+			"footer": "Syyllisyys on kuin suola...",
+			"selected": false
+		},
+		{
+			"language": "FR",
+			"title": "Costume",
+			"subTitle": "Combinaisons spatiales de pointe",
+			"footer": "La culpabilité est comme le sel...",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "חֲלִיפָה",
 			"subTitle": "חליפות חלל טכניות מובילות",
-			"footer": "אשמה היא כמו מלח..."
+			"footer": "אשמה היא כמו מלח...",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Odgovarati",
 			"subTitle": "Vrhunska svemirska odijela",
-			"footer": "Krivica je kao sol..."
-		},
-		{
-			"language": "IS",
-			"title": "Föt",
-			"subTitle": "Topp tækni geimbúningur",
-			"footer": "Sektarkennd er eins og salt..."
-		},
-		{
-			"language": "JA",
-			"title": "スーツ",
-			"subTitle": "トップテクノロジーの宇宙服",
-			"footer": "罪悪感は塩のようなものだ…"
-		},
-		{
-			"language": "KO",
-			"title": "정장",
-			"subTitle": "최첨단 우주복",
-			"footer": "죄책감은 소금과 같다."
-		},
-		{
-			"language": "LV",
-			"title": "Uzvalks",
-			"subTitle": "Augstākās tehnoloģijas kosmosa kostīmi",
-			"footer": "Vaina ir kā sāls..."
-		},
-		{
-			"language": "PL",
-			"title": "Garnitur",
-			"subTitle": "Najlepsze skafandry kosmiczne",
-			"footer": "Wina jest jak sól..."
-		},
-		{
-			"language": "PT",
-			"title": "Terno",
-			"subTitle": "Trajes espaciais de alta tecnologia",
-			"footer": "A culpa é como o sal..."
-		},
-		{
-			"language": "RO",
-			"title": "Costum",
-			"subTitle": "Costume spațiale de top tech",
-			"footer": "Vina este ca sarea..."
-		},
-		{
-			"language": "SE",
-			"title": "Gárvu",
-			"subTitle": "Buoremus teknihkalaš ruovdebiktasat",
-			"footer": "Sivalašvuohta lea dego suola..."
-		},
-		{
-			"language": "SH",
-			"title": "Одело",
-			"subTitle": "Врхунска технолошка свемирска одела",
-			"footer": "Кривица је као со..."
-		},
-		{
-			"language": "SK",
-			"title": "Oblek",
-			"subTitle": "Špičkové vesmírne obleky",
-			"footer": "Vina je ako soľ..."
-		},
-		{
-			"language": "SL",
-			"title": "Obleka",
-			"subTitle": "Vrhunska tehnološka vesoljska oblačila",
-			"footer": "Krivda je kot sol ..."
-		},
-		{
-			"language": "SR",
-			"title": "Одело",
-			"subTitle": "Врхунска технолошка свемирска одела",
-			"footer": "Кривица је као со..."
-		},
-		{
-			"language": "SV",
-			"title": "Kostym",
-			"subTitle": "Toppteknologiska rymddräkter",
-			"footer": "Skuld är som salt..."
-		},
-		{
-			"language": "TH",
-			"title": "สูท",
-			"subTitle": "ชุดอวกาศเทคโนโลยีชั้นสูง",
-			"footer": "ความรู้สึกผิดก็เหมือนเกลือ..."
-		},
-		{
-			"language": "TR",
-			"title": "Uygun olmak",
-			"subTitle": "En iyi teknoloji uzay kıyafetleri",
-			"footer": "Suçluluk duygusu tuz gibidir..."
-		},
-		{
-			"language": "ZH",
-			"title": "套装",
-			"subTitle": "顶级科技太空服",
-			"footer": "内疚就像盐……"
-		},
-		{
-			"language": "ZF",
-			"title": "套裝",
-			"subTitle": "頂級科技太空服",
-			"footer": "內疚就像鹽…"
+			"footer": "Krivica je kao sol...",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Öltöny",
 			"subTitle": "Csúcstechnológiás űrruhák",
-			"footer": "A bűntudat olyan, mint a só..."
+			"footer": "A bűntudat olyan, mint a só...",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Setelan",
 			"subTitle": "Pakaian antariksa berteknologi tinggi",
-			"footer": "Rasa bersalah itu seperti garam..."
+			"footer": "Rasa bersalah itu seperti garam...",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Föt",
+			"subTitle": "Topp tækni geimbúningur",
+			"footer": "Sektarkennd er eins og salt...",
+			"selected": false
 		},
 		{
 			"language": "IT",
 			"title": "Abito",
 			"subTitle": "Tute spaziali top tech",
-			"footer": "Il senso di colpa è come il sale..."
+			"footer": "Il senso di colpa è come il sale...",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "スーツ",
+			"subTitle": "トップテクノロジーの宇宙服",
+			"footer": "罪悪感は塩のようなものだ…",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "정장",
+			"subTitle": "최첨단 우주복",
+			"footer": "죄책감은 소금과 같다.",
+			"selected": false
 		},
 		{
 			"language": "LT",
 			"title": "Kostiumas",
 			"subTitle": "Aukščiausios technologijos kosminiai kostiumai",
-			"footer": "Kaltė kaip druska..."
+			"footer": "Kaltė kaip druska...",
+			"selected": false
+		},
+		{
+			"language": "LV",
+			"title": "Uzvalks",
+			"subTitle": "Augstākās tehnoloģijas kosmosa kostīmi",
+			"footer": "Vaina ir kā sāls...",
+			"selected": false
 		},
 		{
 			"language": "MS",
 			"title": "saman",
 			"subTitle": "Pakaian angkasa lepas berteknologi tinggi",
-			"footer": "Rasa bersalah ibarat garam..."
+			"footer": "Rasa bersalah ibarat garam...",
+			"selected": false
 		},
 		{
 			"language": "NL",
 			"title": "Pak",
 			"subTitle": "Toptech ruimtepakken",
-			"footer": "Schuldgevoel is als zout..."
+			"footer": "Schuldgevoel is als zout...",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Dress",
+			"subTitle": "Topp tekniske romdrakter",
+			"footer": "Skyldfølelse er som salt...",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Drakt",
+			"subTitle": "Topp tekniske romdrakter",
+			"footer": "Skyld er som salt...",
+			"selected": false
+		},
+		{
+			"language": "PL",
+			"title": "Garnitur",
+			"subTitle": "Najlepsze skafandry kosmiczne",
+			"footer": "Wina jest jak sól...",
+			"selected": false
+		},
+		{
+			"language": "PT",
+			"title": "Terno",
+			"subTitle": "Trajes espaciais de alta tecnologia",
+			"footer": "A culpa é como o sal...",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Costum",
+			"subTitle": "Costume spațiale de top tech",
+			"footer": "Vina este ca sarea...",
+			"selected": false
 		},
 		{
 			"language": "RU",
 			"title": "Подходить",
 			"subTitle": "Лучшие технологичные космические костюмы",
-			"footer": "Чувство вины — как соль..."
+			"footer": "Чувство вины — как соль...",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Gárvu",
+			"subTitle": "Buoremus teknihkalaš ruovdebiktasat",
+			"footer": "Sivalašvuohta lea dego suola...",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Одело",
+			"subTitle": "Врхунска технолошка свемирска одела",
+			"footer": "Кривица је као со...",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Oblek",
+			"subTitle": "Špičkové vesmírne obleky",
+			"footer": "Vina je ako soľ...",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Obleka",
+			"subTitle": "Vrhunska tehnološka vesoljska oblačila",
+			"footer": "Krivda je kot sol ...",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Одело",
+			"subTitle": "Врхунска технолошка свемирска одела",
+			"footer": "Кривица је као со...",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Kostym",
+			"subTitle": "Toppteknologiska rymddräkter",
+			"footer": "Skuld är som salt...",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "สูท",
+			"subTitle": "ชุดอวกาศเทคโนโลยีชั้นสูง",
+			"footer": "ความรู้สึกผิดก็เหมือนเกลือ...",
+			"selected": false
+		},
+		{
+			"language": "TR",
+			"title": "Uygun olmak",
+			"subTitle": "En iyi teknoloji uzay kıyafetleri",
+			"footer": "Suçluluk duygusu tuz gibidir...",
+			"selected": false
 		},
 		{
 			"language": "UK",
 			"title": "Костюм",
 			"subTitle": "Сучасні скафандри",
-			"footer": "Провина як сіль..."
+			"footer": "Провина як сіль...",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "套裝",
+			"subTitle": "頂級科技太空服",
+			"footer": "內疚就像鹽…",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "套裝",
+			"subTitle": "頂級科技太空服",
+			"footer": "內疚就像鹽…",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "套装",
+			"subTitle": "顶级科技太空服",
+			"footer": "内疚就像盐……",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "套装",
+			"subTitle": "顶级科技太空服",
+			"footer": "内疚就像盐……",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -318,7 +361,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.19.2323",
+	"ver": "25.11.06.0009",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-suit",
 	"cardWidth": null,
@@ -343,7 +386,7 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
+	"imageType": "T",
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

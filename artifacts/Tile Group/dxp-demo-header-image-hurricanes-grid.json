@@ -64,6 +64,11 @@
 			"subTitle": "מסיכת תמונת כותרת משמאל לימין הוחלה"
 		},
 		{
+			"language": "HR",
+			"title": "Različite slike za svijetli i tamni način rada",
+			"subTitle": "Primijenjena maska slike zaglavlja slijeva nadesno"
+		},
+		{
 			"language": "HU",
 			"title": "Különböző képek a világos és sötét módhoz",
 			"subTitle": "Balról jobbra fejléc képmaszk alkalmazva"
@@ -72,6 +77,11 @@
 			"language": "ID",
 			"title": "Gambar Berbeda untuk Mode Terang & Gelap",
 			"subTitle": "Masker gambar header kiri ke kanan diterapkan"
+		},
+		{
+			"language": "IS",
+			"title": "Mismunandi myndir fyrir ljósa og dökka stillingu",
+			"subTitle": "Myndgríma fyrir haus frá vinstri til hægri beitt"
 		},
 		{
 			"language": "IT",
@@ -89,14 +99,29 @@
 			"subTitle": "왼쪽에서 오른쪽으로 헤더 이미지 마스크 적용"
 		},
 		{
+			"language": "LT",
+			"title": "Skirtingi šviesaus ir tamsaus režimo vaizdai",
+			"subTitle": "Antraštės vaizdo kaukė pritaikyta iš kairės į dešinę"
+		},
+		{
 			"language": "LV",
 			"title": "Dažādi attēli gaišajam un tumšajam režīmam",
 			"subTitle": "Lietota galvenes attēla maska no kreisās puses uz labo"
 		},
 		{
+			"language": "MS",
+			"title": "Imej Berbeza untuk Mod Cerah & Gelap",
+			"subTitle": "Topeng imej pengepala kiri ke kanan digunakan"
+		},
+		{
 			"language": "NL",
 			"title": "Verschillende afbeeldingen voor de lichte en donkere modus",
 			"subTitle": "Van links naar rechts header afbeeldingsmasker toegepast"
+		},
+		{
+			"language": "NN",
+			"title": "Ulike bilder for lys og mørk modus",
+			"subTitle": "Overskriftsmasken fra venstre til høyre er brukt"
 		},
 		{
 			"language": "NO",
@@ -124,51 +149,6 @@
 			"subTitle": "Применена маска изображения заголовка слева направо"
 		},
 		{
-			"language": "SR",
-			"title": "Различите слике за светли и тамни режим",
-			"subTitle": "Примењена је маска слике заглавља са лева на десно"
-		},
-		{
-			"language": "SV",
-			"title": "Olika bilder för ljus och mörkt läge",
-			"subTitle": "Bildmask från vänster till höger har tillämpats"
-		},
-		{
-			"language": "ZF",
-			"title": "明暗模式的不同影像",
-			"subTitle": "從左到右的標題圖像蒙版已套用"
-		},
-		{
-			"language": "ZH",
-			"title": "明暗模式的不同图像",
-			"subTitle": "从左到右的标题图像蒙版已应用"
-		},
-		{
-			"language": "HR",
-			"title": "Različite slike za svijetli i tamni način rada",
-			"subTitle": "Primijenjena maska slike zaglavlja slijeva nadesno"
-		},
-		{
-			"language": "IS",
-			"title": "Mismunandi myndir fyrir ljósa og dökka stillingu",
-			"subTitle": "Myndgríma fyrir haus frá vinstri til hægri beitt"
-		},
-		{
-			"language": "LT",
-			"title": "Skirtingi šviesaus ir tamsaus režimo vaizdai",
-			"subTitle": "Antraštės vaizdo kaukė pritaikyta iš kairės į dešinę"
-		},
-		{
-			"language": "MS",
-			"title": "Imej Berbeza untuk Mod Cerah & Gelap",
-			"subTitle": "Topeng imej pengepala kiri ke kanan digunakan"
-		},
-		{
-			"language": "NN",
-			"title": "Ulike bilder for lys og mørk modus",
-			"subTitle": "Overskriftsmasken fra venstre til høyre er brukt"
-		},
-		{
 			"language": "SE",
 			"title": "Iešguđetlágan govat čuovga- ja divrras modeallas",
 			"subTitle": "Olgešbealde gurutbeale govvamáskka lea biddjon"
@@ -189,6 +169,16 @@
 			"subTitle": "Uporabljena maska slike glave od leve proti desni"
 		},
 		{
+			"language": "SR",
+			"title": "Различите слике за светли и тамни режим",
+			"subTitle": "Примењена је маска слике заглавља са лева на десно"
+		},
+		{
+			"language": "SV",
+			"title": "Olika bilder för ljus och mörkt läge",
+			"subTitle": "Bildmask från vänster till höger har tillämpats"
+		},
+		{
 			"language": "TH",
 			"title": "ภาพที่แตกต่างกันสำหรับโหมดสว่างและมืด",
 			"subTitle": "ใช้หน้ากากภาพส่วนหัวจากซ้ายไปขวาแล้ว"
@@ -202,6 +192,16 @@
 			"language": "UK",
 			"title": "Різні зображення для світлого та темного режимів",
 			"subTitle": "Застосовано маску зображення заголовка зліва направо"
+		},
+		{
+			"language": "ZF",
+			"title": "明暗模式的不同影像",
+			"subTitle": "從左到右的標題圖像蒙版已套用"
+		},
+		{
+			"language": "ZH",
+			"title": "明暗模式的不同图像",
+			"subTitle": "从左到右的标题图像蒙版已应用"
 		}
 	],
 	"tilesOrder": [
@@ -235,7 +235,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.01.05.0151",
+	"ver": "25.11.06.0114",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -268,7 +268,7 @@
 	"roleTag": null,
 	"cockpitTileGroup": false,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
-	"openClickTile": true,
+	"openClickTile": false,
 	"groupLayoutLight": null,
 	"groupLayoutDark": null,
 	"tileLayoutLight": null,
@@ -296,12 +296,16 @@
 	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"roles": [],
 	"lightGroupLayouts": [
 		{
 			"id": "abcda2d1-846f-439c-bffd-e97ee65ac466",
 			"ver": "25.01.05.0150"
+		},
+		{
+			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
+			"ver": "24.10.12.2216"
 		},
 		{
 			"id": "685f5346-a304-4112-b516-2d45582b6fcb",
@@ -312,7 +316,24 @@
 			"ver": "24.11.21.2335"
 		}
 	],
-	"darkGroupLayouts": [],
+	"darkGroupLayouts": [
+		{
+			"id": "abcda2d1-846f-439c-bffd-e97ee65ac466",
+			"ver": "25.01.05.0150"
+		},
+		{
+			"id": "731eba12-cf37-41f8-943e-ee198b213b66",
+			"ver": "24.10.12.2216"
+		},
+		{
+			"id": "685f5346-a304-4112-b516-2d45582b6fcb",
+			"ver": "25.01.05.0150"
+		},
+		{
+			"id": "38ad8257-2a89-436c-911a-4f9da88884b6",
+			"ver": "24.11.21.2335"
+		}
+	],
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"tiles": [
@@ -320,25 +341,25 @@
 			"id": "873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
 			"name": "dxp-demo-news-ticker-tornado",
 			"title": "Tornado season is here",
-			"ver": "24.11.17.2037"
+			"ver": "25.11.06.0039"
 		},
 		{
 			"id": "5ac891cb-b9cd-477f-a232-500744db8761",
 			"name": "dxp-demo-news-ticker-chilly",
 			"title": "Tomorrow will be chilly",
-			"ver": "24.11.17.2037"
+			"ver": "25.11.06.0038"
 		},
 		{
 			"id": "41f3b95c-a0b2-4971-ab4e-21c97156382b",
 			"name": "dxp-demo-news-ticker-wind",
 			"title": "Wind is picking up",
-			"ver": "24.11.22.0924"
+			"ver": "25.11.06.0039"
 		},
 		{
 			"id": "3af17eb9-bb8b-42b9-97b3-a38c5fa1703e",
 			"name": "dxp-demo-news-ticker-smog",
 			"title": "Smog is clearing!",
-			"ver": "24.11.17.2037"
+			"ver": "25.11.06.0038"
 		}
 	],
 	"tilegroups": [],

@@ -5,167 +5,214 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "الجذور العميقة لا تشك أبدًا في أن الربيع سيأتي"
+			"title": "الجذور العميقة لا تشك أبدًا في أن الربيع سيأتي",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Дълбоките корени никога не се съмняват, че пролетта ще дойде"
+			"title": "Дълбоките корени никога не се съмняват, че пролетта ще дойде",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Hluboké kořeny nikdy nepochybují o příchodu jara"
+			"title": "Hluboké kořeny nikdy nepochybují o příchodu jara",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "De dybe rødder tvivler aldrig på, at foråret kommer"
+			"title": "De dybe rødder tvivler aldrig på, at foråret kommer",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Die tiefen Wurzeln zweifeln nie daran, dass der Frühling kommt"
+			"title": "Die tiefen Wurzeln zweifeln nie daran, dass der Frühling kommt",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Οι βαθιές ρίζες δεν αμφιβάλλουν ποτέ ότι θα έρθει η άνοιξη"
+			"title": "Οι βαθιές ρίζες δεν αμφιβάλλουν ποτέ ότι θα έρθει η άνοιξη",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "The deep roots never doubt spring will come"
+			"title": "The deep roots never doubt spring will come",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "Las raíces profundas nunca dudan de que llegará la primavera."
+			"title": "Las raíces profundas nunca dudan de que llegará la primavera.",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Sügavad juured ei kahtle kunagi, et kevad tuleb"
+			"title": "Sügavad juured ei kahtle kunagi, et kevad tuleb",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Syvät juuret eivät epäile kevään tulevaa"
+			"title": "Syvät juuret eivät epäile kevään tulevaa",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Les racines profondes ne doutent jamais que le printemps viendra"
+			"title": "Les racines profondes ne doutent jamais que le printemps viendra",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "השורשים העמוקים אינם מפקפקים בבוא האביב"
+			"title": "השורשים העמוקים אינם מפקפקים בבוא האביב",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Duboki korijeni nikada ne sumnjaju da će proljeće doći"
+			"title": "Duboki korijeni nikada ne sumnjaju da će proljeće doći",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "A mély gyökerek soha nem kételkednek abban, hogy eljön a tavasz"
-		},
-		{
-			"language": "IS",
-			"title": "Djúpu ræturnar efast aldrei um að vorið komi"
-		},
-		{
-			"language": "IT",
-			"title": "Le radici profonde non dubitano mai che la primavera arriverà"
-		},
-		{
-			"language": "JA",
-			"title": "深い根は春が来ることを決して疑わない"
-		},
-		{
-			"language": "KO",
-			"title": "깊은 뿌리는 봄이 올 것을 결코 의심하지 않는다"
-		},
-		{
-			"language": "LT",
-			"title": "Gilios šaknys neabejoja, kad pavasaris ateis"
-		},
-		{
-			"language": "NN",
-			"title": "De dype røttene tviler aldri på at våren kommer"
-		},
-		{
-			"language": "NO",
-			"title": "De dype røttene tviler aldri på at våren kommer"
-		},
-		{
-			"language": "PT",
-			"title": "As raízes profundas nunca duvidam que a primavera chegará"
-		},
-		{
-			"language": "RU",
-			"title": "Глубокие корни никогда не сомневаются в приходе весны."
-		},
-		{
-			"language": "SH",
-			"title": "Дубоки корени никада не сумњају да ће пролеће доћи"
-		},
-		{
-			"language": "SK",
-			"title": "Hlboké korene nikdy nepochybujú o tom, že príde jar"
-		},
-		{
-			"language": "SL",
-			"title": "Globoke korenine nikoli ne dvomijo, da bo prišla pomlad"
+			"title": "A mély gyökerek soha nem kételkednek abban, hogy eljön a tavasz",
+			"selected": false
 		},
 		{
 			"language": "ID",
-			"title": "Akar yang dalam tidak pernah meragukan musim semi akan datang"
+			"title": "Akar yang dalam tidak pernah meragukan musim semi akan datang",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Djúpu ræturnar efast aldrei um að vorið komi",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Le radici profonde non dubitano mai che la primavera arriverà",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "深い根は春が来ることを決して疑わない",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "깊은 뿌리는 봄이 올 것을 결코 의심하지 않는다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Gilios šaknys neabejoja, kad pavasaris ateis",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Dziļās saknes nekad nešaubās, ka pienāks pavasaris"
+			"title": "Dziļās saknes nekad nešaubās, ka pienāks pavasaris",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Akar yang dalam tidak pernah meragui musim bunga akan datang"
+			"title": "Akar yang dalam tidak pernah meragui musim bunga akan datang",
+			"selected": false
 		},
 		{
 			"language": "NL",
-			"title": "De diepe wortels twijfelen er niet aan dat de lente zal komen"
+			"title": "De diepe wortels twijfelen er niet aan dat de lente zal komen",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "De dype røttene tviler aldri på at våren kommer",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "De dype røttene tviler aldri på at våren kommer",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Głębokie korzenie nigdy nie wątpią, że wiosna nadejdzie"
+			"title": "Głębokie korzenie nigdy nie wątpią, że wiosna nadejdzie",
+			"selected": false
+		},
+		{
+			"language": "PT",
+			"title": "As raízes profundas nunca duvidam que a primavera chegará",
+			"selected": false
 		},
 		{
 			"language": "RO",
-			"title": "Rădăcinile adânci nu se îndoiesc niciodată că va veni primăvara"
+			"title": "Rădăcinile adânci nu se îndoiesc niciodată că va veni primăvara",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Глубокие корни никогда не сомневаются в приходе весны.",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Dievva ruotnasat eai goassege eahpit ahte giđđa boahtá"
+			"title": "Dievva ruotnasat eai goassege eahpit ahte giđđa boahtá",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Дубоки корени никада не сумњају да ће пролеће доћи",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Hlboké korene nikdy nepochybujú o tom, že príde jar",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Globoke korenine nikoli ne dvomijo, da bo prišla pomlad",
+			"selected": false
 		},
 		{
 			"language": "SR",
-			"title": "Дубоки корени никада не сумњају да ће пролеће доћи"
+			"title": "Дубоки корени никада не сумњају да ће пролеће доћи",
+			"selected": false
 		},
 		{
 			"language": "SV",
-			"title": "De djupa rötterna tvivlar aldrig på att våren kommer"
+			"title": "De djupa rötterna tvivlar aldrig på att våren kommer",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "รากที่ลึกไม่เคยสงสัยว่าฤดูใบไม้ผลิจะมาถึง"
+			"title": "รากที่ลึกไม่เคยสงสัยว่าฤดูใบไม้ผลิจะมาถึง",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Derin kökler baharın geleceğinden asla şüphe etmez"
+			"title": "Derin kökler baharın geleceğinden asla şüphe etmez",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Глибоке коріння ніколи не сумнівається, що весна прийде"
+			"title": "Глибоке коріння ніколи не сумнівається, що весна прийде",
+			"selected": false
 		},
 		{
 			"language": "ZF",
-			"title": "深根不懷疑春天的到來"
+			"title": "深根不懷疑春天的到來",
+			"selected": false
 		},
 		{
 			"language": "ZH",
-			"title": "深根不怀疑春天的到来"
+			"title": "深根不怀疑春天的到来",
+			"selected": false
 		}
 	],
 	"storeItem": {},
-	"settings": null,
+	"settings": {
+		"metric": {
+			"": {
+				"width": "416",
+				"height": "234"
+			}
+		}
+	},
 	"title": "The deep roots never doubt spring will come",
 	"subTitle": null,
 	"description": null,
@@ -182,8 +229,8 @@
 	"frameType": null,
 	"type": null,
 	"image": "/media/root/dxp-demo-appearance-tile/spring.jpg",
-	"imageDark": null,
-	"icon": "",
+	"imageDark": "/media/root/dxp-demo-appearance-tile/spring.jpg",
+	"icon": "sap-icon://nep/value-help",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -220,7 +267,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": true,
-	"ver": "25.01.05.1928",
+	"ver": "25.11.06.0046",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-spring",
 	"cardWidth": null,
@@ -245,15 +292,28 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
-	"FIORI_STYLE": null,
+	"imageType": "T",
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
 		{
 			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
 			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
+			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

@@ -307,7 +307,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": null,
+	"icon": "sap-icon://fas/cloud",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -344,11 +344,11 @@
 	"helpText": "",
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.10.30.1046",
+	"ver": "25.11.06.0053",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-overcast",
-	"cardWidth": "",
-	"cardHeight": "",
+	"cardWidth": "Narrow",
+	"cardHeight": "Short",
 	"cardHeightFit": false,
 	"cardImage": "/media/root/dxp-demo-appearance-icon-light/overcast.svg",
 	"cardImageDark": "/media/root/dxp-demo-appearance-icon-dark/overcast.svg",
@@ -370,9 +370,19 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		}
+	],
+	"darkTileLayouts": [
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

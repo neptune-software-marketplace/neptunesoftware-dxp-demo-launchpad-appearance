@@ -5,167 +5,214 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "لكن قد تمطر غدًا، لذا سأتبع الشمس"
+			"title": "لكن قد تمطر غدًا، لذا سأتبع الشمس",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Но утре може да вали, така че ще следвам слънцето"
+			"title": "Но утре може да вали, така че ще следвам слънцето",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Ale zítra může pršet, takže půjdu za sluncem"
+			"title": "Ale zítra může pršet, takže půjdu za sluncem",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Men i morgen kan det regne, så jeg følger solen"
+			"title": "Men i morgen kan det regne, så jeg følger solen",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Aber morgen könnte es regnen, also folge ich der Sonne"
+			"title": "Aber morgen könnte es regnen, also folge ich der Sonne",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Αλλά αύριο μπορεί να βρέξει, οπότε θα ακολουθήσω τον ήλιο"
+			"title": "Αλλά αύριο μπορεί να βρέξει, οπότε θα ακολουθήσω τον ήλιο",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "But tomorrow may rain, so I’ll follow the sun"
+			"title": "But tomorrow may rain, so I’ll follow the sun",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "Pero mañana puede llover, así que seguiré al sol."
+			"title": "Pero mañana puede llover, así que seguiré al sol.",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Aga homme võib vihma sadada, nii et ma jälgin päikest"
+			"title": "Aga homme võib vihma sadada, nii et ma jälgin päikest",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Mutta huomenna voi sataa, joten seuraan aurinkoa"
+			"title": "Mutta huomenna voi sataa, joten seuraan aurinkoa",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Mais demain il pourrait pleuvoir, alors je suivrai le soleil"
+			"title": "Mais demain il pourrait pleuvoir, alors je suivrai le soleil",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "אבל מחר עלול לרדת גשם, אז אני אלך אחרי השמש"
+			"title": "אבל מחר עלול לרדת גשם, אז אני אלך אחרי השמש",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Ali sutra bi mogla kišiti, pa ću slijediti sunce"
+			"title": "Ali sutra bi mogla kišiti, pa ću slijediti sunce",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "De holnap eshet az eső, úgyhogy követem a napot"
-		},
-		{
-			"language": "IS",
-			"title": "En á morgun gæti rigning, svo ég mun fylgja sólinni"
-		},
-		{
-			"language": "IT",
-			"title": "Ma domani potrebbe piovere, quindi seguirò il sole"
-		},
-		{
-			"language": "JA",
-			"title": "でも明日は雨が降るかもしれないから、太陽を追いかけよう"
-		},
-		{
-			"language": "KO",
-			"title": "하지만 내일은 비가 올지도 모르니 태양을 따라가겠습니다"
-		},
-		{
-			"language": "LT",
-			"title": "Bet rytoj gali lyti, todėl aš seksiu saulę"
-		},
-		{
-			"language": "NL",
-			"title": "Maar morgen kan het regenen, dus ik volg de zon"
-		},
-		{
-			"language": "NN",
-			"title": "Men i morgen kan det regne, så jeg følger solen"
-		},
-		{
-			"language": "NO",
-			"title": "Men i morgen kan det regne, så jeg følger solen"
-		},
-		{
-			"language": "PT",
-			"title": "Mas amanhã pode chover, então seguirei o sol"
-		},
-		{
-			"language": "RU",
-			"title": "Но завтра может пойти дождь, поэтому я последую за солнцем."
-		},
-		{
-			"language": "SH",
-			"title": "Али сутра може падати киша, па ћу пратити сунце"
-		},
-		{
-			"language": "SK",
-			"title": "Ale zajtra môže pršať, takže pôjdem za slnkom"
-		},
-		{
-			"language": "SL",
-			"title": "Jutri pa lahko dežuje, tako da bom sledil soncu"
+			"title": "De holnap eshet az eső, úgyhogy követem a napot",
+			"selected": false
 		},
 		{
 			"language": "ID",
-			"title": "Tapi besok mungkin hujan, jadi aku akan mengikuti matahari"
+			"title": "Tapi besok mungkin hujan, jadi aku akan mengikuti matahari",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "En á morgun gæti rigning, svo ég mun fylgja sólinni",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Ma domani potrebbe piovere, quindi seguirò il sole",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "でも明日は雨が降るかもしれないから、太陽を追いかけよう",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "하지만 내일은 비가 올지도 모르니 태양을 따라가겠습니다",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Bet rytoj gali lyti, todėl aš seksiu saulę",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Bet rīt var līt, tāpēc es sekošu saulei"
+			"title": "Bet rīt var līt, tāpēc es sekošu saulei",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Tetapi esok mungkin hujan, jadi saya akan mengikuti matahari"
+			"title": "Tetapi esok mungkin hujan, jadi saya akan mengikuti matahari",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Maar morgen kan het regenen, dus ik volg de zon",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Men i morgen kan det regne, så jeg følger solen",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Men i morgen kan det regne, så jeg følger solen",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Ale jutro może padać, więc pójdę za słońcem"
+			"title": "Ale jutro może padać, więc pójdę za słońcem",
+			"selected": false
+		},
+		{
+			"language": "PT",
+			"title": "Mas amanhã pode chover, então seguirei o sol",
+			"selected": false
 		},
 		{
 			"language": "RO",
-			"title": "Dar mâine poate ploua, așa că voi urma soarele"
+			"title": "Dar mâine poate ploua, așa că voi urma soarele",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Но завтра может пойти дождь, поэтому я последую за солнцем.",
+			"selected": false
 		},
 		{
 			"language": "SE",
-			"title": "Muhto ihttin soaitá dulvat, nu ahte mun čuovun beaivváža"
+			"title": "Muhto ihttin soaitá dulvat, nu ahte mun čuovun beaivváža",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Али сутра може падати киша, па ћу пратити сунце",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Ale zajtra môže pršať, takže pôjdem za slnkom",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Jutri pa lahko dežuje, tako da bom sledil soncu",
+			"selected": false
 		},
 		{
 			"language": "SR",
-			"title": "Али сутра може падати киша, па ћу пратити сунце"
+			"title": "Али сутра може падати киша, па ћу пратити сунце",
+			"selected": false
 		},
 		{
 			"language": "SV",
-			"title": "Men imorgon kan det regna, så jag följer solen"
+			"title": "Men imorgon kan det regna, så jag följer solen",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "แต่พรุ่งนี้ฝนอาจตก ฉันก็เลยจะตามพระอาทิตย์ไป"
+			"title": "แต่พรุ่งนี้ฝนอาจตก ฉันก็เลยจะตามพระอาทิตย์ไป",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Ama yarın yağmur yağabilir, bu yüzden güneşi takip edeceğim"
+			"title": "Ama yarın yağmur yağabilir, bu yüzden güneşi takip edeceğim",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Але завтра може дощити, тому я піду за сонцем"
+			"title": "Але завтра може дощити, тому я піду за сонцем",
+			"selected": false
 		},
 		{
 			"language": "ZF",
-			"title": "但明天可能會下雨，所以我會跟著太陽走"
+			"title": "但明天可能會下雨，所以我會跟著太陽走",
+			"selected": false
 		},
 		{
 			"language": "ZH",
-			"title": "但明天可能会下雨，所以我会跟着太阳走"
+			"title": "但明天可能会下雨，所以我会跟着太阳走",
+			"selected": false
 		}
 	],
 	"storeItem": {},
-	"settings": null,
+	"settings": {
+		"metric": {
+			"": {
+				"width": "416",
+				"height": "234"
+			}
+		}
+	},
 	"title": "But tomorrow may rain, so I’ll follow the sun",
 	"subTitle": null,
 	"description": null,
@@ -182,8 +229,8 @@
 	"frameType": null,
 	"type": null,
 	"image": "/media/root/dxp-demo-appearance-tile/summer.jpg",
-	"imageDark": null,
-	"icon": "",
+	"imageDark": "/media/root/dxp-demo-appearance-tile/summer.jpg",
+	"icon": "sap-icon://nep/value-help",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -220,7 +267,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": true,
-	"ver": "25.01.05.1928",
+	"ver": "25.11.06.0047",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-sun",
 	"cardWidth": null,
@@ -245,15 +292,28 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
-	"FIORI_STYLE": null,
+	"imageType": "T",
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
 		{
 			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
 			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
+			"ver": "24.11.15.1208"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

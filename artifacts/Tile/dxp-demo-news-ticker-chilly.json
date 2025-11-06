@@ -5,163 +5,203 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "غدا سيكون باردا"
+			"title": "غدا سيكون باردا",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Утре ще бъде хладно"
+			"title": "Утре ще бъде хладно",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Zítra bude sychravo"
+			"title": "Zítra bude sychravo",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "I morgen bliver det køligt"
+			"title": "I morgen bliver det køligt",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Morgen wird es kühl"
+			"title": "Morgen wird es kühl",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Αύριο θα έχει κρύο"
+			"title": "Αύριο θα έχει κρύο",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Tomorrow will be chilly"
+			"title": "Tomorrow will be chilly",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "Mañana hará frío"
+			"title": "Mañana hará frío",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Homme tuleb külm"
+			"title": "Homme tuleb külm",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Huomenna on kylmä"
+			"title": "Huomenna on kylmä",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "Demain il fera froid"
+			"title": "Demain il fera froid",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "מחר יהיה קריר"
+			"title": "מחר יהיה קריר",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Sutra će biti prohladno"
-		},
-		{
-			"language": "ID",
-			"title": "Besok akan dingin"
-		},
-		{
-			"language": "IS",
-			"title": "Á morgun verður kalt"
-		},
-		{
-			"language": "IT",
-			"title": "Domani farà freddo"
-		},
-		{
-			"language": "JA",
-			"title": "明日は寒くなるだろう"
-		},
-		{
-			"language": "KO",
-			"title": "내일은 추울 것 같아요"
-		},
-		{
-			"language": "LV",
-			"title": "Rīt būs vēss"
-		},
-		{
-			"language": "NL",
-			"title": "Morgen wordt het koud"
-		},
-		{
-			"language": "NN",
-			"title": "I morgen blir det kjølig"
-		},
-		{
-			"language": "NO",
-			"title": "I morgen blir det kjølig"
-		},
-		{
-			"language": "RO",
-			"title": "Mâine va fi răcoare"
-		},
-		{
-			"language": "SE",
-			"title": "Ihttin šaddá galbma"
-		},
-		{
-			"language": "SH",
-			"title": "Сутра ће бити хладно"
-		},
-		{
-			"language": "SK",
-			"title": "Zajtra bude chladno"
-		},
-		{
-			"language": "SL",
-			"title": "Jutri bo hladno"
-		},
-		{
-			"language": "SR",
-			"title": "Сутра ће бити хладно"
-		},
-		{
-			"language": "SV",
-			"title": "Imorgon blir det kyligt"
-		},
-		{
-			"language": "TR",
-			"title": "Yarın hava soğuk olacak"
-		},
-		{
-			"language": "ZF",
-			"title": "明天寒冷"
-		},
-		{
-			"language": "ZH",
-			"title": "明天寒冷"
+			"title": "Sutra će biti prohladno",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "Holnap hideg lesz"
+			"title": "Holnap hideg lesz",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Besok akan dingin",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Á morgun verður kalt",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Domani farà freddo",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "明日は寒くなるだろう",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "내일은 추울 것 같아요",
+			"selected": false
 		},
 		{
 			"language": "LT",
-			"title": "Rytoj bus vėsu"
+			"title": "Rytoj bus vėsu",
+			"selected": false
+		},
+		{
+			"language": "LV",
+			"title": "Rīt būs vēss",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Esok akan menjadi sejuk"
+			"title": "Esok akan menjadi sejuk",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Morgen wordt het koud",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "I morgen blir det kjølig",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "I morgen blir det kjølig",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Jutro będzie chłodno"
+			"title": "Jutro będzie chłodno",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "Amanhã vai estar frio"
+			"title": "Amanhã vai estar frio",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Mâine va fi răcoare",
+			"selected": false
 		},
 		{
 			"language": "RU",
-			"title": "Завтра будет холодно"
+			"title": "Завтра будет холодно",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Ihttin šaddá galbma",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Сутра ће бити хладно",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Zajtra bude chladno",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Jutri bo hladno",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Сутра ће бити хладно",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Imorgon blir det kyligt",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "พรุ่งนี้จะหนาว"
+			"title": "พรุ่งนี้จะหนาว",
+			"selected": false
+		},
+		{
+			"language": "TR",
+			"title": "Yarın hava soğuk olacak",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Завтра буде прохолодно"
+			"title": "Завтра буде прохолодно",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "明天寒冷",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "明天寒冷",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -219,8 +259,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "24.11.17.2037",
+	"openClickTile": false,
+	"ver": "25.11.06.0038",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-chilly",
 	"cardWidth": null,
@@ -246,14 +286,27 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		},
 		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+			"ver": "24.11.15.1424"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

@@ -5,163 +5,203 @@
 	"translation": [
 		{
 			"language": "AR",
-			"title": "موسم الأعاصير هنا"
+			"title": "موسم الأعاصير هنا",
+			"selected": false
 		},
 		{
 			"language": "BG",
-			"title": "Сезонът на торнадото е тук"
+			"title": "Сезонът на торнадото е тук",
+			"selected": false
 		},
 		{
 			"language": "CS",
-			"title": "Sezóna tornád je tady"
+			"title": "Sezóna tornád je tady",
+			"selected": false
 		},
 		{
 			"language": "DA",
-			"title": "Tornado sæsonen er her"
+			"title": "Tornado sæsonen er her",
+			"selected": false
 		},
 		{
 			"language": "DE",
-			"title": "Die Tornado-Saison hat begonnen"
+			"title": "Die Tornado-Saison hat begonnen",
+			"selected": false
 		},
 		{
 			"language": "EL",
-			"title": "Η εποχή των ανεμοστρόβιλων είναι εδώ"
+			"title": "Η εποχή των ανεμοστρόβιλων είναι εδώ",
+			"selected": false
 		},
 		{
 			"language": "EN",
-			"title": "Tornado season is here"
+			"title": "Tornado season is here",
+			"selected": false
 		},
 		{
 			"language": "ES",
-			"title": "La temporada de tornados ya está aquí"
+			"title": "La temporada de tornados ya está aquí",
+			"selected": false
 		},
 		{
 			"language": "ET",
-			"title": "Tornaadohooaeg on käes"
+			"title": "Tornaadohooaeg on käes",
+			"selected": false
 		},
 		{
 			"language": "FI",
-			"title": "Tornadokausi on täällä"
+			"title": "Tornadokausi on täällä",
+			"selected": false
 		},
 		{
 			"language": "FR",
-			"title": "La saison des tornades est arrivée"
+			"title": "La saison des tornades est arrivée",
+			"selected": false
 		},
 		{
 			"language": "HE",
-			"title": "עונת הטורנדו כבר כאן"
+			"title": "עונת הטורנדו כבר כאן",
+			"selected": false
 		},
 		{
 			"language": "HR",
-			"title": "Sezona tornada je stigla"
-		},
-		{
-			"language": "ID",
-			"title": "Musim tornado telah tiba"
-		},
-		{
-			"language": "IS",
-			"title": "Tornado tímabilið er komið"
-		},
-		{
-			"language": "IT",
-			"title": "La stagione dei tornado è arrivata"
-		},
-		{
-			"language": "JA",
-			"title": "竜巻の季節が到来"
-		},
-		{
-			"language": "KO",
-			"title": "토네이도 시즌이 왔습니다"
-		},
-		{
-			"language": "NL",
-			"title": "Het tornadoseizoen is hier"
-		},
-		{
-			"language": "NN",
-			"title": "Tornadosesongen er her"
-		},
-		{
-			"language": "NO",
-			"title": "Tornadosesongen er her"
-		},
-		{
-			"language": "RO",
-			"title": "Sezonul tornadelor este aici"
-		},
-		{
-			"language": "SE",
-			"title": "Tornádoáigodat lea boahtán"
-		},
-		{
-			"language": "SH",
-			"title": "Сезона торнада је стигла"
-		},
-		{
-			"language": "SK",
-			"title": "Sezóna tornád je tu"
-		},
-		{
-			"language": "SL",
-			"title": "Sezona tornadov je tu"
-		},
-		{
-			"language": "SR",
-			"title": "Сезона торнада је стигла"
-		},
-		{
-			"language": "SV",
-			"title": "Tornadosäsongen är här"
-		},
-		{
-			"language": "ZF",
-			"title": "龍捲風季節到了"
-		},
-		{
-			"language": "ZH",
-			"title": "龙卷风季节到了"
+			"title": "Sezona tornada je stigla",
+			"selected": false
 		},
 		{
 			"language": "HU",
-			"title": "Itt a tornádó szezon"
+			"title": "Itt a tornádó szezon",
+			"selected": false
+		},
+		{
+			"language": "ID",
+			"title": "Musim tornado telah tiba",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Tornado tímabilið er komið",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "La stagione dei tornado è arrivata",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "竜巻の季節が到来",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "토네이도 시즌이 왔습니다",
+			"selected": false
 		},
 		{
 			"language": "LT",
-			"title": "Tornado sezonas čia"
+			"title": "Tornado sezonas čia",
+			"selected": false
 		},
 		{
 			"language": "LV",
-			"title": "Tornado sezona ir klāt"
+			"title": "Tornado sezona ir klāt",
+			"selected": false
 		},
 		{
 			"language": "MS",
-			"title": "Musim puting beliung sudah tiba"
+			"title": "Musim puting beliung sudah tiba",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Het tornadoseizoen is hier",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Tornadosesongen er her",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Tornadosesongen er her",
+			"selected": false
 		},
 		{
 			"language": "PL",
-			"title": "Nadszedł sezon tornad"
+			"title": "Nadszedł sezon tornad",
+			"selected": false
 		},
 		{
 			"language": "PT",
-			"title": "A temporada de tornados chegou"
+			"title": "A temporada de tornados chegou",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Sezonul tornadelor este aici",
+			"selected": false
 		},
 		{
 			"language": "RU",
-			"title": "Сезон торнадо уже здесь"
+			"title": "Сезон торнадо уже здесь",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Tornádoáigodat lea boahtán",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Сезона торнада је стигла",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Sezóna tornád je tu",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Sezona tornadov je tu",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Сезона торнада је стигла",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Tornadosäsongen är här",
+			"selected": false
 		},
 		{
 			"language": "TH",
-			"title": "ฤดูพายุทอร์นาโดมาถึงแล้ว"
+			"title": "ฤดูพายุทอร์นาโดมาถึงแล้ว",
+			"selected": false
 		},
 		{
 			"language": "TR",
-			"title": "Kasırga sezonu geldi"
+			"title": "Kasırga sezonu geldi",
+			"selected": false
 		},
 		{
 			"language": "UK",
-			"title": "Настав сезон торнадо"
+			"title": "Настав сезон торнадо",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "龍捲風季節到了",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "龙卷风季节到了",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -219,8 +259,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "24.11.17.2037",
+	"openClickTile": false,
+	"ver": "25.11.06.0039",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-tornado",
 	"cardWidth": null,
@@ -246,14 +286,27 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
 	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		},
 		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [
+		{
+			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
+			"ver": "24.11.15.1424"
+		},
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }

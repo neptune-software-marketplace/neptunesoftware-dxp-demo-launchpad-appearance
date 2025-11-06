@@ -7,259 +7,302 @@
 			"language": "AR",
 			"title": "طاقم",
 			"subTitle": "تعرف على طاقم روسينانتي",
-			"footer": "الحقيقة هي الحقيقة!"
-		},
-		{
-			"language": "DE",
-			"title": "Crew",
-			"subTitle": "Lernen Sie die Rocinante-Crew kennen",
-			"footer": "Wahrheit ist Wahrheit!"
-		},
-		{
-			"language": "EN",
-			"title": "Crew",
-			"subTitle": "Meet the Rocinante crew",
-			"footer": "Truth is truth!"
-		},
-		{
-			"language": "FR",
-			"title": "Équipage",
-			"subTitle": "Rencontrez l'équipage de Rocinante",
-			"footer": "La vérité est la vérité !"
-		},
-		{
-			"language": "NO",
-			"title": "Manus",
-			"subTitle": "Møt Rocinante-manuset",
-			"footer": "Sannheten er sannhet!"
-		},
-		{
-			"language": "ZH",
-			"title": "全体人员",
-			"subTitle": "见见 Rocinante 船员",
-			"footer": "真理就是真理！"
-		},
-		{
-			"language": "ZF",
-			"title": "全體人員",
-			"subTitle": "見見 Rocinante 船員",
-			"footer": "真理就是真理！"
-		},
-		{
-			"language": "NN",
-			"title": "Mannskap",
-			"subTitle": "Møt Rocinante-mannskapet",
-			"footer": "Sannhet er sannhet!"
+			"footer": "الحقيقة هي الحقيقة!",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "Екипаж",
 			"subTitle": "Запознайте се с екипа на Rocinante",
-			"footer": "Истината си е истина!"
+			"footer": "Истината си е истина!",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Posádka",
 			"subTitle": "Seznamte se s posádkou Rocinante",
-			"footer": "Pravda je pravda!"
+			"footer": "Pravda je pravda!",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Mandskab",
 			"subTitle": "Mød Rocinante-besætningen",
-			"footer": "Sandhed er sandhed!"
+			"footer": "Sandhed er sandhed!",
+			"selected": false
+		},
+		{
+			"language": "DE",
+			"title": "Crew",
+			"subTitle": "Lernen Sie die Rocinante-Crew kennen",
+			"footer": "Wahrheit ist Wahrheit!",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Πλήρωμα",
 			"subTitle": "Γνωρίστε το πλήρωμα Rocinante",
-			"footer": "Η αλήθεια είναι αλήθεια!"
+			"footer": "Η αλήθεια είναι αλήθεια!",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Crew",
 			"subTitle": "Meet the Rocinante crew",
-			"footer": "Truth is truth!"
+			"footer": "Truth is truth!",
+			"selected": false
+		},
+		{
+			"language": "EN",
+			"title": "Crew",
+			"subTitle": "Meet the Rocinante crew",
+			"footer": "Truth is truth!",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Multitud",
 			"subTitle": "Conoce a la tripulación de Rocinante",
-			"footer": "¡La verdad es la verdad!"
+			"footer": "¡La verdad es la verdad!",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Meeskond",
 			"subTitle": "Tutvuge Rocinante meeskonnaga",
-			"footer": "Tõde on tõde!"
+			"footer": "Tõde on tõde!",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Miehistö",
 			"subTitle": "Tapaa Rocinanten miehistö",
-			"footer": "Totuus on totuus!"
+			"footer": "Totuus on totuus!",
+			"selected": false
+		},
+		{
+			"language": "FR",
+			"title": "Équipage",
+			"subTitle": "Rencontrez l'équipage de Rocinante",
+			"footer": "La vérité est la vérité !",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "צוות",
 			"subTitle": "הכירו את הצוות של רוסיננטה",
-			"footer": "אמת היא אמת!"
+			"footer": "אמת היא אמת!",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Posada",
 			"subTitle": "Upoznajte ekipu Rocinanta",
-			"footer": "Istina je istina!"
-		},
-		{
-			"language": "IS",
-			"title": "Áhöfn",
-			"subTitle": "Hittu Rocinante áhöfnina",
-			"footer": "Sannleikur er sannleikur!"
-		},
-		{
-			"language": "JA",
-			"title": "クルー",
-			"subTitle": "ロシナンテのクルーに会う",
-			"footer": "真実は真実だ！"
-		},
-		{
-			"language": "KO",
-			"title": "승무원",
-			"subTitle": "Rocinante 승무원을 만나보세요",
-			"footer": "진실은 진실이에요!"
-		},
-		{
-			"language": "LV",
-			"title": "Apkalpe",
-			"subTitle": "Iepazīstieties ar Rocinante apkalpi",
-			"footer": "Patiesība ir patiesība!"
-		},
-		{
-			"language": "NL",
-			"title": "Bemanning",
-			"subTitle": "Maak kennis met de Rocinante-crew",
-			"footer": "De waarheid is de waarheid!"
-		},
-		{
-			"language": "RO",
-			"title": "Echipajul",
-			"subTitle": "Faceți cunoștință cu echipa Rocinante",
-			"footer": "Adevărul este adevăr!"
-		},
-		{
-			"language": "SH",
-			"title": "Посада",
-			"subTitle": "Упознајте посаду Роцинанте",
-			"footer": "Истина је истина!"
-		},
-		{
-			"language": "SK",
-			"title": "Posádka",
-			"subTitle": "Zoznámte sa s posádkou Rocinante",
-			"footer": "Pravda je pravda!"
-		},
-		{
-			"language": "SL",
-			"title": "Posadka",
-			"subTitle": "Spoznajte posadko Rocinante",
-			"footer": "Resnica je resnica!"
-		},
-		{
-			"language": "SR",
-			"title": "Посада",
-			"subTitle": "Упознајте посаду Роцинанте",
-			"footer": "Истина је истина!"
-		},
-		{
-			"language": "SV",
-			"title": "Besättning",
-			"subTitle": "Möt Rocinantes besättning",
-			"footer": "Sanning är sanning!"
-		},
-		{
-			"language": "TH",
-			"title": "ลูกทีม",
-			"subTitle": "พบกับทีมงาน Rocinante",
-			"footer": "ความจริงก็คือความจริง!"
-		},
-		{
-			"language": "TR",
-			"title": "Mürettebat",
-			"subTitle": "Rocinante ekibiyle tanışın",
-			"footer": "Gerçek gerçektir!"
-		},
-		{
-			"language": "ZH",
-			"title": "全体人员",
-			"subTitle": "见见 Rocinante 船员",
-			"footer": "真理就是真理！"
+			"footer": "Istina je istina!",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Legénység",
 			"subTitle": "Ismerje meg a Rocinante legénységét",
-			"footer": "Az igazság az igazság!"
+			"footer": "Az igazság az igazság!",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Awak kapal",
 			"subTitle": "Temui kru Rocinante",
-			"footer": "Kebenaran adalah kebenaran!"
+			"footer": "Kebenaran adalah kebenaran!",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Áhöfn",
+			"subTitle": "Hittu Rocinante áhöfnina",
+			"footer": "Sannleikur er sannleikur!",
+			"selected": false
 		},
 		{
 			"language": "IT",
 			"title": "Equipaggio",
 			"subTitle": "Incontra l'equipaggio di Rocinante",
-			"footer": "La verità è la verità!"
+			"footer": "La verità è la verità!",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "クルー",
+			"subTitle": "ロシナンテのクルーに会う",
+			"footer": "真実は真実だ！",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "승무원",
+			"subTitle": "Rocinante 승무원을 만나보세요",
+			"footer": "진실은 진실이에요!",
+			"selected": false
 		},
 		{
 			"language": "LT",
 			"title": "Įgula",
 			"subTitle": "Susipažinkite su Rocinante įgula",
-			"footer": "Tiesa yra tiesa!"
+			"footer": "Tiesa yra tiesa!",
+			"selected": false
+		},
+		{
+			"language": "LV",
+			"title": "Apkalpe",
+			"subTitle": "Iepazīstieties ar Rocinante apkalpi",
+			"footer": "Patiesība ir patiesība!",
+			"selected": false
 		},
 		{
 			"language": "MS",
 			"title": "anak kapal",
 			"subTitle": "Temui krew Rocinante",
-			"footer": "Kebenaran adalah kebenaran!"
+			"footer": "Kebenaran adalah kebenaran!",
+			"selected": false
+		},
+		{
+			"language": "NL",
+			"title": "Bemanning",
+			"subTitle": "Maak kennis met de Rocinante-crew",
+			"footer": "De waarheid is de waarheid!",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Mannskap",
+			"subTitle": "Møt Rocinante-mannskapet",
+			"footer": "Sannhet er sannhet!",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Manus",
+			"subTitle": "Møt Rocinante-manuset",
+			"footer": "Sannheten er sannhet!",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Załoga",
 			"subTitle": "Poznajcie załogę Rocinante",
-			"footer": "Prawda jest prawdą!"
+			"footer": "Prawda jest prawdą!",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Equipe",
 			"subTitle": "Conheça a equipe Rocinante",
-			"footer": "Verdade é verdade!"
+			"footer": "Verdade é verdade!",
+			"selected": false
+		},
+		{
+			"language": "RO",
+			"title": "Echipajul",
+			"subTitle": "Faceți cunoștință cu echipa Rocinante",
+			"footer": "Adevărul este adevăr!",
+			"selected": false
 		},
 		{
 			"language": "RU",
 			"title": "Экипаж",
 			"subTitle": "Познакомьтесь с командой «Росинанта»",
-			"footer": "Правда есть правда!"
+			"footer": "Правда есть правда!",
+			"selected": false
 		},
 		{
 			"language": "SE",
 			"title": "Bargoveahka",
 			"subTitle": "Deaivvada Rocinante-joavkkuin",
-			"footer": "Duohtavuohta lea duohtavuohta!"
+			"footer": "Duohtavuohta lea duohtavuohta!",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Посада",
+			"subTitle": "Упознајте посаду Роцинанте",
+			"footer": "Истина је истина!",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Posádka",
+			"subTitle": "Zoznámte sa s posádkou Rocinante",
+			"footer": "Pravda je pravda!",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Posadka",
+			"subTitle": "Spoznajte posadko Rocinante",
+			"footer": "Resnica je resnica!",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Посада",
+			"subTitle": "Упознајте посаду Роцинанте",
+			"footer": "Истина је истина!",
+			"selected": false
+		},
+		{
+			"language": "SV",
+			"title": "Besättning",
+			"subTitle": "Möt Rocinantes besättning",
+			"footer": "Sanning är sanning!",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ลูกทีม",
+			"subTitle": "พบกับทีมงาน Rocinante",
+			"footer": "ความจริงก็คือความจริง!",
+			"selected": false
+		},
+		{
+			"language": "TR",
+			"title": "Mürettebat",
+			"subTitle": "Rocinante ekibiyle tanışın",
+			"footer": "Gerçek gerçektir!",
+			"selected": false
 		},
 		{
 			"language": "UK",
 			"title": "Екіпаж",
 			"subTitle": "Зустрічайте команду Rocinante",
-			"footer": "Правда є правда!"
+			"footer": "Правда є правда!",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "全體人員",
 			"subTitle": "見見 Rocinante 船員",
-			"footer": "真理就是真理！"
+			"footer": "真理就是真理！",
+			"selected": false
+		},
+		{
+			"language": "ZF",
+			"title": "全體人員",
+			"subTitle": "見見 Rocinante 船員",
+			"footer": "真理就是真理！",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "全体人员",
+			"subTitle": "见见 Rocinante 船员",
+			"footer": "真理就是真理！",
+			"selected": false
+		},
+		{
+			"language": "ZH",
+			"title": "全体人员",
+			"subTitle": "见见 Rocinante 船员",
+			"footer": "真理就是真理！",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -318,7 +361,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "24.11.19.2324",
+	"ver": "25.11.06.0010",
 	"actionWebApp": "",
 	"name": "dxp-demo-image-crew",
 	"cardWidth": null,
@@ -343,7 +386,7 @@
 	"cardImageDarkNone": false,
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
-	"imageType": null,
+	"imageType": "T",
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],

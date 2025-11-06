@@ -7,241 +7,281 @@
 			"language": "AR",
 			"title": "رياح",
 			"subTitle": "إستمر في الوقوف",
-			"footer": "سأبقى حتى تتغير الرياح!"
+			"footer": "سأبقى حتى تتغير الرياح!",
+			"selected": false
 		},
 		{
 			"language": "BG",
 			"title": "Вятър",
 			"subTitle": "Продължете да стоите",
-			"footer": "Ще остана, докато вятърът се промени!"
+			"footer": "Ще остана, докато вятърът се промени!",
+			"selected": false
 		},
 		{
 			"language": "CS",
 			"title": "Vítr",
 			"subTitle": "Zůstaňte stát",
-			"footer": "Zůstanu, dokud se nezmění vítr!"
+			"footer": "Zůstanu, dokud se nezmění vítr!",
+			"selected": false
 		},
 		{
 			"language": "DA",
 			"title": "Vind",
 			"subTitle": "Bliv stående",
-			"footer": "Jeg bliver, indtil vinden skifter!"
+			"footer": "Jeg bliver, indtil vinden skifter!",
+			"selected": false
 		},
 		{
 			"language": "DE",
 			"title": "Wind",
 			"subTitle": "Bleiben Sie stehen",
-			"footer": "Ich bleibe, bis der Wind dreht!"
+			"footer": "Ich bleibe, bis der Wind dreht!",
+			"selected": false
 		},
 		{
 			"language": "EL",
 			"title": "Ανεμος",
 			"subTitle": "Συνέχισε να στέκεσαι",
-			"footer": "Θα μείνω μέχρι να αλλάξει ο αέρας!"
+			"footer": "Θα μείνω μέχρι να αλλάξει ο αέρας!",
+			"selected": false
 		},
 		{
 			"language": "EN",
 			"title": "Wind",
 			"subTitle": "Keep Standing",
-			"footer": "I’ll stay till the wind changes!"
+			"footer": "I’ll stay till the wind changes!",
+			"selected": false
 		},
 		{
 			"language": "ES",
 			"title": "Viento",
 			"subTitle": "Mantente de pie",
-			"footer": "¡Me quedaré hasta que cambie el viento!"
+			"footer": "¡Me quedaré hasta que cambie el viento!",
+			"selected": false
 		},
 		{
 			"language": "ET",
 			"title": "Tuul",
 			"subTitle": "Jätkake seismist",
-			"footer": "Jään, kuni tuul muutub!"
+			"footer": "Jään, kuni tuul muutub!",
+			"selected": false
 		},
 		{
 			"language": "FI",
 			"title": "Tuuli",
 			"subTitle": "Pysy seisomassa",
-			"footer": "Pysyn, kunnes tuuli vaihtuu!"
+			"footer": "Pysyn, kunnes tuuli vaihtuu!",
+			"selected": false
 		},
 		{
 			"language": "FR",
 			"title": "Vent",
 			"subTitle": "Rester debout",
-			"footer": "Je resterai jusqu’à ce que le vent change !"
+			"footer": "Je resterai jusqu’à ce que le vent change !",
+			"selected": false
 		},
 		{
 			"language": "HE",
 			"title": "רוּחַ",
 			"subTitle": "תמשיך לעמוד",
-			"footer": "אני אשאר עד שהרוח תשתנה!"
+			"footer": "אני אשאר עד שהרוח תשתנה!",
+			"selected": false
 		},
 		{
 			"language": "HR",
 			"title": "Vjetar",
 			"subTitle": "Nastavi stajati",
-			"footer": "Ostat ću dok se vjetar ne promijeni!"
+			"footer": "Ostat ću dok se vjetar ne promijeni!",
+			"selected": false
 		},
 		{
 			"language": "HU",
 			"title": "Szél",
 			"subTitle": "Álljon tovább",
-			"footer": "Addig maradok, amíg a szél fúj!"
-		},
-		{
-			"language": "IS",
-			"title": "Vindur",
-			"subTitle": "Haltu áfram að standa",
-			"footer": "Ég verð þar til vindurinn breytist!"
-		},
-		{
-			"language": "IT",
-			"title": "Vento",
-			"subTitle": "Rimani in piedi",
-			"footer": "Resterò finché non cambierà il vento!"
-		},
-		{
-			"language": "JA",
-			"title": "風",
-			"subTitle": "立ち続ける",
-			"footer": "風向きが変わるまでここにいます！"
-		},
-		{
-			"language": "KO",
-			"title": "바람",
-			"subTitle": "계속 서있어라",
-			"footer": "바람이 바뀔 때까지 머물겠어요!"
-		},
-		{
-			"language": "LT",
-			"title": "Vėjas",
-			"subTitle": "Stovėti toliau",
-			"footer": "Aš pasiliksiu, kol vėjas pasikeis!"
-		},
-		{
-			"language": "MS",
-			"title": "Angin",
-			"subTitle": "Terus Berdiri",
-			"footer": "Saya akan tinggal sehingga angin berubah!"
-		},
-		{
-			"language": "NN",
-			"title": "Vind",
-			"subTitle": "Fortsett å stå",
-			"footer": "Jeg blir til vinden endrer seg!"
-		},
-		{
-			"language": "NO",
-			"title": "Vind",
-			"subTitle": "Fortsett å stå",
-			"footer": "Jeg blir til vinden endrer seg!"
-		},
-		{
-			"language": "RU",
-			"title": "Ветер",
-			"subTitle": "Продолжайте стоять",
-			"footer": "Я останусь, пока ветер не переменится!"
-		},
-		{
-			"language": "SE",
-			"title": "Biegga",
-			"subTitle": "Bissot čuožžumin",
-			"footer": "Mun orun dassážii go biegga rievdá!"
-		},
-		{
-			"language": "SH",
-			"title": "Ветар",
-			"subTitle": "Наставите да стојите",
-			"footer": "Остаћу док се ветар не промени!"
-		},
-		{
-			"language": "SK",
-			"title": "Vietor",
-			"subTitle": "Zostaňte stáť",
-			"footer": "Ostanem, kým sa nezmení vietor!"
-		},
-		{
-			"language": "SL",
-			"title": "Veter",
-			"subTitle": "Stojte",
-			"footer": "Ostal bom, dokler se veter ne spremeni!"
-		},
-		{
-			"language": "SR",
-			"title": "Ветар",
-			"subTitle": "Наставите да стојите",
-			"footer": "Остаћу док се ветар не промени!"
-		},
-		{
-			"language": "TH",
-			"title": "ลม",
-			"subTitle": "ยืนต่อไป",
-			"footer": "ฉันจะอยู่จนกว่าลมจะเปลี่ยน!"
-		},
-		{
-			"language": "UK",
-			"title": "Вітер",
-			"subTitle": "Продовжуйте стояти",
-			"footer": "Я залишуся, поки не зміниться вітер!"
+			"footer": "Addig maradok, amíg a szél fúj!",
+			"selected": false
 		},
 		{
 			"language": "ID",
 			"title": "Angin",
 			"subTitle": "Tetap Berdiri",
-			"footer": "Aku akan bertahan sampai angin berubah!"
+			"footer": "Aku akan bertahan sampai angin berubah!",
+			"selected": false
+		},
+		{
+			"language": "IS",
+			"title": "Vindur",
+			"subTitle": "Haltu áfram að standa",
+			"footer": "Ég verð þar til vindurinn breytist!",
+			"selected": false
+		},
+		{
+			"language": "IT",
+			"title": "Vento",
+			"subTitle": "Rimani in piedi",
+			"footer": "Resterò finché non cambierà il vento!",
+			"selected": false
+		},
+		{
+			"language": "JA",
+			"title": "風",
+			"subTitle": "立ち続ける",
+			"footer": "風向きが変わるまでここにいます！",
+			"selected": false
+		},
+		{
+			"language": "KO",
+			"title": "바람",
+			"subTitle": "계속 서있어라",
+			"footer": "바람이 바뀔 때까지 머물겠어요!",
+			"selected": false
+		},
+		{
+			"language": "LT",
+			"title": "Vėjas",
+			"subTitle": "Stovėti toliau",
+			"footer": "Aš pasiliksiu, kol vėjas pasikeis!",
+			"selected": false
 		},
 		{
 			"language": "LV",
 			"title": "Vējš",
 			"subTitle": "Turpiniet stāvēt",
-			"footer": "Es palikšu, kamēr vējš mainīsies!"
+			"footer": "Es palikšu, kamēr vējš mainīsies!",
+			"selected": false
+		},
+		{
+			"language": "MS",
+			"title": "Angin",
+			"subTitle": "Terus Berdiri",
+			"footer": "Saya akan tinggal sehingga angin berubah!",
+			"selected": false
 		},
 		{
 			"language": "NL",
 			"title": "Wind",
 			"subTitle": "Blijf staan",
-			"footer": "Ik blijf tot de wind draait!"
+			"footer": "Ik blijf tot de wind draait!",
+			"selected": false
+		},
+		{
+			"language": "NN",
+			"title": "Vind",
+			"subTitle": "Fortsett å stå",
+			"footer": "Jeg blir til vinden endrer seg!",
+			"selected": false
+		},
+		{
+			"language": "NO",
+			"title": "Vind",
+			"subTitle": "Fortsett å stå",
+			"footer": "Jeg blir til vinden endrer seg!",
+			"selected": false
 		},
 		{
 			"language": "PL",
 			"title": "Wiatr",
 			"subTitle": "Utrzymuj pozycję stojącą",
-			"footer": "Zostanę, aż wiatr się zmieni!"
+			"footer": "Zostanę, aż wiatr się zmieni!",
+			"selected": false
 		},
 		{
 			"language": "PT",
 			"title": "Vento",
 			"subTitle": "Continue de pé",
-			"footer": "Eu ficarei até o vento mudar!"
+			"footer": "Eu ficarei até o vento mudar!",
+			"selected": false
 		},
 		{
 			"language": "RO",
 			"title": "Vânt",
 			"subTitle": "Continuă în picioare",
-			"footer": "Voi sta până se schimbă vântul!"
+			"footer": "Voi sta până se schimbă vântul!",
+			"selected": false
+		},
+		{
+			"language": "RU",
+			"title": "Ветер",
+			"subTitle": "Продолжайте стоять",
+			"footer": "Я останусь, пока ветер не переменится!",
+			"selected": false
+		},
+		{
+			"language": "SE",
+			"title": "Biegga",
+			"subTitle": "Bissot čuožžumin",
+			"footer": "Mun orun dassážii go biegga rievdá!",
+			"selected": false
+		},
+		{
+			"language": "SH",
+			"title": "Ветар",
+			"subTitle": "Наставите да стојите",
+			"footer": "Остаћу док се ветар не промени!",
+			"selected": false
+		},
+		{
+			"language": "SK",
+			"title": "Vietor",
+			"subTitle": "Zostaňte stáť",
+			"footer": "Ostanem, kým sa nezmení vietor!",
+			"selected": false
+		},
+		{
+			"language": "SL",
+			"title": "Veter",
+			"subTitle": "Stojte",
+			"footer": "Ostal bom, dokler se veter ne spremeni!",
+			"selected": false
+		},
+		{
+			"language": "SR",
+			"title": "Ветар",
+			"subTitle": "Наставите да стојите",
+			"footer": "Остаћу док се ветар не промени!",
+			"selected": false
 		},
 		{
 			"language": "SV",
 			"title": "Vind",
 			"subTitle": "Fortsätt stå",
-			"footer": "Jag stannar tills vinden ändrar sig!"
+			"footer": "Jag stannar tills vinden ändrar sig!",
+			"selected": false
+		},
+		{
+			"language": "TH",
+			"title": "ลม",
+			"subTitle": "ยืนต่อไป",
+			"footer": "ฉันจะอยู่จนกว่าลมจะเปลี่ยน!",
+			"selected": false
 		},
 		{
 			"language": "TR",
 			"title": "Rüzgâr",
 			"subTitle": "Ayakta Kalmaya Devam Et",
-			"footer": "Rüzgar değişene kadar kalacağım!"
+			"footer": "Rüzgar değişene kadar kalacağım!",
+			"selected": false
+		},
+		{
+			"language": "UK",
+			"title": "Вітер",
+			"subTitle": "Продовжуйте стояти",
+			"footer": "Я залишуся, поки не зміниться вітер!",
+			"selected": false
 		},
 		{
 			"language": "ZF",
 			"title": "風",
 			"subTitle": "保持站立",
-			"footer": "我會一直待到風向改變！"
+			"footer": "我會一直待到風向改變！",
+			"selected": false
 		},
 		{
 			"language": "ZH",
 			"title": "风",
 			"subTitle": "保持站立",
-			"footer": "我会一直呆到风向改变！"
+			"footer": "我会一直呆到风向改变！",
+			"selected": false
 		}
 	],
 	"storeItem": {},
@@ -263,7 +303,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": null,
+	"icon": "sap-icon://fas/wind",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -299,12 +339,12 @@
 	"blackoutDescription": null,
 	"helpText": "<h3><span style=\"font-family: Verdana;\">Bruins Close Out Preseason with Loss to Capitals</span></h3><p><span style=\"font-family: Verdana;\">Boston dropped its final exhibition game to Washington on Saturday night.</span></p>",
 	"helpEnabled": true,
-	"openClickTile": false,
-	"ver": "25.01.05.2011",
+	"openClickTile": true,
+	"ver": "25.11.06.0055",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-wind",
-	"cardWidth": "",
-	"cardHeight": "",
+	"cardWidth": "Narrow",
+	"cardHeight": "Short",
 	"cardHeightFit": false,
 	"cardImage": "/media/root/dxp-demo-appearance-icon-light/wind.svg",
 	"cardImageDark": "/media/root/dxp-demo-appearance-icon-dark/wind.svg",
@@ -329,6 +369,16 @@
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"lightTileLayouts": [
+		{
+			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
+			"ver": "25.10.30.1059"
+		}
+	],
+	"darkTileLayouts": [
+		{
+			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
+			"ver": "25.10.30.1059"
+		}
+	]
 }
