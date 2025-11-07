@@ -396,7 +396,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.03.13.2346",
+	"ver": "25.11.07.1124",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -461,32 +461,37 @@
 	"roles": [],
 	"lightGroupLayouts": [],
 	"darkGroupLayouts": [],
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "4d5a75f1-4387-40c4-a835-7b4a8ac93977",
+			"ver": "25.01.05.1928"
+		}
+	],
 	"darkTileLayouts": [],
 	"tiles": [
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
 			"name": "dxp-demo-season-winter",
 			"title": "Summer is for surrendering; winter is for wondering",
-			"ver": "25.11.07.0118"
+			"ver": "25.11.07.1122"
 		},
 		{
 			"id": "2ecc027b-8814-4141-ad35-9cfe597aed4a",
 			"name": "dxp-demo-season-spring",
 			"title": "The deep roots never doubt spring will come",
-			"ver": "25.11.07.0118"
+			"ver": "25.11.07.1123"
 		},
 		{
 			"id": "22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
 			"name": "dxp-demo-season-sun",
 			"title": "But tomorrow may rain, so I’ll follow the sun",
-			"ver": "25.11.07.0118"
+			"ver": "25.11.07.1123"
 		},
 		{
 			"id": "0bf25985-5375-4df4-96e1-1c555d9ed2ac",
 			"name": "dxp-demo-season-autumn",
 			"title": "Autumn skies and pumpkin pies",
-			"ver": "25.11.07.0119"
+			"ver": "25.11.07.1122"
 		}
 	],
 	"tilegroups": [],
