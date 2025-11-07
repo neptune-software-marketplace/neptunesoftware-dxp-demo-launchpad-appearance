@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "25.04.28.1221",
+	"ver": "25.11.07.0149",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.14.0-rc.12",
@@ -548,11 +548,6 @@
 			"name": "dxp-demo-sidebar-image-top"
 		},
 		{
-			"id": "f741af6d-b28b-4ae4-80b3-5af697283c2d",
-			"description": "neptunesoftware-dxp-launchpad-demo",
-			"name": "dxp-demo-tile-Image-inline-no-header"
-		},
-		{
 			"id": "f2a8183a-c2a8-444c-86cb-c47e91e8c42f",
 			"description": null,
 			"name": "dxp-demo-navbar-anlytical"
@@ -563,29 +558,9 @@
 			"name": "dxp-demo-crm-showcase"
 		},
 		{
-			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
-			"description": null,
-			"name": "dxp-demo-menu-tile-font-icon-title"
-		},
-		{
 			"id": "ddb17570-dafd-4dea-8933-d0c34f1b9e37",
 			"description": null,
 			"name": "dxp-demo-news-stories-inline-images"
-		},
-		{
-			"id": "d684e135-ddab-4e24-9570-6c8f8e5c1965",
-			"description": null,
-			"name": "dxp-demo-image-filter"
-		},
-		{
-			"id": "d2330eb0-ed27-4f56-8c1a-5e81ad727b62",
-			"description": null,
-			"name": "dxp-demo-menu-analytical-plain"
-		},
-		{
-			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
-			"description": null,
-			"name": "dxp-demo-size-skinny-tiny"
 		},
 		{
 			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
@@ -598,64 +573,9 @@
 			"name": "dxp-demo-news-fantacy-teams"
 		},
 		{
-			"id": "bd911597-4abb-49df-891c-555cb451a70a",
-			"description": null,
-			"name": "dxp-demo-tile-image-background-mask"
-		},
-		{
-			"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
-			"description": null,
-			"name": "dxp-demo-tile-image-background-brightness"
-		},
-		{
-			"id": "afaf312d-be73-4bd6-9a3b-f5b026dd4e44",
-			"description": null,
-			"name": "dxp-demo-tile-image-background"
-		},
-		{
-			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
-			"description": null,
-			"name": "dxp-demo-menu-tile-image-icon"
-		},
-		{
-			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
-			"description": null,
-			"name": "dxp-demo-size-narrow-short"
-		},
-		{
-			"id": "9de6a6a9-39a6-4b0c-9478-8c5c00668f6e",
-			"description": null,
-			"name": "dxp-demo-menu-size"
-		},
-		{
-			"id": "91264f58-cd2e-4b05-a2df-6223fdff2def",
-			"description": null,
-			"name": "dxp-demo-navbar-favorites"
-		},
-		{
-			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
-			"description": null,
-			"name": "dxp-demo-menu-tile-image"
-		},
-		{
-			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
-			"description": null,
-			"name": "dxp-demo-size-small-small"
-		},
-		{
-			"id": "6a7b6a15-d3e5-4188-8c32-57986656e48f",
-			"description": null,
-			"name": "dxp-demo-navbar-1x"
-		},
-		{
 			"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
 			"description": null,
 			"name": "dxp-demo-news-stories"
-		},
-		{
-			"id": "5e23413c-d854-4b90-b1a5-34aaa6462bc3",
-			"description": null,
-			"name": "dxp-demo-size-many"
 		},
 		{
 			"id": "5ceee3d7-d22f-470c-a440-66acd0d08449",
@@ -663,44 +583,9 @@
 			"name": "dxp-demo-space"
 		},
 		{
-			"id": "525c070f-8e6c-436b-85ac-0a1e88ce95a7",
-			"description": null,
-			"name": "dxp-demo-header-image-logo"
-		},
-		{
-			"id": "4f7d6c42-acee-40a0-94a3-0316bd88f125",
-			"description": null,
-			"name": "dxp-demo-tile-layout"
-		},
-		{
-			"id": "43d6e570-3b5b-49cd-9c6c-137a82e14117",
-			"description": null,
-			"name": "dxp-demo-tile-image-inline"
-		},
-		{
-			"id": "41b472ad-657a-4ea5-95ae-3f693f555f23",
-			"description": null,
-			"name": "dxp-demo-menu-image-filter"
-		},
-		{
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"description": null,
 			"name": "dxp-demo-header-image-storm"
-		},
-		{
-			"id": "2631a381-0cb2-4c36-9514-94bb726e4f93",
-			"description": null,
-			"name": "dxp-demo-size-few"
-		},
-		{
-			"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
-			"description": null,
-			"name": "dxp-demo-tile-title"
-		},
-		{
-			"id": "2263b67f-6365-4622-aad2-3ded99553a19",
-			"description": null,
-			"name": "dxp-demo-size-more"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
@@ -716,21 +601,6 @@
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"description": null,
 			"name": "dxp-demo-header-image-waves"
-		},
-		{
-			"id": "084633a5-96d1-4e28-bc9f-f85c15021930",
-			"description": null,
-			"name": "dxp-demo-icon-placement"
-		},
-		{
-			"id": "060018d3-7efe-4682-8ce4-30f4da0e7093",
-			"description": null,
-			"name": "dxp-demo-tile-image-top"
-		},
-		{
-			"id": "031bbf06-fe74-44f9-a89c-92caac0614a5",
-			"description": null,
-			"name": "dxp-demo-tile-buttons"
 		}
 	],
 	"tilegroup_layout": [

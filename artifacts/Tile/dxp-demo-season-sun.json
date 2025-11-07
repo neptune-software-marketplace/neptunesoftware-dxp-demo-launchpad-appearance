@@ -266,8 +266,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "25.11.06.0047",
+	"openClickTile": false,
+	"ver": "25.11.07.0118",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-sun",
 	"cardWidth": null,
@@ -284,6 +284,8 @@
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": null,
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,
@@ -293,27 +295,9 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": "T",
-	"FIORI_STYLE": "X",
+	"FIORI_STYLE": "",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
-			"ver": "24.11.15.1208"
-		},
-		{
-			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
-			"ver": "25.10.30.1059"
-		}
-	],
-	"darkTileLayouts": [
-		{
-			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
-			"ver": "24.11.15.1208"
-		},
-		{
-			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
-			"ver": "25.10.30.1059"
-		}
-	]
+	"lightTileLayouts": [],
+	"darkTileLayouts": []
 }

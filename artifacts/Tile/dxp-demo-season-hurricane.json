@@ -309,8 +309,8 @@
 	"blackoutDescription": null,
 	"helpText": null,
 	"helpEnabled": false,
-	"openClickTile": true,
-	"ver": "25.11.06.0034",
+	"openClickTile": false,
+	"ver": "25.11.07.0117",
 	"actionWebApp": "",
 	"name": "dxp-demo-season-hurricane",
 	"cardWidth": "Wider",
@@ -320,13 +320,15 @@
 	"cardImageDark": null,
 	"cardButtonIcon": null,
 	"cardButtonIconOnly": false,
-	"imagePlacement": "left bottom",
+	"imagePlacement": "center center",
 	"imageRepeat": null,
 	"imageSize": null,
 	"imagePosition": null,
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": null,
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,
@@ -347,24 +349,7 @@
 		{
 			"id": "c61c6129-0f85-4961-a7ff-040441296f1c",
 			"ver": "24.12.02.1902"
-		},
-		{
-			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
-			"ver": "25.10.30.1059"
 		}
 	],
-	"darkTileLayouts": [
-		{
-			"id": "e9ece497-9aba-48a2-a808-ad590d54b240",
-			"ver": "24.11.15.1202"
-		},
-		{
-			"id": "c61c6129-0f85-4961-a7ff-040441296f1c",
-			"ver": "24.12.02.1902"
-		},
-		{
-			"id": "3ffe028f-635f-4474-82b9-ddf39f41ac53",
-			"ver": "25.10.30.1059"
-		}
-	]
+	"darkTileLayouts": []
 }

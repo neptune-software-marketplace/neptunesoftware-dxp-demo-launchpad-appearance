@@ -260,7 +260,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.11.06.0039",
+	"ver": "25.11.07.0123",
 	"actionWebApp": "",
 	"name": "dxp-demo-news-ticker-thunder",
 	"cardWidth": null,
@@ -277,6 +277,8 @@
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": null,
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,
@@ -291,22 +293,9 @@
 	"roles": [],
 	"lightTileLayouts": [
 		{
-			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
-			"ver": "25.10.30.1054"
-		},
-		{
 			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
 			"ver": "24.11.15.1424"
 		}
 	],
-	"darkTileLayouts": [
-		{
-			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
-			"ver": "25.10.30.1054"
-		},
-		{
-			"id": "5ae58e22-d2f8-488b-b039-6bc78a8fae98",
-			"ver": "24.11.15.1424"
-		}
-	]
+	"darkTileLayouts": []
 }

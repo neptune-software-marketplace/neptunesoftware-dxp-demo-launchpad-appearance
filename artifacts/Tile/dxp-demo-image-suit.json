@@ -378,6 +378,8 @@
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": null,
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,
@@ -390,11 +392,6 @@
 	"FIORI_STYLE": null,
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "f29fd9cd-73a6-446a-bfce-3eb3182cbbda",
-			"ver": "24.11.15.1208"
-		}
-	],
+	"lightTileLayouts": [],
 	"darkTileLayouts": []
 }

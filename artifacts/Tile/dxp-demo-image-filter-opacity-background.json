@@ -277,6 +277,8 @@
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": "140px",
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,

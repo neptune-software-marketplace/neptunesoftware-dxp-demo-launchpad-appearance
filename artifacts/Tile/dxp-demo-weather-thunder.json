@@ -314,7 +314,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": "sap-icon://fas/bolt",
+	"icon": "",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -351,14 +351,14 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.11.06.0100",
+	"ver": "25.11.07.0127",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-thunder",
 	"cardWidth": "Narrow",
 	"cardHeight": "Short",
 	"cardHeightFit": false,
-	"cardImage": "/media/root/dxp-demo-appearance-icon-focus/focus-thunder-hurricanes-light.svg",
-	"cardImageDark": "/media/root/dxp-demo-appearance-icon-focus/focus-thunder-hurricanes-dark.svg",
+	"cardImage": "",
+	"cardImageDark": "",
 	"cardButtonIcon": null,
 	"cardButtonIconOnly": false,
 	"imagePlacement": null,
@@ -368,6 +368,8 @@
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": null,
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,
@@ -377,19 +379,9 @@
 	"imageDarkNone": false,
 	"noInheritTileLayout": false,
 	"imageType": null,
-	"FIORI_STYLE": "X",
+	"FIORI_STYLE": "",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "b43be1ae-9f6a-43a7-85c6-47ca43cd867e",
-			"ver": "25.10.30.1054"
-		}
-	],
-	"darkTileLayouts": [
-		{
-			"id": "68f14867-0310-4bfa-9e9e-e9b1609ef83a",
-			"ver": "25.10.30.1054"
-		}
-	]
+	"lightTileLayouts": [],
+	"darkTileLayouts": []
 }
