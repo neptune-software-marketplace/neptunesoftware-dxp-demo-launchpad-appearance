@@ -11,19 +11,13 @@
 	"ver": "25.11.07.1154",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.14.0-rc.12",
+	"oeVersion": "24.14.0-rc.14",
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
 		{
 			"id": "ff1e71e2-4069-4430-9750-741c8e515bed",
 			"application": "dxp_demo_appearance_image",
-			"title": "",
-			"description": ""
-		},
-		{
-			"id": "cc19bb66-9e2e-4880-a3ff-21722ca56139",
-			"application": "dxp_demo_space_widget",
 			"title": "",
 			"description": ""
 		},
@@ -36,12 +30,6 @@
 		{
 			"id": "8d6be92d-6068-482a-821e-d27c547bb9ae",
 			"application": "dxp_demo_appearance_footer",
-			"title": "",
-			"description": ""
-		},
-		{
-			"id": "36515d29-7b40-470d-8e7d-c7f9e8450510",
-			"application": "dxp_demo_space",
 			"title": "",
 			"description": ""
 		},
@@ -102,11 +90,6 @@
 			"id": "f1f38d9a-80ff-4f7d-98a4-1e756a215369",
 			"description": null,
 			"name": "dxp-demo-weather-thunder"
-		},
-		{
-			"id": "e02842e6-42a7-49c9-95aa-8252a9884b2c",
-			"description": null,
-			"name": "dxp-demo-space-widget"
 		},
 		{
 			"id": "c1c21d76-dbc8-499b-977f-0fa91d4e44fc",
@@ -350,11 +333,6 @@
 			"name": "dxp-demo-news-stories"
 		},
 		{
-			"id": "5ceee3d7-d22f-470c-a440-66acd0d08449",
-			"description": null,
-			"name": "dxp-demo-space"
-		},
-		{
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"description": null,
 			"name": "dxp-demo-header-image-storm"
@@ -414,16 +392,6 @@
 		}
 	],
 	"launchpad": [
-		{
-			"id": "e1b3e8ab-67bd-46c1-a010-6d5734c821ab",
-			"name": "dxp-demo-space-dark",
-			"description": null
-		},
-		{
-			"id": "8d0efe7b-d83d-49cb-b238-4ea51a2d3d53",
-			"name": "dxp-demo-space-light",
-			"description": null
-		},
 		{
 			"id": "71fa3d4e-280c-4752-9186-b18e13720e25",
 			"name": "dxp-demo-appearance",

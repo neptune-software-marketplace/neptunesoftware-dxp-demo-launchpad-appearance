@@ -15,7 +15,7 @@
 	"ver": "25.11.03.0113",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"active": true,
-	"deleted": false,
+	"deleted": true,
 	"baseModelId": null,
 	"enhancedBy": [],
 	"apps": [],
