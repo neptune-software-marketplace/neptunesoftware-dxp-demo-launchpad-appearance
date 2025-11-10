@@ -254,10 +254,9 @@
 			"<code>dxp-demo-menu-analytical</code><br>",
 			"Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 		],
-		"action": "/cockpit.html?debug=true#run-group%7B\"id\"%3A\"15365a99-a77b-418e-b744-3eb51ad48b98\"%2C\"name\"%3A\"dxp-demo-menu-analytical\"%7D"
+		"action": "/cockpit.html?debug=true#run-group&%7B%22id%22%3A%2215365a99-a77b-418e-b744-3eb51ad48b98%22%2C%22name%22%3A%22dxp-demo-menu-analytical%22%7D"
 	},
 	"navbarGroupOrder": [
-		"91264f58-cd2e-4b05-a2df-6223fdff2def",
 		"f2a8183a-c2a8-444c-86cb-c47e91e8c42f"
 	],
 	"sidebarGroupOrder": [
@@ -282,7 +281,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.03.11.1129",
+	"ver": "25.11.10.2321",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
