@@ -398,5 +398,6 @@
 			"ver": "24.11.15.1208"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [],
+	"i18n": []
 }

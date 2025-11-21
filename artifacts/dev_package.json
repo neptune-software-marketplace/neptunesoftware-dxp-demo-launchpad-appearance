@@ -8,7 +8,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad-appearance",
 	"description": "Neptune Software DXP Demo Launchpad Appearance",
-	"ver": "25.11.10.2305",
+	"ver": "25.11.21.0212",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": "24.14.0-rc.14",
@@ -56,23 +56,23 @@
 	"theme_generator": [
 		{
 			"id": "9978c3ba-7b39-4390-bbbc-766f6be02cee",
-			"name": "dxp-demo-kraken-light",
-			"description": null
+			"name": "dxp_demo_kraken_light",
+			"description": "DXP Demo Kraken Light"
 		},
 		{
 			"id": "92112784-104f-4751-8d24-8a75b69cf35a",
-			"name": "dxp-demo-kraken-dark",
-			"description": null
+			"name": "dxp_demo_kraken_dark",
+			"description": "DXP Demo Kraken Dark"
 		},
 		{
 			"id": "55e20b0f-7995-4f60-9b5e-3bcfb1dda1c2",
-			"name": "dxp-demo-hurricanes-dark",
-			"description": null
+			"name": "dxp_demo_hurricanes_dark",
+			"description": "DXP Demo Hurricanes Dark"
 		},
 		{
 			"id": "29ac2947-86ef-42b8-80d0-fca8bfb72f0b",
-			"name": "dxp-demo-hurricanes-light",
-			"description": null
+			"name": "dxp_demo_hurricanes_light",
+			"description": "DXP Demo Hurricanes Light"
 		}
 	],
 	"pdf": [],
@@ -400,16 +400,6 @@
 	],
 	"launchpad_layout": [
 		{
-			"id": "b517214f-0da8-4dd6-9155-f75f5978fd16",
-			"NAME": "dxp-demo-space-dark",
-			"DESCR": null
-		},
-		{
-			"id": "aba240b1-4d57-4d15-ad72-8e2567939707",
-			"NAME": "dxp-demo-space-light",
-			"DESCR": null
-		},
-		{
 			"id": "6b3256f9-0ed7-4c45-aa34-32f31d0fe844",
 			"NAME": "dxp-demo-kraken-light",
 			"DESCR": null
@@ -468,5 +458,6 @@
 	"ai_prompt": [],
 	"ai_tool": [],
 	"ai_guardrail": [],
-	"path_rewrite": []
+	"path_rewrite": [],
+	"vault": []
 }

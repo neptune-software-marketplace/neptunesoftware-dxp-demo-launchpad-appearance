@@ -351,5 +351,6 @@
 			"ver": "24.12.02.1902"
 		}
 	],
-	"darkTileLayouts": []
+	"darkTileLayouts": [],
+	"i18n": []
 }

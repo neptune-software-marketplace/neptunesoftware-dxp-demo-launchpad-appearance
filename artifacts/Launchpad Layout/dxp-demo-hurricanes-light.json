@@ -4,7 +4,7 @@
 	"createdBy": "morten@neptune-software.com",
 	"NAME": "dxp-demo-hurricanes-light",
 	"DESCR": null,
-	"ver": "25.10.29.1749",
+	"ver": "25.11.21.0210",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
 		":root {\r",

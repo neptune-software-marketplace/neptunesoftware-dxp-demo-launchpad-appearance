@@ -4,7 +4,7 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "25.11.07.0112",
+	"ver": "25.11.21.0209",
 	"CUSTOM_CSS": [
 		"==OBJECT STRING==",
 		":root {\r",

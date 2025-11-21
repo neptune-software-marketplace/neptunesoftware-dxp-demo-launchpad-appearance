@@ -662,7 +662,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.06.0102",
+	"ver": "25.11.21.0210",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -700,5 +700,6 @@
 			"ver": "25.11.10.2321"
 		}
 	],
-	"roles": []
+	"roles": [],
+	"i18n": []
 }
