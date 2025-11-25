@@ -51,7 +51,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.11.25.0918",
+	"ver": "25.11.25.1322",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -176,7 +176,7 @@
 			"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
 			"name": "neptuneDXPDemo",
 			"application": null,
-			"ver": "25.11.25.1031"
+			"ver": "25.11.25.1322"
 		}
 	]
 }

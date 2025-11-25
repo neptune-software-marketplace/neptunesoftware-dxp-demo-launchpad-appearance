@@ -4,18 +4,971 @@
 	"createdBy": "morten@neptune-software.com",
 	"attributes": [
 		{
-			"name": "tilegroup",
+			"name": "launchpad",
 			"EN": {},
 			"type": "XTXT",
-			"id": "5a58a69d-774f-4441-a402-a783c8e6582b"
+			"id": "e1d38fc1-1389-4916-e197-61965e0b8642",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "launchpad",
+			"parentId": "e1d38fc1-1389-4916-e197-61965e0b8642",
+			"name": "launchpad.changeAppearance",
+			"text": "Change Appearance",
+			"EN": {
+				"text": "Change Appearance"
+			},
+			"type": "XTXT",
+			"id": "fc5e213c-a88c-4d23-d6b1-d7928e6f1dcf",
+			"AF": {
+				"text": "Verander Voorkoms"
+			},
+			"AR": {
+				"text": "تغيير المظهر"
+			},
+			"BG": {
+				"text": "Промяна на външния вид"
+			},
+			"ZH": {
+				"text": "改变外观"
+			},
+			"ZF": {
+				"text": "改變外觀"
+			},
+			"HR": {
+				"text": "Promjena izgleda"
+			},
+			"CS": {
+				"text": "Změnit vzhled"
+			},
+			"DA": {
+				"text": "Skift udseende"
+			},
+			"NL": {
+				"text": "Uiterlijk wijzigen"
+			},
+			"ET": {
+				"text": "Välimuse muutmine"
+			},
+			"FI": {
+				"text": "Muuta ulkonäköä"
+			},
+			"FR": {
+				"text": "Changer d'apparence"
+			},
+			"DE": {
+				"text": "Aussehen ändern"
+			},
+			"EL": {
+				"text": "Αλλαγή εμφάνισης"
+			},
+			"HE": {
+				"text": "שינוי מראה"
+			},
+			"HU": {
+				"text": "Megjelenés megváltoztatása"
+			},
+			"IS": {
+				"text": "Breyta útliti"
+			},
+			"ID": {
+				"text": "Ubah Penampilan"
+			},
+			"IT": {
+				"text": "Cambia aspetto"
+			},
+			"JA": {
+				"text": "外観の変更"
+			},
+			"KK": {
+				"text": "Сыртқы түрін өзгерту"
+			},
+			"KO": {
+				"text": "모양 변경"
+			},
+			"LV": {
+				"text": "Mainīt izskatu"
+			},
+			"LT": {
+				"text": "Keisti išvaizdą"
+			},
+			"MK": {
+				"text": "Промени го изгледот"
+			},
+			"MS": {
+				"text": "Tukar Penampilan"
+			},
+			"NO": {
+				"text": "Endre utseende"
+			},
+			"NN": {
+				"text": "Endre utseende"
+			},
+			"PL": {
+				"text": "Zmień wygląd"
+			},
+			"PT": {
+				"text": "Alterar aparência"
+			},
+			"RO": {
+				"text": "Schimbați aspectul"
+			},
+			"RU": {
+				"text": "Изменить внешний вид"
+			},
+			"SE": {
+				"text": "Rievdat čalmmiid"
+			},
+			"SR": {
+				"text": "Промена изгледа"
+			},
+			"SH": {
+				"text": "Промена изгледа"
+			},
+			"SK": {
+				"text": "Zmeniť vzhľad"
+			},
+			"SL": {
+				"text": "Spremeni videz"
+			},
+			"ES": {
+				"text": "Cambiar apariencia"
+			},
+			"SV": {
+				"text": "Ändra utseende"
+			},
+			"TH": {
+				"text": "เปลี่ยนรูปลักษณ์"
+			},
+			"TR": {
+				"text": "Görünümü Değiştir"
+			},
+			"UK": {
+				"text": "Змінити зовнішній вигляд"
+			},
+			"VI": {
+				"text": "Thay đổi diện mạo"
+			}
+		},
+		{
+			"parent": "launchpad",
+			"parentId": "e1d38fc1-1389-4916-e197-61965e0b8642",
+			"name": "launchpad.disableHelp",
+			"text": "Disable Help",
+			"EN": {
+				"text": "Disable Help"
+			},
+			"type": "XTXT",
+			"id": "58e54734-648d-4413-989f-dfcee96842be",
+			"AF": {
+				"text": "Deaktiveer Hulp"
+			},
+			"AR": {
+				"text": "تعطيل المساعدة"
+			},
+			"BG": {
+				"text": "Деактивиране на помощта"
+			},
+			"ZH": {
+				"text": "禁用帮助"
+			},
+			"ZF": {
+				"text": "禁用幫助"
+			},
+			"HR": {
+				"text": "Onemogući pomoć"
+			},
+			"CS": {
+				"text": "Zakázat nápovědu"
+			},
+			"DA": {
+				"text": "Deaktiver Hjælp"
+			},
+			"NL": {
+				"text": "Help uitschakelen"
+			},
+			"ET": {
+				"text": "Keela abi"
+			},
+			"FI": {
+				"text": "Poista ohje käytöstä"
+			},
+			"FR": {
+				"text": "Désactiver l'aide"
+			},
+			"DE": {
+				"text": "Hilfe deaktivieren"
+			},
+			"EL": {
+				"text": "Απενεργοποίηση βοήθειας"
+			},
+			"HE": {
+				"text": "השבת עזרה"
+			},
+			"HU": {
+				"text": "Súgó letiltása"
+			},
+			"IS": {
+				"text": "Slökkva á hjálp"
+			},
+			"ID": {
+				"text": "Nonaktifkan Bantuan"
+			},
+			"IT": {
+				"text": "Disabilita la Guida"
+			},
+			"JA": {
+				"text": "ヘルプを無効にする"
+			},
+			"KK": {
+				"text": "Анықтаманы өшіру"
+			},
+			"KO": {
+				"text": "도움말 비활성화"
+			},
+			"LV": {
+				"text": "Atspējot palīdzību"
+			},
+			"LT": {
+				"text": "Išjungti pagalbą"
+			},
+			"MK": {
+				"text": "Оневозможи помош"
+			},
+			"MS": {
+				"text": "Lumpuhkan Bantuan"
+			},
+			"NO": {
+				"text": "Deaktiver hjelp"
+			},
+			"NN": {
+				"text": "Deaktiver hjelp"
+			},
+			"PL": {
+				"text": "Wyłącz pomoc"
+			},
+			"PT": {
+				"text": "Desativar ajuda"
+			},
+			"RO": {
+				"text": "Dezactivați Ajutorul"
+			},
+			"RU": {
+				"text": "Отключить справку"
+			},
+			"SE": {
+				"text": "Deaktivere veahki"
+			},
+			"SR": {
+				"text": "Онемогући помоћ"
+			},
+			"SH": {
+				"text": "Онемогући помоћ"
+			},
+			"SK": {
+				"text": "Zakázať pomoc"
+			},
+			"SL": {
+				"text": "Onemogoči pomoč"
+			},
+			"ES": {
+				"text": "Desactivar ayuda"
+			},
+			"SV": {
+				"text": "Inaktivera hjälp"
+			},
+			"TH": {
+				"text": "ปิดใช้งานความช่วยเหลือ"
+			},
+			"TR": {
+				"text": "Yardımı Devre Dışı Bırak"
+			},
+			"UK": {
+				"text": "Вимкнути довідку"
+			},
+			"VI": {
+				"text": "Tắt Trợ giúp"
+			}
+		},
+		{
+			"parent": "launchpad",
+			"parentId": "e1d38fc1-1389-4916-e197-61965e0b8642",
+			"name": "launchpad.enableHelp",
+			"text": "Enable Help",
+			"EN": {
+				"text": "Enable Help"
+			},
+			"type": "XTXT",
+			"id": "877dc8d4-2da0-4775-f50e-32d4d0192c2c",
+			"AF": {
+				"text": "Aktiveer Hulp"
+			},
+			"AR": {
+				"text": "تمكين المساعدة"
+			},
+			"BG": {
+				"text": "Активиране на помощ"
+			},
+			"ZH": {
+				"text": "启用帮助"
+			},
+			"ZF": {
+				"text": "啟用幫助"
+			},
+			"HR": {
+				"text": "Omogući pomoć"
+			},
+			"CS": {
+				"text": "Povolit nápovědu"
+			},
+			"DA": {
+				"text": "Aktivér hjælp"
+			},
+			"NL": {
+				"text": "Help inschakelen"
+			},
+			"ET": {
+				"text": "Abi lubamine"
+			},
+			"FI": {
+				"text": "Ota käyttöön ohje"
+			},
+			"FR": {
+				"text": "Activer l'aide"
+			},
+			"DE": {
+				"text": "Hilfe aktivieren"
+			},
+			"EL": {
+				"text": "Ενεργοποίηση βοήθειας"
+			},
+			"HE": {
+				"text": "הפעל עזרה"
+			},
+			"HU": {
+				"text": "Súgó engedélyezése"
+			},
+			"IS": {
+				"text": "Virkja hjálp"
+			},
+			"ID": {
+				"text": "Aktifkan Bantuan"
+			},
+			"IT": {
+				"text": "Abilita la Guida"
+			},
+			"JA": {
+				"text": "ヘルプを有効にする"
+			},
+			"KK": {
+				"text": "Анықтаманы қосыңыз"
+			},
+			"KO": {
+				"text": "도움말 활성화"
+			},
+			"LV": {
+				"text": "Iespējot palīdzību"
+			},
+			"LT": {
+				"text": "Įjungti pagalbą"
+			},
+			"MK": {
+				"text": "Овозможи помош"
+			},
+			"MS": {
+				"text": "Dayakan Bantuan"
+			},
+			"NO": {
+				"text": "Aktiver hjelp"
+			},
+			"NN": {
+				"text": "Aktiver hjelp"
+			},
+			"PL": {
+				"text": "Włącz pomoc"
+			},
+			"PT": {
+				"text": "Ativar Ajuda"
+			},
+			"RO": {
+				"text": "Activează Ajutorul"
+			},
+			"RU": {
+				"text": "Включить помощь"
+			},
+			"SE": {
+				"text": "Aktivere veahki"
+			},
+			"SR": {
+				"text": "Омогући помоћ"
+			},
+			"SH": {
+				"text": "Омогући помоћ"
+			},
+			"SK": {
+				"text": "Povoliť pomoc"
+			},
+			"SL": {
+				"text": "Omogoči pomoč"
+			},
+			"ES": {
+				"text": "Habilitar ayuda"
+			},
+			"SV": {
+				"text": "Aktivera hjälp"
+			},
+			"TH": {
+				"text": "เปิดใช้งานความช่วยเหลือ"
+			},
+			"TR": {
+				"text": "Yardımı Etkinleştir"
+			},
+			"UK": {
+				"text": "Увімкнути довідку"
+			},
+			"VI": {
+				"text": "Bật Trợ giúp"
+			}
+		},
+		{
+			"parent": "launchpad",
+			"parentId": "e1d38fc1-1389-4916-e197-61965e0b8642",
+			"name": "launchpad.help",
+			"text": "Help",
+			"EN": {
+				"text": "Help"
+			},
+			"type": "XTXT",
+			"id": "029c6369-30a9-4108-e3db-3a7af4489b6c",
+			"AF": {
+				"text": "Hulp"
+			},
+			"AR": {
+				"text": "يساعد"
+			},
+			"BG": {
+				"text": "Помощ"
+			},
+			"ZH": {
+				"text": "帮助"
+			},
+			"ZF": {
+				"text": "幫助"
+			},
+			"HR": {
+				"text": "Pomoć"
+			},
+			"CS": {
+				"text": "Pomoc"
+			},
+			"DA": {
+				"text": "Hjælp"
+			},
+			"NL": {
+				"text": "Hulp"
+			},
+			"ET": {
+				"text": "Abi"
+			},
+			"FI": {
+				"text": "Auttaa"
+			},
+			"FR": {
+				"text": "Aide"
+			},
+			"DE": {
+				"text": "Helfen"
+			},
+			"EL": {
+				"text": "Βοήθεια"
+			},
+			"HE": {
+				"text": "עֶזרָה"
+			},
+			"HU": {
+				"text": "Segítség"
+			},
+			"IS": {
+				"text": "Hjálp"
+			},
+			"ID": {
+				"text": "Membantu"
+			},
+			"IT": {
+				"text": "Aiuto"
+			},
+			"JA": {
+				"text": "ヘルプ"
+			},
+			"KK": {
+				"text": "Көмек"
+			},
+			"KO": {
+				"text": "돕다"
+			},
+			"LV": {
+				"text": "Palīdzība"
+			},
+			"LT": {
+				"text": "Pagalba"
+			},
+			"MK": {
+				"text": "Помош"
+			},
+			"MS": {
+				"text": "Tolong"
+			},
+			"NO": {
+				"text": "Hjelp"
+			},
+			"NN": {
+				"text": "Hjelp"
+			},
+			"PL": {
+				"text": "Pomoc"
+			},
+			"PT": {
+				"text": "Ajuda"
+			},
+			"RO": {
+				"text": "Ajutor"
+			},
+			"RU": {
+				"text": "Помощь"
+			},
+			"SE": {
+				"text": "Veahkehit"
+			},
+			"SR": {
+				"text": "Помоћ"
+			},
+			"SH": {
+				"text": "Помоћ"
+			},
+			"SK": {
+				"text": "Pomocník"
+			},
+			"SL": {
+				"text": "Pomoč"
+			},
+			"ES": {
+				"text": "Ayuda"
+			},
+			"SV": {
+				"text": "Hjälp"
+			},
+			"TH": {
+				"text": "ช่วย"
+			},
+			"TR": {
+				"text": "Yardım"
+			},
+			"UK": {
+				"text": "Допомога"
+			},
+			"VI": {
+				"text": "Giúp đỡ"
+			}
+		},
+		{
+			"name": "tilegroup",
+			"EN": {},
+			"type": "NOTR",
+			"id": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup",
 			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
 			"name": "tilegroup.crmShowcase",
 			"EN": {},
-			"type": "XTXT",
-			"id": "202627f4-4a7e-4eeb-f128-55991d9f1b12"
+			"type": "NOTR",
+			"id": "202627f4-4a7e-4eeb-f128-55991d9f1b12",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.crmShowcase",
@@ -26,15 +979,273 @@
 				"text": "CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
 			},
 			"type": "XTXT",
-			"id": "a29e3edb-000b-457d-cc91-213862e51ec5"
+			"id": "a29e3edb-000b-457d-cc91-213862e51ec5",
+			"AF": {
+				"text": "CRM Showcase-afdeling teëlgroep. 4 teëls wat lewendige teëlinhoud in die teëlinhoudarea vertoon. Die teëlinhoud word met die Adaptive Designer geskep."
+			},
+			"AR": {
+				"text": "مجموعة مربعات قسم عرض CRM. أربعة مربعات تعرض محتوى المربعات مباشرةً في منطقة المحتوى. يتم إنشاء محتوى المربعات باستخدام المصمم التكيفي."
+			},
+			"BG": {
+				"text": "Група плочки на секцията CRM Showcase. 4 плочки, които показват съдържание на плочки в областта със съдържание на плочки. Съдържанието на плочките е създадено с Adaptive Designer."
+			},
+			"ZH": {
+				"text": "CRM 展示区磁贴组。包含 4 个磁贴，用于在磁贴内容区域中显示动态磁贴内容。磁贴内容使用自适应设计器创建。"
+			},
+			"ZF": {
+				"text": "CRM 展示區磁貼群組。包含 4 個磁貼，用於在磁貼內容區域中顯示動態磁貼內容。磁貼內容使用自適應設計器創建。"
+			},
+			"HR": {
+				"text": "Grupa pločica odjeljka CRM Showcase. 4 pločice koje prikazuju sadržaj pločica uživo u području sadržaja pločica. Sadržaj pločica stvara se pomoću Adaptivnog dizajnera."
+			},
+			"CS": {
+				"text": "Skupina dlaždic sekce CRM Showcase. 4 dlaždice, které zobrazují obsah živých dlaždic v oblasti obsahu dlaždic. Obsah dlaždic je vytvořen pomocí Adaptivního návrháře."
+			},
+			"DA": {
+				"text": "CRM Showcase-sektionens feltgruppe. 4 felter, der viser live feltindhold i feltindholdsområdet. Feltindholdet er oprettet med Adaptive Designer."
+			},
+			"NL": {
+				"text": "Tegelgroep in de CRM Showcase-sectie. 4 tegels die live tegelinhoud weergeven in het tegelinhoudsgebied. De tegelinhoud wordt gemaakt met de Adaptive Designer."
+			},
+			"ET": {
+				"text": "CRM-i esitlusjaotise paanirühm. 4 paani, mis kuvavad paani sisu alas reaalajas paani sisu. Paani sisu luuakse adaptiivse kujundajaga."
+			},
+			"FI": {
+				"text": "CRM Showcase -osion laattaryhmä. 4 laattaa, jotka näyttävät reaaliaikaisen laattasisällön laattasisältöalueella. Laattasisältö luodaan Adaptiivisella suunnittelutyökalulla."
+			},
+			"FR": {
+				"text": "Groupe de vignettes de la section Présentation CRM. Quatre vignettes affichent du contenu dynamique dans la zone de contenu. Ce contenu est créé avec Adaptive Designer."
+			},
+			"DE": {
+				"text": "CRM-Showcase-Bereich, Kachelgruppe. 4 Kacheln, die Live-Kachelinhalte im Kachelinhaltsbereich anzeigen. Die Kachelinhalte wurden mit dem Adaptive Designer erstellt."
+			},
+			"EL": {
+				"text": "Ομάδα πλακιδίων ενότητας CRM Showcase. 4 πλακίδια που εμφανίζουν ζωντανό περιεχόμενο πλακιδίων στην περιοχή περιεχομένου πλακιδίων. Το περιεχόμενο πλακιδίων δημιουργείται με το Adaptive Designer."
+			},
+			"HE": {
+				"text": "קבוצת אריחים של מדור CRM Showcase. 4 אריחים המציגים תוכן אריחים חי באזור תוכן האריחים. תוכן האריחים נוצר באמצעות Adaptive Designer."
+			},
+			"HU": {
+				"text": "CRM bemutató szakasz csempecsoport. 4 csempe, amelyek élő csempetartalmat jelenítenek meg a csempetartalom területen. A csempetartalom az Adaptív Tervezővel jön létre."
+			},
+			"IS": {
+				"text": "Flísahópur fyrir CRM Showcase-hluta. 4 flísar sem sýna lifandi flísarefni í flísarefnissvæðinu. Flísarefnið er búið til með Adaptive Designer."
+			},
+			"ID": {
+				"text": "Grup ubin bagian CRM Showcase. 4 ubin yang menampilkan konten ubin langsung di area konten ubin. Konten ubin dibuat dengan Adaptive Designer."
+			},
+			"IT": {
+				"text": "Gruppo di riquadri della sezione CRM Showcase. 4 riquadri che visualizzano contenuti live nell'area dei contenuti dei riquadri. Il contenuto dei riquadri è creato con Adaptive Designer."
+			},
+			"JA": {
+				"text": "CRMショーケースセクションのタイルグループ。タイルコンテンツ領域にライブタイルコンテンツを表示する4つのタイル。タイルコンテンツはAdaptive Designerで作成されます。"
+			},
+			"KK": {
+				"text": "CRM Showcase бөлімінің мозаика тобы. Тақта мазмұны аймағындағы тірі мозаика мазмұнын көрсететін 4 тақта. Мозаика мазмұны Adaptive Designer көмегімен жасалады"
+			},
+			"KO": {
+				"text": "CRM 쇼케이스 섹션 타일 그룹. 타일 콘텐츠 영역에 라이브 타일 콘텐츠를 표시하는 4개의 타일. 타일 콘텐츠는 Adaptive Designer를 사용하여 생성됩니다."
+			},
+			"LV": {
+				"text": "CRM Showcase sadaļas mozaīkas grupa. 4 mozaīkas, kas mozaīkas satura apgabalā parāda tiešraides mozaīkas saturu. Mozaīkas saturs tiek izveidots, izmantojot adaptīvo noformētāju."
+			},
+			"LT": {
+				"text": "CRM demonstracijos sekcijos plytelių grupė. 4 plytelės, kuriose plytelių turinio srityje rodomas tiesioginis plytelių turinys. Plytelių turinys sukuriamas naudojant adaptyvųjį dizaino įrankį."
+			},
+			"MK": {
+				"text": "Група плочки од делот CRM Showcase. 4 плочки што прикажуваат содржина на плочки во живо во областа за содржина на плочки. Содржината на плочките е креирана со Адаптивниот дизајнер."
+			},
+			"MS": {
+				"text": "Kumpulan jubin bahagian Showcase CRM. 4 jubin yang memaparkan kandungan jubin langsung dalam kawasan kandungan jubin. Kandungan jubin dicipta dengan Pereka Adaptif"
+			},
+			"NO": {
+				"text": "CRM Showcase-seksjonsflisgruppe. 4 fliser som viser live flisinnhold i flisinnholdsområdet. Flisinnholdet er opprettet med Adaptive Designer."
+			},
+			"NN": {
+				"text": "CRM Showcase-seksjonsflisgruppe. 4 fliser som viser live flisinnhold i flisinnholdsområdet. Flisinnholdet er opprettet med Adaptive Designer."
+			},
+			"PL": {
+				"text": "Grupa kafelków sekcji CRM Showcase. 4 kafelki wyświetlające dynamiczną zawartość kafelków w obszarze zawartości kafelków. Zawartość kafelków jest tworzona za pomocą Adaptive Designer."
+			},
+			"PT": {
+				"text": "Grupo de blocos da seção CRM Showcase. Quatro blocos exibem conteúdo dinâmico na área de conteúdo. O conteúdo dos blocos é criado com o Designer Adaptativo."
+			},
+			"RO": {
+				"text": "Grup de dale din secțiunea CRM Showcase. 4 dale care afișează conținut live al dalelor în zona de conținut al dalelor. Conținutul dalelor este creat cu Adaptive Designer."
+			},
+			"RU": {
+				"text": "Группа плиток раздела «Витрина CRM». 4 плитки, отображающие динамический контент плиток в области их содержимого. Контент плиток создан с помощью адаптивного конструктора."
+			},
+			"SE": {
+				"text": "CRM čájáhus oasi távvala joavku. 4 távvala mat čájehit ealli távvala sisdoalu távvala sisdoalu guovllus. Tile sisdoallu lea ráhkaduvvon Adaptive Designer bokte"
+			},
+			"SR": {
+				"text": "Група плочица одељка CRM Showcase. 4 плочице које приказују садржај плочица уживо у области садржаја плочица. Садржај плочица је креиран помоћу Adaptive Designer-а."
+			},
+			"SH": {
+				"text": "Група плочица одељка CRM Showcase. 4 плочице које приказују садржај плочица уживо у области садржаја плочица. Садржај плочица је креиран помоћу Adaptive Designer-а."
+			},
+			"SK": {
+				"text": "Skupina dlaždíc sekcie CRM Showcase. 4 dlaždice, ktoré zobrazujú obsah dynamických dlaždíc v oblasti obsahu dlaždíc. Obsah dlaždíc sa vytvára pomocou Adaptívneho návrhára."
+			},
+			"SL": {
+				"text": "Skupina ploščic razdelka CRM Showcase. 4 ploščice, ki prikazujejo vsebino ploščic v živo v območju vsebine ploščic. Vsebina ploščic je ustvarjena s prilagodljivim oblikovalnikom."
+			},
+			"ES": {
+				"text": "Grupo de mosaicos de la sección Presentación de CRM. Cuatro mosaicos que muestran contenido dinámico en el área de contenido. El contenido se crea con Adaptive Designer."
+			},
+			"SV": {
+				"text": "CRM Showcase-sektionens kakelgrupp. 4 kakel som visar live-kakelinnehåll i kakelinnehållsområdet. Kakelinnehållet skapas med Adaptive Designer."
+			},
+			"TH": {
+				"text": "กลุ่มไทล์ส่วน CRM Showcase ประกอบด้วยไทล์ 4 ไทล์ที่แสดงเนื้อหาไทล์แบบเรียลไทม์ในพื้นที่เนื้อหาไทล์ เนื้อหาไทล์ถูกสร้างขึ้นด้วย Adaptive Designer"
+			},
+			"TR": {
+				"text": "CRM Vitrin bölümü kutucuk grubu. Kutucuk içerik alanında canlı kutucuk içeriğini görüntüleyen 4 kutucuk. Kutucuk içeriği, Adaptive Designer ile oluşturulur."
+			},
+			"UK": {
+				"text": "Група плиток розділу CRM Showcase. 4 плитки, що відображають вміст живих плиток в області вмісту плиток. Вміст плиток створюється за допомогою Adaptive Designer."
+			},
+			"VI": {
+				"text": "Nhóm ô phần CRM Showcase. 4 ô hiển thị nội dung ô trực tiếp trong vùng nội dung ô. Nội dung ô được tạo bằng Adaptive Designer."
+			}
 		},
 		{
 			"parent": "tilegroup",
 			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
 			"name": "tilegroup.headerImageHurricanesGrid",
 			"EN": {},
-			"type": "XTXT",
-			"id": "afc9ec78-ea15-4828-9113-5824a8a6e21e"
+			"type": "NOTR",
+			"id": "afc9ec78-ea15-4828-9113-5824a8a6e21e",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.headerImageHurricanesGrid",
@@ -45,7 +1256,136 @@
 				"text": "Left to right header image mask applied"
 			},
 			"type": "XTXT",
-			"id": "3c07ae11-b618-4cee-b7b8-362174ff1a29"
+			"id": "3c07ae11-b618-4cee-b7b8-362174ff1a29",
+			"AF": {
+				"text": "Links na regs kopbeeldmasker toegepas"
+			},
+			"AR": {
+				"text": "تم تطبيق قناع صورة الرأس من اليسار إلى اليمين"
+			},
+			"BG": {
+				"text": "Приложена е маска на изображението на заглавката отляво надясно"
+			},
+			"ZH": {
+				"text": "从左到右应用标题图像掩码"
+			},
+			"ZF": {
+				"text": "從左到右應用標題圖像掩碼"
+			},
+			"HR": {
+				"text": "Primijenjena je maska slike zaglavlja slijeva nadesno"
+			},
+			"CS": {
+				"text": "Použita maska obrázku záhlaví zleva doprava"
+			},
+			"DA": {
+				"text": "Fra venstre mod højre anvendt header-billedmaske"
+			},
+			"NL": {
+				"text": "Van links naar rechts header-afbeeldingsmasker toegepast"
+			},
+			"ET": {
+				"text": "Vasakult paremale päisepildi mask rakendatud"
+			},
+			"FI": {
+				"text": "Vasemmalta oikealle -yläotsikkokuvan maski lisätty"
+			},
+			"FR": {
+				"text": "Masque d'image d'en-tête appliqué de gauche à droite"
+			},
+			"DE": {
+				"text": "Von links nach rechts angewendete Headerbildmaske"
+			},
+			"EL": {
+				"text": "Εφαρμόστηκε μάσκα εικόνας κεφαλίδας από αριστερά προς τα δεξιά"
+			},
+			"HE": {
+				"text": "מסיכת תמונת כותרת משמאל לימין הוחלה"
+			},
+			"HU": {
+				"text": "Balról jobbra haladó fejlécképmaszk alkalmazva"
+			},
+			"IS": {
+				"text": "Myndgríma fyrir haus frá vinstri til hægri notuð"
+			},
+			"ID": {
+				"text": "Masker gambar header kiri ke kanan diterapkan"
+			},
+			"IT": {
+				"text": "Maschera applicata all'immagine dell'intestazione da sinistra a destra"
+			},
+			"JA": {
+				"text": "左から右へのヘッダー画像マスクを適用"
+			},
+			"KK": {
+				"text": "Солдан оңға қарай тақырып кескінінің маскасы қолданылды"
+			},
+			"KO": {
+				"text": "왼쪽에서 오른쪽으로 헤더 이미지 마스크 적용"
+			},
+			"LV": {
+				"text": "Pielietota galvenes attēla maska no kreisās puses uz labo pusi"
+			},
+			"LT": {
+				"text": "Pritaikyta antraštės vaizdo kaukė iš kairės į dešinę"
+			},
+			"MK": {
+				"text": "Применета е маска за слика од заглавие од лево кон десно"
+			},
+			"MS": {
+				"text": "Topeng imej pengepala kiri ke kanan digunakan"
+			},
+			"NO": {
+				"text": "Fra venstre til høyre brukes topptekstmaske for bilde"
+			},
+			"NN": {
+				"text": "Fra venstre til høyre brukes topptekstmaske for bilde"
+			},
+			"PL": {
+				"text": "Zastosowano maskę obrazu nagłówka od lewej do prawej"
+			},
+			"PT": {
+				"text": "Máscara de imagem de cabeçalho da esquerda para a direita aplicada"
+			},
+			"RO": {
+				"text": "Mască de imagine antet de la stânga la dreapta aplicată"
+			},
+			"RU": {
+				"text": "Применена маска изображения заголовка слева направо"
+			},
+			"SE": {
+				"text": "Olgešbealde gurutbeale govvamáskka lea biddjon"
+			},
+			"SR": {
+				"text": "Примењена је маска слике заглавља слева надесно"
+			},
+			"SH": {
+				"text": "Примењена је маска слике заглавља слева надесно"
+			},
+			"SK": {
+				"text": "Použitá maska obrázka hlavičky zľava doprava"
+			},
+			"SL": {
+				"text": "Uporabljena je maska slike glave od leve proti desni"
+			},
+			"ES": {
+				"text": "Máscara de imagen de encabezado de izquierda a derecha aplicada"
+			},
+			"SV": {
+				"text": "Bildmask för sidhuvud från vänster till höger tillämpad"
+			},
+			"TH": {
+				"text": "ใช้หน้ากากภาพส่วนหัวจากซ้ายไปขวาแล้ว"
+			},
+			"TR": {
+				"text": "Soldan sağa üstbilgi görüntü maskesi uygulandı"
+			},
+			"UK": {
+				"text": "Застосовано маску зображення заголовка зліва направо"
+			},
+			"VI": {
+				"text": "Đã áp dụng mặt nạ hình ảnh tiêu đề từ trái sang phải"
+			}
 		},
 		{
 			"parent": "tilegroup.headerImageHurricanesGrid",
@@ -56,7 +1396,136 @@
 				"text": "Different Images for Light & Dark Mode"
 			},
 			"type": "XTXT",
-			"id": "8cf7e2a5-5985-4031-831f-7d5bc6cb821d"
+			"id": "8cf7e2a5-5985-4031-831f-7d5bc6cb821d",
+			"AF": {
+				"text": "Verskillende beelde vir lig- en donkermodus"
+			},
+			"AR": {
+				"text": "صور مختلفة للوضع الفاتح والداكن"
+			},
+			"BG": {
+				"text": "Различни изображения за светъл и тъмен режим"
+			},
+			"ZH": {
+				"text": "浅色和深色模式的不同图像"
+			},
+			"ZF": {
+				"text": "淺色和深色模式的不同影像"
+			},
+			"HR": {
+				"text": "Različite slike za svijetli i tamni način rada"
+			},
+			"CS": {
+				"text": "Různé obrázky pro světlý a tmavý režim"
+			},
+			"DA": {
+				"text": "Forskellige billeder til lys og mørk tilstand"
+			},
+			"NL": {
+				"text": "Verschillende afbeeldingen voor de lichte en donkere modus"
+			},
+			"ET": {
+				"text": "Erinevad pildid heleda ja tumeda režiimi jaoks"
+			},
+			"FI": {
+				"text": "Eri kuvat vaalealle ja tummalle tilalle"
+			},
+			"FR": {
+				"text": "Images différentes pour le mode clair et le mode sombre"
+			},
+			"DE": {
+				"text": "Unterschiedliche Bilder für den Hell- und Dunkelmodus"
+			},
+			"EL": {
+				"text": "Διαφορετικές εικόνες για λειτουργία φωτός και σκότους"
+			},
+			"HE": {
+				"text": "תמונות שונות למצב בהיר וכהה"
+			},
+			"HU": {
+				"text": "Különböző képek világos és sötét módhoz"
+			},
+			"IS": {
+				"text": "Mismunandi myndir fyrir ljósa og dökka stillingu"
+			},
+			"ID": {
+				"text": "Gambar Berbeda untuk Mode Terang & Gelap"
+			},
+			"IT": {
+				"text": "Immagini diverse per la modalità chiara e scura"
+			},
+			"JA": {
+				"text": "ライトモードとダークモードで異なる画像"
+			},
+			"KK": {
+				"text": "Ашық және қараңғы режимге арналған әртүрлі кескіндер"
+			},
+			"KO": {
+				"text": "밝은 모드와 어두운 모드에 대한 다른 이미지"
+			},
+			"LV": {
+				"text": "Dažādi attēli gaišajam un tumšajam režīmam"
+			},
+			"LT": {
+				"text": "Skirtingi vaizdai šviesiam ir tamsiam režimui"
+			},
+			"MK": {
+				"text": "Различни слики за светлосен и темен режим"
+			},
+			"MS": {
+				"text": "Imej Berbeza untuk Mod Cerah & Gelap"
+			},
+			"NO": {
+				"text": "Ulike bilder for lys og mørk modus"
+			},
+			"NN": {
+				"text": "Ulike bilder for lys og mørk modus"
+			},
+			"PL": {
+				"text": "Różne obrazy dla trybu jasnego i ciemnego"
+			},
+			"PT": {
+				"text": "Imagens diferentes para os modos claro e escuro"
+			},
+			"RO": {
+				"text": "Imagini diferite pentru modul luminos și întunecat"
+			},
+			"RU": {
+				"text": "Разные изображения для светлого и темного режима"
+			},
+			"SE": {
+				"text": "Iešguđetlágan govat čuovga- ja divrras modeallas"
+			},
+			"SR": {
+				"text": "Различите слике за светли и тамни режим"
+			},
+			"SH": {
+				"text": "Различите слике за светли и тамни режим"
+			},
+			"SK": {
+				"text": "Rôzne obrázky pre svetlý a tmavý režim"
+			},
+			"SL": {
+				"text": "Različne slike za svetli in temni način"
+			},
+			"ES": {
+				"text": "Diferentes imágenes para el modo claro y oscuro"
+			},
+			"SV": {
+				"text": "Olika bilder för ljust och mörkt läge"
+			},
+			"TH": {
+				"text": "ภาพที่แตกต่างกันสำหรับโหมดสว่างและมืด"
+			},
+			"TR": {
+				"text": "Açık ve Koyu Mod için Farklı Görseller"
+			},
+			"UK": {
+				"text": "Різні зображення для світлого та темного режимів"
+			},
+			"VI": {
+				"text": "Hình ảnh khác nhau cho chế độ sáng và tối"
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -64,7 +1533,136 @@
 			"name": "tilegroup.headerImageStorm",
 			"EN": {},
 			"type": "XTXT",
-			"id": "e43451bb-08f4-4f35-e372-355d22edc771"
+			"id": "e43451bb-08f4-4f35-e372-355d22edc771",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.headerImageStorm",
@@ -75,7 +1673,136 @@
 				"text": "Right to left header image mask applied"
 			},
 			"type": "XTXT",
-			"id": "75504aa5-87c8-4a94-bb57-de8cdf65b0b1"
+			"id": "75504aa5-87c8-4a94-bb57-de8cdf65b0b1",
+			"AF": {
+				"text": "Regs-na-links kopbeeldmasker toegepas"
+			},
+			"AR": {
+				"text": "تم تطبيق قناع صورة الرأس من اليمين إلى اليسار"
+			},
+			"BG": {
+				"text": "Приложена е маска на изображението на заглавката отдясно наляво"
+			},
+			"ZH": {
+				"text": "应用了从右到左的标题图像掩码"
+			},
+			"ZF": {
+				"text": "應用了從右到左的標題圖像掩碼"
+			},
+			"HR": {
+				"text": "Primijenjena je maska slike zaglavlja zdesna nalijevo"
+			},
+			"CS": {
+				"text": "Použita maska obrázku záhlaví zprava doleva"
+			},
+			"DA": {
+				"text": "Højre mod venstre anvendt header-billedemaske"
+			},
+			"NL": {
+				"text": "Van rechts naar links header-afbeeldingsmasker toegepast"
+			},
+			"ET": {
+				"text": "Paremalt vasakule päisepildi mask rakendatud"
+			},
+			"FI": {
+				"text": "Oikealta vasemmalle -yläotsikkokuvan maski lisätty"
+			},
+			"FR": {
+				"text": "Masque d'image d'en-tête appliqué de droite à gauche"
+			},
+			"DE": {
+				"text": "Rechts-nach-links-Headerbildmaske angewendet"
+			},
+			"EL": {
+				"text": "Εφαρμόστηκε μάσκα εικόνας κεφαλίδας από δεξιά προς τα αριστερά"
+			},
+			"HE": {
+				"text": "מסיכת תמונת כותרת מימין לשמאל הוחלה"
+			},
+			"HU": {
+				"text": "Jobbról balra haladó fejlécképmaszk alkalmazva"
+			},
+			"IS": {
+				"text": "Myndgríma frá hægri til vinstri notað fyrir hausmynd"
+			},
+			"ID": {
+				"text": "Masker gambar header dari kanan ke kiri diterapkan"
+			},
+			"IT": {
+				"text": "Maschera immagine intestazione da destra a sinistra applicata"
+			},
+			"JA": {
+				"text": "右から左へのヘッダー画像マスクを適用しました"
+			},
+			"KK": {
+				"text": "Оңнан солға қарай тақырып кескінінің маскасы қолданылды"
+			},
+			"KO": {
+				"text": "오른쪽에서 왼쪽으로 헤더 이미지 마스크 적용"
+			},
+			"LV": {
+				"text": "No labās puses uz kreiso pusi uz galvenes attēla maska ir pielietota"
+			},
+			"LT": {
+				"text": "Pritaikyta antraštės vaizdo kaukė iš dešinės į kairę"
+			},
+			"MK": {
+				"text": "Применета е маска за слика од заглавие од десно кон лево"
+			},
+			"MS": {
+				"text": "Topeng imej pengepala kanan ke kiri digunakan"
+			},
+			"NO": {
+				"text": "Høyre-til-venstre-maske for topptekstbilde er brukt"
+			},
+			"NN": {
+				"text": "Høyre-til-venstre-maske for topptekstbilde er brukt"
+			},
+			"PL": {
+				"text": "Zastosowano maskę obrazu nagłówka od prawej do lewej"
+			},
+			"PT": {
+				"text": "Máscara de imagem de cabeçalho da direita para a esquerda aplicada"
+			},
+			"RO": {
+				"text": "Mască de imagine antet de la dreapta la stânga aplicată"
+			},
+			"RU": {
+				"text": "Применена маска изображения заголовка справа налево"
+			},
+			"SE": {
+				"text": "Oarjjabeale olgešbeale govvamáskka lea biddjon"
+			},
+			"SR": {
+				"text": "Примењена је маска слике заглавља здесна налево"
+			},
+			"SH": {
+				"text": "Примењена је маска слике заглавља здесна налево"
+			},
+			"SK": {
+				"text": "Použitá maska obrázka hlavičky sprava doľava"
+			},
+			"SL": {
+				"text": "Uporabljena je maska slike glave od desne proti levi"
+			},
+			"ES": {
+				"text": "Máscara de imagen de encabezado de derecha a izquierda aplicada"
+			},
+			"SV": {
+				"text": "Bildmask för sidhuvud från höger till vänster tillämpad"
+			},
+			"TH": {
+				"text": "ใช้หน้ากากภาพส่วนหัวจากขวาไปซ้ายแล้ว"
+			},
+			"TR": {
+				"text": "Sağdan sola başlık görüntü maskesi uygulandı"
+			},
+			"UK": {
+				"text": "Застосовано маску зображення заголовка справа наліво"
+			},
+			"VI": {
+				"text": "Đã áp dụng mặt nạ hình ảnh tiêu đề từ phải sang trái"
+			}
 		},
 		{
 			"parent": "tilegroup.headerImageStorm",
@@ -86,7 +1813,136 @@
 				"text": "One Image - Title Right Alligened"
 			},
 			"type": "XTXT",
-			"id": "4aaaf183-973f-4c7c-dfa3-e7773b90f5a6"
+			"id": "4aaaf183-973f-4c7c-dfa3-e7773b90f5a6",
+			"AF": {
+				"text": "Een Beeld - Titel Reg Allegened"
+			},
+			"AR": {
+				"text": "صورة واحدة - حق الملكية محمي"
+			},
+			"BG": {
+				"text": "Едно изображение - Заглавие вдясно Alligened"
+			},
+			"ZH": {
+				"text": "一张图片 - 标题右侧"
+			},
+			"ZF": {
+				"text": "一張圖片 - 標題右側"
+			},
+			"HR": {
+				"text": "Jedna slika - Naslov desno Alligened"
+			},
+			"CS": {
+				"text": "Jeden obrázek - Název vpravo Alligened"
+			},
+			"DA": {
+				"text": "Ét billede - Titelrettighed pålagt"
+			},
+			"NL": {
+				"text": "Eén afbeelding - Titelrecht toegewezen"
+			},
+			"ET": {
+				"text": "Üks pilt - pealkiri paremale allutatud"
+			},
+			"FI": {
+				"text": "Yksi kuva - Otsikko oikealle viivattu"
+			},
+			"FR": {
+				"text": "Une image - Titre à droite Alligened"
+			},
+			"DE": {
+				"text": "Ein Bild - Titelrecht Alligened"
+			},
+			"EL": {
+				"text": "Μία εικόνα - Τίτλος Δικαίωμα Alligened"
+			},
+			"HE": {
+				"text": "תמונה אחת - זכויות יוצרים מורשות"
+			},
+			"HU": {
+				"text": "Egy kép - Cím jobbra szegélyezve"
+			},
+			"IS": {
+				"text": "Ein mynd - Titill réttur áskilinn"
+			},
+			"ID": {
+				"text": "Satu Gambar - Hak Judul Disekutukan"
+			},
+			"IT": {
+				"text": "Un'immagine - Titolo a destra Alligato"
+			},
+			"JA": {
+				"text": "1枚の画像 - タイトルの右揃え"
+			},
+			"KK": {
+				"text": "Бір сурет - тақырып оң жақ бұрышталған"
+			},
+			"KO": {
+				"text": "한 이미지 - 제목 권한 부여"
+			},
+			"LV": {
+				"text": "Viens attēls — virsraksts labajā pusē pielīdzināts"
+			},
+			"LT": {
+				"text": "Vienas paveikslėlis – dešinėje pusėje sulygiuotas pavadinimas"
+			},
+			"MK": {
+				"text": "Една слика - Наслов со право на Алигенирање"
+			},
+			"MS": {
+				"text": "Satu Imej - Tajuk Right Alliged"
+			},
+			"NO": {
+				"text": "Ett bilde - Tittelrettighetsbeskyttet"
+			},
+			"NN": {
+				"text": "Ett bilde - Tittelrettighetsbeskyttet"
+			},
+			"PL": {
+				"text": "Jeden obraz – tytuł po prawej stronie"
+			},
+			"PT": {
+				"text": "Uma imagem - Título alinhado à direita"
+			},
+			"RO": {
+				"text": "O imagine - Titlu în dreapta, aligenat"
+			},
+			"RU": {
+				"text": "Одно изображение - заголовок справа."
+			},
+			"SE": {
+				"text": "Okta govva - namma rievttes bealde"
+			},
+			"SR": {
+				"text": "Једна слика - Наслов десно од Alligened-а"
+			},
+			"SH": {
+				"text": "Једна слика - Наслов десно од Alligened-а"
+			},
+			"SK": {
+				"text": "Jeden obrázok - Názov vpravo Alligened"
+			},
+			"SL": {
+				"text": "Ena slika - Naslov desno Alligened"
+			},
+			"ES": {
+				"text": "Una imagen - Título derecho Alligened"
+			},
+			"SV": {
+				"text": "En bild - Titelrättigheter tillhörande"
+			},
+			"TH": {
+				"text": "ภาพหนึ่ง - ชื่อเรื่อง สิทธิ์ อ้างสิทธิ์"
+			},
+			"TR": {
+				"text": "Tek Resim - Başlık Hakkı İddia Edildi"
+			},
+			"UK": {
+				"text": "Одне зображення - Заголовок праворуч Alligened"
+			},
+			"VI": {
+				"text": "Một hình ảnh - Tiêu đề bên phải Alligated"
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -94,7 +1950,136 @@
 			"name": "tilegroup.headerImageWaves",
 			"EN": {},
 			"type": "XTXT",
-			"id": "69784faa-3288-43fb-883d-df424a62881d"
+			"id": "69784faa-3288-43fb-883d-df424a62881d",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.headerImageWaves",
@@ -105,7 +2090,136 @@
 				"text": "Custom image mask: radial-gradient ellipse centered"
 			},
 			"type": "XTXT",
-			"id": "4f270e18-33b7-4d40-9724-9da6cb10f2ec"
+			"id": "4f270e18-33b7-4d40-9724-9da6cb10f2ec",
+			"AF": {
+				"text": "Pasgemaakte beeldmasker: radiaal-gradiënt ellips gesentreer"
+			},
+			"AR": {
+				"text": "قناع الصورة المخصص: مركز القطع الناقص المتدرج الشعاعي"
+			},
+			"BG": {
+				"text": "Персонализирана маска на изображението: радиално-градиентна елипса, центрирана"
+			},
+			"ZH": {
+				"text": "自定义图像蒙版：中心径向渐变椭圆"
+			},
+			"ZF": {
+				"text": "自訂影像蒙版：中心徑向漸層橢圓"
+			},
+			"HR": {
+				"text": "Prilagođena maska slike: radijalno-gradijentna elipsa centrirana"
+			},
+			"CS": {
+				"text": "Vlastní obrazová maska: radiální gradientní elipsa se středem"
+			},
+			"DA": {
+				"text": "Brugerdefineret billedmaske: radial-gradient ellipse centreret"
+			},
+			"NL": {
+				"text": "Aangepast afbeeldingsmasker: radiale gradiënt ellips gecentreerd"
+			},
+			"ET": {
+				"text": "Kohandatud pildimask: radiaalgradiendiga ellips, mille keskpunkt on"
+			},
+			"FI": {
+				"text": "Mukautettu kuvamaski: säteittäinen liukuvärjäysellipsi keskellä"
+			},
+			"FR": {
+				"text": "Masque d'image personnalisé : ellipse à dégradé radial centrée"
+			},
+			"DE": {
+				"text": "Benutzerdefinierte Bildmaske: zentrierte Ellipse mit radialem Farbverlauf"
+			},
+			"EL": {
+				"text": "Προσαρμοσμένη μάσκα εικόνας: ακτινική διαβάθμιση έλλειψης στο κέντρο"
+			},
+			"HE": {
+				"text": "מסיכת תמונה מותאמת אישית: אליפסה עם גרדיאנט רדיאלי במרכז"
+			},
+			"HU": {
+				"text": "Egyéni képmaszk: radiális gradiens ellipszis középre igazítva"
+			},
+			"IS": {
+				"text": "Sérsniðin myndgríma: geislamyndaður sporbaugur í miðju"
+			},
+			"ID": {
+				"text": "Masker gambar kustom: elips gradien radial yang berpusat"
+			},
+			"IT": {
+				"text": "Maschera immagine personalizzata: ellisse con gradiente radiale centrata"
+			},
+			"JA": {
+				"text": "カスタム画像マスク: 放射状グラデーションの楕円を中央に配置する"
+			},
+			"KK": {
+				"text": "Теңшелетін кескін маскасы: радиалды-градиенттік эллипс центрінде"
+			},
+			"KO": {
+				"text": "사용자 정의 이미지 마스크: 중심이 방사형 그래디언트 타원"
+			},
+			"LV": {
+				"text": "Pielāgota attēla maska: centrēta radiālā gradienta elipse"
+			},
+			"LT": {
+				"text": "Pasirinktinė vaizdo kaukė: centruota radialinio gradiento elipsė"
+			},
+			"MK": {
+				"text": "Прилагодена маска за слика: центрирана со радијален градиент на елипса"
+			},
+			"MS": {
+				"text": "Topeng imej tersuai: elips kecerunan jejari berpusat"
+			},
+			"NO": {
+				"text": "Tilpasset bildemaske: radial-gradient ellipse sentrert"
+			},
+			"NN": {
+				"text": "Tilpasset bildemaske: radial-gradient ellipse sentrert"
+			},
+			"PL": {
+				"text": "Niestandardowa maska obrazu: radialno-gradientowa elipsa wyśrodkowana"
+			},
+			"PT": {
+				"text": "Máscara de imagem personalizada: elipse com gradiente radial centrada"
+			},
+			"RO": {
+				"text": "Mască de imagine personalizată: elipsă cu gradient radial centrată"
+			},
+			"RU": {
+				"text": "Пользовательская маска изображения: эллипс с радиальным градиентом, центрированный"
+			},
+			"SE": {
+				"text": "Eaktodáhtolaš govvamáskka: rádiála-gradienta ellipsa guovddážis"
+			},
+			"SR": {
+				"text": "Прилагођена маска слике: елипса радијалног градијента, центрирана"
+			},
+			"SH": {
+				"text": "Прилагођена маска слике: елипса радијалног градијента, центрирана"
+			},
+			"SK": {
+				"text": "Vlastná maska obrázka: radiálny gradient, elipsa, centrovaná"
+			},
+			"SL": {
+				"text": "Maska slike po meri: radialno-gradientna elipsa, centrirana"
+			},
+			"ES": {
+				"text": "Máscara de imagen personalizada: elipse centrada en gradiente radial"
+			},
+			"SV": {
+				"text": "Anpassad bildmask: radiell gradient ellips centrerad"
+			},
+			"TH": {
+				"text": "หน้ากากภาพที่กำหนดเอง: วงรีไล่ระดับสีแบบรัศมีที่อยู่ตรงกลาง"
+			},
+			"TR": {
+				"text": "Özel görüntü maskesi: radyal-gradyan elips merkezli"
+			},
+			"UK": {
+				"text": "Маска користувацького зображення: радіально-градієнтний еліпс, центрований"
+			},
+			"VI": {
+				"text": "Mặt nạ hình ảnh tùy chỉnh: hình elip xuyên tâm có độ dốc"
+			}
 		},
 		{
 			"parent": "tilegroup.headerImageWaves",
@@ -116,7 +2230,136 @@
 				"text": "One Image - Title Centered"
 			},
 			"type": "XTXT",
-			"id": "1a117168-c3bf-40cb-a9ef-6edd01190e6e"
+			"id": "1a117168-c3bf-40cb-a9ef-6edd01190e6e",
+			"AF": {
+				"text": "Een Beeld - Titel Gesentreerd"
+			},
+			"AR": {
+				"text": "صورة واحدة - عنوان في المنتصف"
+			},
+			"BG": {
+				"text": "Едно изображение - заглавие, центрирано"
+			},
+			"ZH": {
+				"text": "一张图片 - 标题居中"
+			},
+			"ZF": {
+				"text": "一張圖片 - 標題居中"
+			},
+			"HR": {
+				"text": "Jedna slika - naslov centriran"
+			},
+			"CS": {
+				"text": "Jeden obrázek – nadpis vycentrovaný"
+			},
+			"DA": {
+				"text": "Ét billede - Titel centreret"
+			},
+			"NL": {
+				"text": "Eén afbeelding - titel gecentreerd"
+			},
+			"ET": {
+				"text": "Üks pilt - pealkiri keskele joondatud"
+			},
+			"FI": {
+				"text": "Yksi kuva - otsikko keskitettynä"
+			},
+			"FR": {
+				"text": "Une image - Titre centré"
+			},
+			"DE": {
+				"text": "Ein Bild – Titel zentriert"
+			},
+			"EL": {
+				"text": "Μία εικόνα - Στο κέντρο του τίτλου"
+			},
+			"HE": {
+				"text": "תמונה אחת - כותרת ממורכזת"
+			},
+			"HU": {
+				"text": "Egy kép - Cím középre igazítva"
+			},
+			"IS": {
+				"text": "Ein mynd - Titill miðjaður"
+			},
+			"ID": {
+				"text": "Satu Gambar - Judul di Tengah"
+			},
+			"IT": {
+				"text": "Un'immagine - Titolo centrato"
+			},
+			"JA": {
+				"text": "1枚の画像 - タイトルを中央に配置"
+			},
+			"KK": {
+				"text": "Бір сурет – тақырыптың ортасында орналасқан"
+			},
+			"KO": {
+				"text": "한 이미지 - 제목 중앙 정렬"
+			},
+			"LV": {
+				"text": "Viens attēls — virsraksts centrēts"
+			},
+			"LT": {
+				"text": "Vienas vaizdas – antraštė centre"
+			},
+			"MK": {
+				"text": "Една слика - центар на насловот"
+			},
+			"MS": {
+				"text": "Satu Imej - Berpusat Tajuk"
+			},
+			"NO": {
+				"text": "Ett bilde – tittel sentrert"
+			},
+			"NN": {
+				"text": "Ett bilde – tittel sentrert"
+			},
+			"PL": {
+				"text": "Jeden obraz – tytuł wyśrodkowany"
+			},
+			"PT": {
+				"text": "Uma imagem - Título centralizado"
+			},
+			"RO": {
+				"text": "O singură imagine - Titlu centrat"
+			},
+			"RU": {
+				"text": "Одно изображение — заголовок по центру"
+			},
+			"SE": {
+				"text": "Okta govva - namma guovddážis"
+			},
+			"SR": {
+				"text": "Једна слика - наслов центриран"
+			},
+			"SH": {
+				"text": "Једна слика - наслов центриран"
+			},
+			"SK": {
+				"text": "Jeden obrázok – názov vycentrovaný"
+			},
+			"SL": {
+				"text": "Ena slika - naslov na sredini"
+			},
+			"ES": {
+				"text": "Una imagen - Título centrado"
+			},
+			"SV": {
+				"text": "En bild - titel centrerad"
+			},
+			"TH": {
+				"text": "ภาพหนึ่ง - ชื่อเรื่องอยู่ตรงกลาง"
+			},
+			"TR": {
+				"text": "Tek Görüntü - Başlık Ortada"
+			},
+			"UK": {
+				"text": "Одне зображення – заголовок по центру"
+			},
+			"VI": {
+				"text": "Một hình ảnh - Tiêu đề ở giữa"
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -124,7 +2367,136 @@
 			"name": "tilegroup.menuAnalytical",
 			"EN": {},
 			"type": "XTXT",
-			"id": "2f1d8d3e-65b1-477d-9ff9-9ed0004fb4ef"
+			"id": "2f1d8d3e-65b1-477d-9ff9-9ed0004fb4ef",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.menuAnalytical",
@@ -135,7 +2507,136 @@
 				"text": "ANALYTICAL"
 			},
 			"type": "XTXT",
-			"id": "651cab18-289e-42e3-d57b-42883862e34d"
+			"id": "651cab18-289e-42e3-d57b-42883862e34d",
+			"AF": {
+				"text": "ANALITIESE"
+			},
+			"AR": {
+				"text": "تحليلي"
+			},
+			"BG": {
+				"text": "АНАЛИТИЧЕН"
+			},
+			"ZH": {
+				"text": "分析"
+			},
+			"ZF": {
+				"text": "分析"
+			},
+			"HR": {
+				"text": "ANALITIČKI"
+			},
+			"CS": {
+				"text": "ANALYTICKÉ"
+			},
+			"DA": {
+				"text": "ANALYTISK"
+			},
+			"NL": {
+				"text": "ANALYTISCH"
+			},
+			"ET": {
+				"text": "ANALÜÜTILINE"
+			},
+			"FI": {
+				"text": "ANALYTIIKKA"
+			},
+			"FR": {
+				"text": "ANALYTIQUE"
+			},
+			"DE": {
+				"text": "ANALYTISCH"
+			},
+			"EL": {
+				"text": "ΑΝΑΛΥΤΙΚΟΣ"
+			},
+			"HE": {
+				"text": "אנליטי"
+			},
+			"HU": {
+				"text": "ANALITIKAI"
+			},
+			"IS": {
+				"text": "GREININGARFRÆÐILEG"
+			},
+			"ID": {
+				"text": "ANALITIS"
+			},
+			"IT": {
+				"text": "ANALITICO"
+			},
+			"JA": {
+				"text": "分析的"
+			},
+			"KK": {
+				"text": "АНАЛИТИКАЛЫҚ"
+			},
+			"KO": {
+				"text": "분석적"
+			},
+			"LV": {
+				"text": "ANALĪTISKAIS"
+			},
+			"LT": {
+				"text": "ANALITINIS"
+			},
+			"MK": {
+				"text": "АНАЛИТИЧКИ"
+			},
+			"MS": {
+				"text": "ANALITIK"
+			},
+			"NO": {
+				"text": "ANALYTISK"
+			},
+			"NN": {
+				"text": "ANALYTISK"
+			},
+			"PL": {
+				"text": "ANALITYCZNY"
+			},
+			"PT": {
+				"text": "ANALÍTICO"
+			},
+			"RO": {
+				"text": "ANALITIC"
+			},
+			"RU": {
+				"text": "АНАЛИТИЧЕСКИЙ"
+			},
+			"SE": {
+				"text": "ANALYTIHKALAŠ"
+			},
+			"SR": {
+				"text": "АНАЛИТИЧКИ"
+			},
+			"SH": {
+				"text": "АНАЛИТИЧКИ"
+			},
+			"SK": {
+				"text": "ANALYTICKÉ"
+			},
+			"SL": {
+				"text": "ANALITIČNO"
+			},
+			"ES": {
+				"text": "ANALÍTICO"
+			},
+			"SV": {
+				"text": "ANALYTISK"
+			},
+			"TH": {
+				"text": "การวิเคราะห์"
+			},
+			"TR": {
+				"text": "ANALİTİK"
+			},
+			"UK": {
+				"text": "АНАЛІТИЧНИЙ"
+			},
+			"VI": {
+				"text": "PHÂN TÍCH"
+			}
 		},
 		{
 			"parent": "tilegroup.menuAnalytical",
@@ -146,7 +2647,136 @@
 				"text": "Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
 			},
 			"type": "XTXT",
-			"id": "328c77f0-8930-4051-a137-8d35fb22333f"
+			"id": "328c77f0-8930-4051-a137-8d35fb22333f",
+			"AF": {
+				"text": "Analitiese skermteëlgroep met 'n versteekte koptekst. Die teëlgroep het multikolom-geaktiveerde funksies met 'n navigasiebalk en 'n sybalk. Die navigasiebalk sluit 'n gunsteling-widget en 8 teëls in wat opgestel is met 'n 1x4-grootte. Die navigasiebalk sal in plek bly, maar in grootte krimp op kleiner skerms. Die sybalk sal onder alle ander inhoud op klein skerms draai."
+			},
+			"AR": {
+				"text": "مجموعة مربعات شاشة تحليلية برأس مخفي. تتميز المجموعة بأعمدة متعددة مع شريط تنقل وشريط جانبي. يتضمن شريط التنقل أداة مفضلة وثمانية مربعات مُجهزة بمقاس 1×4. سيبقى شريط التنقل ثابتًا، ولكنه سينكمش على الشاشات الصغيرة. سيظهر الشريط الجانبي أسفل جميع المحتويات الأخرى على الشاشات الصغيرة."
+			},
+			"BG": {
+				"text": "Аналитична група плочки на екрана със скрит заглавен файл. Групата плочки е с активирани многоколони с навигационна лента и странична лента. Навигационната лента включва любим уиджет и 8 плочки с размер 1x4. Навигационната лента ще остане на мястото си, но ще се свие по размер на по-малки екрани. Страничната лента ще се показва под цялото останало съдържание на малки екрани."
+			},
+			"ZH": {
+				"text": "分析屏幕图块组，带有隐藏式标题。该图块组启用多列布局，并包含导航栏和侧边栏。导航栏包含一个收藏夹小部件和 8 个 1x4 大小的图块。导航栏将保持显示位置，但在较小屏幕上会缩小。侧边栏在小屏幕上会环绕显示所有其他内容。"
+			},
+			"ZF": {
+				"text": "分析螢幕圖塊組，帶有隱藏式標題。此圖塊組啟用多列佈局，並包含導覽列和側邊欄。導覽列包含一個收藏夾小工具和 8 個 1x4 大小的圖塊。導覽列將保持顯示位置，但在較小螢幕上會縮小。側邊欄在小螢幕上會環繞顯示所有其他內容。"
+			},
+			"HR": {
+				"text": "Analitička grupa pločica na zaslonu sa skrivenim zaglavljem. Grupa pločica ima omogućeno više stupaca s navigacijskom trakom i bočnom trakom. Navigacijska traka uključuje omiljeni widget i 8 pločica veličine 1x4. Navigacijska traka će ostati na mjestu, ali će se smanjiti na manjim zaslonima. Bočna traka će se prelomiti ispod sveg ostalog sadržaja na malim zaslonima."
+			},
+			"CS": {
+				"text": "Analytická skupina dlaždic na obrazovce se skrytou hlavičkou. Skupina dlaždic má povoleno více sloupců s navigačním a postranním panelem. Navigační panel obsahuje oblíbený widget a 8 dlaždic o velikosti 1x4. Navigační panel zůstane na místě, ale na menších obrazovkách se zmenší. Postranní panel se na malých obrazovkách zalomí pod veškerý ostatní obsah."
+			},
+			"DA": {
+				"text": "Analytisk skærmflisegruppe med en skjult overskrift. Flisegruppen har flere kolonner aktiveret med en navlinje og en sidebjælke. Navigationslinjen indeholder en favoritwidget og 8 felter opsat med en størrelse på 1x4. Navigationslinjen forbliver på plads, men krymper i størrelse på mindre skærme. Sidebjælken vil ombrydes under alt andet indhold på små skærme."
+			},
+			"NL": {
+				"text": "Analytische schermtegelgroep met een verborgen header. De tegelgroep heeft meerdere kolommen, een navigatiebalk en een zijbalk. De navigatiebalk bevat een favoriete widget en 8 tegels met een formaat van 1x4. De navigatiebalk blijft op zijn plaats, maar wordt kleiner op kleinere schermen. De zijbalk wordt onder alle andere content geplaatst op kleine schermen."
+			},
+			"ET": {
+				"text": "Analüütiline ekraanipaanide rühm peidetud päisega. Paanide rühmal on lubatud mitmeveeruline kuvamisvõimalus navigeerimisriba ja külgribaga. Navigeerimisriba sisaldab lemmikvidinat ja 8 paani suurust 1x4. Navigeerimisriba jääb paigale, kuid väiksematel ekraanidel kahaneb selle suurus. Külgriba mähitakse väikestel ekraanidel kogu muu sisu alla."
+			},
+			"FI": {
+				"text": "Analyyttinen näyttöruuturyhmä piilotetulla otsikolla. Ruuturyhmässä on käytössä usean sarakkeen käyttö sekä navigointipalkki ja sivupalkki. Navigointipalkki sisältää suosikkiwidgetin ja 8 ruutua, joiden koko on 1x4. Navigointipalkki pysyy paikallaan, mutta pienenee pienemmillä näytöillä. Sivupalkki rivittyy kaiken muun sisällön alle pienillä näytöillä."
+			},
+			"FR": {
+				"text": "Groupe de vignettes d'analyse avec en-tête masqué. Ce groupe de vignettes est multicolonne et comprend une barre de navigation et une barre latérale. La barre de navigation inclut un widget de favoris et huit vignettes de 1x4 pixels. Elle reste visible, mais sa taille s'adapte aux petits écrans. La barre latérale s'affiche sous le reste du contenu sur les petits écrans."
+			},
+			"DE": {
+				"text": "Analytische Bildschirmkachelgruppe mit ausgeblendeter Kopfzeile. Die Kachelgruppe ist mehrspaltig und verfügt über eine Navigationsleiste und eine Seitenleiste. Die Navigationsleiste enthält ein Favoriten-Widget und acht Kacheln im 1x4-Format. Sie bleibt an ihrem Platz, wird aber auf kleineren Bildschirmen verkleinert. Die Seitenleiste wird auf kleinen Bildschirmen unterhalb aller anderen Inhalte angezeigt."
+			},
+			"EL": {
+				"text": "Αναλυτική ομάδα πλακιδίων οθόνης με κρυφή κεφαλίδα. Η ομάδα πλακιδίων έχει ενεργοποιημένες πολλές στήλες με γραμμή πλοήγησης και πλαϊνή γραμμή. Η γραμμή πλοήγησης περιλαμβάνει ένα αγαπημένο γραφικό στοιχείο και 8 πλακίδια με μέγεθος 1x4. Η γραμμή πλοήγησης θα παραμείνει στη θέση της, αλλά θα συρρικνωθεί σε μέγεθος σε μικρότερες οθόνες. Η πλαϊνή γραμμή θα αναδιπλώνεται κάτω από όλο το άλλο περιεχόμενο σε μικρές οθόνες."
+			},
+			"HE": {
+				"text": "קבוצת אריחי מסך אנליטיים עם כותרת מוסתרת. קבוצת האריחים כוללת ריבוי עמודות עם סרגל ניווט וסרגל צד. סרגל הניווט כולל ווידג'ט מועדף והגדרת 8 אריחים בגודל 1x4. סרגל הניווט יישאר במקומו, אך יתכווץ בגודלו במסכים קטנים יותר. סרגל הצד יעטוף מתחת לכל התוכן האחר במסכים קטנים."
+			},
+			"HU": {
+				"text": "Analitikus képernyőcsempe-csoport rejtett fejléccel. A csempecsoport több oszlopos megjelenítést tesz lehetővé navigációs sávval és oldalsávval. A navigációs sáv tartalmaz egy kedvenc widgetet és 8 csempebeállítást 1x4-es méretben. A navigációs sáv a helyén marad, de kisebb képernyőkön kisebb lesz. Az oldalsáv kis képernyőkön az összes többi tartalom alá kerül."
+			},
+			"IS": {
+				"text": "Flísahópur greiningarskjás með falinni haus. Flísahópurinn er með marga dálka virkjaða með leiðsögustiku og hliðarstiku. Leiðsögustikan inniheldur uppáhaldsviðbót og 8 flísar í stærð 1x4. Leiðsögustikan helst á sínum stað en minnkar á minni skjám. Hliðarstikan mun vefjast fyrir neðan allt annað efni á litlum skjám."
+			},
+			"ID": {
+				"text": "Grup ubin layar analitis dengan header tersembunyi. Grup ubin ini mendukung multi-kolom dengan bilah navigasi dan bilah sisi. Bilah navigasi mencakup widget favorit dan pengaturan 8 ubin berukuran 1x4. Bilah navigasi akan tetap di tempatnya, tetapi ukurannya mengecil di layar yang lebih kecil. Bilah sisi akan membungkus di bawah semua konten lain di layar kecil."
+			},
+			"IT": {
+				"text": "Gruppo di riquadri analitici con intestazione nascosta. Il gruppo di riquadri è multicolonna con barra di navigazione e barra laterale. La barra di navigazione include un widget preferito e 8 riquadri con dimensioni 1x4. La barra di navigazione rimarrà in posizione, ma si ridurrà di dimensioni sugli schermi più piccoli. La barra laterale scorrerà sotto tutti gli altri contenuti sugli schermi più piccoli."
+			},
+			"JA": {
+				"text": "ヘッダーを非表示にした分析画面タイルグループです。このタイルグループは、ナビゲーションバーとサイドバーを備えたマルチカラム対応です。ナビゲーションバーには、お気に入りウィジェットと1x4サイズのタイルが8つ配置されています。ナビゲーションバーは画面サイズが小さい場合はそのまま表示されますが、サイズが小さくなります。サイドバーは、小さい画面では他のすべてのコンテンツの下に折り返されます。"
+			},
+			"KK": {
+				"text": "Жасырын тақырыбы бар аналитикалық экран тақталар тобы. Плиткалар тобында шарлау тақтасы мен бүйірлік тақта арқылы қосылған бірнеше баған бар. Шарлау тақтасы таңдаулы виджетті және 1x4 өлшемі бар 8 плиткаларды орнатуды қамтиды. Шарлау тақтасы орнында қалады, бірақ кішірек экрандарда өлшемі кішірейеді. Бүйірлік тақта шағын экрандардағы барлық басқа мазмұнның астына оралады."
+			},
+			"KO": {
+				"text": "숨겨진 헤더가 있는 분석 화면 타일 그룹입니다. 타일 그룹에는 탐색 막대와 사이드바를 포함한 다중 열이 있습니다. 탐색 막대에는 즐겨찾는 위젯과 1x4 크기의 타일 8개가 포함되어 있습니다. 탐색 막대는 제자리에 고정되지만 작은 화면에서는 크기가 줄어듭니다. 사이드바는 작은 화면에서 다른 모든 콘텐츠 아래로 줄어듭니다."
+			},
+			"LV": {
+				"text": "Analītiska ekrāna mozaīku grupa ar paslēptu galveni. Mozaīku grupai ir iespējota vairāku kolonnu funkcionalitāte ar navigācijas joslu un sānu joslu. Navigācijas joslā ir iekļauts iecienītākais logrīks un 8 mozaīku iestatījums ar izmēru 1x4. Navigācijas josla paliks savā vietā, bet mazākos ekrānos samazināsies. Mazos ekrānos sānu josla tiks ietverta zem visa pārējā satura."
+			},
+			"LT": {
+				"text": "Analitinė ekrano plytelių grupė su paslėpta antrašte. Plytelių grupėje įgalintas kelių stulpelių režimas su naršymo juosta ir šonine juosta. Naršymo juostoje yra mėgstamiausias valdiklis ir 8 plytelių išdėstymas, kurių dydis 1x4. Naršymo juosta liks savo vietoje, bet mažesniuose ekranuose sumažės. Mažuose ekranuose šoninė juosta bus pateikiama po visu kitu turiniu."
+			},
+			"MK": {
+				"text": "Аналитичка група плочки на екранот со скриен заглавие. Групата плочки има повеќе колони овозможена со лента за навигација и странична лента. Лентата за навигација вклучува омилен виџет и поставување на 8 плочки со големина 1x4. Лентата за навигација ќе остане на место, но ќе се намали во големина на помали екрани. Страничната лента ќе се преклопи под целата друга содржина на мали екрани."
+			},
+			"MS": {
+				"text": "Kumpulan jubin skrin analitik dengan pengepala tersembunyi. Kumpulan jubin mempunyai berbilang lajur didayakan dengan bar navigasi dan bar sisi. Navbar termasuk widget kegemaran dan persediaan 8 jubin dengan saiz 1x4. Navbar akan kekal di tempatnya, tetapi mengecil dalam saiz pada skrin yang lebih kecil. Bar sisi akan membalut di bawah semua kandungan lain pada skrin kecil."
+			},
+			"NO": {
+				"text": "Analytisk skjermflisgruppe med skjult overskrift. Flisgruppen har flere kolonner aktivert med en navigasjonslinje og en sidefelt. Navigasjonslinjen inkluderer en favorittwidget og 8 fliser oppsatt med en størrelse på 1x4. Navigasjonslinjen vil forbli på plass, men krympe i størrelse på mindre skjermer. Sidefeltet vil brytes under alt annet innhold på små skjermer."
+			},
+			"NN": {
+				"text": "Analytisk skjermflisgruppe med skjult overskrift. Flisgruppen har flere kolonner aktivert med en navigasjonslinje og en sidefelt. Navigasjonslinjen inkluderer en favorittwidget og 8 fliser oppsatt med en størrelse på 1x4. Navigasjonslinjen vil forbli på plass, men krympe i størrelse på mindre skjermer. Sidefeltet vil brytes under alt annet innhold på små skjermer."
+			},
+			"PL": {
+				"text": "Grupa kafelków ekranu analitycznego z ukrytym nagłówkiem. Grupa kafelków ma włączoną obsługę wielu kolumn, pasek nawigacyjny i pasek boczny. Pasek nawigacyjny zawiera ulubiony widżet i 8 kafelków o rozmiarze 1x4. Pasek nawigacyjny pozostanie na swoim miejscu, ale zmniejszy się na mniejszych ekranach. Pasek boczny będzie zawijał się pod całą pozostałą treścią na małych ekranach."
+			},
+			"PT": {
+				"text": "Grupo de blocos analíticos com cabeçalho oculto. O grupo de blocos possui várias colunas habilitadas, com barra de navegação e barra lateral. A barra de navegação inclui um widget de favoritos e 8 blocos configurados com tamanho 1x4. A barra de navegação permanecerá fixa, mas diminuirá de tamanho em telas menores. A barra lateral se ajustará abaixo de todo o conteúdo em telas pequenas."
+			},
+			"RO": {
+				"text": "Grup de dale analitice pentru ecrane cu antet ascuns. Grupul de dale are activată opțiunea pentru mai multe coloane, cu o bară de navigare și o bară laterală. Bara de navigare include un widget pentru favorite și o configurație de 8 dale cu dimensiunea de 1x4. Bara de navigare va rămâne la locul ei, dar se va micșora în dimensiune pe ecranele mai mici. Bara laterală se va încadra sub tot restul conținutului pe ecranele mici."
+			},
+			"RU": {
+				"text": "Группа плиток аналитического экрана со скрытым заголовком. Группа плиток поддерживает многоколоночный режим с панелью навигации и боковой панелью. Панель навигации включает в себя избранный виджет и 8 плиток размером 1x4. Панель навигации останется на месте, но уменьшится на экранах меньшего размера. На экранах меньшего размера боковая панель будет располагаться под всем остальным содержимым."
+			},
+			"SE": {
+				"text": "Analyhtalaš čájáhusčájáhusjoavku mas lea čihkkojuvvon bajilčála. Tile-joavkkus leat máŋgga kolonna mat leat álggahuvvon mas lea nav- ja siidolinjá. Nav-linjá sisttisdoallá favorihttawidget ja 8 távvala 1x4 sturrodagain. Navigašuvdna bissu sajis, muhto unnu sturrodagas smávit čájáhusain. Siidolinjá gokčá buot eará sisdoaluid vuollái smávva čájáhusain."
+			},
+			"SR": {
+				"text": "Аналитичка група плочица на екрану са скривеним заглављем. Група плочица има омогућен приказ у више колона са навигационом траком и бочном траком. Навигациона трака укључује омиљени виџет и 8 плочица величине 1x4. Навигациона трака ће остати на месту, али ће се смањити на мањим екранима. Бочна трака ће се преломити испод осталог садржаја на малим екранима."
+			},
+			"SH": {
+				"text": "Аналитичка група плочица на екрану са скривеним заглављем. Група плочица има омогућен приказ у више колона са навигационом траком и бочном траком. Навигациона трака укључује омиљени виџет и 8 плочица величине 1x4. Навигациона трака ће остати на месту, али ће се смањити на мањим екранима. Бочна трака ће се преломити испод осталог садржаја на малим екранима."
+			},
+			"SK": {
+				"text": "Analytická skupina dlaždíc na obrazovke so skrytou hlavičkou. Skupina dlaždíc má povolené viacero stĺpcov s navigačným panelom a bočným panelom. Navigačný panel obsahuje obľúbený widget a 8 dlaždíc s rozmermi 1x4. Navigačný panel zostane na svojom mieste, ale na menších obrazovkách sa zmenší. Bočný panel sa na malých obrazovkách zalomí pod všetok ostatný obsah."
+			},
+			"SL": {
+				"text": "Skupina ploščic analitičnega zaslona s skrito glavo. Skupina ploščic ima omogočen večstolpčni prikaz z navigacijsko vrstico in stransko vrstico. Navigacijska vrstica vključuje priljubljeni pripomoček in 8 ploščic velikosti 1x4. Navigacijska vrstica bo ostala na svojem mestu, vendar se bo na manjših zaslonih skrčila. Stranska vrstica se bo na majhnih zaslonih prikazala pod vso ostalo vsebino."
+			},
+			"ES": {
+				"text": "Grupo de mosaicos de pantalla analítica con encabezado oculto. El grupo de mosaicos tiene habilitada la función multicolumna con una barra de navegación y una barra lateral. La barra de navegación incluye un widget de favoritos y una configuración de 8 mosaicos de tamaño 1x4. La barra de navegación se mantiene en su lugar, pero se reduce en pantallas pequeñas. La barra lateral se ajusta debajo del resto del contenido en pantallas pequeñas."
+			},
+			"SV": {
+				"text": "Analytisk skärmgrupp med dold rubrik. Gruppen har flera kolumner aktiverade med en navigeringsrad och ett sidofält. Navigeringsraden innehåller en favoritwidget och 8 plattor med en storlek på 1x4. Navigeringsraden stannar på plats men krymper i storlek på mindre skärmar. Sidofältet lindas under allt annat innehåll på små skärmar."
+			},
+			"TH": {
+				"text": "กลุ่มไทล์หน้าจอวิเคราะห์พร้อมส่วนหัวที่ซ่อนอยู่ กลุ่มไทล์นี้เปิดใช้งานแบบหลายคอลัมน์พร้อมแถบนำทางและแถบด้านข้าง แถบนำทางประกอบด้วยวิดเจ็ตโปรดและไทล์ 8 ตัวที่ตั้งค่าไว้ด้วยขนาด 1x4 แถบนำทางจะคงเดิม แต่จะลดขนาดลงบนหน้าจอขนาดเล็ก แถบด้านข้างจะรวมอยู่ใต้เนื้อหาอื่นๆ ทั้งหมดบนหน้าจอขนาดเล็ก"
+			},
+			"TR": {
+				"text": "Gizli başlıklı analitik ekran kutucuk grubu. Kutucuk grubunda, bir gezinme çubuğu ve bir kenar çubuğu ile çoklu sütun özelliği etkinleştirilmiştir. Gezinme çubuğu, bir favori widget'ı ve 1x4 boyutunda 8 kutucuk içerir. Gezinme çubuğu yerinde kalır, ancak daha küçük ekranlarda boyutu küçülür. Kenar çubuğu, küçük ekranlarda diğer tüm içeriklerin altına sarılır."
+			},
+			"UK": {
+				"text": "Група плиток аналітичного екрана з прихованим заголовком. Група плиток має багатоколонковий режим з панеллю навігації та бічною панеллю. Панель навігації містить улюблений віджет та 8 плиток розміром 1x4. Панель навігації залишатиметься на місці, але зменшуватиметься в розмірі на менших екранах. Бічна панель буде розміщуватися під усім іншим контентом на малих екранах."
+			},
+			"VI": {
+				"text": "Nhóm ô màn hình phân tích với tiêu đề ẩn. Nhóm ô này được kích hoạt đa cột với thanh điều hướng và thanh bên. Thanh điều hướng bao gồm một tiện ích yêu thích và 8 ô được thiết lập với kích thước 1x4. Thanh điều hướng sẽ giữ nguyên vị trí, nhưng thu nhỏ kích thước trên màn hình nhỏ hơn. Thanh bên sẽ nằm bên dưới tất cả nội dung khác trên màn hình nhỏ."
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -154,7 +2784,136 @@
 			"name": "tilegroup.menuHeaderImage",
 			"EN": {},
 			"type": "XTXT",
-			"id": "1079012e-6aee-4517-930f-acaddb1fdd97"
+			"id": "1079012e-6aee-4517-930f-acaddb1fdd97",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.menuHeaderImage",
@@ -165,7 +2924,136 @@
 				"text": "HEADER IMAGE"
 			},
 			"type": "XTXT",
-			"id": "d34658b8-8429-45a4-e0c9-6e80cf25b1e6"
+			"id": "d34658b8-8429-45a4-e0c9-6e80cf25b1e6",
+			"AF": {
+				"text": "KOPBEELD"
+			},
+			"AR": {
+				"text": "صورة الرأس"
+			},
+			"BG": {
+				"text": "ЗАГЛАВНО ИЗОБРАЖЕНИЕ"
+			},
+			"ZH": {
+				"text": "头部图片"
+			},
+			"ZF": {
+				"text": "標題圖片"
+			},
+			"HR": {
+				"text": "SLIKA ZAGLAVLJA"
+			},
+			"CS": {
+				"text": "OBRÁZEK ZÁHLAVÍ"
+			},
+			"DA": {
+				"text": "OVERSKRIFTBILLEDE"
+			},
+			"NL": {
+				"text": "KOPAFBEELDING"
+			},
+			"ET": {
+				"text": "PÄISE PILT"
+			},
+			"FI": {
+				"text": "YLÄKSIKUVA"
+			},
+			"FR": {
+				"text": "IMAGE D'EN-TÊTE"
+			},
+			"DE": {
+				"text": "KOPFZEILENBILD"
+			},
+			"EL": {
+				"text": "ΕΙΚΟΝΑ ΕΠΙΚΕΦΑΛΙΔΑΣ"
+			},
+			"HE": {
+				"text": "תמונת כותרת"
+			},
+			"HU": {
+				"text": "FEJLÉKKÉP"
+			},
+			"IS": {
+				"text": "HÖFUÐMYND"
+			},
+			"ID": {
+				"text": "GAMBAR KEPALA"
+			},
+			"IT": {
+				"text": "IMMAGINE DI INTESTAZIONE"
+			},
+			"JA": {
+				"text": "ヘッダー画像"
+			},
+			"KK": {
+				"text": "ТАҚЫРЫП БЕТІ"
+			},
+			"KO": {
+				"text": "헤더 이미지"
+			},
+			"LV": {
+				"text": "GALVENES ATTĒLS"
+			},
+			"LT": {
+				"text": "ANTRAŠTĖS PAVEIKSLĖLIS"
+			},
+			"MK": {
+				"text": "ЗАСЛОВНА СЛИКА"
+			},
+			"MS": {
+				"text": "IMEJ TAJUK"
+			},
+			"NO": {
+				"text": "OVERSKRIFTSBILDE"
+			},
+			"NN": {
+				"text": "OVERSKRIFTSBILDE"
+			},
+			"PL": {
+				"text": "OBRAZ NAGŁÓWKA"
+			},
+			"PT": {
+				"text": "IMAGEM DO CABEÇALHO"
+			},
+			"RO": {
+				"text": "IMAGINE DE ANTET"
+			},
+			"RU": {
+				"text": "ИЗОБРАЖЕНИЕ ЗАГОЛОВКА"
+			},
+			"SE": {
+				"text": "OVDALGOVVA"
+			},
+			"SR": {
+				"text": "СЛИКА ЗАГЛАВЉА"
+			},
+			"SH": {
+				"text": "СЛИКА ЗАГЛАВЉА"
+			},
+			"SK": {
+				"text": "OBRÁZOK ZÁHLAVIČKY"
+			},
+			"SL": {
+				"text": "SLIKA GLAVNEGA OBRAZCA"
+			},
+			"ES": {
+				"text": "IMAGEN DE ENCABEZADO"
+			},
+			"SV": {
+				"text": "HUVUDBILD"
+			},
+			"TH": {
+				"text": "รูปภาพส่วนหัว"
+			},
+			"TR": {
+				"text": "BAŞLIK GÖRÜNTÜSÜ"
+			},
+			"UK": {
+				"text": "ЗОБРАЖЕННЯ ЗАГОЛІВКА"
+			},
+			"VI": {
+				"text": "HÌNH ẢNH TIÊU ĐỀ"
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -173,7 +3061,136 @@
 			"name": "tilegroup.menuNews",
 			"EN": {},
 			"type": "XTXT",
-			"id": "23c68686-9a5c-4f43-e7da-7650bbe323cf"
+			"id": "23c68686-9a5c-4f43-e7da-7650bbe323cf",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.menuNews",
@@ -184,7 +3201,136 @@
 				"text": "NEWS"
 			},
 			"type": "XTXT",
-			"id": "5895a66d-b714-418d-9328-3ed11dfeb6be"
+			"id": "5895a66d-b714-418d-9328-3ed11dfeb6be",
+			"AF": {
+				"text": "NUUS"
+			},
+			"AR": {
+				"text": "أخبار"
+			},
+			"BG": {
+				"text": "НОВИНИ"
+			},
+			"ZH": {
+				"text": "消息"
+			},
+			"ZF": {
+				"text": "訊息"
+			},
+			"HR": {
+				"text": "VIJESTI"
+			},
+			"CS": {
+				"text": "ZPRÁVY"
+			},
+			"DA": {
+				"text": "NYHEDER"
+			},
+			"NL": {
+				"text": "NIEUWS"
+			},
+			"ET": {
+				"text": "UUDISED"
+			},
+			"FI": {
+				"text": "UUTISET"
+			},
+			"FR": {
+				"text": "NOUVELLES"
+			},
+			"DE": {
+				"text": "NACHRICHT"
+			},
+			"EL": {
+				"text": "ΝΕΑ"
+			},
+			"HE": {
+				"text": "חֲדָשׁוֹת"
+			},
+			"HU": {
+				"text": "HÍR"
+			},
+			"IS": {
+				"text": "FRÉTTIR"
+			},
+			"ID": {
+				"text": "BERITA"
+			},
+			"IT": {
+				"text": "NOTIZIA"
+			},
+			"JA": {
+				"text": "ニュース"
+			},
+			"KK": {
+				"text": "ЖАҢАЛЫҚТАР"
+			},
+			"KO": {
+				"text": "소식"
+			},
+			"LV": {
+				"text": "JAUNUMI"
+			},
+			"LT": {
+				"text": "NAUJIENOS"
+			},
+			"MK": {
+				"text": "ВЕСТИ"
+			},
+			"MS": {
+				"text": "BERITA"
+			},
+			"NO": {
+				"text": "NYHETER"
+			},
+			"NN": {
+				"text": "NYHETER"
+			},
+			"PL": {
+				"text": "AKTUALNOŚCI"
+			},
+			"PT": {
+				"text": "NOTÍCIAS"
+			},
+			"RO": {
+				"text": "ŞTIRI"
+			},
+			"RU": {
+				"text": "НОВОСТИ"
+			},
+			"SE": {
+				"text": "OĐĐASAT"
+			},
+			"SR": {
+				"text": "ВЕСТИ"
+			},
+			"SH": {
+				"text": "ВЕСТИ"
+			},
+			"SK": {
+				"text": "SPRÁVY"
+			},
+			"SL": {
+				"text": "NOVICE"
+			},
+			"ES": {
+				"text": "NOTICIAS"
+			},
+			"SV": {
+				"text": "NYHETER"
+			},
+			"TH": {
+				"text": "ข่าว"
+			},
+			"TR": {
+				"text": "HABERLER"
+			},
+			"UK": {
+				"text": "НОВИНИ"
+			},
+			"VI": {
+				"text": "TIN TỨC"
+			}
 		},
 		{
 			"parent": "tilegroup.menuNews",
@@ -195,7 +3341,136 @@
 				"text": "Screen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles."
 			},
 			"type": "XTXT",
-			"id": "40950059-163e-419f-c91a-3a501159683b"
+			"id": "40950059-163e-419f-c91a-3a501159683b",
+			"AF": {
+				"text": "Skermteëlgroep met versteekte koptekst. 7 teëls, 1 groot 12x8 teël en 6 klein 4x1 teëls."
+			},
+			"AR": {
+				"text": "مجموعة بلاط الشاشة مع رأس مخفي. 7 بلاط، 1 بلاطة كبيرة 12 × 8 و 6 بلاطات صغيرة 4 × 1."
+			},
+			"BG": {
+				"text": "Група от екранни плочки със скрит заглавен файл. 7 плочки, 1 голяма плочка 12x8 и 6 малки плочки 4x1."
+			},
+			"ZH": {
+				"text": "屏幕图块组，带有隐藏标题栏。包含 7 个图块，1 个 12x8 的大图块和 6 个 4x1 的小图块。"
+			},
+			"ZF": {
+				"text": "螢幕圖塊組，帶有隱藏標題列。包含 7 個圖塊，1 個 12x8 的大圖塊和 6 個 4x1 的小圖塊。"
+			},
+			"HR": {
+				"text": "Grupa pločica na zaslonu sa skrivenim zaglavljem. 7 pločica, 1 velika pločica 12x8 i 6 malih pločica 4x1."
+			},
+			"CS": {
+				"text": "Skupina dlaždic na obrazovce se skrytou hlavičkou. 7 dlaždic, 1 velká dlaždice 12x8 a 6 malých dlaždic 4x1."
+			},
+			"DA": {
+				"text": "Skærmflisegruppe med skjult overskrift. 7 fliser, 1 stor 12x8 flise og 6 små 4x1 fliser."
+			},
+			"NL": {
+				"text": "Schermtegelgroep met verborgen header. 7 tegels, 1 grote tegel van 12x8 en 6 kleine tegels van 4x1."
+			},
+			"ET": {
+				"text": "Ekraaniplaatide grupp peidetud päisega. 7 plaati, 1 suur 12x8 plaat ja 6 väikest 4x1 plaati."
+			},
+			"FI": {
+				"text": "Näytön laattaryhmä piilotetulla otsikolla. 7 laattaa, 1 iso 12x8 laatta ja 6 pientä 4x1 laattaa."
+			},
+			"FR": {
+				"text": "Groupe de tuiles d'écran avec en-tête caché. 7 tuiles : 1 grande tuile 12x8 et 6 petites tuiles 4x1."
+			},
+			"DE": {
+				"text": "Bildschirmkachelgruppe mit ausgeblendeter Kopfzeile. 7 Kacheln, 1 große 12x8-Kachel und 6 kleine 4x1-Kacheln."
+			},
+			"EL": {
+				"text": "Ομάδα πλακιδίων οθόνης με κρυφή κεφαλίδα. 7 πλακίδια, 1 μεγάλο πλακίδιο 12x8 και 6 μικρά πλακίδια 4x1."
+			},
+			"HE": {
+				"text": "קבוצת אריחי מסך עם כותרת נסתרת. 7 אריחים, אריח גדול אחד בגודל 12x8 ו-6 אריחים קטנים בגודל 4x1."
+			},
+			"HU": {
+				"text": "Képernyőcsempe-csoport rejtett fejléccel. 7 csempe, 1 nagy 12x8-as csempe és 6 kis 4x1-es csempe."
+			},
+			"IS": {
+				"text": "Skjáflísarhópur með falinni haus. 7 flísar, 1 stór 12x8 flís og 6 litlar 4x1 flísar."
+			},
+			"ID": {
+				"text": "Grup ubin layar dengan header tersembunyi. 7 ubin, 1 ubin besar 12x8 dan 6 ubin kecil 4x1."
+			},
+			"IT": {
+				"text": "Gruppo di tessere dello schermo con intestazione nascosta. 7 tessere, 1 grande 12x8 e 6 piccole 4x1."
+			},
+			"JA": {
+				"text": "ヘッダーが非表示の画面タイル グループ。7 つのタイル、1 つの大きな 12x8 タイルと 6 つの小さな 4x1 タイル。"
+			},
+			"KK": {
+				"text": "Жасырын тақырыбы бар экран тақталары тобы. 7 плитка, 1 үлкен 12х8 плитка және 6 кішкентай 4х1 плитка."
+			},
+			"KO": {
+				"text": "숨겨진 헤더가 있는 화면 타일 그룹. 타일 7개, 큰 12x8 타일 1개, 작은 4x1 타일 6개."
+			},
+			"LV": {
+				"text": "Ekrāna mozaīku grupa ar slēptu galveni. 7 flīzes, 1 liela 12x8 flīze un 6 mazas 4x1 flīzes."
+			},
+			"LT": {
+				"text": "Ekrano plytelių grupė su paslėpta antrašte. 7 plytelės, 1 didelė 12x8 plytelė ir 6 mažos 4x1 plytelės."
+			},
+			"MK": {
+				"text": "Група плочки на екранот со скриен заглавие. 7 плочки, 1 голема плочка 12x8 и 6 мали плочки 4x1."
+			},
+			"MS": {
+				"text": "Kumpulan jubin skrin dengan pengepala tersembunyi. 7 jubin, 1 jubin 12x8 besar dan 6 jubin 4x1 kecil."
+			},
+			"NO": {
+				"text": "Skjermflisgruppe med skjult topptekst. 7 fliser, 1 stor 12x8-flis og 6 små 4x1-fliser."
+			},
+			"NN": {
+				"text": "Skjermflisgruppe med skjult topptekst. 7 fliser, 1 stor 12x8-flis og 6 små 4x1-fliser."
+			},
+			"PL": {
+				"text": "Grupa kafelków ekranu z ukrytym nagłówkiem. 7 kafelków, 1 duży kafelek 12x8 i 6 małych kafelków 4x1."
+			},
+			"PT": {
+				"text": "Grupo de blocos de tela com cabeçalho oculto. 7 blocos, 1 bloco grande de 12x8 e 6 blocos pequenos de 4x1."
+			},
+			"RO": {
+				"text": "Grup de plăci de ecran cu antet ascuns. 7 plăci, 1 plăcuță mare de 12x8 și 6 plăcuțe mici de 4x1."
+			},
+			"RU": {
+				"text": "Группа плиток экрана со скрытым заголовком. 7 плиток, 1 большая плитка 12x8 и 6 маленьких плиток 4x1."
+			},
+			"SE": {
+				"text": "Čájáhusa joavku mas lea čihkkojuvvon bajilgovva. 7 čáhcefápmorusttega, 1 stuora 12x8 čáhcefápmorusttega ja 6 smávva 4x1 čáhcefápmorusttega."
+			},
+			"SR": {
+				"text": "Група плочица на екрану са скривеним заглављем. 7 плочица, 1 велика плочица 12x8 и 6 малих плочица 4x1."
+			},
+			"SH": {
+				"text": "Група плочица на екрану са скривеним заглављем. 7 плочица, 1 велика плочица 12x8 и 6 малих плочица 4x1."
+			},
+			"SK": {
+				"text": "Skupina dlaždíc na obrazovke so skrytou hlavičkou. 7 dlaždíc, 1 veľká dlaždica 12x8 a 6 malých dlaždíc 4x1."
+			},
+			"SL": {
+				"text": "Skupina ploščic na zaslonu s skrito glavo. 7 ploščic, 1 velika ploščica 12x8 in 6 majhnih ploščic 4x1."
+			},
+			"ES": {
+				"text": "Grupo de mosaicos de pantalla con encabezado oculto. 7 mosaicos, 1 mosaico grande de 12x8 y 6 mosaicos pequeños de 4x1."
+			},
+			"SV": {
+				"text": "Skärmgrupp med dold rubrik. 7 rutor, 1 stor 12x8-ruta och 6 små 4x1-rutor."
+			},
+			"TH": {
+				"text": "กลุ่มกระเบื้องหน้าจอพร้อมส่วนหัวที่ซ่อนอยู่ 7 กระเบื้อง, กระเบื้องขนาดใหญ่ 12x8 จำนวน 1 กระเบื้อง และกระเบื้องขนาดเล็ก 4x1 จำนวน 6 กระเบื้อง"
+			},
+			"TR": {
+				"text": "Gizli başlıklı ekran kiremit grubu. 7 kiremit, 1 büyük 12x8 kiremit ve 6 küçük 4x1 kiremit."
+			},
+			"UK": {
+				"text": "Група плиток на екрані з прихованим заголовком. 7 плиток, 1 велика плитка 12x8 та 6 малих плиток 4x1."
+			},
+			"VI": {
+				"text": "Nhóm ô màn hình có tiêu đề ẩn. 7 ô, 1 ô lớn 12x8 và 6 ô nhỏ 4x1."
+			}
 		},
 		{
 			"parent": "tilegroup.menuNews.message",
@@ -206,7 +3481,136 @@
 				"text": "12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image."
 			},
 			"type": "XTXT",
-			"id": "da134ed7-196a-4d25-db35-7d7d394712bd"
+			"id": "da134ed7-196a-4d25-db35-7d7d394712bd",
+			"AF": {
+				"text": "12x8-teël: Die stylklas <code>nepDxpDemoNewsMaster</code> is by die teël gevoeg. Dit keer die kaartinhoud om in die buigrigting, wat die titel en subtitel onderaan die teël plaas. 'n Teëluitleg met 'n onder-na-bo-beeldmasker laat die teëltitel/subtitel teen die agtergrondbeeld uitstaan."
+			},
+			"AR": {
+				"text": "بلاطة ١٢×٨: أُضيفت فئة النمط <code>nepDxpDemoNewsMaster</code> إلى البلاطة، وهي تعكس اتجاه محتوى البطاقة، بحيث يظهر العنوان والعنوان الفرعي أسفل البلاطة. تصميم البلاطة مع قناع صورة من الأسفل إلى الأعلى يُبرز عنوان البلاطة/عنوانها الفرعي على خلفية الصورة."
+			},
+			"BG": {
+				"text": "Плочка 12x8: Към плочката е добавен стиловият клас <code>nepDxpDemoNewsMaster</code>, който обръща посоката на огъване на съдържанието на картата, позиционирайки заглавието и подзаглавието в долната част на плочката. Оформление на плочка с маска на изображението отдолу нагоре кара заглавието/подзаглавието на плочката да се откроява на фоновото изображение."
+			},
+			"ZH": {
+				"text": "12x8 图块：图块已添加样式类 `<code>nepDxpDemoNewsMaster</code>`，它会反转卡片内容的弹性方向，将标题和副标题置于图块底部。采用自下而上图像遮罩的图块布局，使图块标题/副标题在背景图像中更加醒目。"
+			},
+			"ZF": {
+				"text": "12x8 圖塊：圖塊已新增樣式類別 `<code>nepDxpDemoNewsMaster</code>`，它會反轉卡片內容的彈性方向，將標題和副標題置於圖塊底部。採用由下而上影像遮罩的圖塊佈局，使圖塊標題/副標題在背景影像中更加醒目。"
+			},
+			"HR": {
+				"text": "Pločica 12x8: Klasa stila <code>nepDxpDemoNewsMaster</code> dodana je pločici, ona obrće smjer savijanja sadržaja kartice, pozicionirajući naslov i podnaslov na dno pločice. Raspored pločica s maskom slike odozdo prema gore čini da se naslov/podnaslov pločice ističe u odnosu na pozadinsku sliku."
+			},
+			"CS": {
+				"text": "Dlaždice 12x8: K dlaždici byla přidána třída stylu <code>nepDxpDemoNewsMaster</code>, která obrací směr ohybu obsahu karty a umisťuje název a podtitul do spodní části dlaždice. Rozvržení dlaždic s maskou obrázku zdola nahoru umožňuje, aby název/podtitul dlaždice vynikl na pozadí obrázku."
+			},
+			"DA": {
+				"text": "12x8-flise: Stilklassen <code>nepDxpDemoNewsMaster</code> er blevet tilføjet til feltet. Den vender kortindholdet om i fleksretningen og placerer titlen og undertitlen nederst på feltet. Et feltlayout med en billedmaske nedefra og op får feltets titel/undertitl til at skille sig ud mod baggrundsbilledet."
+			},
+			"NL": {
+				"text": "Tegel van 12x8: De stijlklasse <code>nepDxpDemoNewsMaster</code> is toegevoegd aan de tegel. Deze draait de flexrichting van de kaartinhoud om en plaatst de titel en subtitel onderaan de tegel. Een tegellayout met een bottom-up afbeeldingsmasker zorgt ervoor dat de titel en subtitel van de tegel beter uitkomen ten opzichte van de achtergrondafbeelding."
+			},
+			"ET": {
+				"text": "12x8 paan: Paanile on lisatud stiiliklass <code>nepDxpDemoNewsMaster</code>, mis pöörab kaardi sisu painutussuuna vastupidiseks, paigutades pealkirja ja alapealkirja paani allserva. Paani paigutus alt-üles pildimaskiga tõstab paani pealkirja/alapealkirja taustapildi taustal esile."
+			},
+			"FI": {
+				"text": "12x8 laatta: Laattiin on lisätty tyyliluokka <code>nepDxpDemoNewsMaster</code>, joka kääntää kortin sisällön taittosuunnan ja sijoittaa otsikon ja alaotsikon laatan alaosaan. Laatan asettelu, jossa on alhaalta ylöspäin suuntautuva kuvamaski, saa laatan otsikon/alaotsikon erottumaan taustakuvasta."
+			},
+			"FR": {
+				"text": "Tuile 12x8 : La classe de style `<code>nepDxpDemoNewsMaster</code>` a été ajoutée à la tuile. Elle inverse la direction du contenu de la carte, positionnant ainsi le titre et le sous-titre en bas de la tuile. Une mise en page avec un masque d'image orienté vers le bas permet de faire ressortir le titre et le sous-titre sur l'image de fond."
+			},
+			"DE": {
+				"text": "12x8-Kachel: Die Stilklasse `nepDxpDemoNewsMaster` wurde der Kachel hinzugefügt. Sie kehrt die Flex-Richtung des Karteninhalts um und positioniert Titel und Untertitel am unteren Rand der Kachel. Durch das Kachel-Layout mit einer von unten nach oben verlaufenden Bildmaske heben sich Titel und Untertitel deutlich vom Hintergrundbild ab."
+			},
+			"EL": {
+				"text": "Πλακίδιο 12x8: Η κλάση στυλ <code>nepDxpDemoNewsMaster</code> έχει προστεθεί στο πλακίδιο, αντιστρέφοντας την ευέλικτη κατεύθυνση του περιεχομένου της κάρτας, τοποθετώντας τον τίτλο και τον υπότιτλο στο κάτω μέρος του πλακιδίου. Μια διάταξη πλακιδίου με μάσκα εικόνας από κάτω προς τα πάνω, κάνει τον τίτλο/υπότιτλο πλακιδίου να ξεχωρίζει από την εικόνα φόντου."
+			},
+			"HE": {
+				"text": "אריח 12x8: מחלקת הסגנון <code>nepDxpDemoNewsMaster</code> נוספה לאריח, היא הופכת את תוכן הכרטיס לכיוון הכיפוף, וממקמת את הכותרת וכותרת המשנה בתחתית האריח. פריסת אריח עם מסיכת תמונה מלמטה למעלה, גורמת לכותרת/כותרת המשנה של האריח לבלוט על רקע תמונת הרקע."
+			},
+			"HU": {
+				"text": "12x8-as csempe: A <code>nepDxpDemoNewsMaster</code> stílusosztály hozzáadódott a csempéhez, amely megfordítja a kártya tartalmának rugalmasságát, a címet és az alcímet a csempe aljára helyezve. Az alulról felfelé néző képmaszkos csempeelrendezés kiemeli a csempe címét/alcímét a háttérképből."
+			},
+			"IS": {
+				"text": "12x8 flís: Stílflokkurinn <code>nepDxpDemoNewsMaster</code> hefur verið bætt við flísina, hann snýr innihaldi kortsins við í beygjuátt og setur titil og undirtitil neðst á flísinni. Flísaútlit með myndgrímu sem setur myndina niður frá og upp lætur titil/undirtitil flísarinnar skera sig úr bakgrunnsmyndinni."
+			},
+			"ID": {
+				"text": "Ubin 12x8: Kelas gaya <code>nepDxpDemoNewsMaster</code> telah ditambahkan ke ubin. Gaya ini membalikkan arah konten kartu, menempatkan judul & subjudul di bagian bawah ubin. Tata letak ubin dengan topeng gambar dari bawah ke atas membuat judul/subjudul ubin terlihat menonjol dibandingkan gambar latar belakang."
+			},
+			"IT": {
+				"text": "Tile 12x8: la classe di stile <code>nepDxpDemoNewsMaster</code> è stata aggiunta al tile, invertendo la direzione del contenuto della scheda, posizionando il titolo e il sottotitolo nella parte inferiore del tile. Un layout del tile con una maschera immagine dal basso verso l'alto fa risaltare il titolo/sottotitolo del tile rispetto all'immagine di sfondo."
+			},
+			"JA": {
+				"text": "12x8 タイル: スタイルクラス <code>nepDxpDemoNewsMaster</code> がタイルに追加されました。これにより、カードのコンテンツがフレックス方向で反転され、タイトルとサブタイトルがタイルの下部に配置されます。下から上への画像マスクを使用したタイルレイアウトにより、タイルのタイトル/サブタイトルが背景画像に対して際立ちます。"
+			},
+			"KK": {
+				"text": "12x8 плитка: тақтаға <code>nepDxpDemoNewsMaster</code> стиль сыныбы қосылды, ол карта мазмұнын икемді бағытқа өзгертеді, тақырып пен қосымша тақырыпты тақтайшаның төменгі жағында орналастырады. Төменнен жоғарыға қарай кескін маскасы бар тақтайшаның орналасуы мозаика тақырыбын/қосалқы тақырыпты фондық кескіннен ерекше етеді."
+			},
+			"KO": {
+				"text": "12x8 타일: 스타일 클래스 <code>nepDxpDemoNewsMaster</code>가 타일에 추가되었습니다. 이 클래스는 카드 콘텐츠의 플렉스 방향을 반전시켜 제목과 부제를 타일 하단에 배치합니다. 상향식 이미지 마스크가 적용된 타일 레이아웃은 타일 제목/부제를 배경 이미지와 대비시켜 더욱 돋보이게 합니다."
+			},
+			"LV": {
+				"text": "12x8 flīze: Flīzei ir pievienota stila klase <code>nepDxpDemoNewsMaster</code>, kas maina kartītes satura locīšanas virzienu pretēji tā virzienam, novietojot virsrakstu un apakšvirsrakstu flīzes apakšā. Flīžu izkārtojums ar attēla masku no apakšas uz augšu izceļ flīzes virsrakstu/apakšvirsrakstu uz fona attēla fona."
+			},
+			"LT": {
+				"text": "12x8 plytelė: prie plytelės pridėta stiliaus klasė <code>nepDxpDemoNewsMaster</code>, kuri pakeičia kortelės turinio lankstymo kryptį, pavadinimą ir paantraštę išdėstydama plytelės apačioje. Plytelės išdėstymas su vaizdo kauke iš apačios į viršų leidžia plytelės pavadinimui ir paantraštei išsiskirti fono paveikslėlyje."
+			},
+			"MK": {
+				"text": "Плочка 12x8: Класата на стил <code>nepDxpDemoNewsMaster</code> е додадена на плочката, таа ја менува флексибилната насока на содржината на картичката, позиционирајќи го насловот и поднасловот на дното од плочката. Распоредот на плочката со маска за слика од дното нагоре го прави насловот/поднасловот на плочката да се истакнува во однос на сликата во позадина."
+			},
+			"MS": {
+				"text": "Jubin 12x8: Kelas gaya <code>nepDxpDemoNewsMaster</code> telah ditambahkan pada jubin, ia membalikkan kandungan kad arah flex, meletakkan tajuk & sub tajuk di bahagian bawah jubin. Susun atur jubin dengan topeng imej bawah ke atas, menjadikan tajuk jubin/sub tajuk menonjol berbanding imej latar belakang."
+			},
+			"NO": {
+				"text": "12x8-flis: Stilklassen <code>nepDxpDemoNewsMaster</code> er lagt til flisen. Den reverserer kortinnholdet i bøyningsretningen, og plasserer tittel og undertittel nederst på flisen. Et flisoppsett med en bildemaske nedenfra og opp gjør at flistittelen/undertittelen skiller seg ut mot bakgrunnsbildet."
+			},
+			"NN": {
+				"text": "12x8-flis: Stilklassen <code>nepDxpDemoNewsMaster</code> er lagt til flisen. Den reverserer kortinnholdet i bøyningsretningen, og plasserer tittel og undertittel nederst på flisen. Et flisoppsett med en bildemaske nedenfra og opp gjør at flistittelen/undertittelen skiller seg ut mot bakgrunnsbildet."
+			},
+			"PL": {
+				"text": "Kafelek 12x8: Do kafelka dodano klasę stylu <code>nepDxpDemoNewsMaster</code>, która odwraca zawartość karty w kierunku zgięcia, umieszczając tytuł i podtytuł u dołu kafelka. Układ kafelków z maską obrazu od dołu do góry sprawia, że tytuł/podtytuł kafelka wyróżniają się na tle obrazu."
+			},
+			"PT": {
+				"text": "Bloco 12x8: A classe de estilo <code>nepDxpDemoNewsMaster</code> foi adicionada ao bloco, invertendo a direção flexível do conteúdo do cartão e posicionando o título e o subtítulo na parte inferior do bloco. Um layout de bloco com máscara de imagem de baixo para cima faz com que o título/subtítulo do bloco se destaque em relação à imagem de fundo."
+			},
+			"RO": {
+				"text": "Dală 12x8: Clasa de stil <code>nepDxpDemoNewsMaster</code> a fost adăugată dalei, inversând conținutul cardului în direcția flex, poziționând titlul și subtitlul în partea de jos a dalei. O dispunere a dalei cu o mască de imagine de jos în sus face ca titlul/subtitlul dalei să iasă în evidență față de imaginea de fundal."
+			},
+			"RU": {
+				"text": "Плитка 12x8: к плитке добавлен класс стиля <code>nepDxpDemoNewsMaster</code>, который меняет направление Flex содержимого карточки, располагая заголовок и подзаголовок внизу плитки. Макет плитки с маской изображения снизу вверх выделяет заголовок и подзаголовок плитки на фоне."
+			},
+			"SE": {
+				"text": "12x8-távvala: Stiilaluohkká <code>nepDxpDemoNewsMaster</code> lea lasihuvvon távvalii, dat rievdada koartta sisdoalu flex-guvlui, ja bidjá namma- ja vuollečállosa távvala vuolábeallái. Čáhcelávki mas lea vuolábealde govvamáska, dahká ahte čáhci namma/oassečálus čájehuvvo eret duogášgova ektui."
+			},
+			"SR": {
+				"text": "Плочица 12x8: Класа стила <code>nepDxpDemoNewsMaster</code> је додата плочици, она обрће смер савијања садржаја картице, позиционирајући наслов и поднаслов на дну плочице. Распоред плочице са маском слике одоздо нагоре чини да се наслов/поднаслов плочице истиче у односу на позадинску слику."
+			},
+			"SH": {
+				"text": "Плочица 12x8: Класа стила <code>nepDxpDemoNewsMaster</code> је додата плочици, она обрће смер савијања садржаја картице, позиционирајући наслов и поднаслов на дну плочице. Распоред плочице са маском слике одоздо нагоре чини да се наслов/поднаслов плочице истиче у односу на позадинску слику."
+			},
+			"SK": {
+				"text": "Dlaždica 12x8: Do dlaždice bola pridaná štýlová trieda <code>nepDxpDemoNewsMaster</code>, ktorá obracia smer ohybu obsahu karty a umiestňuje názov a podnadpis na spodok dlaždice. Rozloženie dlaždice s maskou obrázka zdola nahor umožňuje, aby názov/podnadpis dlaždice vynikal oproti obrázku na pozadí."
+			},
+			"SL": {
+				"text": "Ploščica 12x8: Ploščici je bil dodan slogovni razred <code>nepDxpDemoNewsMaster</code>, ki obrne smer upogibanja vsebine kartice, tako da naslov in podnaslov postavi na dno ploščice. Postavitev ploščice z masko slike od spodaj navzgor omogoča, da naslov/podnaslov ploščice izstopa v primerjavi s sliko ozadja."
+			},
+			"ES": {
+				"text": "Mosaico de 12x8: Se ha añadido la clase de estilo <code>nepDxpDemoNewsMaster</code> al mosaico. Esta clase invierte el contenido de la tarjeta en la dirección de flexión, colocando el título y el subtítulo en la parte inferior del mosaico. Un diseño de mosaico con una máscara de imagen ascendente hace que el título y el subtítulo del mosaico destaquen sobre la imagen de fondo."
+			},
+			"SV": {
+				"text": "12x8-ruta: Stilklassen <code>nepDxpDemoNewsMaster</code> har lagts till i rutan. Den vänder kortinnehållet i flexriktning och placerar titel och undertitel längst ner i rutan. En rutalayout med en bildmask nedifrån och upp gör att rutans titel/undertitel sticker ut mot bakgrundsbilden."
+			},
+			"TH": {
+				"text": "ไทล์ขนาด 12x8: เพิ่มคลาสสไตล์ <code>nepDxpDemoNewsMaster</code> ลงในไทล์ ซึ่งจะกลับทิศทางของเนื้อหาการ์ด โดยจัดตำแหน่งชื่อเรื่องและชื่อเรื่องย่อยไว้ที่ด้านล่างของไทล์ เลย์เอาต์ไทล์ที่มีหน้ากากภาพจากล่างขึ้นบน จะทำให้ชื่อเรื่อง/ชื่อเรื่องย่อยของไทล์โดดเด่นขึ้นมาจากภาพพื้นหลัง"
+			},
+			"TR": {
+				"text": "12x8 karo: Karoya <code>nepDxpDemoNewsMaster</code> stil sınıfı eklendi. Bu sınıf, kart içeriğini esnek yönde tersine çevirerek başlığı ve alt başlığı karonun altına yerleştiriyor. Aşağıdan yukarıya görüntü maskesine sahip bir karo düzeni, karo başlığının/alt başlığının arka plan görüntüsüne göre öne çıkmasını sağlıyor."
+			},
+			"UK": {
+				"text": "Плитка 12x8: До плитки додано клас стилю <code>nepDxpDemoNewsMaster</code>, який змінює напрямок згинання вмісту картки, розміщуючи заголовок і підзаголовок внизу плитки. Макет плитки з маскою зображення знизу вгору виділяє заголовок/підзаголовок плитки на фоновому зображенні."
+			},
+			"VI": {
+				"text": "Ô 12x8: Lớp kiểu <code>nepDxpDemoNewsMaster</code> đã được thêm vào ô, nó đảo ngược hướng flex của nội dung thẻ, đặt tiêu đề và tiêu đề phụ ở dưới cùng của ô. Bố cục ô với mặt nạ hình ảnh từ dưới lên trên giúp tiêu đề/tiêu đề phụ của ô nổi bật trên nền ảnh."
+			}
 		},
 		{
 			"parent": "tilegroup.menuNews.message",
@@ -217,7 +3621,136 @@
 				"text": "4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel"
 			},
 			"type": "XTXT",
-			"id": "dc97625a-5c77-4418-ab0a-472caab7520b"
+			"id": "dc97625a-5c77-4418-ab0a-472caab7520b",
+			"AF": {
+				"text": "4x1: Teëls met 'n titel en ikoon. Teëluitleg met 4x1-grootte en ikoonplasing \"belyn-met-titel-links\" beheer die voorkoms en gevoel van die teël."
+			},
+			"AR": {
+				"text": "٤×١: بلاطات تحمل عنوانًا وأيقونة. تصميم البلاط بحجم ٤×١ وموضع الأيقونات (align-with-title-left) يتحكم في مظهر البلاط وملمسه."
+			},
+			"BG": {
+				"text": "4x1: Плочки със заглавие и икона. Оформлението на плочките с размер 4x1 и разположение на иконите е с опцията allign-with-title-left, която контролира външния вид и усещането на плочките."
+			},
+			"ZH": {
+				"text": "4x1：带有标题和图标的图块。4x1 尺寸的图块布局，图标位置与标题左对齐，可控制图块的外观。"
+			},
+			"ZF": {
+				"text": "4x1：帶有標題和圖示的圖塊。 4x1 尺寸的圖塊佈局，圖示位置與標題左對齊，可控制圖塊的外觀。"
+			},
+			"HR": {
+				"text": "4x1: Pločice s naslovom i ikonom. Raspored pločica veličine 4x1 i položajem ikone allign-with-title-left kontrolira izgled i dojam pločica."
+			},
+			"CS": {
+				"text": "4x1: Dlaždice s názvem a ikonou. Rozvržení dlaždic s velikostí 4x1 a umístěním ikony. Možnost allign-with-title-left ovládá vzhled a dojem z dlaždic."
+			},
+			"DA": {
+				"text": "4x1: Fliser med en titel og et ikon. Fliselayout med 4x1 størrelse og ikonplacering \"juster-med-titlen-venstre\" styrer flisens udseende og funktion."
+			},
+			"NL": {
+				"text": "4x1: Tegels met een titel en pictogram. Tegelindeling met 4x1-formaat en pictogramplaatsing. Uitlijnen met titel links bepaalt de look en feel van de tegel."
+			},
+			"ET": {
+				"text": "4x1: Plaadid pealkirja ja ikooniga. Plaatide paigutus 4x1 suuruse ja ikooni paigutusega (allign-with-title-left) määrab plaatide välimuse ja tunnetuse."
+			},
+			"FI": {
+				"text": "4x1: Laatat, joissa on otsikko ja kuvake. Laattojen asettelu 4x1-koolla ja kuvakkeiden sijoittelulla (allign-with-title-left) hallitsee laattojen ulkoasua ja tunnelmaa."
+			},
+			"FR": {
+				"text": "4x1 : Tuiles avec titre et icône. La disposition des tuiles (4x1) et l’alignement des icônes à gauche du titre permettent de contrôler leur apparence."
+			},
+			"DE": {
+				"text": "4x1: Kacheln mit Titel und Symbol. Das Kachel-Layout im Format 4x1 und die Symbolplatzierung (ausrichten am Titel links) steuern das Erscheinungsbild der Kachel."
+			},
+			"EL": {
+				"text": "4x1: Πλακίδια με τίτλο και εικονίδιο. Η διάταξη πλακιδίων με μέγεθος 4x1 και τοποθέτηση εικονιδίων allign-with-title-left ελέγχει την εμφάνιση και την αίσθηση του πλακιδίου."
+			},
+			"HE": {
+				"text": "4x1: אריחים עם כותרת וסמל. פריסת אריחים עם גודל 4x1 ומיקום סמל יישור-עם-כותרת-שמאלה שולטת במראה ובתחושה של האריח."
+			},
+			"HU": {
+				"text": "4x1: Csempék címmel és ikonnal. A 4x1 méretű és ikonelhelyezésű csempeelrendezés (align-with-title-left) szabályozza a csempe megjelenését és hangulatát."
+			},
+			"IS": {
+				"text": "4x1: Flísar með titli og tákni. Útlit flísa með 4x1 stærð og staðsetningu tákna, „allin-with-title-left“, stjórnar útliti og áferð flísa."
+			},
+			"ID": {
+				"text": "4x1: Ubin dengan judul dan ikon. Tata letak ubin dengan ukuran 4x1 dan penempatan ikon allign-with-title-left mengontrol tampilan dan nuansa ubin."
+			},
+			"IT": {
+				"text": "4x1: Riquadri con titolo e icona. Il layout dei riquadri con dimensione 4x1 e posizionamento delle icone allign-with-title-left controlla l'aspetto dei riquadri."
+			},
+			"JA": {
+				"text": "4x1: タイトルとアイコン付きのタイル。4x1のサイズとアイコン配置のタイルレイアウト。allig-with-title-leftはタイルの外観を制御します。"
+			},
+			"KK": {
+				"text": "4x1: тақырыбы мен белгішесі бар тақтайшалар. 4x1 өлшемі бар тақтайша орналасуы және белгішесі тақырыппен солға туралау тақтайшаның көрінісін басқарады"
+			},
+			"KO": {
+				"text": "4x1: 제목과 아이콘이 있는 타일입니다. 4x1 크기와 아이콘 배치를 가진 타일 레이아웃(align-with-title-left)을 통해 타일의 모양과 느낌을 제어할 수 있습니다."
+			},
+			"LV": {
+				"text": "4x1: Flīzes ar nosaukumu un ikonu. Flīzes izkārtojums ar 4x1 izmēru un ikonu izvietojumu “align-with-title-left” kontrolē flīžu izskatu un sajūtu."
+			},
+			"LT": {
+				"text": "4x1: Plytelės su pavadinimu ir piktograma. Plytelių išdėstymas su 4x1 dydžiu ir piktogramų išdėstymu „align-with-title-left“ kontroliuoja plytelių išvaizdą ir pojūtį."
+			},
+			"MK": {
+				"text": "4x1: Плочки со наслов и икона. Распоредот на плочки со големина 4x1 и поставување на икона allign-with-title-left го контролира изгледот и чувството на плочките."
+			},
+			"MS": {
+				"text": "4x1: Jubin dengan tajuk dan ikon. Reka letak jubin dengan saiz 4x1 dan peletakan ikon sejajar-dengan-tajuk-kiri mempunyai mengawal rupa jubin"
+			},
+			"NO": {
+				"text": "4x1: Fliser med tittel og ikon. Flisoppsett med 4x1-størrelse og ikonplassering. Allinjisert med tittel til venstre styrer flisens utseende og følelse."
+			},
+			"NN": {
+				"text": "4x1: Fliser med tittel og ikon. Flisoppsett med 4x1-størrelse og ikonplassering. Allinjisert med tittel til venstre styrer flisens utseende og følelse."
+			},
+			"PL": {
+				"text": "4x1: Kafelki z tytułem i ikoną. Układ kafelków o rozmiarze 4x1 i rozmieszczeniu ikon (wyrównanie do tytułu po lewej) kontroluje wygląd i styl kafelka."
+			},
+			"PT": {
+				"text": "4x1: Blocos com título e ícone. O layout de blocos com tamanho 4x1 e posicionamento do ícone alinhado com o título à esquerda controla a aparência do bloco."
+			},
+			"RO": {
+				"text": "4x1: Dale cu titlu și pictogramă. Aspectul dalelor cu dimensiunea 4x1 și plasarea pictogramelor allign-with-title-left controlează aspectul și funcționalitatea dalelor."
+			},
+			"RU": {
+				"text": "4x1: Плитки с заголовком и значком. Макет плитки размером 4x1 и расположением значков align-with-title-left управляет внешним видом и оформлением плитки."
+			},
+			"SE": {
+				"text": "4x1: Fliisat main lea namma ja ikona. 4x1 sturrosaš čáhcefápmorusttet ja ikonaid sajádat align-with-title-left stivre čáhcefápmorusttega čalmmiid ja dovdduid"
+			},
+			"SR": {
+				"text": "4x1: Плочице са насловом и иконом. Распоред плочица величине 4x1 и положајем иконе, опција allign-with-title-left, контролише изглед и осећај плочица."
+			},
+			"SH": {
+				"text": "4x1: Плочице са насловом и иконом. Распоред плочица величине 4x1 и положајем иконе, опција allign-with-title-left, контролише изглед и осећај плочица."
+			},
+			"SK": {
+				"text": "4x1: Dlaždice s názvom a ikonou. Rozloženie dlaždíc s veľkosťou 4x1 a umiestnením ikony allign-with-title-left ovláda vzhľad a dojem z dlaždíc."
+			},
+			"SL": {
+				"text": "4x1: Ploščice z naslovom in ikono. Postavitev ploščic z velikostjo 4x1 in postavitvijo ikone allign-with-title-left nadzoruje videz in občutek ploščic."
+			},
+			"ES": {
+				"text": "4x1: Mosaicos con título e icono. El diseño de mosaicos de tamaño 4x1 y la ubicación del icono \"allign-with-title-left\" controlan la apariencia de los mosaicos."
+			},
+			"SV": {
+				"text": "4x1: Kakel med titel och ikon. Kakellayout med 4x1-storlek och ikonplacering allign-with-title-left styr kakelns utseende och känsla."
+			},
+			"TH": {
+				"text": "4x1: ไทล์พร้อมชื่อเรื่องและไอคอน การจัดวางไทล์ด้วยขนาด 4x1 และการจัดวางไอคอน allign-with-title-left มีตัวควบคุมรูปลักษณ์และความรู้สึกของไทล์"
+			},
+			"TR": {
+				"text": "4x1: Başlık ve simge içeren döşemeler. 4x1 boyutunda ve simge yerleşimli döşeme düzeni, allign-with-title-left ile döşemenin görünümünü ve hissini kontrol eder."
+			},
+			"UK": {
+				"text": "4x1: Плитки із заголовком та значком. Макет плиток розміром 4x1 та розташуванням значка. Параметр allign-with-title-left контролює зовнішній вигляд плитки."
+			},
+			"VI": {
+				"text": "4x1: Ô có tiêu đề và biểu tượng. Bố cục ô với kích thước 4x1 và vị trí biểu tượng allign-with-title-left sẽ điều khiển giao diện của ô."
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -225,7 +3758,136 @@
 			"name": "tilegroup.newsFantacyTeams",
 			"EN": {},
 			"type": "XTXT",
-			"id": "91d5fea5-0b3a-445c-fe89-76922dd62827"
+			"id": "91d5fea5-0b3a-445c-fe89-76922dd62827",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.newsFantacyTeams",
@@ -236,7 +3898,136 @@
 				"text": "Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. Each tile includes a tile icon image, the image size as been manipulated in the global style attached to the launchpad."
 			},
 			"type": "XTXT",
-			"id": "48d801ca-1e6b-4c6e-ea19-c1dda19f496c"
+			"id": "48d801ca-1e6b-4c6e-ea19-c1dda19f496c",
+			"AF": {
+				"text": "Standaard teëlgroepafdeling sonder 'n teëlgroepuitleg. 8 teëls met 'n 2x2-grootte teëluitleg. Elke teël bevat 'n teëlikoonbeeld, die beeldgrootte soos gemanipuleer in die globale styl wat aan die bekendstellingspaneel gekoppel is."
+			},
+			"AR": {
+				"text": "قسم مجموعات البلاط القياسي بدون تخطيط مجموعات البلاط. 8 بلاطات بتصميم بلاطات 2×2. كل بلاطة تحتوي على صورة أيقونة بلاطة، وقد تم تعديل حجم الصورة بالنمط العالمي المرفق بلوحة التشغيل."
+			},
+			"BG": {
+				"text": "Стандартна секция за група плочки без оформление на група плочки. 8 плочки с оформление на плочки с размер 2x2. Всяка плочка включва изображение на икона на плочка, като размерът на изображението е манипулиран в глобалния стил, прикачен към стартовата панела."
+			},
+			"ZH": {
+				"text": "标准图块组部分，无图块组布局。包含 8 个图块，采用 2x2 的图块布局。每个图块都包含一个图块图标图像，图像大小已在启动面板的全局样式中进行了调整。"
+			},
+			"ZF": {
+				"text": "標準圖塊組部分，無圖塊組佈局。包含 8 個圖塊，採用 2x2 的圖塊佈局。每個圖塊都包含一個圖塊圖示圖像，圖像大小已在啟動面板的全域樣式中進行了調整。"
+			},
+			"HR": {
+				"text": "Standardni odjeljak grupe pločica bez rasporeda grupe pločica. 8 pločica s rasporedom veličine 2x2. Svaka pločica uključuje sliku ikone pločice, a veličina slike je manipulirana u globalnom stilu pridruženom pokretačkoj ploči."
+			},
+			"CS": {
+				"text": "Standardní sekce skupiny dlaždic bez rozvržení skupiny dlaždic. 8 dlaždic s rozvržením o velikosti 2x2. Každá dlaždice obsahuje obrázek ikony dlaždice, jehož velikost byla upravena v globálním stylu připojeném k launchpadu."
+			},
+			"DA": {
+				"text": "Standard feltgruppesektion uden feltgruppelayout. 8 felter med et feltlayout i størrelse 2x2. Hver felt indeholder et feltikonbillede, billedstørrelsen er manipuleret i den globale stil, der er knyttet til launchpad'en."
+			},
+			"NL": {
+				"text": "Standaard tegelgroepsectie zonder tegelgroepindeling. 8 tegels met een tegelindeling van 2x2. Elke tegel bevat een tegelpictogram; de afbeeldingsgrootte is aangepast in de globale stijl die aan het startplatform is gekoppeld."
+			},
+			"ET": {
+				"text": "Standardse paanirühma sektsioon ilma paanirühma paigutuseta. 8 paani suurusega 2x2 paanipaigutus. Igal paanil on paaniikooni pilt, mille suurust on muudetud käivitusribale lisatud globaalses stiilis."
+			},
+			"FI": {
+				"text": "Vakiomuotoinen laattaryhmäosio ilman laattaryhmäasettelua. 8 laattaa, joiden laatta-asettelu on 2x2. Jokaisessa laatassa on laattakuvake, jonka kokoa on muokattu käynnistyspaneeliin liitetyllä globaalilla tyylillä."
+			},
+			"FR": {
+				"text": "Section de groupe de tuiles standard sans disposition particulière. 8 tuiles de taille 2x2. Chaque tuile contient une icône dont la taille a été ajustée dans le style global associé au lanceur."
+			},
+			"DE": {
+				"text": "Standard-Kachelgruppenbereich ohne Kachelgruppenlayout. 8 Kacheln im 2x2-Format. Jede Kachel enthält ein Kachelsymbolbild, dessen Größe im globalen Stil des Launchpads angepasst wurde."
+			},
+			"EL": {
+				"text": "Τυπική ενότητα ομάδας πλακιδίων χωρίς διάταξη ομάδας πλακιδίων. 8 πλακίδια με διάταξη πλακιδίων μεγέθους 2x2. Κάθε πλακίδιο περιλαμβάνει μια εικόνα εικονιδίου πλακιδίου, το μέγεθος της εικόνας όπως έχει τροποποιηθεί στο καθολικό στυλ που είναι προσαρτημένο στο launchpad."
+			},
+			"HE": {
+				"text": "מקטע קבוצת אריחים סטנדרטי ללא פריסת קבוצת אריחים. 8 אריחים עם פריסת אריחים בגודל 2x2. כל אריח כולל תמונת סמל אריח, גודל התמונה כפי שעוצב בסגנון הגלובלי המצורף ללוח ההפעלה."
+			},
+			"HU": {
+				"text": "Normál csempecsoport-elrendezés nélküli szakasz. 8 csempe 2x2 méretű csempeelrendezéssel. Minden csempe tartalmaz egy csempe ikon képet, a képméretet a launchpadhoz csatolt globális stílusban módosították."
+			},
+			"IS": {
+				"text": "Staðlaður flísahópur án þess að hafa uppsetningu á flísahópi. 8 flísar með 2x2 stærð flísauppsetningu. Hver flís inniheldur mynd af flísatákni, myndastærðin eins og hún hefur verið unnin í alhliða stíl sem fylgir ræsipallinum."
+			},
+			"ID": {
+				"text": "Bagian grup ubin standar tanpa tata letak grup ubin. 8 ubin dengan tata letak ubin berukuran 2x2. Setiap ubin dilengkapi gambar ikon ubin, ukuran gambar telah dimanipulasi dalam gaya global yang terpasang pada launchpad."
+			},
+			"IT": {
+				"text": "Sezione standard del gruppo di tile senza layout. 8 tile con un layout di dimensione 2x2. Ogni tile include un'immagine icona, la cui dimensione è stata manipolata nello stile globale allegato al launchpad."
+			},
+			"JA": {
+				"text": "タイルグループレイアウトのない標準的なタイルグループセクション。2x2サイズのタイルレイアウトで8つのタイルが表示されます。各タイルにはタイルアイコン画像が含まれており、画像サイズはLaunchpadに付属するグローバルスタイルで調整されています。"
+			},
+			"KK": {
+				"text": "Плиткалар тобының орналасуы жоқ стандартты тақтайшалар тобы бөлімі. 2x2 өлшемді тақтайша орналасуы бар 8 плитка. Әрбір тақтайша белгіше кескінін қамтиды, кескін өлшемі іске қосу тақтасына бекітілген жаһандық стильде өңделген."
+			},
+			"KO": {
+				"text": "타일 그룹 레이아웃이 없는 표준 타일 그룹 섹션입니다. 2x2 크기의 타일 레이아웃을 가진 8개의 타일이 있습니다. 각 타일에는 타일 아이콘 이미지가 포함되어 있으며, 이미지 크기는 런치패드에 첨부된 글로벌 스타일에서 조정되었습니다."
+			},
+			"LV": {
+				"text": "Standarta mozaīkas grupas sadaļa bez mozaīkas grupas izkārtojuma. 8 mozaīkas ar 2x2 izmēra mozaīkas izkārtojumu. Katra mozaīka ietver mozaīkas ikonas attēlu, attēla izmērs ir mainīts globālajā stilā, kas pievienots palaišanas panelim."
+			},
+			"LT": {
+				"text": "Standartinė plytelių grupės sekcija be plytelių grupės išdėstymo. 8 plytelės su 2x2 dydžio plytelių išdėstymu. Kiekvienoje plytelėje yra plytelės piktogramos paveikslėlis, kurio dydis pakeistas visuotiniu stiliumi, pridėtu prie paleidimo skydelio."
+			},
+			"MK": {
+				"text": "Стандардна секција за група плочки без распоред на групи плочки. 8 плочки со распоред на плочки со големина 2x2. Секоја плочка вклучува слика од икона на плочка, при што големината на сликата е манипулирана во глобалниот стил прикачен на платформата за стартување."
+			},
+			"MS": {
+				"text": "Bahagian kumpulan jubin standard tanpa susun atur kumpulan jubin. 8 jubin dengan susun atur jubin saiz 2x2. Setiap jubin termasuk imej ikon jubin, saiz imej yang telah dimanipulasi dalam gaya global yang dilampirkan pada pad pelancaran."
+			},
+			"NO": {
+				"text": "Standard flisgruppeseksjon uten flisgruppeoppsett. 8 fliser med et flisoppsett på 2x2-størrelse. Hver flis inkluderer et flisikonbilde, bildestørrelsen er manipulert i den globale stilen som er knyttet til startflaten."
+			},
+			"NN": {
+				"text": "Standard flisgruppeseksjon uten flisgruppeoppsett. 8 fliser med et flisoppsett på 2x2-størrelse. Hver flis inkluderer et flisikonbilde, bildestørrelsen er manipulert i den globale stilen som er knyttet til startflaten."
+			},
+			"PL": {
+				"text": "Standardowa sekcja grupy kafelków bez układu grup kafelków. 8 kafelków o rozmiarze 2x2. Każdy kafelek zawiera ikonę kafelka, której rozmiar został dostosowany w globalnym stylu dołączonym do panelu startowego."
+			},
+			"PT": {
+				"text": "Seção de grupo de blocos padrão sem layout de grupo de blocos. 8 blocos com um layout de 2x2. Cada bloco inclui uma imagem de ícone, cujo tamanho foi ajustado no estilo global vinculado ao launchpad."
+			},
+			"RO": {
+				"text": "Secțiune standard a grupului de dale fără aspect de grup. 8 dale cu aspect de dimensiunea 2x2. Fiecare dală include o imagine cu pictogramă pentru dală, dimensiunea imaginii fiind manipulată în stilul global atașat la Launchpad."
+			},
+			"RU": {
+				"text": "Раздел стандартной группы плиток без макета группы плиток. 8 плиток с макетом 2x2. Каждая плитка включает изображение значка плитки, размер которого задаётся в глобальном стиле, прикреплённом к панели запуска."
+			},
+			"SE": {
+				"text": "Dábálaš čáhcejoavkooassi mas ii leat čáhcejoavkoortnet. 8 čáhcefápmorusttega mas lea 2x2 sturrosaš čáhcefápmorusttet. Juohke čáhcefápmorusttegis lea čáhcefápmorusttetgovva, gova sturrodat lea manipulerejuvvon globála stiillain mii lea čadnojuvvon álggahanbáikái."
+			},
+			"SR": {
+				"text": "Стандардни одељак групе плочица без распореда групе плочица. 8 плочица са распоредом плочица величине 2x2. Свака плочица садржи слику иконе плочице, величина слике је манипулисана у глобалном стилу приложеном лансирној табли."
+			},
+			"SH": {
+				"text": "Стандардни одељак групе плочица без распореда групе плочица. 8 плочица са распоредом плочица величине 2x2. Свака плочица садржи слику иконе плочице, величина слике је манипулисана у глобалном стилу приложеном лансирној табли."
+			},
+			"SK": {
+				"text": "Štandardná sekcia skupiny dlaždíc bez rozloženia skupiny dlaždíc. 8 dlaždíc s rozložením dlaždíc veľkosti 2x2. Každá dlaždica obsahuje obrázok ikony dlaždice, pričom veľkosť obrázka bola upravená v globálnom štýle pripojenom k hlavnému panelu."
+			},
+			"SL": {
+				"text": "Standardni razdelek skupine ploščic brez postavitve skupine ploščic. 8 ploščic z razporeditvijo ploščic velikosti 2x2. Vsaka ploščica vključuje sliko ikone ploščice, katere velikost je bila spremenjena v globalnem slogu, priloženem lansirni ploščici."
+			},
+			"ES": {
+				"text": "Sección de grupo de mosaicos estándar sin diseño de grupo. 8 mosaicos con un diseño de mosaico de 2x2. Cada mosaico incluye una imagen de icono, cuyo tamaño se ha modificado según el estilo global del panel de lanzamiento."
+			},
+			"SV": {
+				"text": "Standardsektion för kakelgrupper utan layout för kakelgrupper. 8 kakel med en kakellayout i storleken 2x2. Varje kakel innehåller en kakelikonbild, bildstorleken har manipulerats i den globala stilen som är kopplad till startplattan."
+			},
+			"TH": {
+				"text": "ส่วนกลุ่มไทล์มาตรฐานที่ไม่มีเค้าโครงกลุ่มไทล์ ไทล์ 8 ตัวมีเค้าโครงไทล์ขนาด 2x2 แต่ละไทล์มีภาพไอคอนไทล์ โดยขนาดของภาพจะถูกปรับแต่งตามรูปแบบทั่วไปที่แนบมากับ Launchpad"
+			},
+			"TR": {
+				"text": "Döşeme grubu düzeni olmayan standart döşeme grubu bölümü. 2x2 boyutunda döşeme düzenine sahip 8 döşeme. Her döşeme, başlatma paneline eklenen genel stilde görüntü boyutu değiştirilmiş bir döşeme simgesi resmi içerir."
+			},
+			"UK": {
+				"text": "Стандартний розділ групи плиток без макета групи плиток. 8 плиток з макетом плиток розміром 2x2. Кожна плитка містить зображення значка плитки, розмір якого змінено в глобальному стилі, доданому до панелі запуску."
+			},
+			"VI": {
+				"text": "Phần nhóm ô tiêu chuẩn không có bố cục nhóm ô. 8 ô với bố cục ô kích thước 2x2. Mỗi ô bao gồm một hình ảnh biểu tượng ô, kích thước hình ảnh được điều chỉnh theo kiểu toàn cục được đính kèm với Launchpad."
+			}
 		},
 		{
 			"parent": "tilegroup.newsFantacyTeams",
@@ -247,7 +4038,136 @@
 				"text": "Weather Fantasy Teams"
 			},
 			"type": "XTXT",
-			"id": "caccd96b-7380-460c-dab3-27515da9c686"
+			"id": "caccd96b-7380-460c-dab3-27515da9c686",
+			"AF": {
+				"text": "Weer Fantasie Spanne"
+			},
+			"AR": {
+				"text": "فرق الطقس الخيالية"
+			},
+			"BG": {
+				"text": "Отбори за фентъзи за времето"
+			},
+			"ZH": {
+				"text": "天气梦幻球队"
+			},
+			"ZF": {
+				"text": "天氣夢幻球隊"
+			},
+			"HR": {
+				"text": "Timovi za vremensku fantaziju"
+			},
+			"CS": {
+				"text": "Týmy s počasím Fantasy"
+			},
+			"DA": {
+				"text": "Vejrfantasihold"
+			},
+			"NL": {
+				"text": "Weer Fantasy Teams"
+			},
+			"ET": {
+				"text": "Ilmafantaasia meeskonnad"
+			},
+			"FI": {
+				"text": "Sääfantasiajoukkueet"
+			},
+			"FR": {
+				"text": "Équipes Fantasy Météo"
+			},
+			"DE": {
+				"text": "Wetter-Fantasy-Teams"
+			},
+			"EL": {
+				"text": "Ομάδες Καιρού Φαντασίας"
+			},
+			"HE": {
+				"text": "קבוצות פנטזיה של מזג אוויר"
+			},
+			"HU": {
+				"text": "Időjárási fantasy csapatok"
+			},
+			"IS": {
+				"text": "Veðurfantasíulið"
+			},
+			"ID": {
+				"text": "Tim Fantasi Cuaca"
+			},
+			"IT": {
+				"text": "Squadre Fantasy Meteo"
+			},
+			"JA": {
+				"text": "天気ファンタジーチーム"
+			},
+			"KK": {
+				"text": "Ауа райы фантастикалық командалары"
+			},
+			"KO": {
+				"text": "날씨 판타지 팀"
+			},
+			"LV": {
+				"text": "Laika apstākļu fantāzijas komandas"
+			},
+			"LT": {
+				"text": "Orų fantazijos komandos"
+			},
+			"MK": {
+				"text": "Тимови за временска фантазија"
+			},
+			"MS": {
+				"text": "Pasukan Fantasi Cuaca"
+			},
+			"NO": {
+				"text": "Værfantasilag"
+			},
+			"NN": {
+				"text": "Værfantasilag"
+			},
+			"PL": {
+				"text": "Zespoły fantasy pogodowe"
+			},
+			"PT": {
+				"text": "Times de Fantasy com base no clima"
+			},
+			"RO": {
+				"text": "Echipe Fantasy Meteo"
+			},
+			"RU": {
+				"text": "Команды фэнтези-погоды"
+			},
+			"SE": {
+				"text": "Dálkkádatfantasiijajoavkkut"
+			},
+			"SR": {
+				"text": "Тимови за временску фантазију"
+			},
+			"SH": {
+				"text": "Тимови за временску фантазију"
+			},
+			"SK": {
+				"text": "Fantasy tímy o počasí"
+			},
+			"SL": {
+				"text": "Vremenske fantazijske ekipe"
+			},
+			"ES": {
+				"text": "Equipos de fantasía meteorológica"
+			},
+			"SV": {
+				"text": "Väderfantasilag"
+			},
+			"TH": {
+				"text": "ทีมแฟนตาซีสภาพอากาศ"
+			},
+			"TR": {
+				"text": "Hava Durumu Fantezi Takımları"
+			},
+			"UK": {
+				"text": "Команди фентезі з погоди"
+			},
+			"VI": {
+				"text": "Đội bóng tưởng tượng thời tiết"
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -255,7 +4175,136 @@
 			"name": "tilegroup.newsStories",
 			"EN": {},
 			"type": "XTXT",
-			"id": "e0f77e82-497c-40ae-a6c3-13ad34cb2c13"
+			"id": "e0f77e82-497c-40ae-a6c3-13ad34cb2c13",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.newsStories",
@@ -266,7 +4315,136 @@
 				"text": "Tile group section with hidden tile group header. 4 tiles with a tile image aligned at the top."
 			},
 			"type": "XTXT",
-			"id": "e11d10be-495d-4495-dfa3-09c90bcd34fc"
+			"id": "e11d10be-495d-4495-dfa3-09c90bcd34fc",
+			"AF": {
+				"text": "Teëlgroepafdeling met versteekte teëlgroepkop. 4 teëls met 'n teëlbeeld bo-aan in lyn gebring."
+			},
+			"AR": {
+				"text": "قسم مجموعة البلاط مع رأس مجموعة البلاط المخفي. 4 بلاطات مع صورة بلاط محاذية في الأعلى."
+			},
+			"BG": {
+				"text": "Секция с група плочки със скрит заглавен файл на групата плочки. 4 плочки с изображение на плочка, подравнено в горната част."
+			},
+			"ZH": {
+				"text": "带有隐藏式图块组标题的图块组部分。4 个图块，图块图像对齐在顶部。"
+			},
+			"ZF": {
+				"text": "帶有隱藏式圖塊組標題的圖塊組部分。 4 個圖塊，圖塊影像對齊在頂部。"
+			},
+			"HR": {
+				"text": "Odjeljak grupe pločica sa skrivenim zaglavljem grupe pločica. 4 pločice sa slikom pločice poravnatom na vrhu."
+			},
+			"CS": {
+				"text": "Sekce skupiny dlaždic se skrytou hlavičkou skupiny dlaždic. 4 dlaždice s obrázkem dlaždice zarovnaným nahoře."
+			},
+			"DA": {
+				"text": "Feltgruppesektion med skjult feltgruppeoverskrift. 4 felter med et feltbillede justeret øverst."
+			},
+			"NL": {
+				"text": "Sectie tegelgroep met verborgen tegelgroepkoptekst. 4 tegels met een tegelafbeelding bovenaan uitgelijnd."
+			},
+			"ET": {
+				"text": "Paanirühma jaotis peidetud paanirühma päisega. 4 paani, mille ülaosas on paani pilt."
+			},
+			"FI": {
+				"text": "Laattaryhmäosio, jossa on piilotettu laattaryhmän otsikko. 4 laattaa, joiden yläreunassa on laattakuva."
+			},
+			"FR": {
+				"text": "Section de groupe de tuiles avec en-tête de groupe de tuiles masqué. 4 tuiles avec une image de tuile alignée en haut."
+			},
+			"DE": {
+				"text": "Abschnitt mit Kachelgruppen und ausgeblendeter Kachelgruppenüberschrift. 4 Kacheln mit einem oben ausgerichteten Kachelbild."
+			},
+			"EL": {
+				"text": "Ενότητα ομάδας πλακιδίων με κρυφή κεφαλίδα ομάδας πλακιδίων. 4 πλακίδια με μια εικόνα πλακιδίου ευθυγραμμισμένη στην κορυφή."
+			},
+			"HE": {
+				"text": "מקטע קבוצת אריחים עם כותרת קבוצת אריחים מוסתרת. 4 אריחים עם תמונת אריח מיושרת בחלק העליון."
+			},
+			"HU": {
+				"text": "Rejtett csempecsoport-fejléccel ellátott csempecsoport-szakasz. 4 csempe, felül egy-egy csempeképpel."
+			},
+			"IS": {
+				"text": "Flísahópshluti með falinni haus fyrir flísahóp. 4 flísar með mynd af flís efst."
+			},
+			"ID": {
+				"text": "Bagian grup ubin dengan tajuk grup ubin tersembunyi. 4 ubin dengan gambar ubin yang disejajarkan di bagian atas."
+			},
+			"IT": {
+				"text": "Sezione del gruppo di riquadri con intestazione del gruppo di riquadri nascosta. 4 riquadri con un'immagine del riquadro allineata in alto."
+			},
+			"JA": {
+				"text": "タイル グループ ヘッダーが非表示のタイル グループ セクション。上部にタイル イメージが揃った 4 つのタイル。"
+			},
+			"KK": {
+				"text": "Жасырын тақтайшалар тобының тақырыбы бар тақтайшалар тобы бөлімі. Үстіңгі жағында реттелген тақтайша кескіні бар 4 тақта."
+			},
+			"KO": {
+				"text": "숨겨진 타일 그룹 헤더가 있는 타일 그룹 섹션. 타일 이미지가 맨 위에 정렬된 4개의 타일."
+			},
+			"LV": {
+				"text": "Mozaīkas grupas sadaļa ar paslēptu mozaīkas grupas galveni. 4 mozaīkas ar mozaīkas attēlu, kas izlīdzināts augšpusē."
+			},
+			"LT": {
+				"text": "Plytelių grupės skiltis su paslėpta plytelių grupės antrašte. 4 plytelės su viršuje sulygiuotu plytelės vaizdu."
+			},
+			"MK": {
+				"text": "Секција за група плочки со скриен заглавие за групата плочки. 4 плочки со слика од плочка порамнета на врвот."
+			},
+			"MS": {
+				"text": "Bahagian kumpulan jubin dengan pengepala kumpulan jubin tersembunyi. 4 jubin dengan imej jubin dijajarkan di bahagian atas."
+			},
+			"NO": {
+				"text": "Flisgruppeseksjon med skjult flisgruppeoverskrift. 4 fliser med et flisbilde justert øverst."
+			},
+			"NN": {
+				"text": "Flisgruppeseksjon med skjult flisgruppeoverskrift. 4 fliser med et flisbilde justert øverst."
+			},
+			"PL": {
+				"text": "Sekcja grupy kafelków z ukrytym nagłówkiem grupy kafelków. 4 kafelki z obrazem kafelka wyrównanym u góry."
+			},
+			"PT": {
+				"text": "Seção de grupo de blocos com cabeçalho de grupo de blocos oculto. 4 blocos com uma imagem de bloco alinhada na parte superior."
+			},
+			"RO": {
+				"text": "Secțiune grup de dale cu antet de grup de dale ascuns. 4 dale cu o imagine aliniată în partea de sus."
+			},
+			"RU": {
+				"text": "Раздел группы плиток со скрытым заголовком группы плиток. 4 плитки с изображением плитки, выровненным вверху."
+			},
+			"SE": {
+				"text": "Tile joavkooassi mas lea čihkkojuvvon tile joavkooaivi. 4 čáhcefápmorusttega main lea čáhcefápmorusttega govva bajimusas."
+			},
+			"SR": {
+				"text": "Одељак групе плочица са скривеним заглављем групе плочица. 4 плочице са сликом плочице поравнатом на врху."
+			},
+			"SH": {
+				"text": "Одељак групе плочица са скривеним заглављем групе плочица. 4 плочице са сликом плочице поравнатом на врху."
+			},
+			"SK": {
+				"text": "Sekcia skupiny dlaždíc so skrytou hlavičkou skupiny dlaždíc. 4 dlaždice s obrázkom dlaždice zarovnaným hore."
+			},
+			"SL": {
+				"text": "Razdelek skupine ploščic s skrito glavo skupine ploščic. 4 ploščice s sliko ploščice, poravnano na vrhu."
+			},
+			"ES": {
+				"text": "Sección de grupo de mosaicos con encabezado de grupo de mosaicos oculto. 4 mosaicos con una imagen de mosaico alineada en la parte superior."
+			},
+			"SV": {
+				"text": "Kakelgruppssektion med dold kakelgruppsrubrik. 4 kakel med en kakelbild justerad överst."
+			},
+			"TH": {
+				"text": "ส่วนกลุ่มกระเบื้องที่มีส่วนหัวของกลุ่มกระเบื้องที่ซ่อนอยู่ กระเบื้อง 4 ชิ้นพร้อมรูปภาพกระเบื้องที่จัดวางที่ด้านบน"
+			},
+			"TR": {
+				"text": "Gizli kiremit grubu başlığına sahip kiremit grubu bölümü. Üstte hizalanmış kiremit görüntüsü olan 4 kiremit."
+			},
+			"UK": {
+				"text": "Розділ групи плиток із прихованим заголовком групи плиток. 4 плитки із зображенням плитки, вирівняним зверху."
+			},
+			"VI": {
+				"text": "Phần nhóm ô có tiêu đề nhóm ô ẩn. 4 ô có hình ảnh ô được căn chỉnh ở trên cùng."
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -274,7 +4452,136 @@
 			"name": "tilegroup.newsStoriesInlineImages",
 			"EN": {},
 			"type": "XTXT",
-			"id": "6f97cbe7-69fc-450b-9998-893012002884"
+			"id": "6f97cbe7-69fc-450b-9998-893012002884",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.newsStoriesInlineImages",
@@ -285,7 +4592,136 @@
 				"text": "Image position & height controlled by tile group configuration"
 			},
 			"type": "XTXT",
-			"id": "26feff9c-3bdf-4199-c39a-ee5273272034"
+			"id": "26feff9c-3bdf-4199-c39a-ee5273272034",
+			"AF": {
+				"text": "Beeldposisie en -hoogte beheer deur teëlgroepkonfigurasie"
+			},
+			"AR": {
+				"text": "يتم التحكم في موضع الصورة وارتفاعها من خلال تكوين مجموعة البلاط"
+			},
+			"BG": {
+				"text": "Позицията и височината на изображението се контролират от конфигурацията на групата плочки"
+			},
+			"ZH": {
+				"text": "图像位置和高度由图块组配置控制"
+			},
+			"ZF": {
+				"text": "影像位置和高度由圖塊組配置控制"
+			},
+			"HR": {
+				"text": "Položaj i visina slike kontrolirani konfiguracijom grupe pločica"
+			},
+			"CS": {
+				"text": "Poloha a výška obrázku řízená konfigurací skupiny dlaždic"
+			},
+			"DA": {
+				"text": "Billedposition og -højde styres af flisegruppekonfiguration"
+			},
+			"NL": {
+				"text": "Positie en hoogte van de afbeelding worden bepaald door de configuratie van de tegelgroep"
+			},
+			"ET": {
+				"text": "Pildi asukohta ja kõrgust kontrollib paanirühma konfiguratsioon"
+			},
+			"FI": {
+				"text": "Kuvan sijaintia ja korkeutta säädetään laattaryhmän kokoonpanolla"
+			},
+			"FR": {
+				"text": "La position et la hauteur de l'image sont contrôlées par la configuration du groupe de tuiles."
+			},
+			"DE": {
+				"text": "Bildposition und -höhe werden durch die Konfiguration der Kachelgruppe gesteuert."
+			},
+			"EL": {
+				"text": "Η θέση και το ύψος της εικόνας ελέγχονται από τη διαμόρφωση ομάδας πλακιδίων"
+			},
+			"HE": {
+				"text": "מיקום וגובה התמונה נשלטים על ידי תצורת קבוצת האריחים"
+			},
+			"HU": {
+				"text": "A kép pozícióját és magasságát a csempecsoport-konfiguráció szabályozza"
+			},
+			"IS": {
+				"text": "Staðsetning og hæð myndar stjórnað af stillingum flísahóps"
+			},
+			"ID": {
+				"text": "Posisi dan tinggi gambar dikontrol oleh konfigurasi grup ubin"
+			},
+			"IT": {
+				"text": "Posizione e altezza dell'immagine controllate dalla configurazione del gruppo di riquadri"
+			},
+			"JA": {
+				"text": "画像の位置と高さはタイルグループの設定によって制御されます"
+			},
+			"KK": {
+				"text": "Кескін орны мен биіктігі тақтайшалар тобының конфигурациясы арқылы басқарылады"
+			},
+			"KO": {
+				"text": "타일 그룹 구성으로 제어되는 이미지 위치 및 높이"
+			},
+			"LV": {
+				"text": "Attēla pozīciju un augstumu kontrolē flīžu grupas konfigurācija"
+			},
+			"LT": {
+				"text": "Vaizdo padėtį ir aukštį kontroliuoja plytelių grupės konfigūracija"
+			},
+			"MK": {
+				"text": "Позицијата и висината на сликата се контролирани од конфигурацијата на групата плочки"
+			},
+			"MS": {
+				"text": "Kedudukan & ketinggian imej dikawal oleh konfigurasi kumpulan jubin"
+			},
+			"NO": {
+				"text": "Bildeposisjon og -høyde kontrollert av konfigurasjon av flisgruppe"
+			},
+			"NN": {
+				"text": "Bildeposisjon og -høyde kontrollert av konfigurasjon av flisgruppe"
+			},
+			"PL": {
+				"text": "Pozycja i wysokość obrazu kontrolowana przez konfigurację grupy kafelków"
+			},
+			"PT": {
+				"text": "A posição e a altura da imagem são controladas pela configuração do grupo de mosaicos."
+			},
+			"RO": {
+				"text": "Poziția și înălțimea imaginii sunt controlate prin configurația grupului de plăci"
+			},
+			"RU": {
+				"text": "Положение и высота изображения контролируются конфигурацией группы плиток"
+			},
+			"SE": {
+				"text": "Govva sajádat ja govdodat stivrejuvvo čáhcejoavkku konfigurašuvnnain"
+			},
+			"SR": {
+				"text": "Положај и висина слике контролисани конфигурацијом групе плочица"
+			},
+			"SH": {
+				"text": "Положај и висина слике контролисани конфигурацијом групе плочица"
+			},
+			"SK": {
+				"text": "Poloha a výška obrázka sú riadené konfiguráciou skupiny dlaždíc"
+			},
+			"SL": {
+				"text": "Položaj in višina slike, ki ju nadzira konfiguracija skupine ploščic"
+			},
+			"ES": {
+				"text": "Posición y altura de la imagen controladas por la configuración del grupo de mosaicos"
+			},
+			"SV": {
+				"text": "Bildposition och höjd styrs av kakelgruppkonfiguration"
+			},
+			"TH": {
+				"text": "ตำแหน่งและความสูงของภาพควบคุมโดยการกำหนดค่ากลุ่มไทล์"
+			},
+			"TR": {
+				"text": "Görüntü konumu ve yüksekliği, döşeme grubu yapılandırması tarafından kontrol edilir"
+			},
+			"UK": {
+				"text": "Положення та висота зображення контролюються конфігурацією групи плиток"
+			},
+			"VI": {
+				"text": "Vị trí và chiều cao của hình ảnh được điều khiển bằng cấu hình nhóm ô"
+			}
 		},
 		{
 			"parent": "tilegroup.newsStoriesInlineImages",
@@ -296,7 +4732,136 @@
 				"text": "News Stories"
 			},
 			"type": "XTXT",
-			"id": "10d95010-9b44-40f0-9e4b-0f242a3c06dc"
+			"id": "10d95010-9b44-40f0-9e4b-0f242a3c06dc",
+			"AF": {
+				"text": "Nuusberigte"
+			},
+			"AR": {
+				"text": "قصص إخبارية"
+			},
+			"BG": {
+				"text": "Новини"
+			},
+			"ZH": {
+				"text": "新闻报道"
+			},
+			"ZF": {
+				"text": "新聞報道"
+			},
+			"HR": {
+				"text": "Vijesti"
+			},
+			"CS": {
+				"text": "Novinky"
+			},
+			"DA": {
+				"text": "Nyhedshistorier"
+			},
+			"NL": {
+				"text": "Nieuwsverhalen"
+			},
+			"ET": {
+				"text": "Uudislood"
+			},
+			"FI": {
+				"text": "Uutisia"
+			},
+			"FR": {
+				"text": "Actualités"
+			},
+			"DE": {
+				"text": "Nachrichtenartikel"
+			},
+			"EL": {
+				"text": "Ειδήσεις"
+			},
+			"HE": {
+				"text": "סיפורי חדשות"
+			},
+			"HU": {
+				"text": "Hírek"
+			},
+			"IS": {
+				"text": "Fréttir"
+			},
+			"ID": {
+				"text": "Berita"
+			},
+			"IT": {
+				"text": "Notizie"
+			},
+			"JA": {
+				"text": "ニュース記事"
+			},
+			"KK": {
+				"text": "Жаңалықтар"
+			},
+			"KO": {
+				"text": "뉴스 기사"
+			},
+			"LV": {
+				"text": "Ziņu stāsti"
+			},
+			"LT": {
+				"text": "Naujienos"
+			},
+			"MK": {
+				"text": "Вести"
+			},
+			"MS": {
+				"text": "Berita Berita"
+			},
+			"NO": {
+				"text": "Nyhetsartikler"
+			},
+			"NN": {
+				"text": "Nyhetsartikler"
+			},
+			"PL": {
+				"text": "Wiadomości"
+			},
+			"PT": {
+				"text": "Notícias"
+			},
+			"RO": {
+				"text": "Știri"
+			},
+			"RU": {
+				"text": "Новости"
+			},
+			"SE": {
+				"text": "Ođđasat"
+			},
+			"SR": {
+				"text": "Вести"
+			},
+			"SH": {
+				"text": "Вести"
+			},
+			"SK": {
+				"text": "Novinky"
+			},
+			"SL": {
+				"text": "Novice"
+			},
+			"ES": {
+				"text": "Noticias"
+			},
+			"SV": {
+				"text": "Nyhetsartiklar"
+			},
+			"TH": {
+				"text": "เรื่องราวข่าว"
+			},
+			"TR": {
+				"text": "Haber Hikayeleri"
+			},
+			"UK": {
+				"text": "Новини"
+			},
+			"VI": {
+				"text": "Tin tức"
+			}
 		},
 		{
 			"parent": "tilegroup",
@@ -304,7 +4869,136 @@
 			"name": "tilegroup.sidebarImageTop",
 			"EN": {},
 			"type": "XTXT",
-			"id": "9aa14bb4-44d0-48f9-c521-94ba84851720"
+			"id": "9aa14bb4-44d0-48f9-c521-94ba84851720",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
 		},
 		{
 			"parent": "tilegroup.sidebarImageTop",
@@ -315,19 +5009,277 @@
 				"text": "This tile group is added as a sidebar in a multi column setup. "
 			},
 			"type": "XTXT",
-			"id": "0b269e3f-3810-42ba-a425-3d80a16855ab"
+			"id": "0b269e3f-3810-42ba-a425-3d80a16855ab",
+			"AF": {
+				"text": "Hierdie teëlgroep word as 'n sybalk in 'n multikolom-opstelling bygevoeg."
+			},
+			"AR": {
+				"text": "تمت إضافة مجموعة البلاط هذه كشريط جانبي في إعداد متعدد الأعمدة."
+			},
+			"BG": {
+				"text": "Тази група плочки се добавя като странична лента в настройка с няколко колони."
+			},
+			"ZH": {
+				"text": "此图块组作为侧边栏添加到多列布局中。"
+			},
+			"ZF": {
+				"text": "此圖塊組作為側邊欄新增到多列佈局中。"
+			},
+			"HR": {
+				"text": "Ova grupa pločica dodaje se kao bočna traka u postavci s više stupaca."
+			},
+			"CS": {
+				"text": "Tato skupina dlaždic se přidává jako boční panel v nastavení s více sloupci."
+			},
+			"DA": {
+				"text": "Denne feltgruppe tilføjes som en sidebar i en opsætning med flere kolonner."
+			},
+			"NL": {
+				"text": "Deze tegelgroep wordt toegevoegd als zijbalk in een opstelling met meerdere kolommen."
+			},
+			"ET": {
+				"text": "See paanirühm lisatakse mitme veeruga seadistusse külgribana."
+			},
+			"FI": {
+				"text": "Tämä laattaryhmä lisätään sivupalkkina monisarakkeisessa asetuksessa."
+			},
+			"FR": {
+				"text": "Ce groupe de tuiles est ajouté en tant que barre latérale dans une configuration à plusieurs colonnes."
+			},
+			"DE": {
+				"text": "Diese Kachelgruppe wird als Seitenleiste in einem mehrspaltigen Layout hinzugefügt."
+			},
+			"EL": {
+				"text": "Αυτή η ομάδα πλακιδίων προστίθεται ως πλαϊνή μπάρα σε μια ρύθμιση πολλαπλών στηλών."
+			},
+			"HE": {
+				"text": "קבוצת אריחים זו נוספת כסרגל צד בהגדרה מרובת עמודות."
+			},
+			"HU": {
+				"text": "Ez a csempecsoport oldalsávként kerül hozzáadásra egy többoszlopos beállításban."
+			},
+			"IS": {
+				"text": "Þessi flísahópur er bætt við sem hliðarstiku í uppsetningu með mörgum dálkum."
+			},
+			"ID": {
+				"text": "Grup ubin ini ditambahkan sebagai bilah sisi dalam pengaturan multikolom."
+			},
+			"IT": {
+				"text": "Questo gruppo di riquadri viene aggiunto come barra laterale in una configurazione a più colonne."
+			},
+			"JA": {
+				"text": "このタイル グループは、複数列の設定でサイドバーとして追加されます。"
+			},
+			"KK": {
+				"text": "Бұл тақтайша тобы көп бағанды орнатуда бүйірлік тақта ретінде қосылады. "
+			},
+			"KO": {
+				"text": "이 타일 그룹은 다중 열 설정의 사이드바로 추가됩니다."
+			},
+			"LV": {
+				"text": "Šī mozaīkas grupa tiek pievienota kā sānjosla vairāku kolonnu iestatījumos."
+			},
+			"LT": {
+				"text": "Ši plytelių grupė pridedama kaip šoninė juosta kelių stulpelių sąrankoje."
+			},
+			"MK": {
+				"text": "Оваа група плочки се додава како странична лента во поставување со повеќе колони."
+			},
+			"MS": {
+				"text": "Kumpulan jubin ini ditambah sebagai bar sisi dalam persediaan berbilang lajur. "
+			},
+			"NO": {
+				"text": "Denne flisgruppen legges til som en sidefelt i et oppsett med flere kolonner."
+			},
+			"NN": {
+				"text": "Denne flisgruppen legges til som en sidefelt i et oppsett med flere kolonner."
+			},
+			"PL": {
+				"text": "Ta grupa kafelków jest dodawana jako pasek boczny w konfiguracji wielokolumnowej."
+			},
+			"PT": {
+				"text": "Este grupo de blocos é adicionado como uma barra lateral em uma configuração de várias colunas."
+			},
+			"RO": {
+				"text": "Acest grup de dale este adăugat ca bară laterală într-o configurație cu mai multe coloane."
+			},
+			"RU": {
+				"text": "Эта группа плиток добавляется как боковая панель в многоколоночной настройке."
+			},
+			"SE": {
+				"text": "Dát čállinjoavku lea lasihuvvon siidolinnjá máŋgga kolonna ortnegis. "
+			},
+			"SR": {
+				"text": "Ова група плочица се додаје као бочна трака у подешавању са више колона."
+			},
+			"SH": {
+				"text": "Ова група плочица се додаје као бочна трака у подешавању са више колона."
+			},
+			"SK": {
+				"text": "Táto skupina dlaždíc sa pridáva ako bočný panel v nastavení s viacerými stĺpcami."
+			},
+			"SL": {
+				"text": "Ta skupina ploščic je dodana kot stranska vrstica v večstolpčni nastavitvi."
+			},
+			"ES": {
+				"text": "Este grupo de mosaicos se agrega como una barra lateral en una configuración de varias columnas."
+			},
+			"SV": {
+				"text": "Den här panelgruppen läggs till som en sidofält i en flerkolumnskonfiguration."
+			},
+			"TH": {
+				"text": "กลุ่มไทล์นี้จะถูกเพิ่มเป็นแถบด้านข้างในการตั้งค่าหลายคอลัมน์"
+			},
+			"TR": {
+				"text": "Bu döşeme grubu, çok sütunlu bir kurulumda kenar çubuğu olarak eklenir."
+			},
+			"UK": {
+				"text": "Цю групу плиток додано як бічна панель у багатоколонковій конфігурації."
+			},
+			"VI": {
+				"text": "Nhóm ô này được thêm vào dưới dạng thanh bên trong thiết lập nhiều cột."
+			}
 		}
 	],
 	"locales": [
 		{
 			"isoCode": "EN"
+		},
+		{
+			"isoCode": "AF"
+		},
+		{
+			"isoCode": "AR"
+		},
+		{
+			"isoCode": "BG"
+		},
+		{
+			"isoCode": "ZH"
+		},
+		{
+			"isoCode": "ZF"
+		},
+		{
+			"isoCode": "HR"
+		},
+		{
+			"isoCode": "CS"
+		},
+		{
+			"isoCode": "DA"
+		},
+		{
+			"isoCode": "NL"
+		},
+		{
+			"isoCode": "ET"
+		},
+		{
+			"isoCode": "FI"
+		},
+		{
+			"isoCode": "FR"
+		},
+		{
+			"isoCode": "DE"
+		},
+		{
+			"isoCode": "EL"
+		},
+		{
+			"isoCode": "HE"
+		},
+		{
+			"isoCode": "HU"
+		},
+		{
+			"isoCode": "IS"
+		},
+		{
+			"isoCode": "ID"
+		},
+		{
+			"isoCode": "IT"
+		},
+		{
+			"isoCode": "JA"
+		},
+		{
+			"isoCode": "KK"
+		},
+		{
+			"isoCode": "KO"
+		},
+		{
+			"isoCode": "LV"
+		},
+		{
+			"isoCode": "LT"
+		},
+		{
+			"isoCode": "MK"
+		},
+		{
+			"isoCode": "MS"
+		},
+		{
+			"isoCode": "NO"
+		},
+		{
+			"isoCode": "NN"
+		},
+		{
+			"isoCode": "PL"
+		},
+		{
+			"isoCode": "PT"
+		},
+		{
+			"isoCode": "RO"
+		},
+		{
+			"isoCode": "RU"
+		},
+		{
+			"isoCode": "SE"
+		},
+		{
+			"isoCode": "SR"
+		},
+		{
+			"isoCode": "SH"
+		},
+		{
+			"isoCode": "SK"
+		},
+		{
+			"isoCode": "SL"
+		},
+		{
+			"isoCode": "ES"
+		},
+		{
+			"isoCode": "SV"
+		},
+		{
+			"isoCode": "TH"
+		},
+		{
+			"isoCode": "TR"
+		},
+		{
+			"isoCode": "UK"
+		},
+		{
+			"isoCode": "VI"
 		}
 	],
 	"name": "neptuneDXPDemo",
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.25.1031",
+	"ver": "25.11.25.1322",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"active": true,
 	"deleted": false,
