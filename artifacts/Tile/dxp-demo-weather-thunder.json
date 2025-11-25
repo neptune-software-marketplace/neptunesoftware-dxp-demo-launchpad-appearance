@@ -337,7 +337,7 @@
 	"sidepanelTitle": null,
 	"tags": "",
 	"actiongroup": null,
-	"styleClass": "",
+	"styleClass": "dxp-demo-focus-weather",
 	"titleAlignment": null,
 	"titleLevel": null,
 	"dataUrl": null,
@@ -351,7 +351,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.11.07.0127",
+	"ver": "25.11.25.1149",
 	"actionWebApp": "",
 	"name": "dxp-demo-weather-thunder",
 	"cardWidth": "Narrow",
@@ -382,7 +382,17 @@
 	"FIORI_STYLE": "",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
 	"roles": [],
-	"lightTileLayouts": [],
-	"darkTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "8dfa9533-c97c-46a6-9b8d-2bc4cda97685",
+			"ver": "25.11.25.1145"
+		}
+	],
+	"darkTileLayouts": [
+		{
+			"id": "ead8e39c-0337-43c5-b473-50e30f2b08d4",
+			"ver": "25.11.25.1145"
+		}
+	],
 	"i18n": []
 }

@@ -2,364 +2,7 @@
 	"id": "6771be62-82d9-458e-9c3f-53c2c2ca98d8",
 	"createdAt": "2024-09-25T07:59:28.853Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [
-		{
-			"language": "AR",
-			"title": "قصص اخبارية",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"قسم مجموعة المربعات مع رأس مجموعة المربعات المخفي. 4 مربعات مع صورة مربعات محاذية في الأعلى."
-			]
-		},
-		{
-			"language": "BG",
-			"title": "Новини",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Секция за група плочки със скрита заглавка на група плочки. 4 плочки с изображение на плочка, подравнено в горната част."
-			]
-		},
-		{
-			"language": "CS",
-			"title": "Novinky",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Část skupiny dlaždic se skrytým záhlavím skupiny dlaždic. 4 dlaždice s obrázkem dlaždice zarovnaným nahoře."
-			]
-		},
-		{
-			"language": "DA",
-			"title": "Nyhedshistorier",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-nyhedshistorier</code><br>",
-				"Flisegruppesektion med skjult flisegruppeoverskrift. 4 fliser med et flisebillede justeret øverst."
-			]
-		},
-		{
-			"language": "DE",
-			"title": "Nachrichten",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Kachelgruppenabschnitt mit versteckter Kachelgruppenüberschrift. 4 Kacheln mit einem oben ausgerichteten Kachelbild."
-			]
-		},
-		{
-			"language": "EL",
-			"title": "Ειδήσεις",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Τμήμα ομάδας πλακιδίων με κρυφή κεφαλίδα ομάδας πλακιδίων. 4 πλακίδια με μια εικόνα πλακιδίων στοιχισμένη στο επάνω μέρος."
-			]
-		},
-		{
-			"language": "EN",
-			"title": "News Stories",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Tile group section with hidden tile group header. 4 tiles with a tile image aligned at the top."
-			]
-		},
-		{
-			"language": "ES",
-			"title": "Historias de noticias",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sección de grupo de mosaicos con encabezado de grupo de mosaicos oculto. 4 mosaicos con una imagen de mosaico alineada en la parte superior."
-			]
-		},
-		{
-			"language": "ET",
-			"title": "Uudised Lood",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Paanide rühma jaotis peidetud paanide rühma päisega. 4 paani paani kujutisega ülaosas joondatud."
-			]
-		},
-		{
-			"language": "FI",
-			"title": "Uutiset Tarinat",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Laattaryhmäosio, jossa on piilotettu laattaryhmän otsikko. 4 laattaa, joiden kuva on kohdistettu yläreunaan."
-			]
-		},
-		{
-			"language": "FR",
-			"title": "Articles de presse",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Section de groupe de tuiles avec en-tête de groupe de tuiles masqué. 4 tuiles avec une image de tuile alignée en haut."
-			]
-		},
-		{
-			"language": "HE",
-			"title": "סיפורי חדשות",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"קטע קבוצת אריחים עם כותרת קבוצת אריחים נסתרת. 4 אריחים עם תמונת אריח מיושרת בחלק העליון."
-			]
-		},
-		{
-			"language": "HR",
-			"title": "Vijesti",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-vijesti-priče</code><br>",
-				"Odjeljak grupe pločica sa skrivenim zaglavljem grupe pločica. 4 pločice sa slikom pločice poravnatom na vrhu."
-			]
-		},
-		{
-			"language": "HU",
-			"title": "Hírek",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Csempecsoport szakasz rejtett csempecsoport fejléccel. 4 csempe tetején igazított képpel."
-			]
-		},
-		{
-			"language": "ID",
-			"title": "Berita",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Bagian grup ubin dengan tajuk grup ubin tersembunyi. 4 ubin dengan gambar ubin yang sejajar di bagian atas."
-			]
-		},
-		{
-			"language": "IS",
-			"title": "Fréttir Sögur",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-fréttasögur</code><br>",
-				"Flísahópahluti með földum haus flísarhóps. 4 flísar með flísamynd jafnaða efst."
-			]
-		},
-		{
-			"language": "IT",
-			"title": "Notizie Storie",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sezione del gruppo tile con intestazione del gruppo tile nascosta. 4 tile con un'immagine tile allineata in alto."
-			]
-		},
-		{
-			"language": "JA",
-			"title": "ニュース記事",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"タイル グループ ヘッダーが非表示のタイル グループ セクション。上部にタイル画像が配置された 4 つのタイル。"
-			]
-		},
-		{
-			"language": "KO",
-			"title": "뉴스기사",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"숨겨진 타일 그룹 헤더가 있는 타일 그룹 섹션. 상단에 정렬된 타일 이미지가 있는 4개의 타일."
-			]
-		},
-		{
-			"language": "LT",
-			"title": "Naujienų istorijos",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Plytelių grupės skyrius su paslėpta plytelių grupės antrašte. 4 plytelės su viršuje išlygiuotu plytelės vaizdu."
-			]
-		},
-		{
-			"language": "LV",
-			"title": "Ziņu stāsti",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Flīžu grupas sadaļa ar slēptu flīžu grupas galveni. 4 flīzes ar flīzes attēlu, kas līdzināts augšpusē."
-			]
-		},
-		{
-			"language": "MS",
-			"title": "Berita Berita",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Bahagian kumpulan jubin dengan pengepala kumpulan jubin tersembunyi. 4 jubin dengan imej jubin dijajarkan di bahagian atas."
-			]
-		},
-		{
-			"language": "NL",
-			"title": "Nieuwsverhalen",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Tegelgroepsectie met verborgen tegelgroepheader. 4 tegels met een tegelafbeelding bovenaan uitgelijnd."
-			]
-		},
-		{
-			"language": "NN",
-			"title": "Nyheter",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-nyhetshistorier</code><br>",
-				"Flisgruppeseksjon med skjult flisgruppeoverskrift. 4 fliser med et flisbilde justert øverst."
-			]
-		},
-		{
-			"language": "NO",
-			"title": "Nyheter",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-nyhetshistorier</code><br>",
-				"Flisgruppeseksjon med skjult flisgruppeoverskrift. 4 fliser med et flisbilde justert øverst."
-			]
-		},
-		{
-			"language": "PL",
-			"title": "Wiadomości",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sekcja grupy kafelków z ukrytym nagłówkiem grupy kafelków. 4 kafelki z obrazem kafelka wyrównanym do góry."
-			]
-		},
-		{
-			"language": "PT",
-			"title": "Notícias",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Seção de grupo de tiles com cabeçalho de grupo de tiles oculto. 4 tiles com uma imagem de tile alinhada na parte superior."
-			]
-		},
-		{
-			"language": "RO",
-			"title": "Stiri",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Secțiune de grup de plăci cu antet de grup de plăci ascuns. 4 plăci cu o imagine de plăci aliniată în partea de sus."
-			]
-		},
-		{
-			"language": "RU",
-			"title": "Новости Истории",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Раздел группы плиток со скрытым заголовком группы плиток. 4 плитки с изображением плитки, выровненным вверху."
-			]
-		},
-		{
-			"language": "SE",
-			"title": "Ođđasat",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Flihkkajoavkooassi mas lea čihkkojuvvon flihkkajoavkooaivi. 4 čáhcefápmorusttega main lea čáhcefápmorusttega govva bajimusas."
-			]
-		},
-		{
-			"language": "SH",
-			"title": "Вести",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<цоде>дкп-демо-невс-сториес</цоде><бр>",
-				"Одељак групе плочица са скривеним заглављем групе плочица. 4 плочице са сликом плочице поравнатом на врху."
-			]
-		},
-		{
-			"language": "SK",
-			"title": "Novinky",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Sekcia skupiny dlaždíc so skrytou hlavičkou skupiny dlaždíc. 4 dlaždice s obrázkom dlaždíc zarovnaným navrchu."
-			]
-		},
-		{
-			"language": "SL",
-			"title": "Novice",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-novice-zgodbe</code><br>",
-				"Razdelek skupine ploščic s skrito glavo skupine ploščic. 4 ploščice s sliko ploščice, poravnano na vrhu."
-			]
-		},
-		{
-			"language": "SR",
-			"title": "Вести",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<цоде>дкп-демо-невс-сториес</цоде><бр>",
-				"Одељак групе плочица са скривеним заглављем групе плочица. 4 плочице са сликом плочице поравнатом на врху."
-			]
-		},
-		{
-			"language": "SV",
-			"title": "Nyheter",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Kakelgruppsektion med dold rutgruppshuvud. 4 brickor med en brickbild i linje överst."
-			]
-		},
-		{
-			"language": "TH",
-			"title": "เรื่องราวข่าวสาร",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"ส่วนกลุ่มไทล์ที่มีส่วนหัวของกลุ่มไทล์ที่ซ่อนอยู่ ไทล์ 4 อันพร้อมรูปภาพไทล์ที่จัดตำแหน่งไว้ที่ด้านบน"
-			]
-		},
-		{
-			"language": "TR",
-			"title": "Haber Hikayeleri",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Gizli kiremit grubu başlığına sahip kiremit grubu bölümü. Üstte hizalanmış bir kiremit görüntüsüne sahip 4 kiremit."
-			]
-		},
-		{
-			"language": "UK",
-			"title": "Новини",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"Розділ групи плиток із прихованим заголовком групи плиток. 4 плитки із зображенням плитки, вирівняним угорі."
-			]
-		},
-		{
-			"language": "ZF",
-			"title": "新聞故事",
-			"messageText": "<code>dxp-demo-news-stories</code><br> 帶有隱藏圖塊組標題的圖塊組部分。 4 個圖塊，其中一個圖塊圖像在頂部對齊。"
-		},
-		{
-			"language": "ZH",
-			"title": "新闻故事",
-			"messageText": [
-				"==OBJECT STRING==",
-				"<code>dxp-demo-news-stories</code><br>",
-				"带有隐藏图块组标题的图块组部分。4 个图块，图块图像在顶部对齐。"
-			]
-		}
-	],
+	"translation": [],
 	"tilesOrder": [
 		"2ecc027b-8814-4141-ad35-9cfe597aed4a",
 		"22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
@@ -368,16 +11,20 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
-		"text": [
+		"text": "{i18n.neptuneDXPDemo>tilegroup.newsStories.message}",
+		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"6771be62-82d9-458e-9c3f-53c2c2ca98d8\"%2C\"name\"%3A\"dxp-demo-news-stories\"%7D",
+		"formatter": [
 			"==OBJECT STRING==",
-			"<code>dxp-demo-news-stories</code><br>",
-			"Tile group section with hidden tile group header. 4 tiles with a tile image aligned at the top."
-		],
-		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"6771be62-82d9-458e-9c3f-53c2c2ca98d8\"%2C\"name\"%3A\"dxp-demo-news-stories\"%7D"
+			"if (typeof i18n_neptuneDXPDemo_tilegroup_newsStories_message === \"undefined\" || !i18n_neptuneDXPDemo_tilegroup_newsStories_message) i18n_neptuneDXPDemo_tilegroup_newsStories_message = \"\";\r",
+			"return `\r",
+			"    <code>dxp-demo-news-stories</code><br>\r",
+			"    ${i18n_neptuneDXPDemo_tilegroup_newsStories_message}\r",
+			"`"
+		]
 	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "News Stories",
+	"title": "",
 	"subTitle": null,
 	"menuText": null,
 	"description": null,
@@ -396,7 +43,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.11.07.1124",
+	"ver": "25.11.25.0927",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -497,5 +144,12 @@
 	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
-	"i18n": []
+	"i18n": [
+		{
+			"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
+			"name": "neptuneDXPDemo",
+			"application": null,
+			"ver": "25.11.25.1031"
+		}
+	]
 }

@@ -1,0 +1,338 @@
+{
+	"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
+	"createdAt": "2025-11-25T08:11:01.866Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [
+		{
+			"name": "tilegroup",
+			"EN": {},
+			"type": "XTXT",
+			"id": "5a58a69d-774f-4441-a402-a783c8e6582b"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.crmShowcase",
+			"EN": {},
+			"type": "XTXT",
+			"id": "202627f4-4a7e-4eeb-f128-55991d9f1b12"
+		},
+		{
+			"parent": "tilegroup.crmShowcase",
+			"parentId": "202627f4-4a7e-4eeb-f128-55991d9f1b12",
+			"name": "tilegroup.crmShowcase.message",
+			"text": "CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer",
+			"EN": {
+				"text": "CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
+			},
+			"type": "XTXT",
+			"id": "a29e3edb-000b-457d-cc91-213862e51ec5"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.headerImageHurricanesGrid",
+			"EN": {},
+			"type": "XTXT",
+			"id": "afc9ec78-ea15-4828-9113-5824a8a6e21e"
+		},
+		{
+			"parent": "tilegroup.headerImageHurricanesGrid",
+			"parentId": "afc9ec78-ea15-4828-9113-5824a8a6e21e",
+			"name": "tilegroup.headerImageHurricanesGrid.subTitle",
+			"text": "Left to right header image mask applied",
+			"EN": {
+				"text": "Left to right header image mask applied"
+			},
+			"type": "XTXT",
+			"id": "3c07ae11-b618-4cee-b7b8-362174ff1a29"
+		},
+		{
+			"parent": "tilegroup.headerImageHurricanesGrid",
+			"parentId": "afc9ec78-ea15-4828-9113-5824a8a6e21e",
+			"name": "tilegroup.headerImageHurricanesGrid.title",
+			"text": "Different Images for Light & Dark Mode",
+			"EN": {
+				"text": "Different Images for Light & Dark Mode"
+			},
+			"type": "XTXT",
+			"id": "8cf7e2a5-5985-4031-831f-7d5bc6cb821d"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.headerImageStorm",
+			"EN": {},
+			"type": "XTXT",
+			"id": "e43451bb-08f4-4f35-e372-355d22edc771"
+		},
+		{
+			"parent": "tilegroup.headerImageStorm",
+			"parentId": "e43451bb-08f4-4f35-e372-355d22edc771",
+			"name": "tilegroup.headerImageStorm.subTitle",
+			"text": "Right to left header image mask applied",
+			"EN": {
+				"text": "Right to left header image mask applied"
+			},
+			"type": "XTXT",
+			"id": "75504aa5-87c8-4a94-bb57-de8cdf65b0b1"
+		},
+		{
+			"parent": "tilegroup.headerImageStorm",
+			"parentId": "e43451bb-08f4-4f35-e372-355d22edc771",
+			"name": "tilegroup.headerImageStorm.title",
+			"text": "One Image - Title Right Alligened",
+			"EN": {
+				"text": "One Image - Title Right Alligened"
+			},
+			"type": "XTXT",
+			"id": "4aaaf183-973f-4c7c-dfa3-e7773b90f5a6"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.headerImageWaves",
+			"EN": {},
+			"type": "XTXT",
+			"id": "69784faa-3288-43fb-883d-df424a62881d"
+		},
+		{
+			"parent": "tilegroup.headerImageWaves",
+			"parentId": "69784faa-3288-43fb-883d-df424a62881d",
+			"name": "tilegroup.headerImageWaves.subTitle",
+			"text": "Custom image mask: radial-gradient ellipse centered",
+			"EN": {
+				"text": "Custom image mask: radial-gradient ellipse centered"
+			},
+			"type": "XTXT",
+			"id": "4f270e18-33b7-4d40-9724-9da6cb10f2ec"
+		},
+		{
+			"parent": "tilegroup.headerImageWaves",
+			"parentId": "69784faa-3288-43fb-883d-df424a62881d",
+			"name": "tilegroup.headerImageWaves.title",
+			"text": "One Image - Title Centered",
+			"EN": {
+				"text": "One Image - Title Centered"
+			},
+			"type": "XTXT",
+			"id": "1a117168-c3bf-40cb-a9ef-6edd01190e6e"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.menuAnalytical",
+			"EN": {},
+			"type": "XTXT",
+			"id": "2f1d8d3e-65b1-477d-9ff9-9ed0004fb4ef"
+		},
+		{
+			"parent": "tilegroup.menuAnalytical",
+			"parentId": "2f1d8d3e-65b1-477d-9ff9-9ed0004fb4ef",
+			"name": "tilegroup.menuAnalytical.menuText",
+			"text": "ANALYTICAL",
+			"EN": {
+				"text": "ANALYTICAL"
+			},
+			"type": "XTXT",
+			"id": "651cab18-289e-42e3-d57b-42883862e34d"
+		},
+		{
+			"parent": "tilegroup.menuAnalytical",
+			"parentId": "2f1d8d3e-65b1-477d-9ff9-9ed0004fb4ef",
+			"name": "tilegroup.menuAnalytical.message",
+			"text": "Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens.",
+			"EN": {
+				"text": "Analytical screen tile group with a hidden header. The tile group has multi column enabled with a navbar and a sidebar. The navbar includes a favorite widget and 8 tiles setup with a 1x4 size. The navbar will stay in place, but shrink in size on smaller screens. The sidebar will wrap below all other content on small screens."
+			},
+			"type": "XTXT",
+			"id": "328c77f0-8930-4051-a137-8d35fb22333f"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.menuHeaderImage",
+			"EN": {},
+			"type": "XTXT",
+			"id": "1079012e-6aee-4517-930f-acaddb1fdd97"
+		},
+		{
+			"parent": "tilegroup.menuHeaderImage",
+			"parentId": "1079012e-6aee-4517-930f-acaddb1fdd97",
+			"name": "tilegroup.menuHeaderImage.menuText",
+			"text": "HEADER IMAGE",
+			"EN": {
+				"text": "HEADER IMAGE"
+			},
+			"type": "XTXT",
+			"id": "d34658b8-8429-45a4-e0c9-6e80cf25b1e6"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.menuNews",
+			"EN": {},
+			"type": "XTXT",
+			"id": "23c68686-9a5c-4f43-e7da-7650bbe323cf"
+		},
+		{
+			"parent": "tilegroup.menuNews",
+			"parentId": "23c68686-9a5c-4f43-e7da-7650bbe323cf",
+			"name": "tilegroup.menuNews.menuText",
+			"text": "NEWS",
+			"EN": {
+				"text": "NEWS"
+			},
+			"type": "XTXT",
+			"id": "5895a66d-b714-418d-9328-3ed11dfeb6be"
+		},
+		{
+			"parent": "tilegroup.menuNews",
+			"parentId": "23c68686-9a5c-4f43-e7da-7650bbe323cf",
+			"name": "tilegroup.menuNews.message",
+			"text": "Screen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles.",
+			"EN": {
+				"text": "Screen tile group with hidden header. 7 tiles, 1 big 12x8 tile and 6 small 4x1 tiles."
+			},
+			"type": "XTXT",
+			"id": "40950059-163e-419f-c91a-3a501159683b"
+		},
+		{
+			"parent": "tilegroup.menuNews.message",
+			"parentId": "40950059-163e-419f-c91a-3a501159683b",
+			"name": "tilegroup.menuNews.message.listItem1",
+			"text": "12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image.",
+			"EN": {
+				"text": "12x8 tile: The style class <code>nepDxpDemoNewsMaster</code> has been added to the tile, it reverses card content the flex direction, positioning the title & sub title at the tile bottom. A tile layout with a bottom-up image mask, makes the tile title/sub title stand out against the background image."
+			},
+			"type": "XTXT",
+			"id": "da134ed7-196a-4d25-db35-7d7d394712bd"
+		},
+		{
+			"parent": "tilegroup.menuNews.message",
+			"parentId": "40950059-163e-419f-c91a-3a501159683b",
+			"name": "tilegroup.menuNews.message.listItem2",
+			"text": "4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel",
+			"EN": {
+				"text": "4x1: Tiles with a title and icon. Tile layout with 4x1 size and icon placement allign-with-title-left has controls the tile look'n'feel"
+			},
+			"type": "XTXT",
+			"id": "dc97625a-5c77-4418-ab0a-472caab7520b"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.newsFantacyTeams",
+			"EN": {},
+			"type": "XTXT",
+			"id": "91d5fea5-0b3a-445c-fe89-76922dd62827"
+		},
+		{
+			"parent": "tilegroup.newsFantacyTeams",
+			"parentId": "91d5fea5-0b3a-445c-fe89-76922dd62827",
+			"name": "tilegroup.newsFantacyTeams.message",
+			"text": "Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. Each tile includes a tile icon image, the image size as been manipulated in the global style attached to the launchpad.",
+			"EN": {
+				"text": "Standard tile group section with no tile group layout. 8 tiles with a 2x2 size tile layout. Each tile includes a tile icon image, the image size as been manipulated in the global style attached to the launchpad."
+			},
+			"type": "XTXT",
+			"id": "48d801ca-1e6b-4c6e-ea19-c1dda19f496c"
+		},
+		{
+			"parent": "tilegroup.newsFantacyTeams",
+			"parentId": "91d5fea5-0b3a-445c-fe89-76922dd62827",
+			"name": "tilegroup.newsFantacyTeams.title",
+			"text": "Weather Fantasy Teams",
+			"EN": {
+				"text": "Weather Fantasy Teams"
+			},
+			"type": "XTXT",
+			"id": "caccd96b-7380-460c-dab3-27515da9c686"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.newsStories",
+			"EN": {},
+			"type": "XTXT",
+			"id": "e0f77e82-497c-40ae-a6c3-13ad34cb2c13"
+		},
+		{
+			"parent": "tilegroup.newsStories",
+			"parentId": "e0f77e82-497c-40ae-a6c3-13ad34cb2c13",
+			"name": "tilegroup.newsStories.message",
+			"text": "Tile group section with hidden tile group header. 4 tiles with a tile image aligned at the top.",
+			"EN": {
+				"text": "Tile group section with hidden tile group header. 4 tiles with a tile image aligned at the top."
+			},
+			"type": "XTXT",
+			"id": "e11d10be-495d-4495-dfa3-09c90bcd34fc"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.newsStoriesInlineImages",
+			"EN": {},
+			"type": "XTXT",
+			"id": "6f97cbe7-69fc-450b-9998-893012002884"
+		},
+		{
+			"parent": "tilegroup.newsStoriesInlineImages",
+			"parentId": "6f97cbe7-69fc-450b-9998-893012002884",
+			"name": "tilegroup.newsStoriesInlineImages.subTitle",
+			"text": "Image position & height controlled by tile group configuration",
+			"EN": {
+				"text": "Image position & height controlled by tile group configuration"
+			},
+			"type": "XTXT",
+			"id": "26feff9c-3bdf-4199-c39a-ee5273272034"
+		},
+		{
+			"parent": "tilegroup.newsStoriesInlineImages",
+			"parentId": "6f97cbe7-69fc-450b-9998-893012002884",
+			"name": "tilegroup.newsStoriesInlineImages.title",
+			"text": "News Stories",
+			"EN": {
+				"text": "News Stories"
+			},
+			"type": "XTXT",
+			"id": "10d95010-9b44-40f0-9e4b-0f242a3c06dc"
+		},
+		{
+			"parent": "tilegroup",
+			"parentId": "5a58a69d-774f-4441-a402-a783c8e6582b",
+			"name": "tilegroup.sidebarImageTop",
+			"EN": {},
+			"type": "XTXT",
+			"id": "9aa14bb4-44d0-48f9-c521-94ba84851720"
+		},
+		{
+			"parent": "tilegroup.sidebarImageTop",
+			"parentId": "9aa14bb4-44d0-48f9-c521-94ba84851720",
+			"name": "tilegroup.sidebarImageTop.message",
+			"text": "This tile group is added as a sidebar in a multi column setup. ",
+			"EN": {
+				"text": "This tile group is added as a sidebar in a multi column setup. "
+			},
+			"type": "XTXT",
+			"id": "0b269e3f-3810-42ba-a425-3d80a16855ab"
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "neptuneDXPDemo",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": null,
+	"ver": "25.11.25.1031",
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}

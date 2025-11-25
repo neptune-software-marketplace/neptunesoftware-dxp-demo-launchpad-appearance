@@ -11,7 +11,7 @@
 	"ver": "25.11.21.0212",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.14.0-rc.14",
+	"oeVersion": "24.14.0-rc.25",
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
@@ -443,6 +443,11 @@
 		{
 			"id": "407b8030-8f02-4ed4-a4ac-414b10326b98",
 			"name": "dxp_demo_space_widget",
+			"description": null
+		},
+		{
+			"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
+			"name": "neptuneDXPDemo",
 			"description": null
 		}
 	],

@@ -2,208 +2,7 @@
 	"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 	"createdAt": "2024-10-13T20:46:04.652Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [
-		{
-			"language": "AR",
-			"title": "صورة واحدة - حق الملكية محمي",
-			"subTitle": "تم تطبيق قناع صورة الرأس من اليمين إلى اليسار"
-		},
-		{
-			"language": "BG",
-			"title": "Едно изображение - заглавие вдясно, алигенирано",
-			"subTitle": "Приложена е маска на заглавното изображение отдясно наляво"
-		},
-		{
-			"language": "CS",
-			"title": "Jeden obrázek - název vpravo Alliged",
-			"subTitle": "Byla použita maska obrázku záhlaví zprava doleva"
-		},
-		{
-			"language": "DA",
-			"title": "Et billede - Titel højre alligen",
-			"subTitle": "Højre mod venstre sidehoved billedmaske anvendt"
-		},
-		{
-			"language": "DE",
-			"title": "Ein Bild - Titel rechts zugeordnet",
-			"subTitle": "Von rechts nach links angewendete Header-Bildmaske"
-		},
-		{
-			"language": "EL",
-			"title": "One Image - Title Right Alligened",
-			"subTitle": "Εφαρμόστηκε μάσκα εικόνας κεφαλίδας από δεξιά προς τα αριστερά"
-		},
-		{
-			"language": "EN",
-			"title": "One Image - Title Right Alligened",
-			"subTitle": "Right to left header image mask applied"
-		},
-		{
-			"language": "ES",
-			"title": "Una imagen - Título derecho Alligened",
-			"subTitle": "Máscara de imagen de encabezado de derecha a izquierda aplicada"
-		},
-		{
-			"language": "ET",
-			"title": "Üks pilt – pealkiri paremal alligeeritud",
-			"subTitle": "Paremalt vasakule päise pildimask on rakendatud"
-		},
-		{
-			"language": "FI",
-			"title": "Yksi kuva - Otsikko oikealle alligoitu",
-			"subTitle": "Oikealta vasemmalle otsikkokuvamaski käytössä"
-		},
-		{
-			"language": "FR",
-			"title": "Une image - Titre à droite Alligened",
-			"subTitle": "Masque d'image d'en-tête de droite à gauche appliqué"
-		},
-		{
-			"language": "HE",
-			"title": "תמונה אחת - כותרת מתאימה לימין",
-			"subTitle": "מסיכת תמונת כותרת מימין לשמאל הוחלה"
-		},
-		{
-			"language": "HR",
-			"title": "Jedna slika - Naslov desno aligenirano",
-			"subTitle": "Primijenjena maska slike zaglavlja zdesna nalijevo"
-		},
-		{
-			"language": "HU",
-			"title": "Egy kép – A cím jobbra alligált",
-			"subTitle": "Jobbról balra fejlécképmaszk alkalmazva"
-		},
-		{
-			"language": "ID",
-			"title": "Satu Gambar - Judul Tepat Disejajarkan",
-			"subTitle": "Masker gambar header dari kanan ke kiri diterapkan"
-		},
-		{
-			"language": "IS",
-			"title": "Ein mynd - Titill hægri samsettur",
-			"subTitle": "Hægri til vinstri myndamaska fyrir haus beitt"
-		},
-		{
-			"language": "IT",
-			"title": "Un'immagine - Titolo a destra Alligato",
-			"subTitle": "Maschera immagine intestazione da destra a sinistra applicata"
-		},
-		{
-			"language": "JA",
-			"title": "1 つの画像 - タイトルの権利が付与",
-			"subTitle": "右から左へのヘッダー画像マスクを適用しました"
-		},
-		{
-			"language": "KO",
-			"title": "한 이미지 - 제목 권한 할당",
-			"subTitle": "오른쪽에서 왼쪽으로 헤더 이미지 마스크 적용"
-		},
-		{
-			"language": "LT",
-			"title": "Vienas vaizdas – pavadinimas dešinėje sujungtas",
-			"subTitle": "Antraštės vaizdo kaukė pritaikyta iš dešinės į kairę"
-		},
-		{
-			"language": "LV",
-			"title": "Viens attēls — nosaukums ir savienots ar labo pusi",
-			"subTitle": "Ir lietota galvenes attēla maska no labās puses uz kreiso pusi"
-		},
-		{
-			"language": "MS",
-			"title": "Satu Imej - Tajuk Right Alliged",
-			"subTitle": "Topeng imej pengepala kanan ke kiri digunakan"
-		},
-		{
-			"language": "NL",
-			"title": "Eén afbeelding - Titelrecht toegewezen",
-			"subTitle": "Van rechts naar links header afbeeldingsmasker toegepast"
-		},
-		{
-			"language": "NN",
-			"title": "Ett bilde - Tittel Høyre Alligen",
-			"subTitle": "Høyre til venstre overskriftsbildemaske brukt"
-		},
-		{
-			"language": "NO",
-			"title": "Ett bilde - Tittel Høyre Alligen",
-			"subTitle": "Høyre til venstre overskriftsbildemaske brukt"
-		},
-		{
-			"language": "PL",
-			"title": "Jeden obraz - tytuł po prawej stronie",
-			"subTitle": "Zastosowano maskę obrazu nagłówka od prawej do lewej"
-		},
-		{
-			"language": "PT",
-			"title": "Uma imagem - Título à direita alinhado",
-			"subTitle": "Máscara de imagem de cabeçalho da direita para a esquerda aplicada"
-		},
-		{
-			"language": "RO",
-			"title": "O imagine - Titlu dreapta Alligened",
-			"subTitle": "Mască de imagine antet de la dreapta la stânga aplicată"
-		},
-		{
-			"language": "RU",
-			"title": "Одно изображение - заголовок справа, совмещенный",
-			"subTitle": "Применена маска изображения заголовка справа налево"
-		},
-		{
-			"language": "SE",
-			"title": "Okta govva - namma rievttes bealde",
-			"subTitle": "Oarjjabeale olgešbeale govvamáskka lea biddjon"
-		},
-		{
-			"language": "SH",
-			"title": "Једна слика - Титле Ригхт Аллигенед",
-			"subTitle": "Примењена је маска слике заглавља здесна налево"
-		},
-		{
-			"language": "SK",
-			"title": "Jeden obrázok - názov vpravo zarovnaný",
-			"subTitle": "Bola použitá maska obrázka hlavičky sprava doľava"
-		},
-		{
-			"language": "SL",
-			"title": "Ena slika - naslov desno poravnan",
-			"subTitle": "Uporabljena je maska slike glave od desne proti levi"
-		},
-		{
-			"language": "SR",
-			"title": "Једна слика - Титле Ригхт Аллигенед",
-			"subTitle": "Примењена је маска слике заглавља здесна налево"
-		},
-		{
-			"language": "SV",
-			"title": "En bild - Titel Right Alligened",
-			"subTitle": "Bildmask för höger till vänster sidhuvud har tillämpats"
-		},
-		{
-			"language": "TH",
-			"title": "ภาพหนึ่ง - ชื่อเรื่อง สิทธิ์ อ้างถึง",
-			"subTitle": "ใช้หน้ากากภาพส่วนหัวจากขวาไปซ้ายแล้ว"
-		},
-		{
-			"language": "TR",
-			"title": "Bir Resim - Başlık Hakkı İddia Edildi",
-			"subTitle": "Sağdan sola başlık resim maskesi uygulandı"
-		},
-		{
-			"language": "UK",
-			"title": "Одне зображення – заголовок зміщений справа",
-			"subTitle": "Застосовано маску зображення заголовка справа наліво"
-		},
-		{
-			"language": "ZF",
-			"title": "一張圖片 - 標題權利一致",
-			"subTitle": "從右到左的標題圖像蒙版已套用"
-		},
-		{
-			"language": "ZH",
-			"title": "一张图片 - 标题权利一致",
-			"subTitle": "从右到左的标题图像蒙版已应用"
-		}
-	],
+	"translation": [],
 	"tilesOrder": [
 		"873706d5-5eb3-4ddc-9550-1ec2a79ff79e",
 		"5ac891cb-b9cd-477f-a232-500744db8761",
@@ -216,8 +15,8 @@
 	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "One Image - Title Right Alligened",
-	"subTitle": "Right to left header image mask applied",
+	"title": "{i18n.neptuneDXPDemo>tilegroup.headerImageStorm.title}",
+	"subTitle": "{i18n.neptuneDXPDemo>tilegroup.headerImageStorm.subTitle}",
 	"menuText": null,
 	"description": null,
 	"enableFullScreen": false,
@@ -235,7 +34,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.06.0115",
+	"ver": "25.11.25.1142",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -300,19 +99,11 @@
 	"roles": [],
 	"lightGroupLayouts": [
 		{
-			"id": "78fdfbc8-85a8-4225-a925-f5e8c8f7f29b",
-			"ver": "24.10.12.2216"
-		},
-		{
 			"id": "6b17acb1-7b44-4abb-abc1-86729a52c35e",
 			"ver": "24.11.15.1343"
 		}
 	],
 	"darkGroupLayouts": [
-		{
-			"id": "731eba12-cf37-41f8-943e-ee198b213b66",
-			"ver": "24.10.12.2216"
-		},
 		{
 			"id": "6b17acb1-7b44-4abb-abc1-86729a52c35e",
 			"ver": "24.11.15.1343"
@@ -349,5 +140,12 @@
 	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
-	"i18n": []
+	"i18n": [
+		{
+			"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
+			"name": "neptuneDXPDemo",
+			"application": null,
+			"ver": "25.11.25.1031"
+		}
+	]
 }

@@ -2,248 +2,7 @@
 	"id": "e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb",
 	"createdAt": "2025-01-08T19:53:39.958Z",
 	"createdBy": "morten@neptune-software.com",
-	"translation": [
-		{
-			"language": "AR",
-			"title": "التطبيقات",
-			"selected": true,
-			"messageText": "<code>عرض توضيحي لبرنامج dxp-crm</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "BG",
-			"title": "Приложения",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-витрина</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "CS",
-			"title": "Aplikace",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "DA",
-			"title": "Ansøgninger",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "DE",
-			"title": "Anwendungen",
-			"selected": true,
-			"messageText": "<code>DXP-Demo-CRM-Showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "EL",
-			"title": "Εφαρμογές",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "EN",
-			"title": "Applications",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "ES",
-			"title": "Aplicaciones",
-			"selected": true,
-			"messageText": "<code>Presentación de la demostración de CRM de DXP</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "ET",
-			"title": "Rakendused",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "FI",
-			"title": "Sovellukset",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "FR",
-			"title": "Applications",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-vitrine</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "HE",
-			"title": "יישומים",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "HR",
-			"title": "Prijave",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-izlog</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "HU",
-			"title": "Alkalmazások",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "ID",
-			"title": "Aplikasi",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-pameran</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "IS",
-			"title": "Umsóknir",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "IT",
-			"title": "Applicazioni",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-vetrina</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "JA",
-			"title": "アプリケーション",
-			"selected": true,
-			"messageText": "<code>DXP デモ CRM ショーケース</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "KO",
-			"title": "응용 프로그램",
-			"selected": true,
-			"messageText": "<code>dxp-데모-crm-쇼케이스</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "LT",
-			"title": "Programos",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "LV",
-			"title": "Lietojumprogrammas",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "MS",
-			"title": "Aplikasi",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "NL",
-			"title": "Toepassingen",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "NN",
-			"title": "Søknader",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "NO",
-			"title": "Søknader",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "PL",
-			"title": "Aplikacje",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "PT",
-			"title": "Aplicações",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "RO",
-			"title": "Aplicații",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "RU",
-			"title": "Приложения",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "SE",
-			"title": "Ohcamušat",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "SH",
-			"title": "Апликације",
-			"selected": true,
-			"messageText": "<code>дкп-демо-црм-сховцасе</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "SK",
-			"title": "Aplikácie",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "SL",
-			"title": "Aplikacije",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-predstavitev</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "SR",
-			"title": "Апликације",
-			"selected": true,
-			"messageText": "<code>дкп-демо-црм-сховцасе</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "SV",
-			"title": "Ansökningar",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "TH",
-			"title": "แอปพลิเคชั่น",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-โชว์เคส</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "TR",
-			"title": "Uygulamalar",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-vitrini</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "UK",
-			"title": "Додатки",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-showcase</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "ZF",
-			"title": "應用",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-展示</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		},
-		{
-			"language": "ZH",
-			"title": "应用",
-			"selected": true,
-			"messageText": "<code>dxp-demo-crm-展示</code><br>CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
-		}
-	],
+	"translation": [],
 	"tilesOrder": [
 		"4cfb9d5f-c760-eb11-a607-0003ff1e4706",
 		"f93afb05-9ab2-4deb-bc7d-9342fef19b03",
@@ -252,16 +11,20 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
-		"action": "/cockpit.html?debug=true#run-group&%7B\"id\"%3A\"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb\"%2C\"name\"%3A\"dxp-demo-crm-showcase\"%7D",
-		"text": [
+		"action": "/cockpit.html#run-group&%7B\"id\"%3A\"e7624dc3-e5fd-4ed1-bd37-f80c0f8fc8bb\"%2C\"name\"%3A\"dxp-demo-crm-showcase\"%7D",
+		"text": "{i18n.neptuneDXPDemo>tilegroup.crmShowcase.message}",
+		"formatter": [
 			"==OBJECT STRING==",
-			"<code>dxp-demo-crm-showcase</code><br>",
-			"CRM Showcase section tile group. 4 tiles that displays live tile content in the tile content area. The tile content is created with the Adaptive Designer"
+			"if (typeof i18n_neptuneDXPDemo_tilegroup_crmShowcase_message === \"undefined\" || !i18n_neptuneDXPDemo_tilegroup_crmShowcase_message) i18n_neptuneDXPDemo_tilegroup_crmShowcase_message = \"\";\r",
+			"return `\r",
+			"    <code>dxp-demo-crm-showcase</code><br>\r",
+			"    ${i18n_neptuneDXPDemo_tilegroup_crmShowcase_message}\r",
+			"`;"
 		]
 	},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "Applications",
+	"title": "",
 	"subTitle": "",
 	"menuText": null,
 	"description": null,
@@ -280,7 +43,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.03.13.2314",
+	"ver": "25.11.25.1026",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,

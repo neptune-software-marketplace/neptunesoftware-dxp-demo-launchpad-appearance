@@ -80,11 +80,14 @@
 			"            const context = oEvent.oSource.getBindingContext();\r",
 			"            if (context) {\r",
 			"                const data = context.getObject();\r",
-			"                AppCache.loadCustomLayouts({\r",
+			"                const layouts = {\r",
 			"                    layoutLight: data.layoutLight,\r",
 			"                    layoutDark: data.layoutDark,\r",
-			"                    updateUser: true,\r",
-			"                });\r",
+			"                }\r",
+			"                localStorage.setItem(\"neptunedxp_demo_appearance\", JSON.stringify(layouts));\r",
+			"                \r",
+			"                layouts.updateUser = true;\r",
+			"                AppCache.loadCustomLayouts(layouts);\r",
 			"            }\r",
 			"            popListAppearance.close();\r",
 			"        },\r",
@@ -130,6 +133,12 @@
 			"            mobEnableHelpAppearance.setVisible(visible);\r",
 			"        }\r",
 			"    };\r",
+			"\r",
+			"    const layoutJSON = localStorage.getItem(\"neptunedxp_demo_appearance\");\r",
+			"    if (layoutJSON) {\r",
+			"        const layouts = JSON.parse(layoutJSON);\r",
+			"        AppCache.loadCustomLayouts(layouts);\r",
+			"    }\r",
 			"});",
 			"        };sap.n.Enhancement.BeforeLock = function (authType) {",
 			"            console.log('Trigger Enhancement BeforeLock');",
@@ -497,11 +506,14 @@
 				"            const context = oEvent.oSource.getBindingContext();\r",
 				"            if (context) {\r",
 				"                const data = context.getObject();\r",
-				"                AppCache.loadCustomLayouts({\r",
+				"                const layouts = {\r",
 				"                    layoutLight: data.layoutLight,\r",
 				"                    layoutDark: data.layoutDark,\r",
-				"                    updateUser: true,\r",
-				"                });\r",
+				"                }\r",
+				"                localStorage.setItem(\"neptunedxp_demo_appearance\", JSON.stringify(layouts));\r",
+				"                \r",
+				"                layouts.updateUser = true;\r",
+				"                AppCache.loadCustomLayouts(layouts);\r",
 				"            }\r",
 				"            popListAppearance.close();\r",
 				"        },\r",
@@ -547,6 +559,12 @@
 				"            mobEnableHelpAppearance.setVisible(visible);\r",
 				"        }\r",
 				"    };\r",
+				"\r",
+				"    const layoutJSON = localStorage.getItem(\"neptunedxp_demo_appearance\");\r",
+				"    if (layoutJSON) {\r",
+				"        const layouts = JSON.parse(layoutJSON);\r",
+				"        AppCache.loadCustomLayouts(layouts);\r",
+				"    }\r",
 				"});"
 			],
 			"active": true,
@@ -662,7 +680,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.21.0210",
+	"ver": "25.11.25.1229",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -685,21 +703,28 @@
 			"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 			"name": "dxp-demo-menu-header-image",
 			"title": "",
-			"ver": "25.11.06.0113"
+			"ver": "25.11.25.1031"
 		},
 		{
 			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
 			"name": "dxp-demo-menu-news",
 			"title": "",
-			"ver": "25.03.13.2345"
+			"ver": "25.11.25.1003"
 		},
 		{
 			"id": "15365a99-a77b-418e-b744-3eb51ad48b98",
 			"name": "dxp-demo-menu-analytical",
 			"title": "",
-			"ver": "25.11.10.2321"
+			"ver": "25.11.25.1026"
 		}
 	],
 	"roles": [],
-	"i18n": []
+	"i18n": [
+		{
+			"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
+			"name": "neptuneDXPDemo",
+			"application": null,
+			"ver": "25.11.25.1031"
+		}
+	]
 }

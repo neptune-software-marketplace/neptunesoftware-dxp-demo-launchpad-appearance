@@ -2,168 +2,7 @@
 	"id": "fba5f957-1dec-4fa8-ace6-3dbae1ff6605",
 	"createdAt": "2024-10-13T10:39:26.300Z",
 	"createdBy": "morten.prom@neptune-software.com",
-	"translation": [
-		{
-			"language": "AR",
-			"menuText": "صورة العنوان"
-		},
-		{
-			"language": "BG",
-			"menuText": "ЗАГЛАВНО ИЗОБРАЖЕНИЕ"
-		},
-		{
-			"language": "CS",
-			"menuText": "OBRÁZEK HLAVY"
-		},
-		{
-			"language": "DA",
-			"menuText": "TOP BILLEDER"
-		},
-		{
-			"language": "DE",
-			"menuText": "KOPFBILD"
-		},
-		{
-			"language": "EL",
-			"menuText": "ΕΙΚΟΝΑ ΚΕΦΑΛΗΣ"
-		},
-		{
-			"language": "EN",
-			"menuText": "HEADER IMAGE"
-		},
-		{
-			"language": "ES",
-			"menuText": "IMAGEN DE ENCABEZADO"
-		},
-		{
-			"language": "ET",
-			"menuText": "PÄISE PILT"
-		},
-		{
-			"language": "FI",
-			"menuText": "OTSIKKUVA"
-		},
-		{
-			"language": "FR",
-			"menuText": "IMAGE D'EN-TÊTE"
-		},
-		{
-			"language": "HE",
-			"menuText": "תמונת כותרת"
-		},
-		{
-			"language": "HR",
-			"menuText": "SLIKA ZAGLAVLJA"
-		},
-		{
-			"language": "HU",
-			"menuText": "FEJLŐKÉP"
-		},
-		{
-			"language": "ID",
-			"menuText": "GAMBAR KEPALA"
-		},
-		{
-			"language": "IS",
-			"menuText": "HÖFSMYND"
-		},
-		{
-			"language": "IT",
-			"menuText": "IMMAGINE DI INTESTAZIONE"
-		},
-		{
-			"language": "JA",
-			"menuText": "ヘッダー画像"
-		},
-		{
-			"language": "KO",
-			"menuText": "헤더 이미지"
-		},
-		{
-			"language": "LT",
-			"menuText": "ANTRAŠTĖS VAIZDAS"
-		},
-		{
-			"language": "LV",
-			"menuText": "GALVENES ATTĒLS"
-		},
-		{
-			"language": "MS",
-			"menuText": "IMEJ TAJUK"
-		},
-		{
-			"language": "NL",
-			"menuText": "KOPAFBEELDING"
-		},
-		{
-			"language": "NN",
-			"menuText": "HOVEDBILDE"
-		},
-		{
-			"language": "NO",
-			"menuText": "TOP BILDER"
-		},
-		{
-			"language": "PL",
-			"menuText": "OBRAZEK NAGŁÓWKOWY"
-		},
-		{
-			"language": "PT",
-			"menuText": "IMAGEM DE CABEÇALHO"
-		},
-		{
-			"language": "RO",
-			"menuText": "IMAGINE DE ANTET"
-		},
-		{
-			"language": "RU",
-			"menuText": "ИЗОБРАЖЕНИЕ ЗАГОЛОВКА"
-		},
-		{
-			"language": "SE",
-			"menuText": "OVDALGOVVA"
-		},
-		{
-			"language": "SH",
-			"menuText": "ХЕАДЕР ИМАГЕ"
-		},
-		{
-			"language": "SK",
-			"menuText": "OBRÁZOK HLAVY"
-		},
-		{
-			"language": "SL",
-			"menuText": "GLAVNA SLIKA"
-		},
-		{
-			"language": "SR",
-			"menuText": "ХЕАДЕР ИМАГЕ"
-		},
-		{
-			"language": "SV",
-			"menuText": "HUVUDBILD"
-		},
-		{
-			"language": "TH",
-			"menuText": "ภาพส่วนหัว"
-		},
-		{
-			"language": "TR",
-			"menuText": "BAŞLIK GÖRÜNTÜSÜ"
-		},
-		{
-			"language": "UK",
-			"menuText": "ЗОБРАЖЕННЯ ЗАГОЛОВКУ"
-		},
-		{
-			"language": "ZF",
-			"menuText": "標題圖片"
-		},
-		{
-			"language": "ZH",
-			"menuText": "标题图片"
-		}
-	],
+	"translation": [],
 	"tilesOrder": [],
 	"tilegroupsOrder": [
 		"1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
@@ -177,7 +16,7 @@
 	"sidebarGroupOrder": [],
 	"title": "",
 	"subTitle": "",
-	"menuText": "HEADER IMAGE",
+	"menuText": "{i18n.neptuneDXPDemo>tilegroup.menuHeaderImage.menuText}",
 	"description": null,
 	"enableFullScreen": false,
 	"hideHeader": true,
@@ -194,7 +33,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.06.0113",
+	"ver": "25.11.25.1031",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -276,23 +115,30 @@
 		{
 			"id": "269e1e38-3dae-4f37-86ce-ed374d1bba72",
 			"name": "dxp-demo-header-image-storm",
-			"title": "One Image - Title Right Alligened",
-			"ver": "25.11.06.0115"
+			"title": "{i18n.neptuneDXPDemo>tilegroup.headerImageStorm.title}",
+			"ver": "25.11.25.1142"
 		},
 		{
 			"id": "1855dc6f-7ef0-4dce-8e28-cc83b95cfd82",
 			"name": "dxp-demo-header-image-hurricanes-grid",
-			"title": "Different Images for Light & Dark Mode",
-			"ver": "25.11.06.0114"
+			"title": "{i18n.neptuneDXPDemo>tilegroup.headerImageHurricanesGrid.title}",
+			"ver": "25.11.25.1141"
 		},
 		{
 			"id": "10006a73-e631-4910-846b-110bef082032",
 			"name": "dxp-demo-header-image-waves",
-			"title": "One Image - Title Centered",
-			"ver": "25.11.06.0115"
+			"title": "{i18n.neptuneDXPDemo>tilegroup.headerImageWaves.title}",
+			"ver": "25.11.25.1142"
 		}
 	],
 	"navbarGroups": [],
 	"sidebarGroups": [],
-	"i18n": []
+	"i18n": [
+		{
+			"id": "2360b075-a065-49e3-9125-22d5a48b7ea1",
+			"name": "neptuneDXPDemo",
+			"application": null,
+			"ver": "25.11.25.1031"
+		}
+	]
 }
